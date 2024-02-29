@@ -2,6 +2,7 @@ import React from "react";
 import './Letters.css';
 import { textRu } from "../constants/textRu";
 import { alphabeth } from "../../words/alphabet";
+import Letter from "../Letter/Letter";
 
 function Letters(props) {
   return (
@@ -11,11 +12,10 @@ function Letters(props) {
       </h2>
       <div className="letters__list">
         {
-          alphabeth.map(letter => <div
-            key={letter}
-            className="app-text letter__unit">
-            {letter}
-          </div>)
+          alphabeth.map(letter => (
+            <Letter key={letter} name={letter} />
+          )
+          )
         }
       </div>
     </div>
