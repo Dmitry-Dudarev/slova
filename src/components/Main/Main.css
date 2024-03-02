@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 4vh;
+}
+
+.main__outlet {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+}
