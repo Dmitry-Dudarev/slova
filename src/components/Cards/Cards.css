@@ -1,0 +1,13 @@
+.cards__configurator_hidden {
+  display: none;
+}
+
+.cards__container_hidden {
+  display: none;
+}
+
+.configurator__sizeselector {
+  color: black;
+  width: 10vw;
+  margin: 1vw;
+}

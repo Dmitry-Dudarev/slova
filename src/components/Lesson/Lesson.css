@@ -1,0 +1,20 @@
+.lesson {
+  width: 100%;
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.lesson__arrow {
+  width: 8vw;
+}
+
+.lesson__arrow-left {
+  transform: rotate(0.5turn);
+}
+
+.lesson__translate_hidden{
+  visibility: hidden;
+}

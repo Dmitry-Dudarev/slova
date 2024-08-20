@@ -1,14 +1,1206 @@
 [
- {
-  "word": "abandon",
-  "translate": "оставить, забросить"
- },
- {
-  "word": "abate",
-  "translate": "уменьшаться, ослабевать"
- },
- {
-  "word": "abduct",
-  "translate": "похищать"
- }
+    {
+        "termin":"abate",
+        "translate":"уменьшаться, ослабевать"
+    },
+    {
+        "termin":"abduct",
+        "translate":"похищать"
+    },
+    {
+        "termin":"abide",
+        "translate":"смириться, выносить, придерживаться"
+    },
+    {
+        "termin":"able",
+        "translate":"способный, могущий"
+    },
+    {
+        "termin":"abnormal",
+        "translate":"ненормальный, аномальный"
+    },
+    {
+        "termin":"aboard",
+        "translate":"на борту"
+    },
+    {
+        "termin":"abolish",
+        "translate":"упразднять"
+    },
+    {
+        "termin":"abort",
+        "translate":"прерывать"
+    },
+    {
+        "termin":"abound",
+        "translate":"изобиловать"
+    },
+    {
+        "termin":"about",
+        "translate":"примерно"
+    },
+    {
+        "termin":"abroad",
+        "translate":"за границу"
+    },
+    {
+        "termin":"abrupt",
+        "translate":"крутой, резкий"
+    },
+    {
+        "termin":"absent",
+        "translate":"отсутствующий"
+    },
+    {
+        "termin":"absorb",
+        "translate":"впитывать, поглощать"
+    },
+    {
+        "termin":"abundant",
+        "translate":"обильный"
+    },
+    {
+        "termin":"abuse",
+        "translate":"оскорблять, бранить, брань"
+    },
+    {
+        "termin":"abuse",
+        "translate":"злоупотреблять"
+    },
+    {
+        "termin":"abuse",
+        "translate":"насилие, домогательство"
+    },
+    {
+        "termin":"accelerate",
+        "translate":"ускорять"
+    },
+    {
+        "termin":"accept",
+        "translate":"принять"
+    },
+    {
+        "termin":"access",
+        "translate":"доступ"
+    },
+    {
+        "termin":"accessory",
+        "translate":"принадлежность, аксессуар"
+    },
+    {
+        "termin":"accident",
+        "translate":"случайность"
+    },
+    {
+        "termin":"accident",
+        "translate":"происшествие, напр ДТП"
+    },
+    {
+        "termin":"acclaim",
+        "translate":"приветствовать, аплодировать"
+    },
+    {
+        "termin":"accommodate",
+        "translate":"размещать, вмещать"
+    },
+    {
+        "termin":"accompany",
+        "translate":"сопровождать"
+    },
+    {
+        "termin":"accomplish",
+        "translate":"выполнить, завершить"
+    },
+    {
+        "termin":"accord",
+        "translate":"согласие"
+    },
+    {
+        "termin":"according to",
+        "translate":"в соответствии"
+    },
+    {
+        "termin":"account",
+        "translate":"счёт (в банке)"
+    },
+    {
+        "termin":"account",
+        "translate":"отчёт"
+    },
+    {
+        "termin":"account for",
+        "translate":"объяснить (произошедшее)"
+    },
+    {
+        "termin":"accurate",
+        "translate":"точный"
+    },
+    {
+        "termin":"accuse",
+        "translate":"обвинять"
+    },
+    {
+        "termin":"accustom",
+        "translate":"приучить"
+    },
+    {
+        "termin":"ache",
+        "translate":"боль, болеть"
+    },
+    {
+        "termin":"achieve",
+        "translate":"достигать"
+    },
+    {
+        "termin":"acid",
+        "translate":"кислота"
+    },
+    {
+        "termin":"acknowledge",
+        "translate":"признавать, подтверждать"
+    },
+    {
+        "termin":"acquaint",
+        "translate":"знакомить"
+    },
+    {
+        "termin":"acquire",
+        "translate":"обретать"
+    },
+    {
+        "termin":"acquit",
+        "translate":"оправдать (в суде)"
+    },
+    {
+        "termin":"across",
+        "translate":"за, через"
+    },
+    {
+        "termin":"act",
+        "translate":"действовать"
+    },
+    {
+        "termin":"act on",
+        "translate":"действовать в соответствии"
+    },
+    {
+        "termin":"act up",
+        "translate":"не работать как надо"
+    },
+    {
+        "termin":"acute",
+        "translate":"острый"
+    },
+    {
+        "termin":"adamant",
+        "translate":"непреклонный"
+    },
+    {
+        "termin":"add to",
+        "translate":"увеличивать"
+    },
+    {
+        "termin":"add up",
+        "translate":"сходиться (об информации)"
+    },
+    {
+        "termin":"addict",
+        "translate":"наркоман, увлекаться"
+    },
+    {
+        "termin":"addition",
+        "translate":"добавление, сложение"
+    },
+    {
+        "termin":"adhere",
+        "translate":"придерживаться, прилипать"
+    },
+    {
+        "termin":"adjacent",
+        "translate":"смежный, прилегающий"
+    },
+    {
+        "termin":"adjective",
+        "translate":"прилагательное"
+    },
+    {
+        "termin":"adjust",
+        "translate":"настраивать, поправлять"
+    },
+    {
+        "termin":"admire",
+        "translate":"восхищаться"
+    },
+    {
+        "termin":"admit",
+        "translate":"признавать, допускать"
+    },
+    {
+        "termin":"adolescent",
+        "translate":"подросток, подростковый"
+    },
+    {
+        "termin":"adopt",
+        "translate":"принимать, перенимать"
+    },
+    {
+        "termin":"adopt",
+        "translate":"усыновить или взять (животное)"
+    },
+    {
+        "termin":"adore",
+        "translate":"обожать"
+    },
+    {
+        "termin":"adorn",
+        "translate":"украшать"
+    },
+    {
+        "termin":"adult",
+        "translate":"взрослый"
+    },
+    {
+        "termin":"adultery",
+        "translate":"прелюбодеяние, неверность"
+    },
+    {
+        "termin":"advance",
+        "translate":"продвигаться, продвижение"
+    },
+    {
+        "termin":"advantage",
+        "translate":"преимущество"
+    },
+    {
+        "termin":"adventure",
+        "translate":"приключение"
+    },
+    {
+        "termin":"adverb",
+        "translate":"наречие"
+    },
+    {
+        "termin":"adversary",
+        "translate":"противник, соперник"
+    },
+    {
+        "termin":"adverse",
+        "translate":"неблагоприятный, враждебный"
+    },
+    {
+        "termin":"advertise",
+        "translate":"рекламировать"
+    },
+    {
+        "termin":"advice",
+        "translate":"совет (неисчисл!)"
+    },
+    {
+        "termin":"advise",
+        "translate":"советовать"
+    },
+    {
+        "termin":"advocate",
+        "translate":"защищать, отстаивать"
+    },
+    {
+        "termin":"aerial",
+        "translate":"воздушный"
+    },
+    {
+        "termin":"aerial",
+        "translate":"антенна"
+    },
+    {
+        "termin":"affair",
+        "translate":"дело"
+    },
+    {
+        "termin":"affair",
+        "translate":"роман, любовная история"
+    },
+    {
+        "termin":"affect",
+        "translate":"воздействовать, влиять"
+    },
+    {
+        "termin":"affection",
+        "translate":"привязанность, влечение"
+    },
+    {
+        "termin":"affiliate",
+        "translate":"филиал, отделение, мл. партнёр"
+    },
+    {
+        "termin":"affirm",
+        "translate":"утверждать, подтверждать"
+    },
+    {
+        "termin":"afflict",
+        "translate":"поражать, вредить"
+    },
+    {
+        "termin":"affluent",
+        "translate":"обеспеченный, состоятельный"
+    },
+    {
+        "termin":"afford",
+        "translate":"позволить себе"
+    },
+    {
+        "termin":"afraid",
+        "translate":"напуганный"
+    },
+    {
+        "termin":"after all",
+        "translate":"всё-таки, в конце концов"
+    },
+    {
+        "termin":"aftermath",
+        "translate":"последствие, результат"
+    },
+    {
+        "termin":"age",
+        "translate":"век, эпоха"
+    },
+    {
+        "termin":"age",
+        "translate":"возраст"
+    },
+    {
+        "termin":"agenda",
+        "translate":"повестка дня"
+    },
+    {
+        "termin":"aggravate",
+        "translate":"обострять"
+    },
+    {
+        "termin":"aggregate",
+        "translate":"совокупный"
+    },
+    {
+        "termin":"agile",
+        "translate":"проворный, гибкий"
+    },
+    {
+        "termin":"agitate",
+        "translate":"волновать"
+    },
+    {
+        "termin":"agree",
+        "translate":"соглашаться"
+    },
+    {
+        "termin":"agreement",
+        "translate":"соглашение, договор"
+    },
+    {
+        "termin":"agriculture",
+        "translate":"сельское хозяйство"
+    },
+    {
+        "termin":"ahead",
+        "translate":"вперёд, впереди"
+    },
+    {
+        "termin":"aid",
+        "translate":"помощь, помогать"
+    },
+    {
+        "termin":"ailment",
+        "translate":"недомогание, болезнь"
+    },
+    {
+        "termin":"aim",
+        "translate":"цель"
+    },
+    {
+        "termin":"air",
+        "translate":"вид, впечатление"
+    },
+    {
+        "termin":"airborne",
+        "translate":"находящийся в воздухе"
+    },
+    {
+        "termin":"aircraft",
+        "translate":"самолёт, авиация"
+    },
+    {
+        "termin":"airline",
+        "translate":"авиалиния"
+    },
+    {
+        "termin":"aisle",
+        "translate":"проход"
+    },
+    {
+        "termin":"akin",
+        "translate":"похожий"
+    },
+    {
+        "termin":"alarm",
+        "translate":"тревога, сигнализация"
+    },
+    {
+        "termin":"alas",
+        "translate":"увы"
+    },
+    {
+        "termin":"albeit",
+        "translate":"хотя"
+    },
+    {
+        "termin":"alert",
+        "translate":"тревога, бдительный"
+    },
+    {
+        "termin":"alien",
+        "translate":"чужак, пришелец, иммигрант"
+    },
+    {
+        "termin":"alienate",
+        "translate":"отчуждать, отдалять, отвергать"
+    },
+    {
+        "termin":"align",
+        "translate":"выравнивать, выстраивать"
+    },
+    {
+        "termin":"alike",
+        "translate":"подобно"
+    },
+    {
+        "termin":"alive",
+        "translate":"живой"
+    },
+    {
+        "termin":"all along",
+        "translate":"всё время"
+    },
+    {
+        "termin":"allege",
+        "translate":"утверждать, приписывать"
+    },
+    {
+        "termin":"allegiance",
+        "translate":"верность"
+    },
+    {
+        "termin":"allocate",
+        "translate":"распределять (ресурсы)"
+    },
+    {
+        "termin":"allot",
+        "translate":"выделять, отводить"
+    },
+    {
+        "termin":"allow",
+        "translate":"разрешать"
+    },
+    {
+        "termin":"allow for",
+        "translate":"выделять, рассчитывать"
+    },
+    {
+        "termin":"allowance",
+        "translate":"выплата, пособие"
+    },
+    {
+        "termin":"allude",
+        "translate":"намекать, указывать"
+    },
+    {
+        "termin":"allure",
+        "translate":"очарование, очаровывать"
+    },
+    {
+        "termin":"ally",
+        "translate":"союзник"
+    },
+    {
+        "termin":"almost",
+        "translate":"почти"
+    },
+    {
+        "termin":"alone",
+        "translate":"в одиночестве"
+    },
+    {
+        "termin":"alongside",
+        "translate":"рядом"
+    },
+    {
+        "termin":"aloud",
+        "translate":"вслух"
+    },
+    {
+        "termin":"alter",
+        "translate":"изменять"
+    },
+    {
+        "termin":"alternate",
+        "translate":"чередовать, чередующийся"
+    },
+    {
+        "termin":"although",
+        "translate":"хотя и"
+    },
+    {
+        "termin":"altitude",
+        "translate":"высота"
+    },
+    {
+        "termin":"altogether",
+        "translate":"в целом"
+    },
+    {
+        "termin":"amateur",
+        "translate":"любитель, любительский"
+    },
+    {
+        "termin":"amaze",
+        "translate":"поражать, изумлять"
+    },
+    {
+        "termin":"ambassador",
+        "translate":"посол"
+    },
+    {
+        "termin":"amber",
+        "translate":"янтарь"
+    },
+    {
+        "termin":"ambiguous",
+        "translate":"двусмысленный, неоднозначный"
+    },
+    {
+        "termin":"ambulance",
+        "translate":"скорая помощь"
+    },
+    {
+        "termin":"ambush",
+        "translate":"засада"
+    },
+    {
+        "termin":"amend",
+        "translate":"исправить, улучшить"
+    },
+    {
+        "termin":"amenity",
+        "translate":"удобства"
+    },
+    {
+        "termin":"amid (amidst)",
+        "translate":"среди"
+    },
+    {
+        "termin":"ammunition",
+        "translate":"боеприпасы"
+    },
+    {
+        "termin":"amount",
+        "translate":"количество (неисчисл.)"
+    },
+    {
+        "termin":"ample",
+        "translate":"обильный, широкий"
+    },
+    {
+        "termin":"amplify",
+        "translate":"усиливать"
+    },
+    {
+        "termin":"amuse",
+        "translate":"развлечь, порадовать"
+    },
+    {
+        "termin":"ancestor",
+        "translate":"предок"
+    },
+    {
+        "termin":"anchor",
+        "translate":"якорь, закреплять"
+    },
+    {
+        "termin":"ancient",
+        "translate":"древний"
+    },
+    {
+        "termin":"anew",
+        "translate":"заново"
+    },
+    {
+        "termin":"anger",
+        "translate":"гнев"
+    },
+    {
+        "termin":"angle",
+        "translate":"угол, угловой"
+    },
+    {
+        "termin":"angry",
+        "translate":"злой"
+    },
+    {
+        "termin":"anguish",
+        "translate":"мука, страдание"
+    },
+    {
+        "termin":"animate",
+        "translate":"живой, одушевлённый, оживлять"
+    },
+    {
+        "termin":"ankle",
+        "translate":"лодыжка, щиколотка"
+    },
+    {
+        "termin":"anniversary",
+        "translate":"годовщина"
+    },
+    {
+        "termin":"announce",
+        "translate":"объявлять"
+    },
+    {
+        "termin":"annoy",
+        "translate":"раздражать, надоедать"
+    },
+    {
+        "termin":"annual",
+        "translate":"ежегодный"
+    },
+    {
+        "termin":"ant",
+        "translate":"муравей"
+    },
+    {
+        "termin":"anthem",
+        "translate":"гимн"
+    },
+    {
+        "termin":"anticipate",
+        "translate":"ожидать"
+    },
+    {
+        "termin":"antique",
+        "translate":"старинный"
+    },
+    {
+        "termin":"anxiety",
+        "translate":"беспокойство, тревога"
+    },
+    {
+        "termin":"anxious",
+        "translate":"озабоченный, встревоженный"
+    },
+    {
+        "termin":"anymore",
+        "translate":"больше не"
+    },
+    {
+        "termin":"anytime",
+        "translate":"в любой момент"
+    },
+    {
+        "termin":"anyway",
+        "translate":"в любом случае"
+    },
+    {
+        "termin":"anywhere",
+        "translate":"где угодно, куда угодно"
+    },
+    {
+        "termin":"apart",
+        "translate":"отдельно, врозь"
+    },
+    {
+        "termin":"apart from",
+        "translate":"помимо"
+    },
+    {
+        "termin":"apartment",
+        "translate":"квартира"
+    },
+    {
+        "termin":"ape",
+        "translate":"обезьяна (крупная)"
+    },
+    {
+        "termin":"apiece",
+        "translate":"каждый, за штуку"
+    },
+    {
+        "termin":"apology",
+        "translate":"извинение(я)"
+    },
+    {
+        "termin":"appal",
+        "translate":"потрясать, ужасать"
+    },
+    {
+        "termin":"apparent",
+        "translate":"явный, видимый"
+    },
+    {
+        "termin":"appeal",
+        "translate":"обращаться, взывать"
+    },
+    {
+        "termin":"appear",
+        "translate":"появиться"
+    },
+    {
+        "termin":"appear",
+        "translate":"казаться"
+    },
+    {
+        "termin":"applause",
+        "translate":"аплодисменты"
+    },
+    {
+        "termin":"appliance",
+        "translate":"прибор, приспособление"
+    },
+    {
+        "termin":"apply",
+        "translate":"применять, применяться"
+    },
+    {
+        "termin":"apply",
+        "translate":"обращаться (с заявлением)"
+    },
+    {
+        "termin":"appoint",
+        "translate":"назначать, утверждать"
+    },
+    {
+        "termin":"appraise",
+        "translate":"оценивать"
+    },
+    {
+        "termin":"appreciate",
+        "translate":"ценить"
+    },
+    {
+        "termin":"apprentice",
+        "translate":"ученик, стажёр"
+    },
+    {
+        "termin":"approach",
+        "translate":"приближаться, подходить"
+    },
+    {
+        "termin":"appropriate",
+        "translate":"присвоить"
+    },
+    {
+        "termin":"appropriate",
+        "translate":"подходящий"
+    },
+    {
+        "termin":"approve",
+        "translate":"утвердить, одобрить (офиц.)"
+    },
+    {
+        "termin":"approve of",
+        "translate":"одобрять (субъективно)"
+    },
+    {
+        "termin":"approximate",
+        "translate":"приблизительный"
+    },
+    {
+        "termin":"apron",
+        "translate":"фартук, передник"
+    },
+    {
+        "termin":"apt",
+        "translate":"склонный, способный"
+    },
+    {
+        "termin":"aquatic",
+        "translate":"водный"
+    },
+    {
+        "termin":"arbitrary",
+        "translate":"произвольный"
+    },
+    {
+        "termin":"arc",
+        "translate":"дуга"
+    },
+    {
+        "termin":"arch",
+        "translate":"арка, изгибать"
+    },
+    {
+        "termin":"archive",
+        "translate":"архив"
+    },
+    {
+        "termin":"area",
+        "translate":"область, участок"
+    },
+    {
+        "termin":"argue",
+        "translate":"спорить, доказывать"
+    },
+    {
+        "termin":"arise (arose, arisen)",
+        "translate":"возникать, происходить"
+    },
+    {
+        "termin":"arm",
+        "translate":"рука"
+    },
+    {
+        "termin":"armor (armour)",
+        "translate":"броня, доспехи"
+    },
+    {
+        "termin":"arms",
+        "translate":"оружие"
+    },
+    {
+        "termin":"arouse",
+        "translate":"вызывать, пробуждать"
+    },
+    {
+        "termin":"arrange",
+        "translate":"организовать, уладить"
+    },
+    {
+        "termin":"array",
+        "translate":"ряд, порядок, строй"
+    },
+    {
+        "termin":"arrest",
+        "translate":"задерживать, тормозить"
+    },
+    {
+        "termin":"arrive",
+        "translate":"прибывать"
+    },
+    {
+        "termin":"arrogant",
+        "translate":"высокомерный"
+    },
+    {
+        "termin":"arrow",
+        "translate":"стрела, стрелка"
+    },
+    {
+        "termin":"arson",
+        "translate":"поджог"
+    },
+    {
+        "termin":"article",
+        "translate":"статья"
+    },
+    {
+        "termin":"article",
+        "translate":"вещь, изделие"
+    },
+    {
+        "termin":"artificial",
+        "translate":"искусственный"
+    },
+    {
+        "termin":"as though",
+        "translate":"как будто"
+    },
+    {
+        "termin":"as well",
+        "translate":"также"
+    },
+    {
+        "termin":"as well as",
+        "translate":"так же как и"
+    },
+    {
+        "termin":"ascend",
+        "translate":"восходить"
+    },
+    {
+        "termin":"ascertain",
+        "translate":"выяснить, установить"
+    },
+    {
+        "termin":"ash",
+        "translate":"пепел, зола"
+    },
+    {
+        "termin":"ashamed",
+        "translate":"пристыженный"
+    },
+    {
+        "termin":"ashtray",
+        "translate":"пепельница"
+    },
+    {
+        "termin":"aside",
+        "translate":"в стороне, в сторону"
+    },
+    {
+        "termin":"aside from",
+        "translate":"кроме"
+    },
+    {
+        "termin":"ask around",
+        "translate":"поспрашивать"
+    },
+    {
+        "termin":"ask out",
+        "translate":"пригласить сходить"
+    },
+    {
+        "termin":"asleep",
+        "translate":"спящий"
+    },
+    {
+        "termin":"aspire",
+        "translate":"стремиться"
+    },
+    {
+        "termin":"ass",
+        "translate":"жопа"
+    },
+    {
+        "termin":"assassin",
+        "translate":"убийца"
+    },
+    {
+        "termin":"assault",
+        "translate":"нападение, нападать"
+    },
+    {
+        "termin":"assemble",
+        "translate":"собирать"
+    },
+    {
+        "termin":"assert",
+        "translate":"утверждать, отстаивать"
+    },
+    {
+        "termin":"assess",
+        "translate":"оценить"
+    },
+    {
+        "termin":"asset",
+        "translate":"актив, имущество"
+    },
+    {
+        "termin":"assign",
+        "translate":"назначать, присваивать"
+    },
+    {
+        "termin":"assimilate",
+        "translate":"усваивать"
+    },
+    {
+        "termin":"assist",
+        "translate":"помогать"
+    },
+    {
+        "termin":"associate",
+        "translate":"общаться, связываться"
+    },
+    {
+        "termin":"assume",
+        "translate":"принимать на себя"
+    },
+    {
+        "termin":"assume",
+        "translate":"предпогалать"
+    },
+    {
+        "termin":"assure",
+        "translate":"уверять"
+    },
+    {
+        "termin":"astonish",
+        "translate":"изумлять"
+    },
+    {
+        "termin":"astound",
+        "translate":"изумлять"
+    },
+    {
+        "termin":"asylum",
+        "translate":"убежище"
+    },
+    {
+        "termin":"at all",
+        "translate":"совсем"
+    },
+    {
+        "termin":"at first",
+        "translate":"сначала"
+    },
+    {
+        "termin":"at last",
+        "translate":"наконец"
+    },
+    {
+        "termin":"at least",
+        "translate":"по крайней мере"
+    },
+    {
+        "termin":"at odds with",
+        "translate":"в противоречии, в конфликте"
+    },
+    {
+        "termin":"at once",
+        "translate":"сразу"
+    },
+    {
+        "termin":"at the moment",
+        "translate":"сейчас"
+    },
+    {
+        "termin":"atop",
+        "translate":"наверху"
+    },
+    {
+        "termin":"atrocity",
+        "translate":"зверство, злодеяние"
+    },
+    {
+        "termin":"attach",
+        "translate":"прикрепить, привязать"
+    },
+    {
+        "termin":"attack",
+        "translate":"нападать, нападение"
+    },
+    {
+        "termin":"attain",
+        "translate":"достигать"
+    },
+    {
+        "termin":"attempt",
+        "translate":"попытка, пытаться"
+    },
+    {
+        "termin":"attend",
+        "translate":"уделить внимание, посетить"
+    },
+    {
+        "termin":"attic",
+        "translate":"чердак"
+    },
+    {
+        "termin":"attitude",
+        "translate":"отношение"
+    },
+    {
+        "termin":"attorney",
+        "translate":"адвокат, прокурор, поверенный"
+    },
+    {
+        "termin":"attract",
+        "translate":"привлекать, притягивать"
+    },
+    {
+        "termin":"attribute",
+        "translate":"приписывать, относить"
+    },
+    {
+        "termin":"audible",
+        "translate":"слышимый"
+    },
+    {
+        "termin":"audience",
+        "translate":"аудитория (люди)"
+    },
+    {
+        "termin":"augment",
+        "translate":"увеличить, нарастить"
+    },
+    {
+        "termin":"aunt",
+        "translate":"тётя"
+    },
+    {
+        "termin":"authorities",
+        "translate":"органы власти"
+    },
+    {
+        "termin":"authority",
+        "translate":"власть, авторитет"
+    },
+    {
+        "termin":"authorize",
+        "translate":"дать полномочия, поручение"
+    },
+    {
+        "termin":"available",
+        "translate":"доступный, в наличии"
+    },
+    {
+        "termin":"avalanche",
+        "translate":"лавина"
+    },
+    {
+        "termin":"average",
+        "translate":"средний"
+    },
+    {
+        "termin":"avert",
+        "translate":"предотвращать, отводить"
+    },
+    {
+        "termin":"avid",
+        "translate":"заядлый, рьяный, алчный"
+    },
+    {
+        "termin":"avoid",
+        "translate":"избегать"
+    },
+    {
+        "termin":"await",
+        "translate":"ожидать"
+    },
+    {
+        "termin":"awake",
+        "translate":"проснуться, бодрствующий"
+    },
+    {
+        "termin":"award",
+        "translate":"награда, премия, присуждать"
+    },
+    {
+        "termin":"aware",
+        "translate":"осведомлённый"
+    },
+    {
+        "termin":"awe",
+        "translate":"трепет, благоговение"
+    },
+    {
+        "termin":"awesome",
+        "translate":"здорово, классно"
+    },
+    {
+        "termin":"awful",
+        "translate":"ужасный"
+    },
+    {
+        "termin":"awhile",
+        "translate":"какое-то время"
+    },
+    {
+        "termin":"awkward",
+        "translate":"неуклюжий"
+    },
+    {
+        "termin":"axe (ax)",
+        "translate":"топор"
+    },
+    {
+        "termin":"axis",
+        "translate":"ось "
+    }
 ]
