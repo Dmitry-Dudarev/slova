@@ -1,6 +1,5 @@
 import React from "react";
 import './Cards.css';
-import letterContext from "../../Contexts/letterContext";
 import { useLocation } from "react-router-dom";
 // импортируем массив с возможными размерами урока
 import { lessonSizes } from "../../words/lessonSizes";

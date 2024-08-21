@@ -6,7 +6,6 @@ import Main from '../Main/Main';
 import MainDefault from '../MainDefault/MainDefault';
 import Cards from '../Cards/Cards';
 import letterContext from '../../Contexts/letterContext';
-import Card from '../Card/Card';
 import Lesson from '../Lesson/Lesson';
 
 
@@ -16,9 +15,9 @@ function App() {
   const [currentLesson, setCurrentLesson] = React.useState([]);
 
 
-  const updateCurrentLetter = (newCurrentLetter) => {
-    setCurrentLetter(newCurrentLetter)
-  };
+  // const updateCurrentLetter = (newCurrentLetter) => {
+  //   setCurrentLetter(newCurrentLetter)
+  // };
 
   const updateCurrentLesson = (newCurrentLesson) => {
     setCurrentLesson(newCurrentLesson)
