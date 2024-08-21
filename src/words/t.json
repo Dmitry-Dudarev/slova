@@ -1,0 +1,1640 @@
+[
+  {
+    "number": 4438,
+    "termin": "table ",
+    "transcription": "[ˈteɪbl] ",
+    "translate": "таблица "
+  },
+  {
+    "number": 4439,
+    "termin": "tablet ",
+    "transcription": "[ˈtæblɪt] ",
+    "translate": "плитка, пластина "
+  },
+  {
+    "number": 4440,
+    "termin": "tack ",
+    "transcription": "[tæk] ",
+    "translate": "канцелярская кнопка, гвоздик "
+  },
+  {
+    "number": 4441,
+    "termin": "tack ",
+    "transcription": "[tæk] ",
+    "translate": "курс, линия поведения "
+  },
+  {
+    "number": 4442,
+    "termin": "tackle ",
+    "transcription": "[ˈtækl] ",
+    "translate": "принадлежности, снаряжение "
+  },
+  {
+    "number": 4443,
+    "termin": "tackle ",
+    "transcription": "[ˈtækl] ",
+    "translate": "взяться за что-л. "
+  },
+  {
+    "number": 4444,
+    "termin": "tag ",
+    "transcription": "[tæg] ",
+    "translate": "этикетка, ярлык "
+  },
+  {
+    "number": 4445,
+    "termin": "tail ",
+    "transcription": "[teɪl] ",
+    "translate": "хвост "
+  },
+  {
+    "number": 4446,
+    "termin": "tailor ",
+    "transcription": "[ˈteɪlə] ",
+    "translate": "портной, кроить "
+  },
+  {
+    "number": 4447,
+    "termin": "taint ",
+    "transcription": "[teɪnt] ",
+    "translate": "загрязнить, испортить "
+  },
+  {
+    "number": 4448,
+    "termin": "take ",
+    "transcription": "[teɪk] ",
+    "translate": "воспринимать "
+  },
+  {
+    "number": 4449,
+    "termin": "take a look ",
+    "transcription": "[teɪkəlʊk] ",
+    "translate": "взглянуть "
+  },
+  {
+    "number": 4450,
+    "termin": "take a walk ",
+    "transcription": "[teɪkəwɔːk] ",
+    "translate": "прогуляться "
+  },
+  {
+    "number": 4451,
+    "termin": "take aback ",
+    "transcription": "[teɪkəˈbæk] ",
+    "translate": "ошеломить "
+  },
+  {
+    "number": 4452,
+    "termin": "take advantage of ",
+    "transcription": "[teɪkədˈvɑːntɪʤɒv] ",
+    "translate": "воспользоваться "
+  },
+  {
+    "number": 4453,
+    "termin": "take after ",
+    "transcription": "[teɪkˈɑːftə] ",
+    "translate": "быть в (родителей) "
+  },
+  {
+    "number": 4454,
+    "termin": "take apart ",
+    "transcription": "[teɪkəˈpɑːt] ",
+    "translate": "разбирать "
+  },
+  {
+    "number": 4455,
+    "termin": "take away ",
+    "transcription": "[teɪkəˈweɪ] ",
+    "translate": "отнять "
+  },
+  {
+    "number": 4456,
+    "termin": "take care ",
+    "transcription": "[teɪkkeə] ",
+    "translate": "позаботиться, заняться "
+  },
+  {
+    "number": 4457,
+    "termin": "take down ",
+    "transcription": "[teɪkdaʊn] ",
+    "translate": "записать "
+  },
+  {
+    "number": 4458,
+    "termin": "take in ",
+    "transcription": "[teɪkɪn] ",
+    "translate": "понять, вникнуть "
+  },
+  {
+    "number": 4459,
+    "termin": "take into account ",
+    "transcription": "[teɪkˈɪntuːəˈkaʊnt] ",
+    "translate": "учесть "
+  },
+  {
+    "number": 4460,
+    "termin": "take off ",
+    "transcription": "[teɪkɒf] ",
+    "translate": "снять "
+  },
+  {
+    "number": 4461,
+    "termin": "take off ",
+    "transcription": "[teɪkɒf] ",
+    "translate": "взлететь "
+  },
+  {
+    "number": 4462,
+    "termin": "take on ",
+    "transcription": "[teɪkɒn] ",
+    "translate": "соревноваться, столкнуться "
+  },
+  {
+    "number": 4463,
+    "termin": "take on ",
+    "transcription": "[teɪkɒn] ",
+    "translate": "набрать (напр. рабочих) "
+  },
+  {
+    "number": 4464,
+    "termin": "take over ",
+    "transcription": "[teɪkˈəʊvə] ",
+    "translate": "принять обязанности "
+  },
+  {
+    "number": 4465,
+    "termin": "take part ",
+    "transcription": "[teɪkpɑːt] ",
+    "translate": "принимать участие "
+  },
+  {
+    "number": 4466,
+    "termin": "take place ",
+    "transcription": "[teɪkpleɪs] ",
+    "translate": "происходить, бывать "
+  },
+  {
+    "number": 4467,
+    "termin": "take up ",
+    "transcription": "[teɪkʌp] ",
+    "translate": "заняться чем-либо "
+  },
+  {
+    "number": 4468,
+    "termin": "talk into ",
+    "transcription": "[tɔːkˈɪntuː] ",
+    "translate": "уговорить "
+  },
+  {
+    "number": 4469,
+    "termin": "talk smb out ",
+    "transcription": "[tɔːksmbaʊt] ",
+    "translate": "отговорить "
+  },
+  {
+    "number": 4470,
+    "termin": "tall ",
+    "transcription": "[tɔːl] ",
+    "translate": "высокий (чел) "
+  },
+  {
+    "number": 4471,
+    "termin": "tally ",
+    "transcription": "[ˈtæli] ",
+    "translate": "подсчитывать, подсчёт, итог "
+  },
+  {
+    "number": 4472,
+    "termin": "tame ",
+    "transcription": "[teɪm] ",
+    "translate": "ручной, приручать "
+  },
+  {
+    "number": 4473,
+    "termin": "tan ",
+    "transcription": "[tæn] ",
+    "translate": "загар, загорать "
+  },
+  {
+    "number": 4474,
+    "termin": "tangible ",
+    "transcription": "[ˈtænʤəbl] ",
+    "translate": "осязаемый "
+  },
+  {
+    "number": 4475,
+    "termin": "tangle ",
+    "transcription": "[ˈtæŋgl] ",
+    "translate": "запутывать "
+  },
+  {
+    "number": 4476,
+    "termin": "tank ",
+    "transcription": "[tæŋk] ",
+    "translate": "бак "
+  },
+  {
+    "number": 4477,
+    "termin": "tap ",
+    "transcription": "[tæp] ",
+    "translate": "стучать "
+  },
+  {
+    "number": 4478,
+    "termin": "tap ",
+    "transcription": "[tæp] ",
+    "translate": "кран "
+  },
+  {
+    "number": 4479,
+    "termin": "tape ",
+    "transcription": "[teɪp] ",
+    "translate": "лента, записывать на ленту "
+  },
+  {
+    "number": 4480,
+    "termin": "tar ",
+    "transcription": "[tɑː] ",
+    "translate": "смола "
+  },
+  {
+    "number": 4481,
+    "termin": "target ",
+    "transcription": "[ˈtɑːgɪt] ",
+    "translate": "цель, мишень "
+  },
+  {
+    "number": 4482,
+    "termin": "tart ",
+    "transcription": "[tɑːt] ",
+    "translate": "пирог, обычно фруктовый "
+  },
+  {
+    "number": 4483,
+    "termin": "task ",
+    "transcription": "[tɑːsk] ",
+    "translate": "задание, задача "
+  },
+  {
+    "number": 4484,
+    "termin": "taste ",
+    "transcription": "[teɪst] ",
+    "translate": "вкус, иметь вкус "
+  },
+  {
+    "number": 4485,
+    "termin": "tattered ",
+    "transcription": "[ˈtætəd] ",
+    "translate": "оборванный "
+  },
+  {
+    "number": 4486,
+    "termin": "taunt ",
+    "transcription": "[tɔːnt] ",
+    "translate": "насмехаться, насмешка "
+  },
+  {
+    "number": 4487,
+    "termin": "tax ",
+    "transcription": "[tæks] ",
+    "translate": "налог "
+  },
+  {
+    "number": 4488,
+    "termin": "team ",
+    "transcription": "[tiːm] ",
+    "translate": "команда, бригада "
+  },
+  {
+    "number": 4489,
+    "termin": "tear ",
+    "transcription": "[tɪə] ",
+    "translate": "слеза "
+  },
+  {
+    "number": 4490,
+    "termin": "tear (tore, torn) ",
+    "transcription": "[teə] ",
+    "translate": "рвать "
+  },
+  {
+    "number": 4491,
+    "termin": "tease ",
+    "transcription": "[tiːz] ",
+    "translate": "дразнить "
+  },
+  {
+    "number": 4492,
+    "termin": "tedious ",
+    "transcription": "[ˈtiːdiəs] ",
+    "translate": "утомительный, нудный "
+  },
+  {
+    "number": 4493,
+    "termin": "teenage ",
+    "transcription": "[ˈtiːnˌeɪʤ] ",
+    "translate": "возраста 13-19 "
+  },
+  {
+    "number": 4494,
+    "termin": "tell apart ",
+    "transcription": "[tɛləˈpɑːt] ",
+    "translate": "различать "
+  },
+  {
+    "number": 4495,
+    "termin": "tell off ",
+    "transcription": "[tɛlɒf] ",
+    "translate": "ругать "
+  },
+  {
+    "number": 4496,
+    "termin": "temper ",
+    "transcription": "[ˈtɛmpə] ",
+    "translate": "характер "
+  },
+  {
+    "number": 4497,
+    "termin": "temple ",
+    "transcription": "[ˈtɛmpl] ",
+    "translate": "храм "
+  },
+  {
+    "number": 4498,
+    "termin": "temple ",
+    "transcription": "[ˈtɛmpl] ",
+    "translate": "висок "
+  },
+  {
+    "number": 4499,
+    "termin": "temporary ",
+    "transcription": "[ˈtɛmpərəri] ",
+    "translate": "временный "
+  },
+  {
+    "number": 4500,
+    "termin": "tempt ",
+    "transcription": "[tɛmpt] ",
+    "translate": "искушать "
+  },
+  {
+    "number": 4501,
+    "termin": "tenant ",
+    "transcription": "[ˈtɛnənt] ",
+    "translate": "арендатор "
+  },
+  {
+    "number": 4502,
+    "termin": "tend ",
+    "transcription": "[tɛnd] ",
+    "translate": "иметь склонность "
+  },
+  {
+    "number": 4503,
+    "termin": "tend ",
+    "transcription": "[tɛnd] ",
+    "translate": "ухаживать "
+  },
+  {
+    "number": 4504,
+    "termin": "tender ",
+    "transcription": "[ˈtɛndə] ",
+    "translate": "нежный "
+  },
+  {
+    "number": 4505,
+    "termin": "tense ",
+    "transcription": "[tɛns] ",
+    "translate": "напряжённый, напрягать "
+  },
+  {
+    "number": 4506,
+    "termin": "tent ",
+    "transcription": "[tɛnt] ",
+    "translate": "палатка, шатёр "
+  },
+  {
+    "number": 4507,
+    "termin": "tentative ",
+    "transcription": "[ˈtɛntətɪv] ",
+    "translate": "пробный, экспериментальный "
+  },
+  {
+    "number": 4508,
+    "termin": "term ",
+    "transcription": "[tɜːm] ",
+    "translate": "срок, период "
+  },
+  {
+    "number": 4509,
+    "termin": "term ",
+    "transcription": "[tɜːm] ",
+    "translate": "термин "
+  },
+  {
+    "number": 4510,
+    "termin": "terminal ",
+    "transcription": "[ˈtɜːmɪnl] ",
+    "translate": "конечный, заключительный "
+  },
+  {
+    "number": 4511,
+    "termin": "terminate ",
+    "transcription": "[ˈtɜːmɪneɪt] ",
+    "translate": "прекратить, завершить (офиц.) "
+  },
+  {
+    "number": 4512,
+    "termin": "terms ",
+    "transcription": "[tɜːmz] ",
+    "translate": "отношения "
+  },
+  {
+    "number": 4513,
+    "termin": "terms ",
+    "transcription": "[tɜːmz] ",
+    "translate": "условия, соглашение "
+  },
+  {
+    "number": 4514,
+    "termin": "terrain ",
+    "transcription": "[ˈtɛreɪn] ",
+    "translate": "местность "
+  },
+  {
+    "number": 4515,
+    "termin": "terrible ",
+    "transcription": "[ˈtɛrəbl] ",
+    "translate": "ужасный "
+  },
+  {
+    "number": 4516,
+    "termin": "terrify ",
+    "transcription": "[ˈtɛrɪfaɪ] ",
+    "translate": "устрашать "
+  },
+  {
+    "number": 4517,
+    "termin": "terror ",
+    "transcription": "[ˈtɛrə] ",
+    "translate": "ужас "
+  },
+  {
+    "number": 4518,
+    "termin": "testament ",
+    "transcription": "[ˈtɛstəmənt] ",
+    "translate": "завет, завещание "
+  },
+  {
+    "number": 4519,
+    "termin": "testify ",
+    "transcription": "[ˈtɛstɪfaɪ] ",
+    "translate": "свидетельствовать "
+  },
+  {
+    "number": 4520,
+    "termin": "testimony ",
+    "transcription": "[ˈtɛstɪməni] ",
+    "translate": "показание, свидетельство "
+  },
+  {
+    "number": 4521,
+    "termin": "thank ",
+    "transcription": "[θæŋk] ",
+    "translate": "благодарить "
+  },
+  {
+    "number": 4522,
+    "termin": "thaw ",
+    "transcription": "[θɔː] ",
+    "translate": "оттепель, оттаивать "
+  },
+  {
+    "number": 4523,
+    "termin": "theater (theatre) ",
+    "transcription": "[ˈθɪətə] ",
+    "translate": "театр "
+  },
+  {
+    "number": 4524,
+    "termin": "theft ",
+    "transcription": "[θɛft] ",
+    "translate": "кража "
+  },
+  {
+    "number": 4525,
+    "termin": "theme ",
+    "transcription": "[θiːm] ",
+    "translate": "тема "
+  },
+  {
+    "number": 4526,
+    "termin": "thereafter ",
+    "transcription": "[ðeərˈɑːftə] ",
+    "translate": "впоследствии "
+  },
+  {
+    "number": 4527,
+    "termin": "thereby ",
+    "transcription": "[ˈðeəˈbaɪ] ",
+    "translate": "тем самым "
+  },
+  {
+    "number": 4528,
+    "termin": "therefore ",
+    "transcription": "[ˈðeəfɔː] ",
+    "translate": "следовательно "
+  },
+  {
+    "number": 4529,
+    "termin": "thermal ",
+    "transcription": "[ˈθɜːməl] ",
+    "translate": "тепловой "
+  },
+  {
+    "number": 4530,
+    "termin": "thick ",
+    "transcription": "[θɪk] ",
+    "translate": "толстый "
+  },
+  {
+    "number": 4531,
+    "termin": "thick ",
+    "transcription": "[θɪk] ",
+    "translate": "густой "
+  },
+  {
+    "number": 4532,
+    "termin": "thief (pl: thieves) ",
+    "transcription": "[θiːf] ",
+    "translate": "вор "
+  },
+  {
+    "number": 4533,
+    "termin": "thigh ",
+    "transcription": "[θaɪ] ",
+    "translate": "бедро "
+  },
+  {
+    "number": 4534,
+    "termin": "thin ",
+    "transcription": "[θɪn] ",
+    "translate": "тонкий, худой "
+  },
+  {
+    "number": 4535,
+    "termin": "think over ",
+    "transcription": "[θɪŋkˈəʊvə] ",
+    "translate": "обдумать "
+  },
+  {
+    "number": 4536,
+    "termin": "thirst ",
+    "transcription": "[θɜːst] ",
+    "translate": "жажда "
+  },
+  {
+    "number": 4537,
+    "termin": "thorn ",
+    "transcription": "[θɔːn] ",
+    "translate": "шип, колючка "
+  },
+  {
+    "number": 4538,
+    "termin": "thorough ",
+    "transcription": "[ˈθʌrə] ",
+    "translate": "тщательный, полный "
+  },
+  {
+    "number": 4539,
+    "termin": "though (even though) ",
+    "transcription": "[ðəʊ] ",
+    "translate": "хотя "
+  },
+  {
+    "number": 4540,
+    "termin": "thought ",
+    "transcription": "[θɔːt] ",
+    "translate": "мысль "
+  },
+  {
+    "number": 4541,
+    "termin": "thread ",
+    "transcription": "[θrɛd] ",
+    "translate": "нить "
+  },
+  {
+    "number": 4542,
+    "termin": "threat ",
+    "transcription": "[θrɛt] ",
+    "translate": "угроза "
+  },
+  {
+    "number": 4543,
+    "termin": "threshold ",
+    "transcription": "[ˈθrɛʃˌhəʊld] ",
+    "translate": "порог "
+  },
+  {
+    "number": 4544,
+    "termin": "thrift ",
+    "transcription": "[θrɪft] ",
+    "translate": "бережливость "
+  },
+  {
+    "number": 4545,
+    "termin": "thrill ",
+    "transcription": "[θrɪl] ",
+    "translate": "трепет, дрожь, дрожать "
+  },
+  {
+    "number": 4546,
+    "termin": "thrive ",
+    "transcription": "[θraɪv] ",
+    "translate": "процветать, преуспевать "
+  },
+  {
+    "number": 4547,
+    "termin": "throat ",
+    "transcription": "[θrəʊt] ",
+    "translate": "горло "
+  },
+  {
+    "number": 4548,
+    "termin": "throng ",
+    "transcription": "[θrɒŋ] ",
+    "translate": "толпа, толчея, толпиться "
+  },
+  {
+    "number": 4549,
+    "termin": "throw (threw, thrown) ",
+    "transcription": "[θrəʊ] ",
+    "translate": "бросать "
+  },
+  {
+    "number": 4550,
+    "termin": "throw away ",
+    "transcription": "[θrəʊəˈweɪ] ",
+    "translate": "выбрасывать "
+  },
+  {
+    "number": 4551,
+    "termin": "throw up ",
+    "transcription": "[θrəʊʌp] ",
+    "translate": "блевануть "
+  },
+  {
+    "number": 4552,
+    "termin": "thrust ",
+    "transcription": "[θrʌst] ",
+    "translate": "сунуть, пихнуть (быстро) "
+  },
+  {
+    "number": 4553,
+    "termin": "thud ",
+    "transcription": "[θʌd] ",
+    "translate": "глухой удар "
+  },
+  {
+    "number": 4554,
+    "termin": "thug ",
+    "transcription": "[θʌg] ",
+    "translate": "бандит, головорез "
+  },
+  {
+    "number": 4555,
+    "termin": "thumb ",
+    "transcription": "[θʌm] ",
+    "translate": "большой палец "
+  },
+  {
+    "number": 4556,
+    "termin": "thump ",
+    "transcription": "[θʌmp] ",
+    "translate": "колотить "
+  },
+  {
+    "number": 4557,
+    "termin": "thunder ",
+    "transcription": "[ˈθʌndə] ",
+    "translate": "гром "
+  },
+  {
+    "number": 4558,
+    "termin": "thus ",
+    "transcription": "[ðʌs] ",
+    "translate": "таким образом, поэтому "
+  },
+  {
+    "number": 4559,
+    "termin": "thwart ",
+    "transcription": "[θwɔːt] ",
+    "translate": "помешать, сорвать "
+  },
+  {
+    "number": 4560,
+    "termin": "tick ",
+    "transcription": "[tɪk] ",
+    "translate": "галочка, поставить галочку "
+  },
+  {
+    "number": 4561,
+    "termin": "tick ",
+    "transcription": "[tɪk] ",
+    "translate": "клещ "
+  },
+  {
+    "number": 4562,
+    "termin": "ticket ",
+    "transcription": "[ˈtɪkɪt] ",
+    "translate": "билет, талон "
+  },
+  {
+    "number": 4563,
+    "termin": "tickle ",
+    "transcription": "[ˈtɪkl] ",
+    "translate": "щекотать "
+  },
+  {
+    "number": 4564,
+    "termin": "tide ",
+    "transcription": "[taɪd] ",
+    "translate": "волна, поток, прилив "
+  },
+  {
+    "number": 4565,
+    "termin": "tidy ",
+    "transcription": "[ˈtaɪdi] ",
+    "translate": "опрятный, аккуратный "
+  },
+  {
+    "number": 4566,
+    "termin": "tie ",
+    "transcription": "[taɪ] ",
+    "translate": "галстук, завязка и т.п. "
+  },
+  {
+    "number": 4567,
+    "termin": "tie ",
+    "transcription": "[taɪ] ",
+    "translate": "связывать, завязывать "
+  },
+  {
+    "number": 4568,
+    "termin": "tied up ",
+    "transcription": "[taɪdʌp] ",
+    "translate": "занятый "
+  },
+  {
+    "number": 4569,
+    "termin": "tier ",
+    "transcription": "[ˈtaɪə] ",
+    "translate": "ярус "
+  },
+  {
+    "number": 4570,
+    "termin": "tight ",
+    "transcription": "[taɪt] ",
+    "translate": "тугой, тесный "
+  },
+  {
+    "number": 4571,
+    "termin": "tile ",
+    "transcription": "[taɪl] ",
+    "translate": "плитка, черепица "
+  },
+  {
+    "number": 4572,
+    "termin": "tilt ",
+    "transcription": "[tɪlt] ",
+    "translate": "наклонять, наклон "
+  },
+  {
+    "number": 4573,
+    "termin": "timber ",
+    "transcription": "[ˈtɪmbə] ",
+    "translate": "древесина, лесоматериалы "
+  },
+  {
+    "number": 4574,
+    "termin": "timely ",
+    "transcription": "[ˈtaɪmli] ",
+    "translate": "своевременный "
+  },
+  {
+    "number": 4575,
+    "termin": "timetable ",
+    "transcription": "[ˈtaɪmˌteɪb(ə)l] ",
+    "translate": "расписание "
+  },
+  {
+    "number": 4576,
+    "termin": "timid ",
+    "transcription": "[ˈtɪmɪd] ",
+    "translate": "робкий, пугливый "
+  },
+  {
+    "number": 4577,
+    "termin": "tin ",
+    "transcription": "[tɪn] ",
+    "translate": "олово или жесть "
+  },
+  {
+    "number": 4578,
+    "termin": "tinker with ",
+    "transcription": "[ˈtɪŋkəwɪð] ",
+    "translate": "возиться, пытаться сделать "
+  },
+  {
+    "number": 4579,
+    "termin": "tint ",
+    "transcription": "[tɪnt] ",
+    "translate": "оттенок "
+  },
+  {
+    "number": 4580,
+    "termin": "tiny ",
+    "transcription": "[ˈtaɪni] ",
+    "translate": "крошечный "
+  },
+  {
+    "number": 4581,
+    "termin": "tip ",
+    "transcription": "[tɪp] ",
+    "translate": "кончик, верхушка "
+  },
+  {
+    "number": 4582,
+    "termin": "tip ",
+    "transcription": "[tɪp] ",
+    "translate": "совет, рекомендация "
+  },
+  {
+    "number": 4583,
+    "termin": "tip (tips) ",
+    "transcription": "[tɪp] ",
+    "translate": "чаевые "
+  },
+  {
+    "number": 4584,
+    "termin": "tip smb off ",
+    "transcription": "[tɪpsmbɒf] ",
+    "translate": "предупредить, секретно сообщить "
+  },
+  {
+    "number": 4585,
+    "termin": "tire (tyre) ",
+    "transcription": "[ˈtaɪə] ",
+    "translate": "шина "
+  },
+  {
+    "number": 4586,
+    "termin": "tired ",
+    "transcription": "[ˈtaɪəd] ",
+    "translate": "усталый "
+  },
+  {
+    "number": 4587,
+    "termin": "tissue ",
+    "transcription": "[ˈtɪʃuː] ",
+    "translate": "ткань "
+  },
+  {
+    "number": 4588,
+    "termin": "tissue ",
+    "transcription": "[ˈtɪʃuː] ",
+    "translate": "бумажная салфетка "
+  },
+  {
+    "number": 4589,
+    "termin": "title ",
+    "transcription": "[ˈtaɪtl] ",
+    "translate": "заголовок "
+  },
+  {
+    "number": 4590,
+    "termin": "toddler ",
+    "transcription": "[ˈtɒdlə] ",
+    "translate": "малыш (1-2 года) "
+  },
+  {
+    "number": 4591,
+    "termin": "toe ",
+    "transcription": "[təʊ] ",
+    "translate": "палец (ноги) "
+  },
+  {
+    "number": 4592,
+    "termin": "toil ",
+    "transcription": "[tɔɪl] ",
+    "translate": "тяжело трудиться "
+  },
+  {
+    "number": 4593,
+    "termin": "token ",
+    "transcription": "[ˈtəʊkən] ",
+    "translate": "знак, признак, маркер "
+  },
+  {
+    "number": 4594,
+    "termin": "tolerate ",
+    "transcription": "[ˈtɒləreɪt] ",
+    "translate": "терпеть "
+  },
+  {
+    "number": 4595,
+    "termin": "toll ",
+    "transcription": "[təʊl] ",
+    "translate": "плата, пошлина, тариф "
+  },
+  {
+    "number": 4596,
+    "termin": "tomb ",
+    "transcription": "[tuːm] ",
+    "translate": "надгробие, склеп "
+  },
+  {
+    "number": 4597,
+    "termin": "tongue ",
+    "transcription": "[tʌŋ] ",
+    "translate": "язык "
+  },
+  {
+    "number": 4598,
+    "termin": "tool ",
+    "transcription": "[tuːl] ",
+    "translate": "инструмент "
+  },
+  {
+    "number": 4599,
+    "termin": "tooth (pl: teeth) ",
+    "transcription": "[tuːθ] ",
+    "translate": "зуб "
+  },
+  {
+    "number": 4600,
+    "termin": "topic ",
+    "transcription": "[ˈtɒpɪk] ",
+    "translate": "тема, предмет обсуждения "
+  },
+  {
+    "number": 4601,
+    "termin": "topple ",
+    "transcription": "[ˈtɒpl] ",
+    "translate": "опрокинуть(ся) "
+  },
+  {
+    "number": 4602,
+    "termin": "tops ",
+    "transcription": "[tɒps] ",
+    "translate": "самое большое "
+  },
+  {
+    "number": 4603,
+    "termin": "torch ",
+    "transcription": "[tɔːʧ] ",
+    "translate": "факел, горелка "
+  },
+  {
+    "number": 4604,
+    "termin": "torment ",
+    "transcription": "[ˈtɔːmənt] ",
+    "translate": "мучение "
+  },
+  {
+    "number": 4605,
+    "termin": "torture ",
+    "transcription": "[ˈtɔːʧə] ",
+    "translate": "пытка, мучить "
+  },
+  {
+    "number": 4606,
+    "termin": "toss ",
+    "transcription": "[tɒs] ",
+    "translate": "бросать "
+  },
+  {
+    "number": 4607,
+    "termin": "total ",
+    "transcription": "[ˈtəʊtl] ",
+    "translate": "полный, всеобщий "
+  },
+  {
+    "number": 4608,
+    "termin": "touch ",
+    "transcription": "[tʌʧ] ",
+    "translate": "связь, контакт "
+  },
+  {
+    "number": 4609,
+    "termin": "touch ",
+    "transcription": "[tʌʧ] ",
+    "translate": "касаться, прикосновение "
+  },
+  {
+    "number": 4610,
+    "termin": "tough ",
+    "transcription": "[tʌf] ",
+    "translate": "жёсткий, крепкий, тяжёлый "
+  },
+  {
+    "number": 4611,
+    "termin": "tournament ",
+    "transcription": "[ˈtʊənəmənt] ",
+    "translate": "турнир "
+  },
+  {
+    "number": 4612,
+    "termin": "tout ",
+    "transcription": "[taʊt] ",
+    "translate": "рекламировать, нявязывать "
+  },
+  {
+    "number": 4613,
+    "termin": "tow ",
+    "transcription": "[təʊ] ",
+    "translate": "буксир или эвакуатор, буксировать "
+  },
+  {
+    "number": 4614,
+    "termin": "toward (towards) ",
+    "transcription": "[təˈwɔːd] ",
+    "translate": "по направлению к "
+  },
+  {
+    "number": 4615,
+    "termin": "towel ",
+    "transcription": "[ˈtaʊəl] ",
+    "translate": "полотенце "
+  },
+  {
+    "number": 4616,
+    "termin": "tower ",
+    "transcription": "[ˈtaʊə] ",
+    "translate": "башня, возвышаться "
+  },
+  {
+    "number": 4617,
+    "termin": "toy with ",
+    "transcription": "[tɔɪwɪð] ",
+    "translate": "подумывать о ч-л "
+  },
+  {
+    "number": 4618,
+    "termin": "trace ",
+    "transcription": "[treɪs] ",
+    "translate": "след, отслеживать "
+  },
+  {
+    "number": 4619,
+    "termin": "track ",
+    "transcription": "[træk] ",
+    "translate": "след, выслеживать "
+  },
+  {
+    "number": 4620,
+    "termin": "track down ",
+    "transcription": "[trækdaʊn] ",
+    "translate": "разыскать, отследить "
+  },
+  {
+    "number": 4621,
+    "termin": "trade ",
+    "transcription": "[treɪd] ",
+    "translate": "торговля, торговый "
+  },
+  {
+    "number": 4622,
+    "termin": "traffic light ",
+    "transcription": "[ˈtræfɪklaɪt] ",
+    "translate": "светофор "
+  },
+  {
+    "number": 4623,
+    "termin": "trail ",
+    "transcription": "[treɪl] ",
+    "translate": "след, тропа "
+  },
+  {
+    "number": 4624,
+    "termin": "train ",
+    "transcription": "[treɪn] ",
+    "translate": "поезд "
+  },
+  {
+    "number": 4625,
+    "termin": "train ",
+    "transcription": "[treɪn] ",
+    "translate": "тренировать, обучать "
+  },
+  {
+    "number": 4626,
+    "termin": "trait ",
+    "transcription": "[treɪt] ",
+    "translate": "черта, характеристика "
+  },
+  {
+    "number": 4627,
+    "termin": "traitor ",
+    "transcription": "[ˈtreɪtə] ",
+    "translate": "изменник "
+  },
+  {
+    "number": 4628,
+    "termin": "tram ",
+    "transcription": "[træm] ",
+    "translate": "трамвай "
+  },
+  {
+    "number": 4629,
+    "termin": "tramp ",
+    "transcription": "[træmp] ",
+    "translate": "бродяга "
+  },
+  {
+    "number": 4630,
+    "termin": "tranquil ",
+    "transcription": "[ˈtræŋkwɪl] ",
+    "translate": "спокойный "
+  },
+  {
+    "number": 4631,
+    "termin": "transcend ",
+    "transcription": "[trænˈsɛnd] ",
+    "translate": "преодолеть (пределы) "
+  },
+  {
+    "number": 4632,
+    "termin": "transcript ",
+    "transcription": "[ˈtrænskrɪpt] ",
+    "translate": "расшифровка, текст "
+  },
+  {
+    "number": 4633,
+    "termin": "transfer ",
+    "transcription": "[trænsˈfɜ] ",
+    "translate": "перевести, передать "
+  },
+  {
+    "number": 4634,
+    "termin": "transition ",
+    "transcription": "[trænˈsɪʒən] ",
+    "translate": "переход "
+  },
+  {
+    "number": 4635,
+    "termin": "transmit ",
+    "transcription": "[trænzˈmɪt] ",
+    "translate": "передавать, переносить "
+  },
+  {
+    "number": 4636,
+    "termin": "transparent ",
+    "transcription": "[trænsˈpeərənt] ",
+    "translate": "прозрачный "
+  },
+  {
+    "number": 4637,
+    "termin": "trap ",
+    "transcription": "[træp] ",
+    "translate": "ловушка, ловить "
+  },
+  {
+    "number": 4638,
+    "termin": "trash ",
+    "transcription": "[træʃ] ",
+    "translate": "мусор "
+  },
+  {
+    "number": 4639,
+    "termin": "tray ",
+    "transcription": "[treɪ] ",
+    "translate": "лоток, поднос, поддон "
+  },
+  {
+    "number": 4640,
+    "termin": "treachery ",
+    "transcription": "[ˈtrɛʧəri] ",
+    "translate": "предательство, вероломство "
+  },
+  {
+    "number": 4641,
+    "termin": "tread ",
+    "transcription": "[trɛd] ",
+    "translate": "ступать, шагать "
+  },
+  {
+    "number": 4642,
+    "termin": "treasure ",
+    "transcription": "[ˈtrɛʒə] ",
+    "translate": "сокровище "
+  },
+  {
+    "number": 4643,
+    "termin": "treat ",
+    "transcription": "[triːt] ",
+    "translate": "обращаться, иметь дело "
+  },
+  {
+    "number": 4644,
+    "termin": "treaty ",
+    "transcription": "[ˈtriːti] ",
+    "translate": "договор (между гос-вами) "
+  },
+  {
+    "number": 4645,
+    "termin": "trek ",
+    "transcription": "[trɛk] ",
+    "translate": "поход, переход "
+  },
+  {
+    "number": 4646,
+    "termin": "tremble ",
+    "transcription": "[ˈtrɛmbl] ",
+    "translate": "дрожать "
+  },
+  {
+    "number": 4647,
+    "termin": "tremendous ",
+    "transcription": "[trɪˈmɛndəs] ",
+    "translate": "громадный, страшный "
+  },
+  {
+    "number": 4648,
+    "termin": "trench ",
+    "transcription": "[trɛnʧ] ",
+    "translate": "траншея "
+  },
+  {
+    "number": 4649,
+    "termin": "trial ",
+    "transcription": "[ˈtraɪəl] ",
+    "translate": "испытание, пробный "
+  },
+  {
+    "number": 4650,
+    "termin": "trial ",
+    "transcription": "[ˈtraɪəl] ",
+    "translate": "судебный процесс "
+  },
+  {
+    "number": 4651,
+    "termin": "triangle ",
+    "transcription": "[ˈtraɪæŋgl] ",
+    "translate": "треугольник "
+  },
+  {
+    "number": 4652,
+    "termin": "tribe ",
+    "transcription": "[traɪb] ",
+    "translate": "племя "
+  },
+  {
+    "number": 4653,
+    "termin": "tribute ",
+    "transcription": "[ˈtrɪbjuːt] ",
+    "translate": "дань "
+  },
+  {
+    "number": 4654,
+    "termin": "trick ",
+    "transcription": "[trɪk] ",
+    "translate": "трюк, фокус, уловка "
+  },
+  {
+    "number": 4655,
+    "termin": "trickle ",
+    "transcription": "[ˈtrɪkl] ",
+    "translate": "струйка, капать, сочиться "
+  },
+  {
+    "number": 4656,
+    "termin": "trigger ",
+    "transcription": "[ˈtrɪgə] ",
+    "translate": "спусковой крючок "
+  },
+  {
+    "number": 4657,
+    "termin": "trim ",
+    "transcription": "[trɪm] ",
+    "translate": "подстригать, обрезать, ровнять "
+  },
+  {
+    "number": 4658,
+    "termin": "trip ",
+    "transcription": "[trɪp] ",
+    "translate": "поездка "
+  },
+  {
+    "number": 4659,
+    "termin": "triple ",
+    "transcription": "[ˈtrɪpl] ",
+    "translate": "тройной "
+  },
+  {
+    "number": 4660,
+    "termin": "troop ",
+    "transcription": "[truːp] ",
+    "translate": "отряд "
+  },
+  {
+    "number": 4661,
+    "termin": "trophy ",
+    "transcription": "[ˈtrəʊfi] ",
+    "translate": "трофей, приз "
+  },
+  {
+    "number": 4662,
+    "termin": "troublesome ",
+    "transcription": "[ˈtrʌblsəm] ",
+    "translate": "хлопотный, беспокойный "
+  },
+  {
+    "number": 4663,
+    "termin": "trousers ",
+    "transcription": "[ˈtraʊzəz] ",
+    "translate": "брюки "
+  },
+  {
+    "number": 4664,
+    "termin": "trout ",
+    "transcription": "[traʊt] ",
+    "translate": "форель "
+  },
+  {
+    "number": 4665,
+    "termin": "truck ",
+    "transcription": "[trʌk] ",
+    "translate": "грузовик "
+  },
+  {
+    "number": 4666,
+    "termin": "trump ",
+    "transcription": "[trʌmp] ",
+    "translate": "козырь "
+  },
+  {
+    "number": 4667,
+    "termin": "trumpet ",
+    "transcription": "[ˈtrʌmpɪt] ",
+    "translate": "труба "
+  },
+  {
+    "number": 4668,
+    "termin": "trunk ",
+    "transcription": "[trʌŋk] ",
+    "translate": "багажник "
+  },
+  {
+    "number": 4669,
+    "termin": "trunk ",
+    "transcription": "[trʌŋk] ",
+    "translate": "ствол дерева "
+  },
+  {
+    "number": 4670,
+    "termin": "trunk ",
+    "transcription": "[trʌŋk] ",
+    "translate": "чемодан, сундук "
+  },
+  {
+    "number": 4671,
+    "termin": "trust ",
+    "transcription": "[trʌst] ",
+    "translate": "доверять "
+  },
+  {
+    "number": 4672,
+    "termin": "try on ",
+    "transcription": "[traɪɒn] ",
+    "translate": "примерить "
+  },
+  {
+    "number": 4673,
+    "termin": "try out ",
+    "transcription": "[traɪaʊt] ",
+    "translate": "испытать "
+  },
+  {
+    "number": 4674,
+    "termin": "tub ",
+    "transcription": "[tʌb] ",
+    "translate": "ванна, бадья "
+  },
+  {
+    "number": 4675,
+    "termin": "tube ",
+    "transcription": "[tjuːb] ",
+    "translate": "тюбик "
+  },
+  {
+    "number": 4676,
+    "termin": "tube ",
+    "transcription": "[tjuːb] ",
+    "translate": "труба "
+  },
+  {
+    "number": 4677,
+    "termin": "tube ",
+    "transcription": "[tjuːb] ",
+    "translate": "метро (в Лондоне) "
+  },
+  {
+    "number": 4678,
+    "termin": "tuck ",
+    "transcription": "[tʌk] ",
+    "translate": "подоткнуть, заправить и т. д. "
+  },
+  {
+    "number": 4679,
+    "termin": "tug ",
+    "transcription": "[tʌg] ",
+    "translate": "тянуть, рывок "
+  },
+  {
+    "number": 4680,
+    "termin": "tuition ",
+    "transcription": "[tju(ː)ˈɪʃən] ",
+    "translate": "обучение, плата за обучение "
+  },
+  {
+    "number": 4681,
+    "termin": "tumble ",
+    "transcription": "[ˈtʌmbl] ",
+    "translate": "перевернуться, кувыркнуться "
+  },
+  {
+    "number": 4682,
+    "termin": "tumor (tumour) ",
+    "transcription": "[ˈtjuːmə] ",
+    "translate": "опухоль "
+  },
+  {
+    "number": 4683,
+    "termin": "tuna ",
+    "transcription": "[ˈtuːnə] ",
+    "translate": "тунец "
+  },
+  {
+    "number": 4684,
+    "termin": "tune ",
+    "transcription": "[tjuːn] ",
+    "translate": "мелодия, мотив "
+  },
+  {
+    "number": 4685,
+    "termin": "tune ",
+    "transcription": "[tjuːn] ",
+    "translate": "настраивать "
+  },
+  {
+    "number": 4686,
+    "termin": "turkey ",
+    "transcription": "[ˈtɜːki] ",
+    "translate": "индейка, индюк "
+  },
+  {
+    "number": 4687,
+    "termin": "turmoil ",
+    "transcription": "[ˈtɜːmɔɪl] ",
+    "translate": "смятение, беспорядок "
+  },
+  {
+    "number": 4688,
+    "termin": "turn ",
+    "transcription": "[tɜːn] ",
+    "translate": "очередь, смена "
+  },
+  {
+    "number": 4689,
+    "termin": "turn away ",
+    "transcription": "[tɜːnəˈweɪ] ",
+    "translate": "не пустить "
+  },
+  {
+    "number": 4690,
+    "termin": "turn down ",
+    "transcription": "[tɜːndaʊn] ",
+    "translate": "отказаться от предложения "
+  },
+  {
+    "number": 4691,
+    "termin": "turn in ",
+    "transcription": "[tɜːnɪn] ",
+    "translate": "лечь спать "
+  },
+  {
+    "number": 4692,
+    "termin": "turn into ",
+    "transcription": "[tɜːnˈɪntuː] ",
+    "translate": "превращать (ся) "
+  },
+  {
+    "number": 4693,
+    "termin": "turn off ",
+    "transcription": "[tɜːnɒf] ",
+    "translate": "выключить "
+  },
+  {
+    "number": 4694,
+    "termin": "turn off ",
+    "transcription": "[tɜːnɒf] ",
+    "translate": "свернуть (с дороги) "
+  },
+  {
+    "number": 4695,
+    "termin": "turn on ",
+    "transcription": "[tɜːnɒn] ",
+    "translate": "включить "
+  },
+  {
+    "number": 4696,
+    "termin": "turn out ",
+    "transcription": "[tɜːnaʊt] ",
+    "translate": "оказаться "
+  },
+  {
+    "number": 4697,
+    "termin": "turn over ",
+    "transcription": "[tɜːnˈəʊvə] ",
+    "translate": "перевернуть "
+  },
+  {
+    "number": 4698,
+    "termin": "turn up ",
+    "transcription": "[tɜːnʌp] ",
+    "translate": "сделать погромче "
+  },
+  {
+    "number": 4699,
+    "termin": "turnover ",
+    "transcription": "[ˈtɜːnˌəʊvə] ",
+    "translate": "оборот (экон.) "
+  },
+  {
+    "number": 4700,
+    "termin": "turtle ",
+    "transcription": "[ˈtɜːtl] ",
+    "translate": "черепаха "
+  },
+  {
+    "number": 4701,
+    "termin": "tutor ",
+    "transcription": "[ˈtjuːtə] ",
+    "translate": "репетитор, преподаватель "
+  },
+  {
+    "number": 4702,
+    "termin": "tweak ",
+    "transcription": "[twiːk] ",
+    "translate": "доделать, настроить (разг.) "
+  },
+  {
+    "number": 4703,
+    "termin": "twig ",
+    "transcription": "[twɪg] ",
+    "translate": "прут, веточка "
+  },
+  {
+    "number": 4704,
+    "termin": "twilight ",
+    "transcription": "[ˈtwaɪlaɪt] ",
+    "translate": "сумерки "
+  },
+  {
+    "number": 4705,
+    "termin": "twin ",
+    "transcription": "[twɪn] ",
+    "translate": "близнец "
+  },
+  {
+    "number": 4706,
+    "termin": "twinkle ",
+    "transcription": "[ˈtwɪŋkl] ",
+    "translate": "блеск, мерцание "
+  },
+  {
+    "number": 4707,
+    "termin": "twirl ",
+    "transcription": "[twɜːl] ",
+    "translate": "вертеть "
+  },
+  {
+    "number": 4708,
+    "termin": "twist ",
+    "transcription": "[twɪst] ",
+    "translate": "скручивать "
+  },
+  {
+    "number": 4709,
+    "termin": "twitch ",
+    "transcription": "[twɪʧ] ",
+    "translate": "дёргаться "
+  },
+  {
+    "number": 4710,
+    "termin": "type ",
+    "transcription": "[taɪp] ",
+    "translate": "печатать, набирать текст "
+  }
+]

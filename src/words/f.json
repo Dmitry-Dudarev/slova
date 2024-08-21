@@ -1,0 +1,1688 @@
+[
+  {
+    "number": 1639,
+    "termin": "fable ",
+    "transcription": "[ˈfeɪbl] ",
+    "translate": "басня "
+  },
+  {
+    "number": 1640,
+    "termin": "fabric ",
+    "transcription": "[ˈfæbrɪk] ",
+    "translate": "ткань, материал "
+  },
+  {
+    "number": 1641,
+    "termin": "fabulous ",
+    "transcription": "[ˈfæbjʊləs] ",
+    "translate": "невероятный, легендарный "
+  },
+  {
+    "number": 1642,
+    "termin": "face up to ",
+    "transcription": "[feɪsʌptuː] ",
+    "translate": "принять (обстоятельства) "
+  },
+  {
+    "number": 1643,
+    "termin": "face with ",
+    "transcription": "[feɪswɪð] ",
+    "translate": "столкнуться (перен) "
+  },
+  {
+    "number": 1644,
+    "termin": "facet ",
+    "transcription": "[ˈfæsɪt] ",
+    "translate": "грань, в т. ч. перен. (аспект) "
+  },
+  {
+    "number": 1645,
+    "termin": "facial ",
+    "transcription": "[ˈfeɪʃəl] ",
+    "translate": "лицевой "
+  },
+  {
+    "number": 1646,
+    "termin": "facilitate ",
+    "transcription": "[fəˈsɪlɪteɪt] ",
+    "translate": "облегчать, способствовать "
+  },
+  {
+    "number": 1647,
+    "termin": "facility ",
+    "transcription": "[fəˈsɪlɪti] ",
+    "translate": "сооружение, объект "
+  },
+  {
+    "number": 1648,
+    "termin": "facility ",
+    "transcription": "[fəˈsɪlɪti] ",
+    "translate": "лёгкость, удобство "
+  },
+  {
+    "number": 1649,
+    "termin": "faction ",
+    "transcription": "[ˈfækʃən] ",
+    "translate": "группировка, фракция "
+  },
+  {
+    "number": 1650,
+    "termin": "factory ",
+    "transcription": "[ˈfæktəri] ",
+    "translate": "фабрика, завод "
+  },
+  {
+    "number": 1651,
+    "termin": "faculty ",
+    "transcription": "[ˈfækəlti] ",
+    "translate": "дар, способность "
+  },
+  {
+    "number": 1652,
+    "termin": "fade ",
+    "transcription": "[feɪd] ",
+    "translate": "увядать, блекнуть "
+  },
+  {
+    "number": 1653,
+    "termin": "fail ",
+    "transcription": "[feɪl] ",
+    "translate": "потерпеть неудачу "
+  },
+  {
+    "number": 1654,
+    "termin": "failure ",
+    "transcription": "[ˈfeɪljə] ",
+    "translate": "неудача, провал "
+  },
+  {
+    "number": 1655,
+    "termin": "faint ",
+    "transcription": "[feɪnt] ",
+    "translate": "слабый, неуловимый "
+  },
+  {
+    "number": 1656,
+    "termin": "faint ",
+    "transcription": "[feɪnt] ",
+    "translate": "обморок, падать в обморок "
+  },
+  {
+    "number": 1657,
+    "termin": "fair ",
+    "transcription": "[feə] ",
+    "translate": "светлый "
+  },
+  {
+    "number": 1658,
+    "termin": "fair ",
+    "transcription": "[feə] ",
+    "translate": "справедливый, честный "
+  },
+  {
+    "number": 1659,
+    "termin": "fairly ",
+    "transcription": "[ˈfeəli] ",
+    "translate": "довольно, вполне "
+  },
+  {
+    "number": 1660,
+    "termin": "fairy ",
+    "transcription": "[ˈfeəri] ",
+    "translate": "фея "
+  },
+  {
+    "number": 1661,
+    "termin": "faith ",
+    "transcription": "[feɪθ] ",
+    "translate": "вера "
+  },
+  {
+    "number": 1662,
+    "termin": "fall ",
+    "transcription": "[fɔːl] ",
+    "translate": "осень (амер.) "
+  },
+  {
+    "number": 1663,
+    "termin": "fall apart ",
+    "transcription": "[fɔːləˈpɑːt] ",
+    "translate": "развалиться "
+  },
+  {
+    "number": 1664,
+    "termin": "fall asleep ",
+    "transcription": "[fɔːləˈsliːp] ",
+    "translate": "уснуть "
+  },
+  {
+    "number": 1665,
+    "termin": "fall back on ",
+    "transcription": "[fɔːlbækɒn] ",
+    "translate": "опереться, прибегнуть "
+  },
+  {
+    "number": 1666,
+    "termin": "fall behind ",
+    "transcription": "[fɔːlbɪˈhaɪnd] ",
+    "translate": "отставать "
+  },
+  {
+    "number": 1667,
+    "termin": "fall for ",
+    "transcription": "[fɔːlfɔː] ",
+    "translate": "вестись "
+  },
+  {
+    "number": 1668,
+    "termin": "fall for ",
+    "transcription": "[fɔːlfɔː] ",
+    "translate": "влюбляться "
+  },
+  {
+    "number": 1669,
+    "termin": "fall in love with ",
+    "transcription": "[fɔːlɪnlʌvwɪð] ",
+    "translate": "влюбиться "
+  },
+  {
+    "number": 1670,
+    "termin": "fall out ",
+    "transcription": "[fɔːlaʊt] ",
+    "translate": "ссориться "
+  },
+  {
+    "number": 1671,
+    "termin": "fall over ",
+    "transcription": "[fɔːlˈəʊvə] ",
+    "translate": "упасть, перевернуться "
+  },
+  {
+    "number": 1672,
+    "termin": "fall through ",
+    "transcription": "[fɔːlθruː] ",
+    "translate": "провалиться "
+  },
+  {
+    "number": 1673,
+    "termin": "false ",
+    "transcription": "[fɔːls] ",
+    "translate": "ложный, неверный "
+  },
+  {
+    "number": 1674,
+    "termin": "falter ",
+    "transcription": "[ˈfɔːltə] ",
+    "translate": "колебаться, дрогнуть "
+  },
+  {
+    "number": 1675,
+    "termin": "fame ",
+    "transcription": "[feɪm] ",
+    "translate": "известность, слава "
+  },
+  {
+    "number": 1676,
+    "termin": "familiar ",
+    "transcription": "[fəˈmɪliə] ",
+    "translate": "знакомый "
+  },
+  {
+    "number": 1677,
+    "termin": "famine ",
+    "transcription": "[ˈfæmɪn] ",
+    "translate": "голод "
+  },
+  {
+    "number": 1678,
+    "termin": "famous ",
+    "transcription": "[ˈfeɪməs] ",
+    "translate": "знаменитый "
+  },
+  {
+    "number": 1679,
+    "termin": "fan ",
+    "transcription": "[fæn] ",
+    "translate": "вентилятор "
+  },
+  {
+    "number": 1680,
+    "termin": "fancy ",
+    "transcription": "[ˈfænsi] ",
+    "translate": "необычный, причудливый, модный "
+  },
+  {
+    "number": 1681,
+    "termin": "fancy ",
+    "transcription": "[ˈfænsi] ",
+    "translate": "представлять, полагать "
+  },
+  {
+    "number": 1682,
+    "termin": "faraway ",
+    "transcription": "[ˈfɑːrəˌweɪ] ",
+    "translate": "далёкий "
+  },
+  {
+    "number": 1683,
+    "termin": "fare ",
+    "transcription": "[feə] ",
+    "translate": "плата за проезд "
+  },
+  {
+    "number": 1684,
+    "termin": "farewell ",
+    "transcription": "[ˈfeəˈwɛl] ",
+    "translate": "прощальный, прощание "
+  },
+  {
+    "number": 1685,
+    "termin": "farm ",
+    "transcription": "[fɑːm] ",
+    "translate": "ферма "
+  },
+  {
+    "number": 1686,
+    "termin": "fascinate ",
+    "transcription": "[ˈfæsɪneɪt] ",
+    "translate": "очаровывать "
+  },
+  {
+    "number": 1687,
+    "termin": "fashion ",
+    "transcription": "[ˈfæʃən] ",
+    "translate": "мода "
+  },
+  {
+    "number": 1688,
+    "termin": "fashion ",
+    "transcription": "[ˈfæʃən] ",
+    "translate": "стиль, образ, манер "
+  },
+  {
+    "number": 1689,
+    "termin": "fasten ",
+    "transcription": "[ˈfɑːsn] ",
+    "translate": "закрепить "
+  },
+  {
+    "number": 1690,
+    "termin": "fat ",
+    "transcription": "[fæt] ",
+    "translate": "жир, жирный "
+  },
+  {
+    "number": 1691,
+    "termin": "fate ",
+    "transcription": "[feɪt] ",
+    "translate": "судьба, участь "
+  },
+  {
+    "number": 1692,
+    "termin": "fatigue ",
+    "transcription": "[fəˈtiːg] ",
+    "translate": "усталость, утомление "
+  },
+  {
+    "number": 1693,
+    "termin": "faucet ",
+    "transcription": "[ˈfɔːsɪt] ",
+    "translate": "кран "
+  },
+  {
+    "number": 1694,
+    "termin": "fault ",
+    "transcription": "[fɔːlt] ",
+    "translate": "недостаток, неисправность "
+  },
+  {
+    "number": 1695,
+    "termin": "fault ",
+    "transcription": "[fɔːlt] ",
+    "translate": "вина, ошибка "
+  },
+  {
+    "number": 1696,
+    "termin": "favor (favour) ",
+    "transcription": "[ˈfeɪvə] ",
+    "translate": "благоприятствовать "
+  },
+  {
+    "number": 1697,
+    "termin": "favor (favour) ",
+    "transcription": "[ˈfeɪvə] ",
+    "translate": "услуга "
+  },
+  {
+    "number": 1698,
+    "termin": "fear ",
+    "transcription": "[fɪə] ",
+    "translate": "страх, бояться "
+  },
+  {
+    "number": 1699,
+    "termin": "feasible ",
+    "transcription": "[ˈfiːzəbl] ",
+    "translate": "выполнимый, осуществимый "
+  },
+  {
+    "number": 1700,
+    "termin": "feast ",
+    "transcription": "[fiːst] ",
+    "translate": "праздник, пир "
+  },
+  {
+    "number": 1701,
+    "termin": "feat ",
+    "transcription": "[fiːt] ",
+    "translate": "подвиг, свершение "
+  },
+  {
+    "number": 1702,
+    "termin": "feather ",
+    "transcription": "[ˈfɛðə] ",
+    "translate": "перо "
+  },
+  {
+    "number": 1703,
+    "termin": "feature ",
+    "transcription": "[ˈfiːʧə] ",
+    "translate": "черта, особенность "
+  },
+  {
+    "number": 1704,
+    "termin": "fee ",
+    "transcription": "[fiː] ",
+    "translate": "плата или гонорар "
+  },
+  {
+    "number": 1705,
+    "termin": "feeble ",
+    "transcription": "[ˈfiːbl] ",
+    "translate": "слабый, немощный "
+  },
+  {
+    "number": 1706,
+    "termin": "feed (fed, fed) ",
+    "transcription": "[fiːd] ",
+    "translate": "кормить "
+  },
+  {
+    "number": 1707,
+    "termin": "feed on ",
+    "transcription": "[fiːdɒn] ",
+    "translate": "питаться "
+  },
+  {
+    "number": 1708,
+    "termin": "feedback ",
+    "transcription": "[ˈfiːdbæk] ",
+    "translate": "обратная связь "
+  },
+  {
+    "number": 1709,
+    "termin": "feel (felt, felt) ",
+    "transcription": "[fiːl] ",
+    "translate": "трогать, щупать "
+  },
+  {
+    "number": 1710,
+    "termin": "feel for ",
+    "transcription": "[fiːlfɔː] ",
+    "translate": "сочувствовать "
+  },
+  {
+    "number": 1711,
+    "termin": "feel like ",
+    "transcription": "[fiːllaɪk] ",
+    "translate": "хотеть "
+  },
+  {
+    "number": 1712,
+    "termin": "fellow ",
+    "transcription": "[ˈfɛləʊ] ",
+    "translate": "парень, человек "
+  },
+  {
+    "number": 1713,
+    "termin": "fellow ",
+    "transcription": "[ˈfɛləʊ] ",
+    "translate": "товарищ по чему-либо "
+  },
+  {
+    "number": 1714,
+    "termin": "felon ",
+    "transcription": "[ˈfɛlən] ",
+    "translate": "преступник, уголовник "
+  },
+  {
+    "number": 1715,
+    "termin": "female ",
+    "transcription": "[ˈfiːmeɪl] ",
+    "translate": "женский "
+  },
+  {
+    "number": 1716,
+    "termin": "feminine ",
+    "transcription": "[ˈfɛmɪnɪn] ",
+    "translate": "женский "
+  },
+  {
+    "number": 1717,
+    "termin": "fence ",
+    "transcription": "[fɛns] ",
+    "translate": "забор, огораживать "
+  },
+  {
+    "number": 1718,
+    "termin": "fend for (oneself) ",
+    "transcription": "[fɛndfɔː] ",
+    "translate": "позаботиться о (себе) "
+  },
+  {
+    "number": 1719,
+    "termin": "fend off ",
+    "transcription": "[fɛndɒf] ",
+    "translate": "защищаться "
+  },
+  {
+    "number": 1720,
+    "termin": "ferocious ",
+    "transcription": "[fəˈrəʊʃəs] ",
+    "translate": "свирепый "
+  },
+  {
+    "number": 1721,
+    "termin": "ferry ",
+    "transcription": "[ˈfɛri] ",
+    "translate": "переправа, паром "
+  },
+  {
+    "number": 1722,
+    "termin": "fertile ",
+    "transcription": "[ˈfɜːtaɪl] ",
+    "translate": "плодородный "
+  },
+  {
+    "number": 1723,
+    "termin": "fetch ",
+    "transcription": "[fɛʧ] ",
+    "translate": "сходить принести "
+  },
+  {
+    "number": 1724,
+    "termin": "fetus ",
+    "transcription": "[ˈfiːtəs] ",
+    "translate": "плод, эмбрион "
+  },
+  {
+    "number": 1725,
+    "termin": "fever ",
+    "transcription": "[ˈfiːvə] ",
+    "translate": "лихорадка, жар "
+  },
+  {
+    "number": 1726,
+    "termin": "fibre (fiber) ",
+    "transcription": "[ˈfaɪbə] ",
+    "translate": "волокно "
+  },
+  {
+    "number": 1727,
+    "termin": "fiction ",
+    "transcription": "[ˈfɪkʃən] ",
+    "translate": "вымысел, худ.литература "
+  },
+  {
+    "number": 1728,
+    "termin": "fiddle ",
+    "transcription": "[ˈfɪdl] ",
+    "translate": "скрипка "
+  },
+  {
+    "number": 1729,
+    "termin": "fidelity ",
+    "transcription": "[fɪˈdɛlɪti] ",
+    "translate": "верность "
+  },
+  {
+    "number": 1730,
+    "termin": "field ",
+    "transcription": "[fiːld] ",
+    "translate": "поле, область "
+  },
+  {
+    "number": 1731,
+    "termin": "fierce ",
+    "transcription": "[fɪəs] ",
+    "translate": "свирепый "
+  },
+  {
+    "number": 1732,
+    "termin": "fight back ",
+    "transcription": "[faɪtbæk] ",
+    "translate": "отбиваться "
+  },
+  {
+    "number": 1733,
+    "termin": "fight off ",
+    "transcription": "[faɪtɒf] ",
+    "translate": "отбить "
+  },
+  {
+    "number": 1734,
+    "termin": "figure ",
+    "transcription": "[ˈfɪgə] ",
+    "translate": "полагать, думать "
+  },
+  {
+    "number": 1735,
+    "termin": "figure out ",
+    "transcription": "[ˈfɪgəraʊt] ",
+    "translate": "понять, придумать "
+  },
+  {
+    "number": 1736,
+    "termin": "fill in ",
+    "transcription": "[fɪlɪn] ",
+    "translate": "заполнить "
+  },
+  {
+    "number": 1737,
+    "termin": "fill in on ",
+    "transcription": "[fɪlɪnɒn] ",
+    "translate": "посвятить (в подробности) "
+  },
+  {
+    "number": 1738,
+    "termin": "fill up ",
+    "transcription": "[fɪlʌp] ",
+    "translate": "наполнить целиком "
+  },
+  {
+    "number": 1739,
+    "termin": "film ",
+    "transcription": "[fɪlm] ",
+    "translate": "снимать (кино) "
+  },
+  {
+    "number": 1740,
+    "termin": "filth ",
+    "transcription": "[fɪlθ] ",
+    "translate": "грязь, гадость "
+  },
+  {
+    "number": 1741,
+    "termin": "fin ",
+    "transcription": "[fɪn] ",
+    "translate": "плавник "
+  },
+  {
+    "number": 1742,
+    "termin": "find out ",
+    "transcription": "[faɪndaʊt] ",
+    "translate": "выяснить "
+  },
+  {
+    "number": 1743,
+    "termin": "fine ",
+    "transcription": "[faɪn] ",
+    "translate": "штраф "
+  },
+  {
+    "number": 1744,
+    "termin": "fine ",
+    "transcription": "[faɪn] ",
+    "translate": "тонкий "
+  },
+  {
+    "number": 1745,
+    "termin": "fine ",
+    "transcription": "[faɪn] ",
+    "translate": "хороший "
+  },
+  {
+    "number": 1746,
+    "termin": "fingertip ",
+    "transcription": "[ˈfɪŋgətɪp] ",
+    "translate": "кончик пальца "
+  },
+  {
+    "number": 1747,
+    "termin": "fir ",
+    "transcription": "[fɜː] ",
+    "translate": "ель "
+  },
+  {
+    "number": 1748,
+    "termin": "firefighter ",
+    "transcription": "[ˈfaɪəˌfaɪtə] ",
+    "translate": "пожарник "
+  },
+  {
+    "number": 1749,
+    "termin": "fireplace ",
+    "transcription": "[ˈfaɪəˌpleɪs] ",
+    "translate": "камин "
+  },
+  {
+    "number": 1750,
+    "termin": "firework ",
+    "transcription": "[ˈfaɪəwɜːk] ",
+    "translate": "фейерверк, петарда "
+  },
+  {
+    "number": 1751,
+    "termin": "firm ",
+    "transcription": "[fɜːm] ",
+    "translate": "твёрдый "
+  },
+  {
+    "number": 1752,
+    "termin": "fisherman ",
+    "transcription": "[ˈfɪʃəmən] ",
+    "translate": "рыбак "
+  },
+  {
+    "number": 1753,
+    "termin": "fishing ",
+    "transcription": "[ˈfɪʃɪŋ] ",
+    "translate": "рыбалка "
+  },
+  {
+    "number": 1754,
+    "termin": "fist ",
+    "transcription": "[fɪst] ",
+    "translate": "кулак "
+  },
+  {
+    "number": 1755,
+    "termin": "fit ",
+    "transcription": "[fɪt] ",
+    "translate": "приступ, припадок "
+  },
+  {
+    "number": 1756,
+    "termin": "fit (fit, fit) ",
+    "transcription": "[fɪt] ",
+    "translate": "подходить, помещаться "
+  },
+  {
+    "number": 1757,
+    "termin": "fit in with ",
+    "transcription": "[fɪtɪnwɪð] ",
+    "translate": "вписаться (в коллектив) "
+  },
+  {
+    "number": 1758,
+    "termin": "fix ",
+    "transcription": "[fɪks] ",
+    "translate": "исправить, наладить "
+  },
+  {
+    "number": 1759,
+    "termin": "fixture ",
+    "transcription": "[ˈfɪkstʧə] ",
+    "translate": "крепление, стойка и т.д. "
+  },
+  {
+    "number": 1760,
+    "termin": "flair ",
+    "transcription": "[fleə] ",
+    "translate": "чутьё, талант "
+  },
+  {
+    "number": 1761,
+    "termin": "flake ",
+    "transcription": "[fleɪk] ",
+    "translate": "слоиться, крошиться "
+  },
+  {
+    "number": 1762,
+    "termin": "flakes ",
+    "transcription": "[fleɪks] ",
+    "translate": "хлопья "
+  },
+  {
+    "number": 1763,
+    "termin": "flame ",
+    "transcription": "[fleɪm] ",
+    "translate": "пламя, пылать "
+  },
+  {
+    "number": 1764,
+    "termin": "flank ",
+    "transcription": "[flæŋk] ",
+    "translate": "бок, фланг "
+  },
+  {
+    "number": 1765,
+    "termin": "flap ",
+    "transcription": "[flæp] ",
+    "translate": "створка, клапан, хлопать "
+  },
+  {
+    "number": 1766,
+    "termin": "flare ",
+    "transcription": "[fleə] ",
+    "translate": "вспышка, вспыхивать "
+  },
+  {
+    "number": 1767,
+    "termin": "flash ",
+    "transcription": "[flæʃ] ",
+    "translate": "вспышка, вспыхнуть "
+  },
+  {
+    "number": 1768,
+    "termin": "flashlight ",
+    "transcription": "[ˈflæʃˌlaɪt] ",
+    "translate": "фонарик "
+  },
+  {
+    "number": 1769,
+    "termin": "flat ",
+    "transcription": "[flæt] ",
+    "translate": "плоский, ровный "
+  },
+  {
+    "number": 1770,
+    "termin": "flat ",
+    "transcription": "[flæt] ",
+    "translate": "квартира "
+  },
+  {
+    "number": 1771,
+    "termin": "flatter ",
+    "transcription": "[ˈflætə] ",
+    "translate": "льстить "
+  },
+  {
+    "number": 1772,
+    "termin": "flavor ",
+    "transcription": "[ˈfleɪvə] ",
+    "translate": "вкус, приправлять "
+  },
+  {
+    "number": 1773,
+    "termin": "flaw ",
+    "transcription": "[flɔː] ",
+    "translate": "изъян "
+  },
+  {
+    "number": 1774,
+    "termin": "flea ",
+    "transcription": "[fliː] ",
+    "translate": "блоха "
+  },
+  {
+    "number": 1775,
+    "termin": "flee (fled, fled) ",
+    "transcription": "[fliː] ",
+    "translate": "спасаться бегством "
+  },
+  {
+    "number": 1776,
+    "termin": "fleet ",
+    "transcription": "[fliːt] ",
+    "translate": "флот "
+  },
+  {
+    "number": 1777,
+    "termin": "fleeting ",
+    "transcription": "[ˈfliːtɪŋ] ",
+    "translate": "мимолётный, скоротечный "
+  },
+  {
+    "number": 1778,
+    "termin": "flesh ",
+    "transcription": "[flɛʃ] ",
+    "translate": "плоть, мясо "
+  },
+  {
+    "number": 1779,
+    "termin": "flex ",
+    "transcription": "[flɛks] ",
+    "translate": "сгибать "
+  },
+  {
+    "number": 1780,
+    "termin": "flick ",
+    "transcription": "[flɪk] ",
+    "translate": "короткое резкое движение "
+  },
+  {
+    "number": 1781,
+    "termin": "flick ",
+    "transcription": "[flɪk] ",
+    "translate": "фильм (разг.) "
+  },
+  {
+    "number": 1782,
+    "termin": "flick through ",
+    "transcription": "[flɪkθruː] ",
+    "translate": "просмотреть, пролистать "
+  },
+  {
+    "number": 1783,
+    "termin": "flicker ",
+    "transcription": "[ˈflɪkə] ",
+    "translate": "мерцать "
+  },
+  {
+    "number": 1784,
+    "termin": "flight ",
+    "transcription": "[flaɪt] ",
+    "translate": "полёт, рейс "
+  },
+  {
+    "number": 1785,
+    "termin": "flight ",
+    "transcription": "[flaɪt] ",
+    "translate": "бегство "
+  },
+  {
+    "number": 1786,
+    "termin": "flight attendant ",
+    "transcription": "[flaɪtəˈtɛndənt] ",
+    "translate": "бортпроводник "
+  },
+  {
+    "number": 1787,
+    "termin": "flinch ",
+    "transcription": "[flɪnʧ] ",
+    "translate": "дёрнуться, дрогнуть "
+  },
+  {
+    "number": 1788,
+    "termin": "fling (flung, flung) ",
+    "transcription": "[flɪŋ] ",
+    "translate": "швырнуть "
+  },
+  {
+    "number": 1789,
+    "termin": "flip ",
+    "transcription": "[flɪp] ",
+    "translate": "переворачивать, перевёрнутый "
+  },
+  {
+    "number": 1790,
+    "termin": "float ",
+    "transcription": "[fləʊt] ",
+    "translate": "плыть "
+  },
+  {
+    "number": 1791,
+    "termin": "flock ",
+    "transcription": "[flɒk] ",
+    "translate": "стадо, стая "
+  },
+  {
+    "number": 1792,
+    "termin": "flood ",
+    "transcription": "[flʌd] ",
+    "translate": "потоп, наводнение, наводнять "
+  },
+  {
+    "number": 1793,
+    "termin": "flood in ",
+    "transcription": "[flʌdɪn] ",
+    "translate": "наплыть, валить потоком "
+  },
+  {
+    "number": 1794,
+    "termin": "floor ",
+    "transcription": "[flɔː] ",
+    "translate": "пол "
+  },
+  {
+    "number": 1795,
+    "termin": "floor ",
+    "transcription": "[flɔː] ",
+    "translate": "этаж "
+  },
+  {
+    "number": 1796,
+    "termin": "flop ",
+    "transcription": "[flɒp] ",
+    "translate": "провал, неудача "
+  },
+  {
+    "number": 1797,
+    "termin": "flour ",
+    "transcription": "[ˈflaʊə] ",
+    "translate": "мука "
+  },
+  {
+    "number": 1798,
+    "termin": "flourish ",
+    "transcription": "[ˈflʌrɪʃ] ",
+    "translate": "процветать "
+  },
+  {
+    "number": 1799,
+    "termin": "flow ",
+    "transcription": "[fləʊ] ",
+    "translate": "поток, течь "
+  },
+  {
+    "number": 1800,
+    "termin": "flu ",
+    "transcription": "[fluː] ",
+    "translate": "грипп "
+  },
+  {
+    "number": 1801,
+    "termin": "fluctuate ",
+    "transcription": "[ˈflʌktjʊeɪt] ",
+    "translate": "колебаться "
+  },
+  {
+    "number": 1802,
+    "termin": "fluent ",
+    "transcription": "[ˈflu(ː)ənt] ",
+    "translate": "беглый "
+  },
+  {
+    "number": 1803,
+    "termin": "fluffy ",
+    "transcription": "[ˈflʌfi] ",
+    "translate": "пушистый "
+  },
+  {
+    "number": 1804,
+    "termin": "fluid ",
+    "transcription": "[ˈflu(ː)ɪd] ",
+    "translate": "жидкий, текучий "
+  },
+  {
+    "number": 1805,
+    "termin": "flurry ",
+    "transcription": "[ˈflʌri] ",
+    "translate": "поток, шквал "
+  },
+  {
+    "number": 1806,
+    "termin": "flush ",
+    "transcription": "[flʌʃ] ",
+    "translate": "промывать, смывать "
+  },
+  {
+    "number": 1807,
+    "termin": "flush ",
+    "transcription": "[flʌʃ] ",
+    "translate": "румянец, порозоветь "
+  },
+  {
+    "number": 1808,
+    "termin": "flute ",
+    "transcription": "[fluːt] ",
+    "translate": "флейта "
+  },
+  {
+    "number": 1809,
+    "termin": "flutter ",
+    "transcription": "[ˈflʌtə] ",
+    "translate": "трепетать, развеваться, порхать "
+  },
+  {
+    "number": 1810,
+    "termin": "fly ",
+    "transcription": "[flaɪ] ",
+    "translate": "муха "
+  },
+  {
+    "number": 1811,
+    "termin": "foam ",
+    "transcription": "[fəʊm] ",
+    "translate": "пена "
+  },
+  {
+    "number": 1812,
+    "termin": "focus ",
+    "transcription": "[ˈfəʊkəs] ",
+    "translate": "сосредоточить (ся) "
+  },
+  {
+    "number": 1813,
+    "termin": "foe ",
+    "transcription": "[fəʊ] ",
+    "translate": "недруг "
+  },
+  {
+    "number": 1814,
+    "termin": "fog ",
+    "transcription": "[fɒg] ",
+    "translate": "туман "
+  },
+  {
+    "number": 1815,
+    "termin": "foil ",
+    "transcription": "[fɔɪl] ",
+    "translate": "расстраивать, разрушать "
+  },
+  {
+    "number": 1816,
+    "termin": "foil ",
+    "transcription": "[fɔɪl] ",
+    "translate": "фольга "
+  },
+  {
+    "number": 1817,
+    "termin": "fold ",
+    "transcription": "[fəʊld] ",
+    "translate": "сворачивать, складывать "
+  },
+  {
+    "number": 1818,
+    "termin": "folder ",
+    "transcription": "[ˈfəʊldə] ",
+    "translate": "папка "
+  },
+  {
+    "number": 1819,
+    "termin": "foliage ",
+    "transcription": "[ˈfəʊlɪɪʤ] ",
+    "translate": "листва "
+  },
+  {
+    "number": 1820,
+    "termin": "folk ",
+    "transcription": "[fəʊk] ",
+    "translate": "люди, народ "
+  },
+  {
+    "number": 1821,
+    "termin": "follow ",
+    "transcription": "[ˈfɒləʊ] ",
+    "translate": "следовать, следить "
+  },
+  {
+    "number": 1822,
+    "termin": "folly ",
+    "transcription": "[ˈfɒli] ",
+    "translate": "глупость, безумие "
+  },
+  {
+    "number": 1823,
+    "termin": "fond of ",
+    "transcription": "[fɒndɒv] ",
+    "translate": "любящий "
+  },
+  {
+    "number": 1824,
+    "termin": "fool ",
+    "transcription": "[fuːl] ",
+    "translate": "дурак, дурачить "
+  },
+  {
+    "number": 1825,
+    "termin": "fool around ",
+    "transcription": "[fuːləˈraʊnd] ",
+    "translate": "придуриваться, баловаться "
+  },
+  {
+    "number": 1826,
+    "termin": "footage ",
+    "transcription": "[ˈfʊtɪʤ] ",
+    "translate": "запись, кадры видео "
+  },
+  {
+    "number": 1827,
+    "termin": "footing ",
+    "transcription": "[ˈfʊtɪŋ] ",
+    "translate": "опора, основа "
+  },
+  {
+    "number": 1828,
+    "termin": "footprint ",
+    "transcription": "[ˈfʊtprɪnt] ",
+    "translate": "след "
+  },
+  {
+    "number": 1829,
+    "termin": "for real ",
+    "transcription": "[fɔːrɪəl] ",
+    "translate": "правда, серьёзно "
+  },
+  {
+    "number": 1830,
+    "termin": "for sure ",
+    "transcription": "[fɔːʃʊə] ",
+    "translate": "наверняка, точно "
+  },
+  {
+    "number": 1831,
+    "termin": "for the sake of ",
+    "transcription": "[fɔːðəseɪkɒv] ",
+    "translate": "ради "
+  },
+  {
+    "number": 1832,
+    "termin": "forbid (forbade, forbidden) ",
+    "transcription": "[fəˈbɪd] ",
+    "translate": "запрещать "
+  },
+  {
+    "number": 1833,
+    "termin": "forcible ",
+    "transcription": "[ˈfɔːsəbl] ",
+    "translate": "насильственный "
+  },
+  {
+    "number": 1834,
+    "termin": "forecast ",
+    "transcription": "[ˈfɔːkɑːst] ",
+    "translate": "прогноз "
+  },
+  {
+    "number": 1835,
+    "termin": "forehead ",
+    "transcription": "[ˈfɒrɪd] ",
+    "translate": "лоб "
+  },
+  {
+    "number": 1836,
+    "termin": "foreign ",
+    "transcription": "[ˈfɒrɪn] ",
+    "translate": "иностранный "
+  },
+  {
+    "number": 1837,
+    "termin": "foreman ",
+    "transcription": "[ˈfɔːmən] ",
+    "translate": "мастер, бригадир "
+  },
+  {
+    "number": 1838,
+    "termin": "foremost ",
+    "transcription": "[ˈfɔːməʊst] ",
+    "translate": "передовой, первоочередной "
+  },
+  {
+    "number": 1839,
+    "termin": "foresee ",
+    "transcription": "[fɔːˈsiː] ",
+    "translate": "предвидеть "
+  },
+  {
+    "number": 1840,
+    "termin": "forge ",
+    "transcription": "[fɔːʤ] ",
+    "translate": "ковать "
+  },
+  {
+    "number": 1841,
+    "termin": "forge ",
+    "transcription": "[fɔːʤ] ",
+    "translate": "подделывать "
+  },
+  {
+    "number": 1842,
+    "termin": "forgive ",
+    "transcription": "[fəˈgɪv] ",
+    "translate": "простить "
+  },
+  {
+    "number": 1843,
+    "termin": "fork ",
+    "transcription": "[fɔːk] ",
+    "translate": "развилка, раздваиваться "
+  },
+  {
+    "number": 1844,
+    "termin": "former ",
+    "transcription": "[ˈfɔːmə] ",
+    "translate": "бывший "
+  },
+  {
+    "number": 1845,
+    "termin": "former ",
+    "transcription": "[ˈfɔːmə] ",
+    "translate": "первый (из названных) "
+  },
+  {
+    "number": 1846,
+    "termin": "formidable ",
+    "transcription": "[ˈfɔːmɪdəbl] ",
+    "translate": "внушительный, грозный "
+  },
+  {
+    "number": 1847,
+    "termin": "forth ",
+    "transcription": "[fɔːθ] ",
+    "translate": "дальше, вперёд "
+  },
+  {
+    "number": 1848,
+    "termin": "forthcoming ",
+    "transcription": "[fɔːθˈkʌmɪŋ] ",
+    "translate": "предстоящий "
+  },
+  {
+    "number": 1849,
+    "termin": "fortify ",
+    "transcription": "[ˈfɔːtɪfaɪ] ",
+    "translate": "укреплять, поддерживать "
+  },
+  {
+    "number": 1850,
+    "termin": "fortnight ",
+    "transcription": "[ˈfɔːtnaɪt] ",
+    "translate": "две недели (брит.) "
+  },
+  {
+    "number": 1851,
+    "termin": "fortunate ",
+    "transcription": "[ˈfɔːʧnɪt] ",
+    "translate": "удачный "
+  },
+  {
+    "number": 1852,
+    "termin": "fortune ",
+    "transcription": "[ˈfɔːʧən] ",
+    "translate": "состояние (деньги) "
+  },
+  {
+    "number": 1853,
+    "termin": "fortune ",
+    "transcription": "[ˈfɔːʧən] ",
+    "translate": "счастье, удача, судьба "
+  },
+  {
+    "number": 1854,
+    "termin": "fossil ",
+    "transcription": "[ˈfɒsl] ",
+    "translate": "ископаемое "
+  },
+  {
+    "number": 1855,
+    "termin": "foster ",
+    "transcription": "[ˈfɒstə] ",
+    "translate": "приёмный (ребёнок) "
+  },
+  {
+    "number": 1856,
+    "termin": "foster ",
+    "transcription": "[ˈfɒstə] ",
+    "translate": "способствовать, питать и т.д. "
+  },
+  {
+    "number": 1857,
+    "termin": "foul ",
+    "transcription": "[faʊl] ",
+    "translate": "гадкий, скверный, грязный "
+  },
+  {
+    "number": 1858,
+    "termin": "found ",
+    "transcription": "[faʊnd] ",
+    "translate": "основать, учредить "
+  },
+  {
+    "number": 1859,
+    "termin": "foundation ",
+    "transcription": "[faʊnˈdeɪʃən] ",
+    "translate": "фундамент "
+  },
+  {
+    "number": 1860,
+    "termin": "fountain ",
+    "transcription": "[ˈfaʊntɪn] ",
+    "translate": "фонтан "
+  },
+  {
+    "number": 1861,
+    "termin": "foyer ",
+    "transcription": "[ˈfɔɪeɪ] ",
+    "translate": "фойе "
+  },
+  {
+    "number": 1862,
+    "termin": "fraction ",
+    "transcription": "[ˈfrækʃən] ",
+    "translate": "доля, часть, дробь "
+  },
+  {
+    "number": 1863,
+    "termin": "fracture ",
+    "transcription": "[ˈfrækʧə] ",
+    "translate": "перелом, разрушение "
+  },
+  {
+    "number": 1864,
+    "termin": "fragile ",
+    "transcription": "[ˈfræʤaɪl] ",
+    "translate": "хрупкий "
+  },
+  {
+    "number": 1865,
+    "termin": "fragrant ",
+    "transcription": "[ˈfreɪgrənt] ",
+    "translate": "душистый, ароматный "
+  },
+  {
+    "number": 1866,
+    "termin": "frail ",
+    "transcription": "[freɪl] ",
+    "translate": "хилый "
+  },
+  {
+    "number": 1867,
+    "termin": "frame ",
+    "transcription": "[freɪm] ",
+    "translate": "рамка, каркас и т.п. "
+  },
+  {
+    "number": 1868,
+    "termin": "framework ",
+    "transcription": "[ˈfreɪmwɜːk] ",
+    "translate": "каркас, основа, рамки "
+  },
+  {
+    "number": 1869,
+    "termin": "frank ",
+    "transcription": "[fræŋk] ",
+    "translate": "откровенный "
+  },
+  {
+    "number": 1870,
+    "termin": "frantic ",
+    "transcription": "[ˈfræntɪk] ",
+    "translate": "неистовый, бешеный "
+  },
+  {
+    "number": 1871,
+    "termin": "fraud ",
+    "transcription": "[frɔːd] ",
+    "translate": "обман, мошенничество "
+  },
+  {
+    "number": 1872,
+    "termin": "fray ",
+    "transcription": "[freɪ] ",
+    "translate": "драка, бой, соревнование "
+  },
+  {
+    "number": 1873,
+    "termin": "frayed ",
+    "transcription": "[freɪd] ",
+    "translate": "потрёпанный "
+  },
+  {
+    "number": 1874,
+    "termin": "freak ",
+    "transcription": "[friːk] ",
+    "translate": "урод "
+  },
+  {
+    "number": 1875,
+    "termin": "freak out ",
+    "transcription": "[friːkaʊt] ",
+    "translate": "пугать "
+  },
+  {
+    "number": 1876,
+    "termin": "free ",
+    "transcription": "[friː] ",
+    "translate": "свободный или бесплатный "
+  },
+  {
+    "number": 1877,
+    "termin": "free up ",
+    "transcription": "[friːʌp] ",
+    "translate": "высвободить "
+  },
+  {
+    "number": 1878,
+    "termin": "freeway ",
+    "transcription": "[ˈfriːweɪ] ",
+    "translate": "автострада "
+  },
+  {
+    "number": 1879,
+    "termin": "freeze (froze, frozen) ",
+    "transcription": "[friːz] ",
+    "translate": "замораживать "
+  },
+  {
+    "number": 1880,
+    "termin": "freight ",
+    "transcription": "[freɪt] ",
+    "translate": "грузовой "
+  },
+  {
+    "number": 1881,
+    "termin": "frenzy ",
+    "transcription": "[ˈfrɛnzi] ",
+    "translate": "неистовство, безумие "
+  },
+  {
+    "number": 1882,
+    "termin": "frequent ",
+    "transcription": "[ˈfriːkwənt] ",
+    "translate": "частый "
+  },
+  {
+    "number": 1883,
+    "termin": "freshen up ",
+    "transcription": "[ˈfrɛʃnʌp] ",
+    "translate": "освежить(ся) "
+  },
+  {
+    "number": 1884,
+    "termin": "fret ",
+    "transcription": "[frɛt] ",
+    "translate": "волновать (ся) "
+  },
+  {
+    "number": 1885,
+    "termin": "friction ",
+    "transcription": "[ˈfrɪkʃən] ",
+    "translate": "трение "
+  },
+  {
+    "number": 1886,
+    "termin": "friendly ",
+    "transcription": "[ˈfrɛndli] ",
+    "translate": "дружелюбный "
+  },
+  {
+    "number": 1887,
+    "termin": "fright ",
+    "transcription": "[fraɪt] ",
+    "translate": "испуг "
+  },
+  {
+    "number": 1888,
+    "termin": "frighten off ",
+    "transcription": "[ˈfraɪtnɒf] ",
+    "translate": "отпугивать "
+  },
+  {
+    "number": 1889,
+    "termin": "fringe ",
+    "transcription": "[frɪnʤ] ",
+    "translate": "край, крайний "
+  },
+  {
+    "number": 1890,
+    "termin": "frog ",
+    "transcription": "[frɒg] ",
+    "translate": "лягушка "
+  },
+  {
+    "number": 1891,
+    "termin": "front ",
+    "transcription": "[frʌnt] ",
+    "translate": "перед, передний "
+  },
+  {
+    "number": 1892,
+    "termin": "frontier ",
+    "transcription": "[ˈfrʌntɪə] ",
+    "translate": "граница "
+  },
+  {
+    "number": 1893,
+    "termin": "frost ",
+    "transcription": "[frɒst] ",
+    "translate": "мороз "
+  },
+  {
+    "number": 1894,
+    "termin": "frown ",
+    "transcription": "[fraʊn] ",
+    "translate": "хмуриться "
+  },
+  {
+    "number": 1895,
+    "termin": "fruitless ",
+    "transcription": "[ˈfruːtlɪs] ",
+    "translate": "бесплодный "
+  },
+  {
+    "number": 1896,
+    "termin": "frustrate ",
+    "transcription": "[frʌsˈtreɪt] ",
+    "translate": "расстраивать (план, схему) "
+  },
+  {
+    "number": 1897,
+    "termin": "fry ",
+    "transcription": "[fraɪ] ",
+    "translate": "жарить "
+  },
+  {
+    "number": 1898,
+    "termin": "fuck with ",
+    "transcription": "[fʌkwɪð] ",
+    "translate": "дразнить, шутить, злить "
+  },
+  {
+    "number": 1899,
+    "termin": "fuel ",
+    "transcription": "[fjʊəl] ",
+    "translate": "топливо, заправлять "
+  },
+  {
+    "number": 1900,
+    "termin": "fugitive ",
+    "transcription": "[ˈfjuːʤɪtɪv] ",
+    "translate": "беглец "
+  },
+  {
+    "number": 1901,
+    "termin": "fulfil ",
+    "transcription": "[fʊlˈfɪl] ",
+    "translate": "исполнить "
+  },
+  {
+    "number": 1902,
+    "termin": "fumble ",
+    "transcription": "[ˈfʌmbl] ",
+    "translate": "щупать, лапать, мять и т. д. "
+  },
+  {
+    "number": 1903,
+    "termin": "fume ",
+    "transcription": "[fjuːm] ",
+    "translate": "дым, испарение "
+  },
+  {
+    "number": 1904,
+    "termin": "fund ",
+    "transcription": "[fʌnd] ",
+    "translate": "фонд, финансировать "
+  },
+  {
+    "number": 1905,
+    "termin": "funeral ",
+    "transcription": "[ˈfjuːnərəl] ",
+    "translate": "похороны, похоронный "
+  },
+  {
+    "number": 1906,
+    "termin": "fungus ",
+    "transcription": "[ˈfʌŋgəs] ",
+    "translate": "гриб, грибок "
+  },
+  {
+    "number": 1907,
+    "termin": "funnel ",
+    "transcription": "[ˈfʌnl] ",
+    "translate": "воронка "
+  },
+  {
+    "number": 1908,
+    "termin": "fur ",
+    "transcription": "[fɜː] ",
+    "translate": "мех "
+  },
+  {
+    "number": 1909,
+    "termin": "furnace ",
+    "transcription": "[ˈfɜːnɪs] ",
+    "translate": "печь "
+  },
+  {
+    "number": 1910,
+    "termin": "furnish ",
+    "transcription": "[ˈfɜːnɪʃ] ",
+    "translate": "предоставлять "
+  },
+  {
+    "number": 1911,
+    "termin": "furnish ",
+    "transcription": "[ˈfɜːnɪʃ] ",
+    "translate": "обставлять, меблировать "
+  },
+  {
+    "number": 1912,
+    "termin": "furniture ",
+    "transcription": "[ˈfɜːnɪʧə] ",
+    "translate": "мебель "
+  },
+  {
+    "number": 1913,
+    "termin": "further ",
+    "transcription": "[ˈfɜːðə] ",
+    "translate": "дальнейший, далее "
+  },
+  {
+    "number": 1914,
+    "termin": "fury ",
+    "transcription": "[ˈfjʊəri] ",
+    "translate": "ярость, бешенство "
+  },
+  {
+    "number": 1915,
+    "termin": "fuse ",
+    "transcription": "[fjuːz] ",
+    "translate": "плавиться, сливаться "
+  },
+  {
+    "number": 1916,
+    "termin": "fuss ",
+    "transcription": "[fʌs] ",
+    "translate": "суетиться "
+  },
+  {
+    "number": 1917,
+    "termin": "futile ",
+    "transcription": "[ˈfjuːtaɪl] ",
+    "translate": "тщетный, напрасный "
+  },
+  {
+    "number": 1918,
+    "termin": "future ",
+    "transcription": "[ˈfjuːʧə] ",
+    "translate": "будущий, будущее "
+  },
+  {
+    "number": 1919,
+    "termin": "fuzzy ",
+    "transcription": "[ˈfʌzi] ",
+    "translate": "пушистый, ворсистый "
+  }
+]

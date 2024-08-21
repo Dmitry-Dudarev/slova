@@ -1,0 +1,914 @@
+[
+  {
+    "number": 2274,
+    "termin": "ID ",
+    "transcription": "[aɪ-diː] ",
+    "translate": "удостоверение личности "
+  },
+  {
+    "number": 2275,
+    "termin": "idle ",
+    "transcription": "[ˈaɪdl] ",
+    "translate": "праздный, бездействующий "
+  },
+  {
+    "number": 2276,
+    "termin": "ignite ",
+    "transcription": "[ɪgˈnaɪt] ",
+    "translate": "воспламеняться "
+  },
+  {
+    "number": 2277,
+    "termin": "ignorant ",
+    "transcription": "[ˈɪgnərənt] ",
+    "translate": "невежественный "
+  },
+  {
+    "number": 2278,
+    "termin": "ill ",
+    "transcription": "[ɪl] ",
+    "translate": "больной "
+  },
+  {
+    "number": 2279,
+    "termin": "ill ",
+    "transcription": "[ɪl] ",
+    "translate": "дурной, нехороший "
+  },
+  {
+    "number": 2280,
+    "termin": "illicit ",
+    "transcription": "[ɪˈlɪsɪt] ",
+    "translate": "незаконный, запрещённый "
+  },
+  {
+    "number": 2281,
+    "termin": "illuminate ",
+    "transcription": "[ɪˈljuːmɪneɪt] ",
+    "translate": "освещать "
+  },
+  {
+    "number": 2282,
+    "termin": "image ",
+    "transcription": "[ˈɪmɪʤ] ",
+    "translate": "изображение, образ "
+  },
+  {
+    "number": 2283,
+    "termin": "imagine ",
+    "transcription": "[ɪˈmæʤɪn] ",
+    "translate": "вообразить "
+  },
+  {
+    "number": 2284,
+    "termin": "immediate ",
+    "transcription": "[ɪˈmiːdiət] ",
+    "translate": "немедленный, непосредственный "
+  },
+  {
+    "number": 2285,
+    "termin": "immense ",
+    "transcription": "[ɪˈmɛns] ",
+    "translate": "огромный "
+  },
+  {
+    "number": 2286,
+    "termin": "immerse ",
+    "transcription": "[ɪˈmɜːs] ",
+    "translate": "погружаться (в т. ч. перен) "
+  },
+  {
+    "number": 2287,
+    "termin": "imminent ",
+    "transcription": "[ˈɪmɪnənt] ",
+    "translate": "неизбежный "
+  },
+  {
+    "number": 2288,
+    "termin": "impact ",
+    "transcription": "[ˈɪmpækt] ",
+    "translate": "воздействие, удар "
+  },
+  {
+    "number": 2289,
+    "termin": "impair ",
+    "transcription": "[ɪmˈpeə] ",
+    "translate": "ухудшать, ослаблять и т.д. "
+  },
+  {
+    "number": 2290,
+    "termin": "impede ",
+    "transcription": "[ɪmˈpiːd] ",
+    "translate": "затруднять "
+  },
+  {
+    "number": 2291,
+    "termin": "impending ",
+    "transcription": "[ɪmˈpɛndɪŋ] ",
+    "translate": "предстоящий, грозящий "
+  },
+  {
+    "number": 2292,
+    "termin": "imperative ",
+    "transcription": "[ɪmˈpɛrətɪv] ",
+    "translate": "обязательный, необходимый "
+  },
+  {
+    "number": 2293,
+    "termin": "implement ",
+    "transcription": "[ˈɪmplɪmənt] ",
+    "translate": "осуществлять "
+  },
+  {
+    "number": 2294,
+    "termin": "implicate ",
+    "transcription": "[ˈɪmplɪkeɪt] ",
+    "translate": "указать на причастность "
+  },
+  {
+    "number": 2295,
+    "termin": "implicit ",
+    "transcription": "[ɪmˈplɪsɪt] ",
+    "translate": "подразумеваемый, неявный "
+  },
+  {
+    "number": 2296,
+    "termin": "imply ",
+    "transcription": "[ɪmˈplaɪ] ",
+    "translate": "подразумевать "
+  },
+  {
+    "number": 2297,
+    "termin": "importance ",
+    "transcription": "[ɪmˈpɔːtəns] ",
+    "translate": "важность "
+  },
+  {
+    "number": 2298,
+    "termin": "impose ",
+    "transcription": "[ɪmˈpəʊz] ",
+    "translate": "навязывать, налагать "
+  },
+  {
+    "number": 2299,
+    "termin": "imposing ",
+    "transcription": "[ɪmˈpəʊzɪŋ] ",
+    "translate": "внушительный, импозантный "
+  },
+  {
+    "number": 2300,
+    "termin": "impress ",
+    "transcription": "[ˈɪmprɛs] ",
+    "translate": "впечатлить "
+  },
+  {
+    "number": 2301,
+    "termin": "imprint ",
+    "transcription": "[ˈɪmprɪnt] ",
+    "translate": "отпечаток, отпечатывать "
+  },
+  {
+    "number": 2302,
+    "termin": "improve ",
+    "transcription": "[ɪmˈpruːv] ",
+    "translate": "улучшить "
+  },
+  {
+    "number": 2303,
+    "termin": "in a row ",
+    "transcription": "[ɪnərəʊ] ",
+    "translate": "подряд "
+  },
+  {
+    "number": 2304,
+    "termin": "in advance ",
+    "transcription": "[ɪnədˈvɑːns] ",
+    "translate": "заранее "
+  },
+  {
+    "number": 2305,
+    "termin": "in charge ",
+    "transcription": "[ɪnʧɑːʤ] ",
+    "translate": "во главе "
+  },
+  {
+    "number": 2306,
+    "termin": "in spite of ",
+    "transcription": "[ɪnspaɪtɒv] ",
+    "translate": "несмотря на "
+  },
+  {
+    "number": 2307,
+    "termin": "incentive ",
+    "transcription": "[ɪnˈsɛntɪv] ",
+    "translate": "стимул, мотив "
+  },
+  {
+    "number": 2308,
+    "termin": "inch ",
+    "transcription": "[ɪnʧ] ",
+    "translate": "дюйм "
+  },
+  {
+    "number": 2309,
+    "termin": "incidence ",
+    "transcription": "[ˈɪnsɪdəns] ",
+    "translate": "частотность, распространённость "
+  },
+  {
+    "number": 2310,
+    "termin": "incline ",
+    "transcription": "[ɪnˈklaɪn] ",
+    "translate": "наклонять, склонять (втч. перен) "
+  },
+  {
+    "number": 2311,
+    "termin": "include ",
+    "transcription": "[ɪnˈkluːd] ",
+    "translate": "включать, содержать в себе "
+  },
+  {
+    "number": 2312,
+    "termin": "income ",
+    "transcription": "[ˈɪnkʌm] ",
+    "translate": "доход "
+  },
+  {
+    "number": 2313,
+    "termin": "incoming ",
+    "transcription": "[ˈɪnˌkʌmɪŋ] ",
+    "translate": "входящий "
+  },
+  {
+    "number": 2314,
+    "termin": "incorporate ",
+    "transcription": "[ɪnˈkɔːpərɪt] ",
+    "translate": "вобрать, соединить "
+  },
+  {
+    "number": 2315,
+    "termin": "increase ",
+    "transcription": "[ɪnˈkriːs] ",
+    "translate": "увеличивать(ся) "
+  },
+  {
+    "number": 2316,
+    "termin": "incredible ",
+    "transcription": "[ɪnˈkrɛdəbl] ",
+    "translate": "невероятный "
+  },
+  {
+    "number": 2317,
+    "termin": "incumbent ",
+    "transcription": "[ɪnˈkʌmbənt] ",
+    "translate": "возложенный "
+  },
+  {
+    "number": 2318,
+    "termin": "incur ",
+    "transcription": "[ɪnˈkɜː] ",
+    "translate": "навлечь, повлечь "
+  },
+  {
+    "number": 2319,
+    "termin": "indeed ",
+    "transcription": "[ɪnˈdiːd] ",
+    "translate": "в самом деле "
+  },
+  {
+    "number": 2320,
+    "termin": "indicate ",
+    "transcription": "[ˈɪndɪkeɪt] ",
+    "translate": "указывать, означать "
+  },
+  {
+    "number": 2321,
+    "termin": "indifferent ",
+    "transcription": "[ɪnˈdɪfrənt] ",
+    "translate": "безразличный "
+  },
+  {
+    "number": 2322,
+    "termin": "indigenous ",
+    "transcription": "[ɪnˈdɪʤɪnəs] ",
+    "translate": "коренной, местный "
+  },
+  {
+    "number": 2323,
+    "termin": "induce ",
+    "transcription": "[ɪnˈdjuːs] ",
+    "translate": "вызывать, побуждать "
+  },
+  {
+    "number": 2324,
+    "termin": "indulge ",
+    "transcription": "[ɪnˈdʌlʤ] ",
+    "translate": "баловать, потворствовать "
+  },
+  {
+    "number": 2325,
+    "termin": "industry ",
+    "transcription": "[ˈɪndəstri] ",
+    "translate": "отрасль "
+  },
+  {
+    "number": 2326,
+    "termin": "inevitable ",
+    "transcription": "[ɪnˈɛvɪtəbl] ",
+    "translate": "неизбежный "
+  },
+  {
+    "number": 2327,
+    "termin": "inexplicable ",
+    "transcription": "[ɪnˈɛksplɪkəbl] ",
+    "translate": "необъяснимый "
+  },
+  {
+    "number": 2328,
+    "termin": "infamous ",
+    "transcription": "[ˈɪnfəməs] ",
+    "translate": "печально известный, постыдный "
+  },
+  {
+    "number": 2329,
+    "termin": "infant ",
+    "transcription": "[ˈɪnfənt] ",
+    "translate": "ребёнок "
+  },
+  {
+    "number": 2330,
+    "termin": "infantry ",
+    "transcription": "[ˈɪnfəntri] ",
+    "translate": "пехота "
+  },
+  {
+    "number": 2331,
+    "termin": "infect ",
+    "transcription": "[ɪnˈfɛkt] ",
+    "translate": "заражать "
+  },
+  {
+    "number": 2332,
+    "termin": "infer ",
+    "transcription": "[ɪnˈfɜː] ",
+    "translate": "делать вывод "
+  },
+  {
+    "number": 2333,
+    "termin": "inferior ",
+    "transcription": "[ɪnˈfɪərɪə] ",
+    "translate": "низший "
+  },
+  {
+    "number": 2334,
+    "termin": "infinite ",
+    "transcription": "[ˈɪnfɪnɪt] ",
+    "translate": "бесконечный "
+  },
+  {
+    "number": 2335,
+    "termin": "inflame ",
+    "transcription": "[ɪnˈfleɪm] ",
+    "translate": "разжигать (в осн. перен.) "
+  },
+  {
+    "number": 2336,
+    "termin": "inflate ",
+    "transcription": "[ɪnˈfleɪt] ",
+    "translate": "надувать "
+  },
+  {
+    "number": 2337,
+    "termin": "inflict ",
+    "transcription": "[ɪnˈflɪkt] ",
+    "translate": "причинять, наносить "
+  },
+  {
+    "number": 2338,
+    "termin": "influence ",
+    "transcription": "[ˈɪnflʊəns] ",
+    "translate": "влиять, влияние "
+  },
+  {
+    "number": 2339,
+    "termin": "infuse ",
+    "transcription": "[ɪnˈfjuːz] ",
+    "translate": "вливать, настаивать "
+  },
+  {
+    "number": 2340,
+    "termin": "ingenious ",
+    "transcription": "[ɪnˈʤiːniəs] ",
+    "translate": "изобретательный "
+  },
+  {
+    "number": 2341,
+    "termin": "inhabit ",
+    "transcription": "[ɪnˈhæbɪt] ",
+    "translate": "населять, обитать в "
+  },
+  {
+    "number": 2342,
+    "termin": "inhale ",
+    "transcription": "[ɪnˈheɪl] ",
+    "translate": "вдыхать "
+  },
+  {
+    "number": 2343,
+    "termin": "inherent ",
+    "transcription": "[ɪnˈhɪərənt] ",
+    "translate": "свойственный, присущий "
+  },
+  {
+    "number": 2344,
+    "termin": "inherit ",
+    "transcription": "[ɪnˈhɛrɪt] ",
+    "translate": "унаследовать, перенять "
+  },
+  {
+    "number": 2345,
+    "termin": "inhibit ",
+    "transcription": "[ɪnˈhɪbɪt] ",
+    "translate": "препятствовать, затруднять "
+  },
+  {
+    "number": 2346,
+    "termin": "initial ",
+    "transcription": "[ɪˈnɪʃəl] ",
+    "translate": "первоначальный "
+  },
+  {
+    "number": 2347,
+    "termin": "inject ",
+    "transcription": "[ɪnˈʤɛkt] ",
+    "translate": "впрыскивать, вкачивать "
+  },
+  {
+    "number": 2348,
+    "termin": "injure ",
+    "transcription": "[ˈɪnʤə] ",
+    "translate": "ранить, наносить ущерб "
+  },
+  {
+    "number": 2349,
+    "termin": "ink ",
+    "transcription": "[ɪŋk] ",
+    "translate": "чернила "
+  },
+  {
+    "number": 2350,
+    "termin": "inland ",
+    "transcription": "[ˈɪnlənd] ",
+    "translate": "внутренний, вглубь страны "
+  },
+  {
+    "number": 2351,
+    "termin": "inmate ",
+    "transcription": "[ˈɪnmeɪt] ",
+    "translate": "обитатель "
+  },
+  {
+    "number": 2352,
+    "termin": "inn ",
+    "transcription": "[ɪn] ",
+    "translate": "гостиница "
+  },
+  {
+    "number": 2353,
+    "termin": "inner ",
+    "transcription": "[ˈɪnə] ",
+    "translate": "внутренний "
+  },
+  {
+    "number": 2354,
+    "termin": "innocent ",
+    "transcription": "[ˈɪnəsənt] ",
+    "translate": "невинный, невиновный "
+  },
+  {
+    "number": 2355,
+    "termin": "input ",
+    "transcription": "[ˈɪnpʊt] ",
+    "translate": "вход, ввод "
+  },
+  {
+    "number": 2356,
+    "termin": "inquire ",
+    "transcription": "[ɪnˈkwaɪə] ",
+    "translate": "узнавать, интересоваться "
+  },
+  {
+    "number": 2357,
+    "termin": "insect ",
+    "transcription": "[ˈɪnsɛkt] ",
+    "translate": "насекомое "
+  },
+  {
+    "number": 2358,
+    "termin": "insert ",
+    "transcription": "[ˈɪnsət] ",
+    "translate": "вставить "
+  },
+  {
+    "number": 2359,
+    "termin": "inside ",
+    "transcription": "[ɪnˈsaɪd] ",
+    "translate": "внутри "
+  },
+  {
+    "number": 2360,
+    "termin": "inside out ",
+    "transcription": "[ɪnˈsaɪdaʊt] ",
+    "translate": "наизнанку "
+  },
+  {
+    "number": 2361,
+    "termin": "insight ",
+    "transcription": "[ˈɪnsaɪt] ",
+    "translate": "понимание, догадка "
+  },
+  {
+    "number": 2362,
+    "termin": "insist ",
+    "transcription": "[ɪnˈsɪst] ",
+    "translate": "настаивать "
+  },
+  {
+    "number": 2363,
+    "termin": "inspect ",
+    "transcription": "[ɪnˈspɛkt] ",
+    "translate": "проверять, осматривать "
+  },
+  {
+    "number": 2364,
+    "termin": "inspire ",
+    "transcription": "[ɪnˈspaɪə] ",
+    "translate": "вдохновить, внушить "
+  },
+  {
+    "number": 2365,
+    "termin": "install ",
+    "transcription": "[ɪnˈstɔːl] ",
+    "translate": "устанавливать "
+  },
+  {
+    "number": 2366,
+    "termin": "instance ",
+    "transcription": "[ˈɪnstəns] ",
+    "translate": "пример, экземпляр "
+  },
+  {
+    "number": 2367,
+    "termin": "instant ",
+    "transcription": "[ˈɪnstənt] ",
+    "translate": "мгновенние, мгновенный "
+  },
+  {
+    "number": 2368,
+    "termin": "instead ",
+    "transcription": "[ɪnˈstɛd] ",
+    "translate": "вместо "
+  },
+  {
+    "number": 2369,
+    "termin": "insulate ",
+    "transcription": "[ˈɪnsjʊleɪt] ",
+    "translate": "изолировать, оградить "
+  },
+  {
+    "number": 2370,
+    "termin": "insult ",
+    "transcription": "[ɪnˈsʌlt] ",
+    "translate": "оскорблять "
+  },
+  {
+    "number": 2371,
+    "termin": "insure ",
+    "transcription": "[ɪnˈʃʊə] ",
+    "translate": "страховать, гарантировать "
+  },
+  {
+    "number": 2372,
+    "termin": "insurgent ",
+    "transcription": "[ɪnˈsɜːʤənt] ",
+    "translate": "повстанец, мятежник "
+  },
+  {
+    "number": 2373,
+    "termin": "intact ",
+    "transcription": "[ɪnˈtækt] ",
+    "translate": "неповрежденный "
+  },
+  {
+    "number": 2374,
+    "termin": "intake ",
+    "transcription": "[ˈɪnteɪk] ",
+    "translate": "потребление, приём "
+  },
+  {
+    "number": 2375,
+    "termin": "integral ",
+    "transcription": "[ˈɪntɪgrəl] ",
+    "translate": "составной, неотъемлемый "
+  },
+  {
+    "number": 2376,
+    "termin": "integrity ",
+    "transcription": "[ɪnˈtɛgrɪti] ",
+    "translate": "честность, порядочность "
+  },
+  {
+    "number": 2377,
+    "termin": "integrity ",
+    "transcription": "[ɪnˈtɛgrɪti] ",
+    "translate": "целостность "
+  },
+  {
+    "number": 2378,
+    "termin": "intelligence ",
+    "transcription": "[ɪnˈtɛlɪʤəns] ",
+    "translate": "разведка "
+  },
+  {
+    "number": 2379,
+    "termin": "intelligent ",
+    "transcription": "[ɪnˈtɛlɪʤənt] ",
+    "translate": "умный "
+  },
+  {
+    "number": 2380,
+    "termin": "intelligible ",
+    "transcription": "[ɪnˈtɛlɪʤəbl] ",
+    "translate": "вразумительный, понятный "
+  },
+  {
+    "number": 2381,
+    "termin": "intend ",
+    "transcription": "[ɪnˈtɛnd] ",
+    "translate": "намереваться "
+  },
+  {
+    "number": 2382,
+    "termin": "intended ",
+    "transcription": "[ɪnˈtɛndɪd] ",
+    "translate": "предназначенный "
+  },
+  {
+    "number": 2383,
+    "termin": "interact ",
+    "transcription": "[ˌɪntərˈækt] ",
+    "translate": "взаимодействовать "
+  },
+  {
+    "number": 2384,
+    "termin": "intercept ",
+    "transcription": "[ˈɪntə(ː)sɛpt] ",
+    "translate": "перехватить "
+  },
+  {
+    "number": 2385,
+    "termin": "intercourse ",
+    "transcription": "[ˈɪntə(ː)kɔːs] ",
+    "translate": "отношения или пол. сношение "
+  },
+  {
+    "number": 2386,
+    "termin": "interfere ",
+    "transcription": "[ˌɪntəˈfɪə] ",
+    "translate": "вмешиваться, мешать "
+  },
+  {
+    "number": 2387,
+    "termin": "interim ",
+    "transcription": "[ˈɪntərɪm] ",
+    "translate": "промежуточный, временный "
+  },
+  {
+    "number": 2388,
+    "termin": "interior ",
+    "transcription": "[ɪnˈtɪərɪə] ",
+    "translate": "внутренность, внутренний "
+  },
+  {
+    "number": 2389,
+    "termin": "intermediate ",
+    "transcription": "[ˌɪntəˈmiːdiət] ",
+    "translate": "промежуточный "
+  },
+  {
+    "number": 2390,
+    "termin": "intern ",
+    "transcription": "[ˈɪntɜːn] ",
+    "translate": "стажёр "
+  },
+  {
+    "number": 2391,
+    "termin": "internal ",
+    "transcription": "[ɪnˈtɜːnl] ",
+    "translate": "внутренний "
+  },
+  {
+    "number": 2392,
+    "termin": "interpret ",
+    "transcription": "[ɪnˈtɜːprɪt] ",
+    "translate": "истолковывать "
+  },
+  {
+    "number": 2393,
+    "termin": "interpreter ",
+    "transcription": "[ɪnˈtɜːprɪtə] ",
+    "translate": "переводчик "
+  },
+  {
+    "number": 2394,
+    "termin": "interrogate ",
+    "transcription": "[ɪnˈtɛrəʊgeɪt] ",
+    "translate": "допрашивать "
+  },
+  {
+    "number": 2395,
+    "termin": "interrupt ",
+    "transcription": "[ˌɪntəˈrʌpt] ",
+    "translate": "прерывать, перебивать "
+  },
+  {
+    "number": 2396,
+    "termin": "intersect ",
+    "transcription": "[ˌɪntə(ː)ˈsɛkt] ",
+    "translate": "пересекаться "
+  },
+  {
+    "number": 2397,
+    "termin": "intervene ",
+    "transcription": "[ˌɪntə(ː)ˈviːn] ",
+    "translate": "вмешиваться "
+  },
+  {
+    "number": 2398,
+    "termin": "intestine ",
+    "transcription": "[ɪnˈtɛstɪn] ",
+    "translate": "кишечник "
+  },
+  {
+    "number": 2399,
+    "termin": "intimate ",
+    "transcription": "[ˈɪntɪmɪt] ",
+    "translate": "близкий "
+  },
+  {
+    "number": 2400,
+    "termin": "intimidate ",
+    "transcription": "[ɪnˈtɪmɪdeɪt] ",
+    "translate": "запугивать "
+  },
+  {
+    "number": 2401,
+    "termin": "intricate ",
+    "transcription": "[ˈɪntrɪkɪt] ",
+    "translate": "сложный, запутанный "
+  },
+  {
+    "number": 2402,
+    "termin": "intrinsic ",
+    "transcription": "[ɪnˈtrɪnsɪk] ",
+    "translate": "присущий, внутренний "
+  },
+  {
+    "number": 2403,
+    "termin": "introduce ",
+    "transcription": "[ˌɪntrəˈdjuːs] ",
+    "translate": "представить, познакомить "
+  },
+  {
+    "number": 2404,
+    "termin": "introduce ",
+    "transcription": "[ˌɪntrəˈdjuːs] ",
+    "translate": "ввести (в употребление) "
+  },
+  {
+    "number": 2405,
+    "termin": "intrude on ",
+    "transcription": "[ɪnˈtruːdɒn] ",
+    "translate": "вторгаться, вмешиваться "
+  },
+  {
+    "number": 2406,
+    "termin": "invade ",
+    "transcription": "[ɪnˈveɪd] ",
+    "translate": "вторгаться "
+  },
+  {
+    "number": 2407,
+    "termin": "invent ",
+    "transcription": "[ɪnˈvɛnt] ",
+    "translate": "изобретать "
+  },
+  {
+    "number": 2408,
+    "termin": "inventory ",
+    "transcription": "[ˈɪnvəntri] ",
+    "translate": "опись, учёт "
+  },
+  {
+    "number": 2409,
+    "termin": "invert ",
+    "transcription": "[ˈɪnvɜːt] ",
+    "translate": "переворачивать, опрокидывать "
+  },
+  {
+    "number": 2410,
+    "termin": "investigate ",
+    "transcription": "[ɪnˈvɛstɪgeɪt] ",
+    "translate": "расследовать "
+  },
+  {
+    "number": 2411,
+    "termin": "invite ",
+    "transcription": "[ɪnˈvaɪt] ",
+    "translate": "приглашать "
+  },
+  {
+    "number": 2412,
+    "termin": "invoke ",
+    "transcription": "[ɪnˈvəʊk] ",
+    "translate": "взывать, призывать "
+  },
+  {
+    "number": 2413,
+    "termin": "involve ",
+    "transcription": "[ɪnˈvɒlv] ",
+    "translate": "вовлекать, увлекать "
+  },
+  {
+    "number": 2414,
+    "termin": "involve ",
+    "transcription": "[ɪnˈvɒlv] ",
+    "translate": "содержать в себе (процесс) "
+  },
+  {
+    "number": 2415,
+    "termin": "inward ",
+    "transcription": "[ˈɪnwəd] ",
+    "translate": "внутрь "
+  },
+  {
+    "number": 2416,
+    "termin": "iron ",
+    "transcription": "[ˈaɪən] ",
+    "translate": "утюг, гладить "
+  },
+  {
+    "number": 2417,
+    "termin": "iron ",
+    "transcription": "[ˈaɪən] ",
+    "translate": "железо, железный "
+  },
+  {
+    "number": 2418,
+    "termin": "irritate ",
+    "transcription": "[ˈɪrɪteɪt] ",
+    "translate": "раздражать "
+  },
+  {
+    "number": 2419,
+    "termin": "island ",
+    "transcription": "[ˈaɪlənd] ",
+    "translate": "остров "
+  },
+  {
+    "number": 2420,
+    "termin": "issue ",
+    "transcription": "[ˈɪʃuː] ",
+    "translate": "издать, выпустить, выпуск "
+  },
+  {
+    "number": 2421,
+    "termin": "issue ",
+    "transcription": "[ˈɪʃuː] ",
+    "translate": "вопрос, проблема "
+  },
+  {
+    "number": 2422,
+    "termin": "itch ",
+    "transcription": "[ɪʧ] ",
+    "translate": "зуд, чесаться "
+  },
+  {
+    "number": 2423,
+    "termin": "item ",
+    "transcription": "[ˈaɪtəm] ",
+    "translate": "пункт, номер, предмет "
+  },
+  {
+    "number": 2424,
+    "termin": "ivory ",
+    "transcription": "[ˈaɪvəri] ",
+    "translate": "слоновая кость "
+  },
+  {
+    "number": 2425,
+    "termin": "ivy ",
+    "transcription": "[ˈaɪvi] ",
+    "translate": "плющ "
+  }
+]

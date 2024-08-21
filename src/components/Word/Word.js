@@ -14,9 +14,9 @@ function Word({ word }) {
     <div className="word">
       <p className="word__termin app-text">{termin}</p>
 
-      <ul className="word__translate-section" onClick={handleClick}>
-        <li className={`word__translate app-text ${isTranslateVisible && "word__translate_visible"}`}>{translate}</li>
-      </ul>
+      <div className="word__translate-section" onClick={handleClick}>
+        <p className={`word__translate app-text ${isTranslateVisible && "word__translate_visible"}`}>{translate}</p>
+      </div>
     </div>
   );
 };

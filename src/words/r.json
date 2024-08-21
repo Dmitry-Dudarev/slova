@@ -1,0 +1,1802 @@
+[
+  {
+    "number": 3485,
+    "termin": "rabbit ",
+    "transcription": "[ˈræbɪt] ",
+    "translate": "кролик "
+  },
+  {
+    "number": 3486,
+    "termin": "race ",
+    "transcription": "[reɪs] ",
+    "translate": "раса "
+  },
+  {
+    "number": 3487,
+    "termin": "race ",
+    "transcription": "[reɪs] ",
+    "translate": "гонка "
+  },
+  {
+    "number": 3488,
+    "termin": "rack ",
+    "transcription": "[ræk] ",
+    "translate": "стеллаж, вешалка, подставка "
+  },
+  {
+    "number": 3489,
+    "termin": "radiate ",
+    "transcription": "[ˈreɪdɪɪt] ",
+    "translate": "излучать "
+  },
+  {
+    "number": 3490,
+    "termin": "raft ",
+    "transcription": "[rɑːft] ",
+    "translate": "плот "
+  },
+  {
+    "number": 3491,
+    "termin": "rag ",
+    "transcription": "[ræg] ",
+    "translate": "тряпка "
+  },
+  {
+    "number": 3492,
+    "termin": "rage ",
+    "transcription": "[reɪʤ] ",
+    "translate": "ярость "
+  },
+  {
+    "number": 3493,
+    "termin": "raid ",
+    "transcription": "[reɪd] ",
+    "translate": "набег "
+  },
+  {
+    "number": 3494,
+    "termin": "rail ",
+    "transcription": "[reɪl] ",
+    "translate": "рельс, перила "
+  },
+  {
+    "number": 3495,
+    "termin": "railway ",
+    "transcription": "[ˈreɪlweɪ] ",
+    "translate": "железная дорога "
+  },
+  {
+    "number": 3496,
+    "termin": "rainbow ",
+    "transcription": "[ˈreɪnbəʊ] ",
+    "translate": "радуга "
+  },
+  {
+    "number": 3497,
+    "termin": "raise ",
+    "transcription": "[reɪz] ",
+    "translate": "растить (детей) "
+  },
+  {
+    "number": 3498,
+    "termin": "raise ",
+    "transcription": "[reɪz] ",
+    "translate": "поднять, повысить "
+  },
+  {
+    "number": 3499,
+    "termin": "raisin ",
+    "transcription": "[ˈreɪzn] ",
+    "translate": "изюм "
+  },
+  {
+    "number": 3500,
+    "termin": "rake ",
+    "transcription": "[reɪk] ",
+    "translate": "грабли "
+  },
+  {
+    "number": 3501,
+    "termin": "rally ",
+    "transcription": "[ˈræli] ",
+    "translate": "собраться, созвать (напр. армию) "
+  },
+  {
+    "number": 3502,
+    "termin": "rally ",
+    "transcription": "[ˈræli] ",
+    "translate": "оживать, приходить в себя "
+  },
+  {
+    "number": 3503,
+    "termin": "ram ",
+    "transcription": "[ræm] ",
+    "translate": "баран "
+  },
+  {
+    "number": 3504,
+    "termin": "ramble ",
+    "transcription": "[ˈræmbl] ",
+    "translate": "бродить, блуждать "
+  },
+  {
+    "number": 3505,
+    "termin": "ramp ",
+    "transcription": "[ræmp] ",
+    "translate": "скат, съезд "
+  },
+  {
+    "number": 3506,
+    "termin": "random ",
+    "transcription": "[ˈrændəm] ",
+    "translate": "выбранный наугад "
+  },
+  {
+    "number": 3507,
+    "termin": "range ",
+    "transcription": "[reɪnʤ] ",
+    "translate": "диапазон, пределы "
+  },
+  {
+    "number": 3508,
+    "termin": "rank ",
+    "transcription": "[ræŋk] ",
+    "translate": "ранг, разряд, звание "
+  },
+  {
+    "number": 3509,
+    "termin": "ransom ",
+    "transcription": "[ˈrænsəm] ",
+    "translate": "выкуп "
+  },
+  {
+    "number": 3510,
+    "termin": "rape ",
+    "transcription": "[reɪp] ",
+    "translate": "насиловать, изнасилование "
+  },
+  {
+    "number": 3511,
+    "termin": "rapid ",
+    "transcription": "[ˈræpɪd] ",
+    "translate": "быстрый "
+  },
+  {
+    "number": 3512,
+    "termin": "rare ",
+    "transcription": "[reə] ",
+    "translate": "редкий "
+  },
+  {
+    "number": 3513,
+    "termin": "rash ",
+    "transcription": "[ræʃ] ",
+    "translate": "опрометчивый, необдуманный "
+  },
+  {
+    "number": 3514,
+    "termin": "raspberry ",
+    "transcription": "[ˈrɑːzbəri] ",
+    "translate": "малина "
+  },
+  {
+    "number": 3515,
+    "termin": "rate ",
+    "transcription": "[reɪt] ",
+    "translate": "курс, тариф, ставка "
+  },
+  {
+    "number": 3516,
+    "termin": "rate ",
+    "transcription": "[reɪt] ",
+    "translate": "показатель, уровень, оценивать "
+  },
+  {
+    "number": 3517,
+    "termin": "rather ",
+    "transcription": "[ˈrɑːðə] ",
+    "translate": "скорее, предпочтительнее "
+  },
+  {
+    "number": 3518,
+    "termin": "ratio ",
+    "transcription": "[ˈreɪʃɪəʊ] ",
+    "translate": "соотношение, пропорции "
+  },
+  {
+    "number": 3519,
+    "termin": "rationale ",
+    "transcription": "[ˌræʃəˈnɑːl] ",
+    "translate": "основание, обоснование "
+  },
+  {
+    "number": 3520,
+    "termin": "rattle ",
+    "transcription": "[ˈrætl] ",
+    "translate": "греметь, погремушка "
+  },
+  {
+    "number": 3521,
+    "termin": "ravage ",
+    "transcription": "[ˈrævɪʤ] ",
+    "translate": "разорить, опустошить "
+  },
+  {
+    "number": 3522,
+    "termin": "raw ",
+    "transcription": "[rɔː] ",
+    "translate": "сырой, необработанный "
+  },
+  {
+    "number": 3523,
+    "termin": "ray ",
+    "transcription": "[reɪ] ",
+    "translate": "луч "
+  },
+  {
+    "number": 3524,
+    "termin": "razor ",
+    "transcription": "[ˈreɪzə] ",
+    "translate": "бритва "
+  },
+  {
+    "number": 3525,
+    "termin": "reach ",
+    "transcription": "[riːʧ] ",
+    "translate": "достичь "
+  },
+  {
+    "number": 3526,
+    "termin": "reach out ",
+    "transcription": "[riːʧaʊt] ",
+    "translate": "потянуться (рукой) "
+  },
+  {
+    "number": 3527,
+    "termin": "read out ",
+    "transcription": "[riːdaʊt] ",
+    "translate": "огласить, зачитать вслух "
+  },
+  {
+    "number": 3528,
+    "termin": "read up on ",
+    "transcription": "[riːdʌpɒn] ",
+    "translate": "изучить вопрос "
+  },
+  {
+    "number": 3529,
+    "termin": "real estate ",
+    "transcription": "[rɪəlɪsˈteɪt] ",
+    "translate": "недвижимость "
+  },
+  {
+    "number": 3530,
+    "termin": "realize ",
+    "transcription": "[ˈrɪəlaɪz] ",
+    "translate": "понимать "
+  },
+  {
+    "number": 3531,
+    "termin": "realm ",
+    "transcription": "[rɛlm] ",
+    "translate": "царство или область (перен.) "
+  },
+  {
+    "number": 3532,
+    "termin": "reap ",
+    "transcription": "[riːp] ",
+    "translate": "пожинать "
+  },
+  {
+    "number": 3533,
+    "termin": "rear ",
+    "transcription": "[rɪə] ",
+    "translate": "задний "
+  },
+  {
+    "number": 3534,
+    "termin": "reason ",
+    "transcription": "[ˈriːzn] ",
+    "translate": "разум, благоразумие "
+  },
+  {
+    "number": 3535,
+    "termin": "reason ",
+    "transcription": "[ˈriːzn] ",
+    "translate": "причина, мотив "
+  },
+  {
+    "number": 3536,
+    "termin": "rebel ",
+    "transcription": "[rɪˈbɛl] ",
+    "translate": "восставать "
+  },
+  {
+    "number": 3537,
+    "termin": "rebound ",
+    "transcription": "[rɪˈbaʊnd] ",
+    "translate": "отскочить, рикошет "
+  },
+  {
+    "number": 3538,
+    "termin": "recall ",
+    "transcription": "[rɪˈkɔːl] ",
+    "translate": "вспоминать "
+  },
+  {
+    "number": 3539,
+    "termin": "recede ",
+    "transcription": "[ri(ː)ˈsiːd] ",
+    "translate": "убывать "
+  },
+  {
+    "number": 3540,
+    "termin": "receipt ",
+    "transcription": "[rɪˈsiːt] ",
+    "translate": "квитанция "
+  },
+  {
+    "number": 3541,
+    "termin": "receipt ",
+    "transcription": "[rɪˈsiːt] ",
+    "translate": "получение "
+  },
+  {
+    "number": 3542,
+    "termin": "receive ",
+    "transcription": "[rɪˈsiːv] ",
+    "translate": "получить "
+  },
+  {
+    "number": 3543,
+    "termin": "recent ",
+    "transcription": "[ˈriːsnt] ",
+    "translate": "недавний, последний "
+  },
+  {
+    "number": 3544,
+    "termin": "reception ",
+    "transcription": "[rɪˈsɛpʃən] ",
+    "translate": "прием, приёмная "
+  },
+  {
+    "number": 3545,
+    "termin": "recess ",
+    "transcription": "[rɪˈsɛs] ",
+    "translate": "перерыв "
+  },
+  {
+    "number": 3546,
+    "termin": "recess ",
+    "transcription": "[rɪˈsɛs] ",
+    "translate": "выемка, впадина "
+  },
+  {
+    "number": 3547,
+    "termin": "recipe ",
+    "transcription": "[ˈrɛsɪpi] ",
+    "translate": "рецепт "
+  },
+  {
+    "number": 3548,
+    "termin": "recipient ",
+    "transcription": "[rɪˈsɪpɪənt] ",
+    "translate": "получатель "
+  },
+  {
+    "number": 3549,
+    "termin": "reciprocal ",
+    "transcription": "[rɪˈsɪprəkəl] ",
+    "translate": "взаимный, ответный "
+  },
+  {
+    "number": 3550,
+    "termin": "recite ",
+    "transcription": "[rɪˈsaɪt] ",
+    "translate": "декламировать, рассказывать "
+  },
+  {
+    "number": 3551,
+    "termin": "reckless ",
+    "transcription": "[ˈrɛklɪs] ",
+    "translate": "опрометчивый, безрассудный "
+  },
+  {
+    "number": 3552,
+    "termin": "reckon ",
+    "transcription": "[ˈrɛkən] ",
+    "translate": "считать, рассчитывать "
+  },
+  {
+    "number": 3553,
+    "termin": "recognize ",
+    "transcription": "[ˈrɛkəgnaɪz] ",
+    "translate": "узнавать "
+  },
+  {
+    "number": 3554,
+    "termin": "recollection ",
+    "transcription": "[ˌrɛkəˈlɛkʃən] ",
+    "translate": "воспоминание "
+  },
+  {
+    "number": 3555,
+    "termin": "reconcile ",
+    "transcription": "[ˈrɛkənsaɪl] ",
+    "translate": "примириться "
+  },
+  {
+    "number": 3556,
+    "termin": "record ",
+    "transcription": "[ˈrɛkɔːd] ",
+    "translate": "запись "
+  },
+  {
+    "number": 3557,
+    "termin": "recount ",
+    "transcription": "[ˌriːˈkaʊnt] ",
+    "translate": "пересказать "
+  },
+  {
+    "number": 3558,
+    "termin": "recover ",
+    "transcription": "[rɪˈkʌvə] ",
+    "translate": "восстановиться, выздороветь "
+  },
+  {
+    "number": 3559,
+    "termin": "recreation ",
+    "transcription": "[ˌriːkrɪˈeɪʃən] ",
+    "translate": "отдых и развлечения "
+  },
+  {
+    "number": 3560,
+    "termin": "recruit ",
+    "transcription": "[rɪˈkruːt] ",
+    "translate": "набирать, вербовать "
+  },
+  {
+    "number": 3561,
+    "termin": "rectangle ",
+    "transcription": "[ˈrɛkˌtæŋgl] ",
+    "translate": "прямоугольник "
+  },
+  {
+    "number": 3562,
+    "termin": "recur ",
+    "transcription": "[rɪˈkɜː] ",
+    "translate": "повторяться, возвращаться "
+  },
+  {
+    "number": 3563,
+    "termin": "recycle ",
+    "transcription": "[ˌriːˈsaɪkl] ",
+    "translate": "перерабатывать "
+  },
+  {
+    "number": 3564,
+    "termin": "redeem ",
+    "transcription": "[rɪˈdiːm] ",
+    "translate": "выкупить, искупить "
+  },
+  {
+    "number": 3565,
+    "termin": "reduce ",
+    "transcription": "[rɪˈdjuːs] ",
+    "translate": "снижать "
+  },
+  {
+    "number": 3566,
+    "termin": "redundant ",
+    "transcription": "[rɪˈdʌndənt] ",
+    "translate": "избыточный "
+  },
+  {
+    "number": 3567,
+    "termin": "reed ",
+    "transcription": "[riːd] ",
+    "translate": "тростник, камыш "
+  },
+  {
+    "number": 3568,
+    "termin": "reel ",
+    "transcription": "[riːl] ",
+    "translate": "катушка, наматывать "
+  },
+  {
+    "number": 3569,
+    "termin": "refer ",
+    "transcription": "[rɪˈfɜː] ",
+    "translate": "сослаться, отослать "
+  },
+  {
+    "number": 3570,
+    "termin": "refine ",
+    "transcription": "[rɪˈfaɪn] ",
+    "translate": "очищать, усовершенствовать и т.д. "
+  },
+  {
+    "number": 3571,
+    "termin": "reflect ",
+    "transcription": "[rɪˈflɛkt] ",
+    "translate": "отражать(ся) "
+  },
+  {
+    "number": 3572,
+    "termin": "refrain ",
+    "transcription": "[rɪˈfreɪn] ",
+    "translate": "воздерживаться "
+  },
+  {
+    "number": 3573,
+    "termin": "refresh ",
+    "transcription": "[rɪˈfrɛʃ] ",
+    "translate": "обновлять, освежить "
+  },
+  {
+    "number": 3574,
+    "termin": "refrigerator ",
+    "transcription": "[rɪˈfrɪʤəreɪtə] ",
+    "translate": "холодильник "
+  },
+  {
+    "number": 3575,
+    "termin": "refuge ",
+    "transcription": "[ˈrɛfjuːʤ] ",
+    "translate": "убежище, пристанище "
+  },
+  {
+    "number": 3576,
+    "termin": "refugee ",
+    "transcription": "[ˌrɛfju(ː)ˈʤiː] ",
+    "translate": "беженец "
+  },
+  {
+    "number": 3577,
+    "termin": "refund ",
+    "transcription": "[ˈriːfʌnd] ",
+    "translate": "возврат, возмещение "
+  },
+  {
+    "number": 3578,
+    "termin": "refuse ",
+    "transcription": "[ˌriːˈfjuːz] ",
+    "translate": "отказаться "
+  },
+  {
+    "number": 3579,
+    "termin": "refute ",
+    "transcription": "[rɪˈfjuːt] ",
+    "translate": "опровергать "
+  },
+  {
+    "number": 3580,
+    "termin": "regain ",
+    "transcription": "[rɪˈgeɪn] ",
+    "translate": "восстановить, вернуть себе "
+  },
+  {
+    "number": 3581,
+    "termin": "regard ",
+    "transcription": "[rɪˈgɑːd] ",
+    "translate": "внимание, уважение "
+  },
+  {
+    "number": 3582,
+    "termin": "regard ",
+    "transcription": "[rɪˈgɑːd] ",
+    "translate": "считать, рассматривать "
+  },
+  {
+    "number": 3583,
+    "termin": "regiment ",
+    "transcription": "[ˈrɛʤɪmənt] ",
+    "translate": "полк "
+  },
+  {
+    "number": 3584,
+    "termin": "register ",
+    "transcription": "[ˈrɛʤɪstə] ",
+    "translate": "касса (магазина) "
+  },
+  {
+    "number": 3585,
+    "termin": "regret ",
+    "transcription": "[rɪˈgrɛt] ",
+    "translate": "сожалеть, сожаление "
+  },
+  {
+    "number": 3586,
+    "termin": "regular ",
+    "transcription": "[ˈrɛgjʊlə] ",
+    "translate": "обычный "
+  },
+  {
+    "number": 3587,
+    "termin": "rehearse ",
+    "transcription": "[rɪˈhɜːs] ",
+    "translate": "репетировать "
+  },
+  {
+    "number": 3588,
+    "termin": "reign ",
+    "transcription": "[reɪn] ",
+    "translate": "царствовать "
+  },
+  {
+    "number": 3589,
+    "termin": "rein ",
+    "transcription": "[reɪn] ",
+    "translate": "сдерживать, держать в узде "
+  },
+  {
+    "number": 3590,
+    "termin": "reinforce ",
+    "transcription": "[ˌriːɪnˈfɔːs] ",
+    "translate": "усилить, укрепить "
+  },
+  {
+    "number": 3591,
+    "termin": "reject ",
+    "transcription": "[ˈriːʤɛkt] ",
+    "translate": "отвергать "
+  },
+  {
+    "number": 3592,
+    "termin": "rejoice ",
+    "transcription": "[rɪˈʤɔɪs] ",
+    "translate": "радоваться "
+  },
+  {
+    "number": 3593,
+    "termin": "relate ",
+    "transcription": "[rɪˈleɪt] ",
+    "translate": "рассказывать, передавать "
+  },
+  {
+    "number": 3594,
+    "termin": "relate ",
+    "transcription": "[rɪˈleɪt] ",
+    "translate": "относиться, быть связанным "
+  },
+  {
+    "number": 3595,
+    "termin": "relative ",
+    "transcription": "[ˈrɛlətɪv] ",
+    "translate": "родственник "
+  },
+  {
+    "number": 3596,
+    "termin": "relative ",
+    "transcription": "[ˈrɛlətɪv] ",
+    "translate": "относительный "
+  },
+  {
+    "number": 3597,
+    "termin": "relay ",
+    "transcription": "[riːˈleɪ] ",
+    "translate": "передавать, ретранслировать "
+  },
+  {
+    "number": 3598,
+    "termin": "release ",
+    "transcription": "[rɪˈliːs] ",
+    "translate": "отпускать, выпускать "
+  },
+  {
+    "number": 3599,
+    "termin": "relentless ",
+    "transcription": "[rɪˈlɛntlɪs] ",
+    "translate": "настойчивый, непрекращающийся "
+  },
+  {
+    "number": 3600,
+    "termin": "relevant ",
+    "transcription": "[ˈrɛlɪvənt] ",
+    "translate": "уместный, актуальный "
+  },
+  {
+    "number": 3601,
+    "termin": "relief ",
+    "transcription": "[rɪˈliːf] ",
+    "translate": "облегчение "
+  },
+  {
+    "number": 3602,
+    "termin": "relieve ",
+    "transcription": "[rɪˈliːv] ",
+    "translate": "облегчить, освободить "
+  },
+  {
+    "number": 3603,
+    "termin": "relish ",
+    "transcription": "[ˈrɛlɪʃ] ",
+    "translate": "наслаждаться "
+  },
+  {
+    "number": 3604,
+    "termin": "reluctant ",
+    "transcription": "[rɪˈlʌktənt] ",
+    "translate": "неохотный, нежелающий "
+  },
+  {
+    "number": 3605,
+    "termin": "rely ",
+    "transcription": "[rɪˈlaɪ] ",
+    "translate": "полагаться "
+  },
+  {
+    "number": 3606,
+    "termin": "remain ",
+    "transcription": "[rɪˈmeɪn] ",
+    "translate": "оставаться "
+  },
+  {
+    "number": 3607,
+    "termin": "remainder ",
+    "transcription": "[rɪˈmeɪndə] ",
+    "translate": "оставшаяся часть "
+  },
+  {
+    "number": 3608,
+    "termin": "remains ",
+    "transcription": "[rɪˈmeɪnz] ",
+    "translate": "остатки, останки "
+  },
+  {
+    "number": 3609,
+    "termin": "remark ",
+    "transcription": "[ˈrɪˈmɑːk] ",
+    "translate": "замечать, замечание "
+  },
+  {
+    "number": 3610,
+    "termin": "remedy ",
+    "transcription": "[ˈrɛmɪdi] ",
+    "translate": "средство "
+  },
+  {
+    "number": 3611,
+    "termin": "remind ",
+    "transcription": "[ˈrɪmaɪnd] ",
+    "translate": "напомнить "
+  },
+  {
+    "number": 3612,
+    "termin": "reminiscent ",
+    "transcription": "[ˌrɛmɪˈnɪsnt] ",
+    "translate": "напоминающий "
+  },
+  {
+    "number": 3613,
+    "termin": "remnant ",
+    "transcription": "[ˈrɛmnənt] ",
+    "translate": "остаток "
+  },
+  {
+    "number": 3614,
+    "termin": "remorse ",
+    "transcription": "[rɪˈmɔːs] ",
+    "translate": "раскаяние "
+  },
+  {
+    "number": 3615,
+    "termin": "remote ",
+    "transcription": "[rɪˈməʊt] ",
+    "translate": "отдалённый, захолустный "
+  },
+  {
+    "number": 3616,
+    "termin": "remove ",
+    "transcription": "[rɪˈmuːv] ",
+    "translate": "убрать, удалить "
+  },
+  {
+    "number": 3617,
+    "termin": "render ",
+    "transcription": "[ˈrɛndə] ",
+    "translate": "делать, придавать свойство "
+  },
+  {
+    "number": 3618,
+    "termin": "render ",
+    "transcription": "[ˈrɛndə] ",
+    "translate": "воздавать, оказывать "
+  },
+  {
+    "number": 3619,
+    "termin": "renew ",
+    "transcription": "[rɪˈnjuː] ",
+    "translate": "возобновлять "
+  },
+  {
+    "number": 3620,
+    "termin": "renovate ",
+    "transcription": "[ˈrɛnəʊveɪt] ",
+    "translate": "ремонтировать, обновлять "
+  },
+  {
+    "number": 3621,
+    "termin": "renown ",
+    "transcription": "[rɪˈnaʊn] ",
+    "translate": "известность, слава "
+  },
+  {
+    "number": 3622,
+    "termin": "rent ",
+    "transcription": "[rɛnt] ",
+    "translate": "аренда, арендовать, сдавать "
+  },
+  {
+    "number": 3623,
+    "termin": "repair ",
+    "transcription": "[rɪˈpeə] ",
+    "translate": "ремонт, ремонтировать "
+  },
+  {
+    "number": 3624,
+    "termin": "repay ",
+    "transcription": "[rɪˈpeɪ] ",
+    "translate": "отплатить "
+  },
+  {
+    "number": 3625,
+    "termin": "repeal ",
+    "transcription": "[rɪˈpiːl] ",
+    "translate": "отменить (закон) "
+  },
+  {
+    "number": 3626,
+    "termin": "repel ",
+    "transcription": "[rɪˈpɛl] ",
+    "translate": "отталкивать, отражать "
+  },
+  {
+    "number": 3627,
+    "termin": "replace ",
+    "transcription": "[rɪˈpleɪs] ",
+    "translate": "заменить "
+  },
+  {
+    "number": 3628,
+    "termin": "replicate ",
+    "transcription": "[ˈrɛplɪkeɪt] ",
+    "translate": "воспроизвести "
+  },
+  {
+    "number": 3629,
+    "termin": "reply ",
+    "transcription": "[rɪˈplaɪ] ",
+    "translate": "ответ, отвечать "
+  },
+  {
+    "number": 3630,
+    "termin": "report ",
+    "transcription": "[rɪˈpɔːt] ",
+    "translate": "доклад, отчёт "
+  },
+  {
+    "number": 3631,
+    "termin": "represent ",
+    "transcription": "[ˌrɛprɪˈzɛnt] ",
+    "translate": "представлять "
+  },
+  {
+    "number": 3632,
+    "termin": "repress ",
+    "transcription": "[rɪˈprɛs] ",
+    "translate": "подавлять "
+  },
+  {
+    "number": 3633,
+    "termin": "reproduce ",
+    "transcription": "[ˌriːprəˈdjuːs] ",
+    "translate": "воспроизводить "
+  },
+  {
+    "number": 3634,
+    "termin": "request ",
+    "transcription": "[rɪˈkwɛst] ",
+    "translate": "запрос, запрашивать "
+  },
+  {
+    "number": 3635,
+    "termin": "require ",
+    "transcription": "[rɪˈkwaɪə] ",
+    "translate": "требовать "
+  },
+  {
+    "number": 3636,
+    "termin": "rescue ",
+    "transcription": "[ˈrɛskjuː] ",
+    "translate": "спасать, спасение "
+  },
+  {
+    "number": 3637,
+    "termin": "research ",
+    "transcription": "[rɪˈsɜːʧ] ",
+    "translate": "исследование, исследовать "
+  },
+  {
+    "number": 3638,
+    "termin": "resemble ",
+    "transcription": "[rɪˈzɛmbl] ",
+    "translate": "походить "
+  },
+  {
+    "number": 3639,
+    "termin": "resent ",
+    "transcription": "[rɪˈzɛnt] ",
+    "translate": "огорчаться, возмущаться "
+  },
+  {
+    "number": 3640,
+    "termin": "reserve ",
+    "transcription": "[rɪˈzɜːv] ",
+    "translate": "запас, запасной, запасать "
+  },
+  {
+    "number": 3641,
+    "termin": "reserve ",
+    "transcription": "[rɪˈzɜːv] ",
+    "translate": "бронировать "
+  },
+  {
+    "number": 3642,
+    "termin": "reserved ",
+    "transcription": "[rɪˈzɜːvd] ",
+    "translate": "скрытный, замкнутый "
+  },
+  {
+    "number": 3643,
+    "termin": "reside ",
+    "transcription": "[rɪˈzaɪd] ",
+    "translate": "проживать (где-то) "
+  },
+  {
+    "number": 3644,
+    "termin": "residue ",
+    "transcription": "[ˈrɛzɪdjuː] ",
+    "translate": "остаток "
+  },
+  {
+    "number": 3645,
+    "termin": "resign ",
+    "transcription": "[rɪˈzaɪn] ",
+    "translate": "отказываться, сдавать, уходить "
+  },
+  {
+    "number": 3646,
+    "termin": "resilient ",
+    "transcription": "[rɪˈzɪlɪənt] ",
+    "translate": "стойкий, упругий "
+  },
+  {
+    "number": 3647,
+    "termin": "resist ",
+    "transcription": "[rɪˈzɪst] ",
+    "translate": "сопротивляться "
+  },
+  {
+    "number": 3648,
+    "termin": "resolute ",
+    "transcription": "[ˈrɛzəluːt] ",
+    "translate": "решительный, твёрдый "
+  },
+  {
+    "number": 3649,
+    "termin": "resolve ",
+    "transcription": "[rɪˈzɒlv] ",
+    "translate": "решиться, решимость "
+  },
+  {
+    "number": 3650,
+    "termin": "resolve ",
+    "transcription": "[rɪˈzɒlv] ",
+    "translate": "разрешить (ситуацию) "
+  },
+  {
+    "number": 3651,
+    "termin": "resort ",
+    "transcription": "[rɪˈzɔːt] ",
+    "translate": "курорт "
+  },
+  {
+    "number": 3652,
+    "termin": "resort to ",
+    "transcription": "[rɪˈzɔːttuː] ",
+    "translate": "прибегать к "
+  },
+  {
+    "number": 3653,
+    "termin": "respective ",
+    "transcription": "[rɪsˈpɛktɪv] ",
+    "translate": "соответственный "
+  },
+  {
+    "number": 3654,
+    "termin": "respond ",
+    "transcription": "[rɪsˈpɒnd] ",
+    "translate": "отвечать "
+  },
+  {
+    "number": 3655,
+    "termin": "response ",
+    "transcription": "[rɪsˈpɒns] ",
+    "translate": "ответ, отклик "
+  },
+  {
+    "number": 3656,
+    "termin": "responsible ",
+    "transcription": "[rɪsˈpɒnsəbl] ",
+    "translate": "ответственный "
+  },
+  {
+    "number": 3657,
+    "termin": "rest ",
+    "transcription": "[rɛst] ",
+    "translate": "остаток, остальное "
+  },
+  {
+    "number": 3658,
+    "termin": "rest ",
+    "transcription": "[rɛst] ",
+    "translate": "отдых, отдыхать "
+  },
+  {
+    "number": 3659,
+    "termin": "rest ",
+    "transcription": "[rɛst] ",
+    "translate": "покоиться "
+  },
+  {
+    "number": 3660,
+    "termin": "restore ",
+    "transcription": "[rɪsˈtɔː] ",
+    "translate": "восстанавливать "
+  },
+  {
+    "number": 3661,
+    "termin": "restrain ",
+    "transcription": "[rɪsˈtreɪn] ",
+    "translate": "ограничивать, удерживать "
+  },
+  {
+    "number": 3662,
+    "termin": "restrict ",
+    "transcription": "[rɪsˈtrɪkt] ",
+    "translate": "ограничивать "
+  },
+  {
+    "number": 3663,
+    "termin": "result in ",
+    "transcription": "[rɪˈzʌltɪn] ",
+    "translate": "привести к "
+  },
+  {
+    "number": 3664,
+    "termin": "resume ",
+    "transcription": "[rɪˈzjuːm] ",
+    "translate": "возобновить "
+  },
+  {
+    "number": 3665,
+    "termin": "resurrect ",
+    "transcription": "[ˌrɛzəˈrɛkt] ",
+    "translate": "воскрешать "
+  },
+  {
+    "number": 3666,
+    "termin": "retail ",
+    "transcription": "[ˈriːteɪl] ",
+    "translate": "розничная продажа "
+  },
+  {
+    "number": 3667,
+    "termin": "retain ",
+    "transcription": "[rɪˈteɪn] ",
+    "translate": "сохранять, удерживать "
+  },
+  {
+    "number": 3668,
+    "termin": "retaliate ",
+    "transcription": "[rɪˈtælɪeɪt] ",
+    "translate": "отплатить, отомстить "
+  },
+  {
+    "number": 3669,
+    "termin": "retarded ",
+    "transcription": "[rɪˈtɑːdɪd] ",
+    "translate": "умственно отсталый "
+  },
+  {
+    "number": 3670,
+    "termin": "retention ",
+    "transcription": "[rɪˈtɛnʃən] ",
+    "translate": "удержание, сохранение "
+  },
+  {
+    "number": 3671,
+    "termin": "retire ",
+    "transcription": "[rɪˈtaɪə] ",
+    "translate": "уходить в отставку, на пенсию "
+  },
+  {
+    "number": 3672,
+    "termin": "retract ",
+    "transcription": "[rɪˈtrækt] ",
+    "translate": "втягивать, брать обратно и т.д. "
+  },
+  {
+    "number": 3673,
+    "termin": "retreat ",
+    "transcription": "[rɪˈtriːt] ",
+    "translate": "отступать "
+  },
+  {
+    "number": 3674,
+    "termin": "retrieve ",
+    "transcription": "[rɪˈtriːv] ",
+    "translate": "извлечь, вернуть "
+  },
+  {
+    "number": 3675,
+    "termin": "retrospect ",
+    "transcription": "[ˈrɛtrəʊspɛkt] ",
+    "translate": "взгляд в прошлое "
+  },
+  {
+    "number": 3676,
+    "termin": "return ",
+    "transcription": "[rɪˈtɜːn] ",
+    "translate": "возвращаться "
+  },
+  {
+    "number": 3677,
+    "termin": "reveal ",
+    "transcription": "[rɪˈviːl] ",
+    "translate": "раскрыть, выявить "
+  },
+  {
+    "number": 3678,
+    "termin": "revel ",
+    "transcription": "[ˈrɛvl] ",
+    "translate": "наслаждаться, развлекаться "
+  },
+  {
+    "number": 3679,
+    "termin": "revenge ",
+    "transcription": "[rɪˈvɛnʤ] ",
+    "translate": "месть "
+  },
+  {
+    "number": 3680,
+    "termin": "revenue ",
+    "transcription": "[ˈrɛvɪnjuː] ",
+    "translate": "доход, выручка "
+  },
+  {
+    "number": 3681,
+    "termin": "revere ",
+    "transcription": "[rɪˈvɪə] ",
+    "translate": "почитать "
+  },
+  {
+    "number": 3682,
+    "termin": "reverse ",
+    "transcription": "[rɪˈvɜːs] ",
+    "translate": "обратный, обратить "
+  },
+  {
+    "number": 3683,
+    "termin": "review ",
+    "transcription": "[rɪˈvjuː] ",
+    "translate": "обзор, сделать обзор "
+  },
+  {
+    "number": 3684,
+    "termin": "revise ",
+    "transcription": "[rɪˈvaɪz] ",
+    "translate": "пересматривать, проверять "
+  },
+  {
+    "number": 3685,
+    "termin": "revive ",
+    "transcription": "[rɪˈvaɪv] ",
+    "translate": "возрождать, оживлять "
+  },
+  {
+    "number": 3686,
+    "termin": "revolt ",
+    "transcription": "[rɪˈvəʊlt] ",
+    "translate": "восстание, бунт "
+  },
+  {
+    "number": 3687,
+    "termin": "revolve ",
+    "transcription": "[rɪˈvɒlv] ",
+    "translate": "вращаться "
+  },
+  {
+    "number": 3688,
+    "termin": "reward ",
+    "transcription": "[rɪˈwɔːd] ",
+    "translate": "награда, награждать "
+  },
+  {
+    "number": 3689,
+    "termin": "rhyme ",
+    "transcription": "[raɪm] ",
+    "translate": "рифма, рифмовать "
+  },
+  {
+    "number": 3690,
+    "termin": "rib ",
+    "transcription": "[rɪb] ",
+    "translate": "ребро "
+  },
+  {
+    "number": 3691,
+    "termin": "ribbon ",
+    "transcription": "[ˈrɪbən] ",
+    "translate": "лента "
+  },
+  {
+    "number": 3692,
+    "termin": "rice ",
+    "transcription": "[raɪs] ",
+    "translate": "рис "
+  },
+  {
+    "number": 3693,
+    "termin": "rich ",
+    "transcription": "[rɪʧ] ",
+    "translate": "богатый "
+  },
+  {
+    "number": 3694,
+    "termin": "rid ",
+    "transcription": "[rɪd] ",
+    "translate": "освобождать, избавлять "
+  },
+  {
+    "number": 3695,
+    "termin": "riddle ",
+    "transcription": "[ˈrɪdl] ",
+    "translate": "загадка "
+  },
+  {
+    "number": 3696,
+    "termin": "ride ",
+    "transcription": "[raɪd] ",
+    "translate": "ездить "
+  },
+  {
+    "number": 3697,
+    "termin": "ridge ",
+    "transcription": "[rɪʤ] ",
+    "translate": "хребет, ребро "
+  },
+  {
+    "number": 3698,
+    "termin": "ridicule ",
+    "transcription": "[ˈrɪdɪkjuːl] ",
+    "translate": "высмеивать, осмеяние "
+  },
+  {
+    "number": 3699,
+    "termin": "ridiculous ",
+    "transcription": "[rɪˈdɪkjʊləs] ",
+    "translate": "смешной, нелепый "
+  },
+  {
+    "number": 3700,
+    "termin": "rifle ",
+    "transcription": "[ˈraɪfl] ",
+    "translate": "винтовка "
+  },
+  {
+    "number": 3701,
+    "termin": "rift ",
+    "transcription": "[rɪft] ",
+    "translate": "разрыв, трещина "
+  },
+  {
+    "number": 3702,
+    "termin": "rig ",
+    "transcription": "[rɪg] ",
+    "translate": "установка, сооружение "
+  },
+  {
+    "number": 3703,
+    "termin": "right away ",
+    "transcription": "[raɪtəˈweɪ] ",
+    "translate": "немедленно "
+  },
+  {
+    "number": 3704,
+    "termin": "righteous ",
+    "transcription": "[ˈraɪʧəs] ",
+    "translate": "праведный "
+  },
+  {
+    "number": 3705,
+    "termin": "rigid ",
+    "transcription": "[ˈrɪʤɪd] ",
+    "translate": "жесткий "
+  },
+  {
+    "number": 3706,
+    "termin": "rigorous ",
+    "transcription": "[ˈrɪgərəs] ",
+    "translate": "строгий, тщательный "
+  },
+  {
+    "number": 3707,
+    "termin": "rim ",
+    "transcription": "[rɪm] ",
+    "translate": "край, обод "
+  },
+  {
+    "number": 3708,
+    "termin": "ring (rang, rung) ",
+    "transcription": "[rɪŋ] ",
+    "translate": "звонить, звонок "
+  },
+  {
+    "number": 3709,
+    "termin": "rinse ",
+    "transcription": "[rɪns] ",
+    "translate": "полоскать, полоскание "
+  },
+  {
+    "number": 3710,
+    "termin": "riot ",
+    "transcription": "[ˈraɪət] ",
+    "translate": "бунт "
+  },
+  {
+    "number": 3711,
+    "termin": "rip ",
+    "transcription": "[rɪp] ",
+    "translate": "рвать "
+  },
+  {
+    "number": 3712,
+    "termin": "rip off ",
+    "transcription": "[rɪpɒf] ",
+    "translate": "обмануть, ободрать "
+  },
+  {
+    "number": 3713,
+    "termin": "ripe ",
+    "transcription": "[raɪp] ",
+    "translate": "созревший "
+  },
+  {
+    "number": 3714,
+    "termin": "ripple ",
+    "transcription": "[ˈrɪpl] ",
+    "translate": "рябь или пульсация "
+  },
+  {
+    "number": 3715,
+    "termin": "rise (rose, risen) ",
+    "transcription": "[raɪz] ",
+    "translate": "подниматься, повышение "
+  },
+  {
+    "number": 3716,
+    "termin": "rite ",
+    "transcription": "[raɪt] ",
+    "translate": "церемония, ритуал "
+  },
+  {
+    "number": 3717,
+    "termin": "rival ",
+    "transcription": "[ˈraɪvəl] ",
+    "translate": "соперничающий, враждебный "
+  },
+  {
+    "number": 3718,
+    "termin": "rivet ",
+    "transcription": "[ˈrɪvɪt] ",
+    "translate": "заклёпка, приковывать, клепать "
+  },
+  {
+    "number": 3719,
+    "termin": "roadside ",
+    "transcription": "[ˈrəʊdsaɪd] ",
+    "translate": "обочина, придорожный "
+  },
+  {
+    "number": 3720,
+    "termin": "roadway ",
+    "transcription": "[ˈrəʊdweɪ] ",
+    "translate": "проезжая часть "
+  },
+  {
+    "number": 3721,
+    "termin": "roam ",
+    "transcription": "[rəʊm] ",
+    "translate": "бродить, блуждать "
+  },
+  {
+    "number": 3722,
+    "termin": "roar ",
+    "transcription": "[rɔː] ",
+    "translate": "рёв, реветь "
+  },
+  {
+    "number": 3723,
+    "termin": "roast ",
+    "transcription": "[rəʊst] ",
+    "translate": "жарить, обжигать "
+  },
+  {
+    "number": 3724,
+    "termin": "rob ",
+    "transcription": "[rɒb] ",
+    "translate": "грабить, отнимать "
+  },
+  {
+    "number": 3725,
+    "termin": "robe ",
+    "transcription": "[rəʊb] ",
+    "translate": "халат, мантия, одеяние "
+  },
+  {
+    "number": 3726,
+    "termin": "robust ",
+    "transcription": "[rəʊˈbʌst] ",
+    "translate": "крепкий, надёжный, здоровый "
+  },
+  {
+    "number": 3727,
+    "termin": "rock ",
+    "transcription": "[rɒk] ",
+    "translate": "камень, скала "
+  },
+  {
+    "number": 3728,
+    "termin": "rock ",
+    "transcription": "[rɒk] ",
+    "translate": "качать, трясти "
+  },
+  {
+    "number": 3729,
+    "termin": "rod ",
+    "transcription": "[rɒd] ",
+    "translate": "стержень, прут "
+  },
+  {
+    "number": 3730,
+    "termin": "rodent ",
+    "transcription": "[ˈrəʊdənt] ",
+    "translate": "грызун "
+  },
+  {
+    "number": 3731,
+    "termin": "rogue ",
+    "transcription": "[rəʊg] ",
+    "translate": "жулик, проходимец "
+  },
+  {
+    "number": 3732,
+    "termin": "roll ",
+    "transcription": "[rəʊl] ",
+    "translate": "рулон, клубок, свиток и т. д. "
+  },
+  {
+    "number": 3733,
+    "termin": "roll ",
+    "transcription": "[rəʊl] ",
+    "translate": "катиться "
+  },
+  {
+    "number": 3734,
+    "termin": "roll up ",
+    "transcription": "[rəʊlʌp] ",
+    "translate": "свернуть, скатать "
+  },
+  {
+    "number": 3735,
+    "termin": "roof ",
+    "transcription": "[ruːf] ",
+    "translate": "крыша "
+  },
+  {
+    "number": 3736,
+    "termin": "room ",
+    "transcription": "[ruːm] ",
+    "translate": "место, пространство "
+  },
+  {
+    "number": 3737,
+    "termin": "root ",
+    "transcription": "[ruːt] ",
+    "translate": "корень "
+  },
+  {
+    "number": 3738,
+    "termin": "root out ",
+    "transcription": "[ruːtaʊt] ",
+    "translate": "искоренить "
+  },
+  {
+    "number": 3739,
+    "termin": "rope ",
+    "transcription": "[rəʊp] ",
+    "translate": "верёвка "
+  },
+  {
+    "number": 3740,
+    "termin": "rope in (into) ",
+    "transcription": "[rəʊpɪn] ",
+    "translate": "втянуть в занятие "
+  },
+  {
+    "number": 3741,
+    "termin": "rot ",
+    "transcription": "[rɒt] ",
+    "translate": "гнить "
+  },
+  {
+    "number": 3742,
+    "termin": "rotate ",
+    "transcription": "[rəʊˈteɪt] ",
+    "translate": "сменять, чередовать "
+  },
+  {
+    "number": 3743,
+    "termin": "rotate ",
+    "transcription": "[rəʊˈteɪt] ",
+    "translate": "вращать "
+  },
+  {
+    "number": 3744,
+    "termin": "rotten ",
+    "transcription": "[ˈrɒtn] ",
+    "translate": "гнилой "
+  },
+  {
+    "number": 3745,
+    "termin": "rough ",
+    "transcription": "[rʌf] ",
+    "translate": "грубый, неровный, жёсткий "
+  },
+  {
+    "number": 3746,
+    "termin": "rough up ",
+    "transcription": "[rʌfʌp] ",
+    "translate": "грубо обращаться, нападать "
+  },
+  {
+    "number": 3747,
+    "termin": "round ",
+    "transcription": "[raʊnd] ",
+    "translate": "круг, круглый "
+  },
+  {
+    "number": 3748,
+    "termin": "round down ",
+    "transcription": "[raʊnddaʊn] ",
+    "translate": "округлить (вниз) "
+  },
+  {
+    "number": 3749,
+    "termin": "rouse ",
+    "transcription": "[raʊz] ",
+    "translate": "будить "
+  },
+  {
+    "number": 3750,
+    "termin": "route ",
+    "transcription": "[ruːt] ",
+    "translate": "маршрут "
+  },
+  {
+    "number": 3751,
+    "termin": "row ",
+    "transcription": "[rəʊ] ",
+    "translate": "грести "
+  },
+  {
+    "number": 3752,
+    "termin": "row ",
+    "transcription": "[rəʊ] ",
+    "translate": "ряд "
+  },
+  {
+    "number": 3753,
+    "termin": "royal ",
+    "transcription": "[ˈrɔɪəl] ",
+    "translate": "королевский "
+  },
+  {
+    "number": 3754,
+    "termin": "rub ",
+    "transcription": "[rʌb] ",
+    "translate": "тереть "
+  },
+  {
+    "number": 3755,
+    "termin": "rubber ",
+    "transcription": "[ˈrʌbə] ",
+    "translate": "резина, резиновый "
+  },
+  {
+    "number": 3756,
+    "termin": "rubbish ",
+    "transcription": "[ˈrʌbɪʃ] ",
+    "translate": "мусор (в осн. брит.) "
+  },
+  {
+    "number": 3757,
+    "termin": "rubble ",
+    "transcription": "[ˈrʌbl] ",
+    "translate": "щебень, обломки "
+  },
+  {
+    "number": 3758,
+    "termin": "rude ",
+    "transcription": "[ruːd] ",
+    "translate": "грубый, неприличный "
+  },
+  {
+    "number": 3759,
+    "termin": "ruffle ",
+    "transcription": "[ˈrʌfl] ",
+    "translate": "рябить, взъерошить "
+  },
+  {
+    "number": 3760,
+    "termin": "rug ",
+    "transcription": "[rʌg] ",
+    "translate": "коврик "
+  },
+  {
+    "number": 3761,
+    "termin": "rugged ",
+    "transcription": "[ˈrʌgɪd] ",
+    "translate": "неровный, грубый "
+  },
+  {
+    "number": 3762,
+    "termin": "ruin ",
+    "transcription": "[rʊɪn] ",
+    "translate": "разрушать, губить "
+  },
+  {
+    "number": 3763,
+    "termin": "rule ",
+    "transcription": "[ruːl] ",
+    "translate": "правило "
+  },
+  {
+    "number": 3764,
+    "termin": "rule ",
+    "transcription": "[ruːl] ",
+    "translate": "править "
+  },
+  {
+    "number": 3765,
+    "termin": "rule out ",
+    "transcription": "[ruːlaʊt] ",
+    "translate": "исключать, не рассматривать "
+  },
+  {
+    "number": 3766,
+    "termin": "ruler ",
+    "transcription": "[ˈruːlə] ",
+    "translate": "линейка "
+  },
+  {
+    "number": 3767,
+    "termin": "rumble ",
+    "transcription": "[ˈrʌmbl] ",
+    "translate": "грохот, рокот "
+  },
+  {
+    "number": 3768,
+    "termin": "rumor (rumour) ",
+    "transcription": "[ˈruːmə] ",
+    "translate": "слух "
+  },
+  {
+    "number": 3769,
+    "termin": "run ",
+    "transcription": "[rʌn] ",
+    "translate": "управлять "
+  },
+  {
+    "number": 3770,
+    "termin": "run after ",
+    "transcription": "[rʌnˈɑːftə] ",
+    "translate": "гнаться за "
+  },
+  {
+    "number": 3771,
+    "termin": "run away ",
+    "transcription": "[rʌnəˈweɪ] ",
+    "translate": "убежать "
+  },
+  {
+    "number": 3772,
+    "termin": "run counter ",
+    "transcription": "[rʌnˈkaʊntə] ",
+    "translate": "противоречить "
+  },
+  {
+    "number": 3773,
+    "termin": "run out of ",
+    "transcription": "[rʌnaʊtɒv] ",
+    "translate": "исчерпать запас "
+  },
+  {
+    "number": 3774,
+    "termin": "run over ",
+    "transcription": "[rʌnˈəʊvə] ",
+    "translate": "переехать машиной "
+  },
+  {
+    "number": 3775,
+    "termin": "runaway ",
+    "transcription": "[ˈrʌnəweɪ] ",
+    "translate": "беглый, беглец "
+  },
+  {
+    "number": 3776,
+    "termin": "runway ",
+    "transcription": "[ˈrʌnweɪ] ",
+    "translate": "взлётная полоса "
+  },
+  {
+    "number": 3777,
+    "termin": "rupture ",
+    "transcription": "[ˈrʌpʧə] ",
+    "translate": "разрыв "
+  },
+  {
+    "number": 3778,
+    "termin": "rural ",
+    "transcription": "[ˈrʊərəl] ",
+    "translate": "сельский "
+  },
+  {
+    "number": 3779,
+    "termin": "rush ",
+    "transcription": "[rʌʃ] ",
+    "translate": "торопиться, мчаться, броситься "
+  },
+  {
+    "number": 3780,
+    "termin": "rust ",
+    "transcription": "[rʌst] ",
+    "translate": "ржавчина "
+  },
+  {
+    "number": 3781,
+    "termin": "rustic ",
+    "transcription": "[ˈrʌstɪk] ",
+    "translate": "деревенский, простой, грубый "
+  },
+  {
+    "number": 3782,
+    "termin": "rustle ",
+    "transcription": "[ˈrʌsl] ",
+    "translate": "шелест "
+  },
+  {
+    "number": 3783,
+    "termin": "rut ",
+    "transcription": "[rʌt] ",
+    "translate": "борозда, колея, рутина "
+  },
+  {
+    "number": 3784,
+    "termin": "ruthless ",
+    "transcription": "[ˈruːθlɪs] ",
+    "translate": "беспощадный "
+  }
+]

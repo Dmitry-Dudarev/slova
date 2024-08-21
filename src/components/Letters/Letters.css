@@ -33,8 +33,16 @@
   border-radius: 1vw;
 }
 
-@media (max-width: 450px) and (max-aspect-ratio: 1/1) {
+@media (max-width: 450px) {
   .letters__list {
     grid-template-columns: repeat(4, 1fr);
+  }
+
+  .letters__title {
+    font-size: 5vw;
+  }
+
+  .letter__show-button-text {
+    font-size: 5vw;
   }
 }

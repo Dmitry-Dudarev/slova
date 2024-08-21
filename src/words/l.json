@@ -1,0 +1,1124 @@
+[
+  {
+    "number": 2501,
+    "termin": "label ",
+    "transcription": "[ˈleɪbl] ",
+    "translate": "метка, ярлык, метить "
+  },
+  {
+    "number": 2502,
+    "termin": "labour ",
+    "transcription": "[ˈleɪbə] ",
+    "translate": "труд, трудиться "
+  },
+  {
+    "number": 2503,
+    "termin": "lace ",
+    "transcription": "[leɪs] ",
+    "translate": "шнурок, шнуровать "
+  },
+  {
+    "number": 2504,
+    "termin": "lack ",
+    "transcription": "[læk] ",
+    "translate": "недостаток, нуждаться "
+  },
+  {
+    "number": 2505,
+    "termin": "lad ",
+    "transcription": "[læd] ",
+    "translate": "парень "
+  },
+  {
+    "number": 2506,
+    "termin": "ladder ",
+    "transcription": "[ˈlædə] ",
+    "translate": "лестница "
+  },
+  {
+    "number": 2507,
+    "termin": "laden ",
+    "transcription": "[ˈleɪdn] ",
+    "translate": "груженный "
+  },
+  {
+    "number": 2508,
+    "termin": "lag ",
+    "transcription": "[læg] ",
+    "translate": "запаздывание "
+  },
+  {
+    "number": 2509,
+    "termin": "lamb ",
+    "transcription": "[læm] ",
+    "translate": "ягненок "
+  },
+  {
+    "number": 2510,
+    "termin": "lame ",
+    "transcription": "[leɪm] ",
+    "translate": "хромой "
+  },
+  {
+    "number": 2511,
+    "termin": "lament ",
+    "transcription": "[ləˈmɛnt] ",
+    "translate": "оплакивать, сожалеть "
+  },
+  {
+    "number": 2512,
+    "termin": "land ",
+    "transcription": "[lænd] ",
+    "translate": "приземляться, высаживаться "
+  },
+  {
+    "number": 2513,
+    "termin": "landlord ",
+    "transcription": "[ˈlænlɔːd] ",
+    "translate": "арендодатель, домовладелец "
+  },
+  {
+    "number": 2514,
+    "termin": "landmark ",
+    "transcription": "[ˈlændmɑːk] ",
+    "translate": "ориентир "
+  },
+  {
+    "number": 2515,
+    "termin": "landscape ",
+    "transcription": "[ˈlænskeɪp] ",
+    "translate": "пейзаж "
+  },
+  {
+    "number": 2516,
+    "termin": "lane ",
+    "transcription": "[leɪn] ",
+    "translate": "полоса дороги "
+  },
+  {
+    "number": 2517,
+    "termin": "lantern ",
+    "transcription": "[ˈlæntən] ",
+    "translate": "фонарь "
+  },
+  {
+    "number": 2518,
+    "termin": "lap ",
+    "transcription": "[læp] ",
+    "translate": "колени "
+  },
+  {
+    "number": 2519,
+    "termin": "lapse ",
+    "transcription": "[læps] ",
+    "translate": "упущение, оплошность "
+  },
+  {
+    "number": 2520,
+    "termin": "lapse ",
+    "transcription": "[læps] ",
+    "translate": "промежуток времени "
+  },
+  {
+    "number": 2521,
+    "termin": "laptop ",
+    "transcription": "[ˈlæpˌtɒp] ",
+    "translate": "портативный компьютер "
+  },
+  {
+    "number": 2522,
+    "termin": "large ",
+    "transcription": "[lɑːʤ] ",
+    "translate": "большой, широкий "
+  },
+  {
+    "number": 2523,
+    "termin": "lash (eyelash) ",
+    "transcription": "[læʃ] ",
+    "translate": "ресница "
+  },
+  {
+    "number": 2524,
+    "termin": "lash out ",
+    "transcription": "[læʃaʊt] ",
+    "translate": "нападать, ругаться "
+  },
+  {
+    "number": 2525,
+    "termin": "last ",
+    "transcription": "[lɑːst] ",
+    "translate": "длиться "
+  },
+  {
+    "number": 2526,
+    "termin": "latch ",
+    "transcription": "[læʧ] ",
+    "translate": "защёлка, засов "
+  },
+  {
+    "number": 2527,
+    "termin": "late ",
+    "transcription": "[leɪt] ",
+    "translate": "поздний "
+  },
+  {
+    "number": 2528,
+    "termin": "late ",
+    "transcription": "[leɪt] ",
+    "translate": "покойный "
+  },
+  {
+    "number": 2529,
+    "termin": "lateral ",
+    "transcription": "[ˈlætərəl] ",
+    "translate": "боковой "
+  },
+  {
+    "number": 2530,
+    "termin": "latter ",
+    "transcription": "[ˈlætə] ",
+    "translate": "последний (из названных) "
+  },
+  {
+    "number": 2531,
+    "termin": "laugh ",
+    "transcription": "[lɑːf] ",
+    "translate": "смеяться "
+  },
+  {
+    "number": 2532,
+    "termin": "laughter ",
+    "transcription": "[ˈlɑːftə] ",
+    "translate": "смех "
+  },
+  {
+    "number": 2533,
+    "termin": "launch ",
+    "transcription": "[lɔːnʧ] ",
+    "translate": "начать, запустить, запуск "
+  },
+  {
+    "number": 2534,
+    "termin": "laundry ",
+    "transcription": "[ˈlɔːndri] ",
+    "translate": "прачечная "
+  },
+  {
+    "number": 2535,
+    "termin": "lavish ",
+    "transcription": "[ˈlævɪʃ] ",
+    "translate": "щедрый, роскошный "
+  },
+  {
+    "number": 2536,
+    "termin": "law ",
+    "transcription": "[lɔː] ",
+    "translate": "закон "
+  },
+  {
+    "number": 2537,
+    "termin": "lawn ",
+    "transcription": "[lɔːn] ",
+    "translate": "газон "
+  },
+  {
+    "number": 2538,
+    "termin": "lawsuit ",
+    "transcription": "[ˈlɔːsjuːt] ",
+    "translate": "тяжба, судебное дело "
+  },
+  {
+    "number": 2539,
+    "termin": "lay (laid, laid) ",
+    "transcription": "[leɪ] ",
+    "translate": "класть, укладывать "
+  },
+  {
+    "number": 2540,
+    "termin": "lay down ",
+    "transcription": "[leɪdaʊn] ",
+    "translate": "установить (правило, норму) "
+  },
+  {
+    "number": 2541,
+    "termin": "lay into ",
+    "transcription": "[leɪˈɪntuː] ",
+    "translate": "нападать (разг.) "
+  },
+  {
+    "number": 2542,
+    "termin": "lay off ",
+    "transcription": "[leɪɒf] ",
+    "translate": "уволить, сократить "
+  },
+  {
+    "number": 2543,
+    "termin": "lay out ",
+    "transcription": "[leɪaʊt] ",
+    "translate": "выложить, разложить "
+  },
+  {
+    "number": 2544,
+    "termin": "layer ",
+    "transcription": "[ˈleɪə] ",
+    "translate": "слой "
+  },
+  {
+    "number": 2545,
+    "termin": "layout ",
+    "transcription": "[ˈleɪaʊt] ",
+    "translate": "макет, расположение "
+  },
+  {
+    "number": 2546,
+    "termin": "lazy ",
+    "transcription": "[ˈleɪzi] ",
+    "translate": "ленивый "
+  },
+  {
+    "number": 2547,
+    "termin": "lead ",
+    "transcription": "[liːd] ",
+    "translate": "вести "
+  },
+  {
+    "number": 2548,
+    "termin": "lead up to ",
+    "transcription": "[liːdʌptuː] ",
+    "translate": "предшествовать "
+  },
+  {
+    "number": 2549,
+    "termin": "leaf (pl: leaves) ",
+    "transcription": "[liːf] ",
+    "translate": "лист "
+  },
+  {
+    "number": 2550,
+    "termin": "leak ",
+    "transcription": "[liːk] ",
+    "translate": "утечка, просачиваться, протекать "
+  },
+  {
+    "number": 2551,
+    "termin": "lean ",
+    "transcription": "[liːn] ",
+    "translate": "худой "
+  },
+  {
+    "number": 2552,
+    "termin": "lean against ",
+    "transcription": "[liːnəˈgɛnst] ",
+    "translate": "опереться, прислонить "
+  },
+  {
+    "number": 2553,
+    "termin": "lean over ",
+    "transcription": "[liːnˈəʊvə] ",
+    "translate": "наклониться над, через "
+  },
+  {
+    "number": 2554,
+    "termin": "leap ",
+    "transcription": "[liːp] ",
+    "translate": "прыгать, прыжок "
+  },
+  {
+    "number": 2555,
+    "termin": "lease ",
+    "transcription": "[liːs] ",
+    "translate": "сдавать в аренду "
+  },
+  {
+    "number": 2556,
+    "termin": "leash ",
+    "transcription": "[liːʃ] ",
+    "translate": "привязь, поводок "
+  },
+  {
+    "number": 2557,
+    "termin": "leather ",
+    "transcription": "[ˈlɛðə] ",
+    "translate": "кожаный, кожа "
+  },
+  {
+    "number": 2558,
+    "termin": "leave (left, left) ",
+    "transcription": "[liːv] ",
+    "translate": "уйти, покинуть "
+  },
+  {
+    "number": 2559,
+    "termin": "ledge ",
+    "transcription": "[lɛʤ] ",
+    "translate": "уступ "
+  },
+  {
+    "number": 2560,
+    "termin": "leek ",
+    "transcription": "[liːk] ",
+    "translate": "лук-порей "
+  },
+  {
+    "number": 2561,
+    "termin": "leftover ",
+    "transcription": "[ˈlɛftˈəʊvə] ",
+    "translate": "остаток "
+  },
+  {
+    "number": 2562,
+    "termin": "leg ",
+    "transcription": "[lɛg] ",
+    "translate": "нога "
+  },
+  {
+    "number": 2563,
+    "termin": "legacy ",
+    "transcription": "[ˈlɛgəsi] ",
+    "translate": "наследие, наследство "
+  },
+  {
+    "number": 2564,
+    "termin": "legal ",
+    "transcription": "[ˈliːgəl] ",
+    "translate": "законный, правовой "
+  },
+  {
+    "number": 2565,
+    "termin": "legislation ",
+    "transcription": "[ˌlɛʤɪsˈleɪʃən] ",
+    "translate": "законодательство "
+  },
+  {
+    "number": 2566,
+    "termin": "legitimate ",
+    "transcription": "[lɪˈʤɪtɪmɪt] ",
+    "translate": "законный, обоснованный "
+  },
+  {
+    "number": 2567,
+    "termin": "leisure ",
+    "transcription": "[ˈlɛʒə] ",
+    "translate": "досуг, отдых "
+  },
+  {
+    "number": 2568,
+    "termin": "lend (lent, lent) ",
+    "transcription": "[lɛnd] ",
+    "translate": "давать в долг "
+  },
+  {
+    "number": 2569,
+    "termin": "length ",
+    "transcription": "[lɛŋθ] ",
+    "translate": "длина "
+  },
+  {
+    "number": 2570,
+    "termin": "lens ",
+    "transcription": "[lɛnz] ",
+    "translate": "линза, объектив "
+  },
+  {
+    "number": 2571,
+    "termin": "lessen ",
+    "transcription": "[ˈlɛsn] ",
+    "translate": "уменьшать(ся) "
+  },
+  {
+    "number": 2572,
+    "termin": "lest ",
+    "transcription": "[lɛst] ",
+    "translate": "чтобы не, иначе "
+  },
+  {
+    "number": 2573,
+    "termin": "let in on ",
+    "transcription": "[lɛtɪnɒn] ",
+    "translate": "посвящать (в секрет, план) "
+  },
+  {
+    "number": 2574,
+    "termin": "let off ",
+    "transcription": "[lɛtɒf] ",
+    "translate": "отпустить, дать отделаться "
+  },
+  {
+    "number": 2575,
+    "termin": "let smb down ",
+    "transcription": "[lɛtsmbdaʊn] ",
+    "translate": "подвести "
+  },
+  {
+    "number": 2576,
+    "termin": "let smb in ",
+    "transcription": "[lɛtsmbɪn] ",
+    "translate": "впустить "
+  },
+  {
+    "number": 2577,
+    "termin": "let up ",
+    "transcription": "[lɛtʌp] ",
+    "translate": "прекратиться, стихнуть "
+  },
+  {
+    "number": 2578,
+    "termin": "letter ",
+    "transcription": "[ˈlɛtə] ",
+    "translate": "письмо "
+  },
+  {
+    "number": 2579,
+    "termin": "lettuce ",
+    "transcription": "[ˈlɛtɪs] ",
+    "translate": "салат (латук) "
+  },
+  {
+    "number": 2580,
+    "termin": "level ",
+    "transcription": "[ˈlɛvl] ",
+    "translate": "уровень "
+  },
+  {
+    "number": 2581,
+    "termin": "lever ",
+    "transcription": "[ˈliːvə] ",
+    "translate": "рычаг, ручка "
+  },
+  {
+    "number": 2582,
+    "termin": "liable ",
+    "transcription": "[ˈlaɪəbl] ",
+    "translate": "подлежащий "
+  },
+  {
+    "number": 2583,
+    "termin": "liaison ",
+    "transcription": "[li(ː)ˈeɪzɒn] ",
+    "translate": "связь "
+  },
+  {
+    "number": 2584,
+    "termin": "liberate ",
+    "transcription": "[ˈlɪbəreɪt] ",
+    "translate": "освобождать "
+  },
+  {
+    "number": 2585,
+    "termin": "liberty ",
+    "transcription": "[ˈlɪbəti] ",
+    "translate": "свобода "
+  },
+  {
+    "number": 2586,
+    "termin": "library ",
+    "transcription": "[ˈlaɪbrəri] ",
+    "translate": "библиотека "
+  },
+  {
+    "number": 2587,
+    "termin": "licence (license) ",
+    "transcription": "[ˈlaɪsəns] ",
+    "translate": "разрешение "
+  },
+  {
+    "number": 2588,
+    "termin": "lick ",
+    "transcription": "[lɪk] ",
+    "translate": "лизать "
+  },
+  {
+    "number": 2589,
+    "termin": "lid ",
+    "transcription": "[lɪd] ",
+    "translate": "крышка "
+  },
+  {
+    "number": 2590,
+    "termin": "lie ",
+    "transcription": "[laɪ] ",
+    "translate": "лгать, ложь "
+  },
+  {
+    "number": 2591,
+    "termin": "lie (lay, lain) ",
+    "transcription": "[laɪ] ",
+    "translate": "лежать "
+  },
+  {
+    "number": 2592,
+    "termin": "lifelong ",
+    "transcription": "[ˈlaɪflɒŋ] ",
+    "translate": "пожизненный "
+  },
+  {
+    "number": 2593,
+    "termin": "lift ",
+    "transcription": "[lɪft] ",
+    "translate": "поднимать "
+  },
+  {
+    "number": 2594,
+    "termin": "light (lit, lit) ",
+    "transcription": "[laɪt] ",
+    "translate": "зажигать "
+  },
+  {
+    "number": 2595,
+    "termin": "light up ",
+    "transcription": "[laɪtʌp] ",
+    "translate": "осветить или загореться "
+  },
+  {
+    "number": 2596,
+    "termin": "lightning ",
+    "transcription": "[ˈlaɪtnɪŋ] ",
+    "translate": "молния "
+  },
+  {
+    "number": 2597,
+    "termin": "like ",
+    "transcription": "[laɪk] ",
+    "translate": "как "
+  },
+  {
+    "number": 2598,
+    "termin": "like that ",
+    "transcription": "[laɪkðæt] ",
+    "translate": "вот так "
+  },
+  {
+    "number": 2599,
+    "termin": "likely ",
+    "transcription": "[ˈlaɪkli] ",
+    "translate": "вероятно "
+  },
+  {
+    "number": 2600,
+    "termin": "liken ",
+    "transcription": "[ˈlaɪkən] ",
+    "translate": "уподоблять, сравнивать "
+  },
+  {
+    "number": 2601,
+    "termin": "likewise ",
+    "transcription": "[ˈlaɪkwaɪz] ",
+    "translate": "также "
+  },
+  {
+    "number": 2602,
+    "termin": "limb ",
+    "transcription": "[lɪm] ",
+    "translate": "конечность "
+  },
+  {
+    "number": 2603,
+    "termin": "limit ",
+    "transcription": "[ˈlɪmɪt] ",
+    "translate": "ограничивать, ограничение "
+  },
+  {
+    "number": 2604,
+    "termin": "limp ",
+    "transcription": "[lɪmp] ",
+    "translate": "хромать "
+  },
+  {
+    "number": 2605,
+    "termin": "line ",
+    "transcription": "[laɪn] ",
+    "translate": "строка "
+  },
+  {
+    "number": 2606,
+    "termin": "line ",
+    "transcription": "[laɪn] ",
+    "translate": "линия, ряд "
+  },
+  {
+    "number": 2607,
+    "termin": "line up ",
+    "transcription": "[laɪnʌp] ",
+    "translate": "встать в очередь "
+  },
+  {
+    "number": 2608,
+    "termin": "lineage ",
+    "transcription": "[ˈlɪnɪɪʤ] ",
+    "translate": "родословная "
+  },
+  {
+    "number": 2609,
+    "termin": "linen ",
+    "transcription": "[ˈlɪnɪn] ",
+    "translate": "бельё "
+  },
+  {
+    "number": 2610,
+    "termin": "linen ",
+    "transcription": "[ˈlɪnɪn] ",
+    "translate": "льняная ткань "
+  },
+  {
+    "number": 2611,
+    "termin": "lineup ",
+    "transcription": "[ˈlaɪnʌp] ",
+    "translate": "расстановка, расположение "
+  },
+  {
+    "number": 2612,
+    "termin": "linger ",
+    "transcription": "[ˈlɪŋgə] ",
+    "translate": "задерживаться, медлить "
+  },
+  {
+    "number": 2613,
+    "termin": "link ",
+    "transcription": "[lɪŋk] ",
+    "translate": "связь, звено, ссылка "
+  },
+  {
+    "number": 2614,
+    "termin": "lip ",
+    "transcription": "[lɪp] ",
+    "translate": "губа "
+  },
+  {
+    "number": 2615,
+    "termin": "lipstick ",
+    "transcription": "[ˈlɪpstɪk] ",
+    "translate": "губная помада "
+  },
+  {
+    "number": 2616,
+    "termin": "liquid ",
+    "transcription": "[ˈlɪkwɪd] ",
+    "translate": "жидкость, жидкий "
+  },
+  {
+    "number": 2617,
+    "termin": "list ",
+    "transcription": "[lɪst] ",
+    "translate": "список, перечислять "
+  },
+  {
+    "number": 2618,
+    "termin": "listen in on ",
+    "transcription": "[ˈlɪsnɪnɒn] ",
+    "translate": "подслушивать "
+  },
+  {
+    "number": 2619,
+    "termin": "literal ",
+    "transcription": "[ˈlɪtərəl] ",
+    "translate": "буквальный "
+  },
+  {
+    "number": 2620,
+    "termin": "literary ",
+    "transcription": "[ˈlɪtərəri] ",
+    "translate": "литературный, книжный "
+  },
+  {
+    "number": 2621,
+    "termin": "literate ",
+    "transcription": "[ˈlɪtərɪt] ",
+    "translate": "грамотность "
+  },
+  {
+    "number": 2622,
+    "termin": "litter ",
+    "transcription": "[ˈlɪtə] ",
+    "translate": "мусор (на улице) "
+  },
+  {
+    "number": 2623,
+    "termin": "live up to ",
+    "transcription": "[lɪvʌptuː] ",
+    "translate": "соответствовать, дотягивать "
+  },
+  {
+    "number": 2624,
+    "termin": "livelihood ",
+    "transcription": "[ˈlaɪvlɪhʊd] ",
+    "translate": "средства к существованию "
+  },
+  {
+    "number": 2625,
+    "termin": "liven up ",
+    "transcription": "[ˈlaɪvnʌp] ",
+    "translate": "оживить, взбодрить "
+  },
+  {
+    "number": 2626,
+    "termin": "liver ",
+    "transcription": "[ˈlɪvə] ",
+    "translate": "печень "
+  },
+  {
+    "number": 2627,
+    "termin": "livestock ",
+    "transcription": "[ˈlaɪvstɒk] ",
+    "translate": "скот "
+  },
+  {
+    "number": 2628,
+    "termin": "lizard ",
+    "transcription": "[ˈlɪzəd] ",
+    "translate": "ящерица "
+  },
+  {
+    "number": 2629,
+    "termin": "load ",
+    "transcription": "[ləʊd] ",
+    "translate": "грузить, груз "
+  },
+  {
+    "number": 2630,
+    "termin": "loaf ",
+    "transcription": "[ləʊf] ",
+    "translate": "буханка, булка "
+  },
+  {
+    "number": 2631,
+    "termin": "loan ",
+    "transcription": "[ləʊn] ",
+    "translate": "заём, ссуда "
+  },
+  {
+    "number": 2632,
+    "termin": "loathe ",
+    "transcription": "[ləʊð] ",
+    "translate": "ненавидеть, питать отвращение "
+  },
+  {
+    "number": 2633,
+    "termin": "lobby ",
+    "transcription": "[ˈlɒbi] ",
+    "translate": "вестибюль, фойе, прихожая "
+  },
+  {
+    "number": 2634,
+    "termin": "lobster ",
+    "transcription": "[ˈlɒbstə] ",
+    "translate": "омар "
+  },
+  {
+    "number": 2635,
+    "termin": "local ",
+    "transcription": "[ˈləʊkəl] ",
+    "translate": "местный, местный житель "
+  },
+  {
+    "number": 2636,
+    "termin": "locate ",
+    "transcription": "[ləʊˈkeɪt] ",
+    "translate": "определить местоположение "
+  },
+  {
+    "number": 2637,
+    "termin": "lock ",
+    "transcription": "[lɒk] ",
+    "translate": "замок, запирать "
+  },
+  {
+    "number": 2638,
+    "termin": "locker ",
+    "transcription": "[ˈlɒkə] ",
+    "translate": "ящик, шкаф (закрывающийся) "
+  },
+  {
+    "number": 2639,
+    "termin": "locus ",
+    "transcription": "[ˈləʊkəs] ",
+    "translate": "местоположение "
+  },
+  {
+    "number": 2640,
+    "termin": "lodge ",
+    "transcription": "[lɒʤ] ",
+    "translate": "домик, поселиться, остановиться "
+  },
+  {
+    "number": 2641,
+    "termin": "lodge ",
+    "transcription": "[lɒʤ] ",
+    "translate": "подавать (документ) "
+  },
+  {
+    "number": 2642,
+    "termin": "loft ",
+    "transcription": "[lɒft] ",
+    "translate": "чердак, верхний нежилой этаж "
+  },
+  {
+    "number": 2643,
+    "termin": "log ",
+    "transcription": "[lɒg] ",
+    "translate": "бревно "
+  },
+  {
+    "number": 2644,
+    "termin": "lone ",
+    "transcription": "[ləʊn] ",
+    "translate": "одинокий "
+  },
+  {
+    "number": 2645,
+    "termin": "long ago ",
+    "transcription": "[lɒŋəˈgəʊ] ",
+    "translate": "давно "
+  },
+  {
+    "number": 2646,
+    "termin": "long for ",
+    "transcription": "[lɒŋfɔː] ",
+    "translate": "желать или скучать "
+  },
+  {
+    "number": 2647,
+    "termin": "longevity ",
+    "transcription": "[lɒnˈʤɛvɪti] ",
+    "translate": "долговечность, долголетие "
+  },
+  {
+    "number": 2648,
+    "termin": "look ",
+    "transcription": "[lʊk] ",
+    "translate": "выглядеть "
+  },
+  {
+    "number": 2649,
+    "termin": "look after ",
+    "transcription": "[lʊkˈɑːftə] ",
+    "translate": "присматривать "
+  },
+  {
+    "number": 2650,
+    "termin": "look around ",
+    "transcription": "[lʊkəˈraʊnd] ",
+    "translate": "посмотреть, оглядеть "
+  },
+  {
+    "number": 2651,
+    "termin": "look at ",
+    "transcription": "[lʊkæt] ",
+    "translate": "рассмотреть, обдумать "
+  },
+  {
+    "number": 2652,
+    "termin": "look for ",
+    "transcription": "[lʊkfɔː] ",
+    "translate": "искать "
+  },
+  {
+    "number": 2653,
+    "termin": "look forward ",
+    "transcription": "[lʊkˈfɔːwəd] ",
+    "translate": "ожидать, предвкушать "
+  },
+  {
+    "number": 2654,
+    "termin": "look into ",
+    "transcription": "[lʊkˈɪntuː] ",
+    "translate": "посмотреть, разобраться "
+  },
+  {
+    "number": 2655,
+    "termin": "look out ",
+    "transcription": "[lʊkaʊt] ",
+    "translate": "смотреть (опасность!) "
+  },
+  {
+    "number": 2656,
+    "termin": "look smb up ",
+    "transcription": "[lʊksmbʌp] ",
+    "translate": "найти (в списке и т. п.) "
+  },
+  {
+    "number": 2657,
+    "termin": "look up ",
+    "transcription": "[lʊkʌp] ",
+    "translate": "улучшаться, налаживаться "
+  },
+  {
+    "number": 2658,
+    "termin": "look up to ",
+    "transcription": "[lʊkʌptuː] ",
+    "translate": "уважать, восхищаться "
+  },
+  {
+    "number": 2659,
+    "termin": "loom ",
+    "transcription": "[luːm] ",
+    "translate": "маячить, виднеться "
+  },
+  {
+    "number": 2660,
+    "termin": "loop ",
+    "transcription": "[luːp] ",
+    "translate": "петля "
+  },
+  {
+    "number": 2661,
+    "termin": "loose ",
+    "transcription": "[luːs] ",
+    "translate": "свободный, болтающийся "
+  },
+  {
+    "number": 2662,
+    "termin": "loot ",
+    "transcription": "[luːt] ",
+    "translate": "грабить, добыча "
+  },
+  {
+    "number": 2663,
+    "termin": "lord ",
+    "transcription": "[lɔːd] ",
+    "translate": "господин, господь (бог) "
+  },
+  {
+    "number": 2664,
+    "termin": "loss ",
+    "transcription": "[lɒs] ",
+    "translate": "потеря "
+  },
+  {
+    "number": 2665,
+    "termin": "lot ",
+    "transcription": "[lɒt] ",
+    "translate": "жребий, судьба "
+  },
+  {
+    "number": 2666,
+    "termin": "loud ",
+    "transcription": "[laʊd] ",
+    "translate": "громкий "
+  },
+  {
+    "number": 2667,
+    "termin": "lounge ",
+    "transcription": "[laʊnʤ] ",
+    "translate": "гостиная, холл, комната отдыха "
+  },
+  {
+    "number": 2668,
+    "termin": "lounge ",
+    "transcription": "[laʊnʤ] ",
+    "translate": "расслабляться, бездельничать "
+  },
+  {
+    "number": 2669,
+    "termin": "lousy ",
+    "transcription": "[ˈlaʊzi] ",
+    "translate": "паршивый "
+  },
+  {
+    "number": 2670,
+    "termin": "lovely ",
+    "transcription": "[ˈlʌvli] ",
+    "translate": "чудесный, милый "
+  },
+  {
+    "number": 2671,
+    "termin": "lower ",
+    "transcription": "[ˈləʊə] ",
+    "translate": "нижний "
+  },
+  {
+    "number": 2672,
+    "termin": "loyal ",
+    "transcription": "[ˈlɔɪəl] ",
+    "translate": "верный, преданный "
+  },
+  {
+    "number": 2673,
+    "termin": "lucrative ",
+    "transcription": "[ˈluːkrətɪv] ",
+    "translate": "прибыльный, выгодный "
+  },
+  {
+    "number": 2674,
+    "termin": "ludicrous ",
+    "transcription": "[ˈluːdɪkrəs] ",
+    "translate": "нелепый, смехотворный "
+  },
+  {
+    "number": 2675,
+    "termin": "luggage ",
+    "transcription": "[ˈlʌgɪʤ] ",
+    "translate": "багаж "
+  },
+  {
+    "number": 2676,
+    "termin": "lumber ",
+    "transcription": "[ˈlʌmbə] ",
+    "translate": "пиломатериалы "
+  },
+  {
+    "number": 2677,
+    "termin": "lump ",
+    "transcription": "[lʌmp] ",
+    "translate": "кусок, глыба, ком "
+  },
+  {
+    "number": 2678,
+    "termin": "lunar ",
+    "transcription": "[ˈluːnə] ",
+    "translate": "лунный "
+  },
+  {
+    "number": 2679,
+    "termin": "luncheon ",
+    "transcription": "[ˈlʌnʧən] ",
+    "translate": "завтрак "
+  },
+  {
+    "number": 2680,
+    "termin": "lung ",
+    "transcription": "[lʌŋ] ",
+    "translate": "легкое "
+  },
+  {
+    "number": 2681,
+    "termin": "lurch ",
+    "transcription": "[lɜːʧ] ",
+    "translate": "крениться, шататься "
+  },
+  {
+    "number": 2682,
+    "termin": "lure ",
+    "transcription": "[ljʊə] ",
+    "translate": "приманка, манить "
+  },
+  {
+    "number": 2683,
+    "termin": "lurk ",
+    "transcription": "[lɜːk] ",
+    "translate": "таиться "
+  },
+  {
+    "number": 2684,
+    "termin": "lush ",
+    "transcription": "[lʌʃ] ",
+    "translate": "пышный "
+  },
+  {
+    "number": 2685,
+    "termin": "lust ",
+    "transcription": "[lʌst] ",
+    "translate": "вожделение, страсть "
+  },
+  {
+    "number": 2686,
+    "termin": "luxury ",
+    "transcription": "[ˈlʌkʃəri] ",
+    "translate": "роскошь "
+  },
+  {
+    "number": 2687,
+    "termin": "lyrics ",
+    "transcription": "[ˈlɪrɪks] ",
+    "translate": "текст песни "
+  }
+]

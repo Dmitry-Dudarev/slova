@@ -1,0 +1,2186 @@
+[
+  {
+    "number": 3103,
+    "termin": "pace ",
+    "transcription": "[peɪs] ",
+    "translate": "шаг, шагать "
+  },
+  {
+    "number": 3104,
+    "termin": "pack ",
+    "transcription": "[pæk] ",
+    "translate": "пачка, связка, колода, и т. д. "
+  },
+  {
+    "number": 3105,
+    "termin": "pack ",
+    "transcription": "[pæk] ",
+    "translate": "упаковывать, собирать "
+  },
+  {
+    "number": 3106,
+    "termin": "pack in ",
+    "transcription": "[pækɪn] ",
+    "translate": "собирать (аудиторию) "
+  },
+  {
+    "number": 3107,
+    "termin": "pad ",
+    "transcription": "[pæd] ",
+    "translate": "подушечка пальца, лапы "
+  },
+  {
+    "number": 3108,
+    "termin": "pad ",
+    "transcription": "[pæd] ",
+    "translate": "блокнот "
+  },
+  {
+    "number": 3109,
+    "termin": "pad ",
+    "transcription": "[pæd] ",
+    "translate": "панель, клавиатура "
+  },
+  {
+    "number": 3110,
+    "termin": "paddle ",
+    "transcription": "[ˈpædl] ",
+    "translate": "грести, весло "
+  },
+  {
+    "number": 3111,
+    "termin": "pagan ",
+    "transcription": "[ˈpeɪgən] ",
+    "translate": "язычник "
+  },
+  {
+    "number": 3112,
+    "termin": "pain ",
+    "transcription": "[peɪn] ",
+    "translate": "боль "
+  },
+  {
+    "number": 3113,
+    "termin": "pair ",
+    "transcription": "[peə] ",
+    "translate": "пара "
+  },
+  {
+    "number": 3114,
+    "termin": "pal ",
+    "transcription": "[pæl] ",
+    "translate": "приятель "
+  },
+  {
+    "number": 3115,
+    "termin": "palace ",
+    "transcription": "[ˈpælɪs] ",
+    "translate": "дворец "
+  },
+  {
+    "number": 3116,
+    "termin": "pale ",
+    "transcription": "[peɪl] ",
+    "translate": "бледный "
+  },
+  {
+    "number": 3117,
+    "termin": "palm ",
+    "transcription": "[pɑːm] ",
+    "translate": "ладонь "
+  },
+  {
+    "number": 3118,
+    "termin": "pan ",
+    "transcription": "[pæn] ",
+    "translate": "скоровода "
+  },
+  {
+    "number": 3119,
+    "termin": "pancake ",
+    "transcription": "[ˈpænkeɪk] ",
+    "translate": "блин, оладья "
+  },
+  {
+    "number": 3120,
+    "termin": "pant ",
+    "transcription": "[pænt] ",
+    "translate": "пыхтеть, задыхаться "
+  },
+  {
+    "number": 3121,
+    "termin": "pants ",
+    "transcription": "[pænts] ",
+    "translate": "штаны "
+  },
+  {
+    "number": 3122,
+    "termin": "paper ",
+    "transcription": "[ˈpeɪpə] ",
+    "translate": "бумага, документ "
+  },
+  {
+    "number": 3123,
+    "termin": "paperwork ",
+    "transcription": "[ˈpeɪpəˌwɜːk] ",
+    "translate": "оформление бумаг "
+  },
+  {
+    "number": 3124,
+    "termin": "paragraph ",
+    "transcription": "[ˈpærəgrɑːf] ",
+    "translate": "абзац, пункт "
+  },
+  {
+    "number": 3125,
+    "termin": "parcel ",
+    "transcription": "[ˈpɑːsl] ",
+    "translate": "посылка "
+  },
+  {
+    "number": 3126,
+    "termin": "pardon ",
+    "transcription": "[ˈpɑːdn] ",
+    "translate": "извинять, извинение "
+  },
+  {
+    "number": 3127,
+    "termin": "parlor ",
+    "transcription": "[ˈpɑːlə] ",
+    "translate": "приёмная, салон "
+  },
+  {
+    "number": 3128,
+    "termin": "parrot ",
+    "transcription": "[ˈpærət] ",
+    "translate": "попугай "
+  },
+  {
+    "number": 3129,
+    "termin": "parsley ",
+    "transcription": "[ˈpɑːsli] ",
+    "translate": "петрушка "
+  },
+  {
+    "number": 3130,
+    "termin": "part ",
+    "transcription": "[pɑːt] ",
+    "translate": "роль "
+  },
+  {
+    "number": 3131,
+    "termin": "part ",
+    "transcription": "[pɑːt] ",
+    "translate": "часть, разделять(ся) "
+  },
+  {
+    "number": 3132,
+    "termin": "participate ",
+    "transcription": "[pɑːˈtɪsɪpeɪt] ",
+    "translate": "участвовать "
+  },
+  {
+    "number": 3133,
+    "termin": "particle ",
+    "transcription": "[ˈpɑːtɪkl] ",
+    "translate": "частица "
+  },
+  {
+    "number": 3134,
+    "termin": "particular ",
+    "transcription": "[pəˈtɪkjʊlə] ",
+    "translate": "частный, конкретный "
+  },
+  {
+    "number": 3135,
+    "termin": "partisan ",
+    "transcription": "[ˌpɑːtɪˈzæn] ",
+    "translate": "сторонник "
+  },
+  {
+    "number": 3136,
+    "termin": "partition ",
+    "transcription": "[pɑːˈtɪʃən] ",
+    "translate": "раздел "
+  },
+  {
+    "number": 3137,
+    "termin": "part-time ",
+    "transcription": "[pɑːt-taɪm] ",
+    "translate": "неполная занятость "
+  },
+  {
+    "number": 3138,
+    "termin": "pass ",
+    "transcription": "[pɑːs] ",
+    "translate": "пройти "
+  },
+  {
+    "number": 3139,
+    "termin": "pass away ",
+    "transcription": "[pɑːsəˈweɪ] ",
+    "translate": "умереть "
+  },
+  {
+    "number": 3140,
+    "termin": "pass by ",
+    "transcription": "[pɑːsbaɪ] ",
+    "translate": "проходить мимо "
+  },
+  {
+    "number": 3141,
+    "termin": "pass off as ",
+    "transcription": "[pɑːsɒfæz] ",
+    "translate": "сойти, прокатить за "
+  },
+  {
+    "number": 3142,
+    "termin": "pass smth on ",
+    "transcription": "[pɑːssmthɒn] ",
+    "translate": "отдать (дальше) "
+  },
+  {
+    "number": 3143,
+    "termin": "pass up ",
+    "transcription": "[pɑːsʌp] ",
+    "translate": "не воспользоваться шансом "
+  },
+  {
+    "number": 3144,
+    "termin": "passage ",
+    "transcription": "[ˈpæsɪʤ] ",
+    "translate": "проход, коридор "
+  },
+  {
+    "number": 3145,
+    "termin": "passenger ",
+    "transcription": "[ˈpæsɪnʤə] ",
+    "translate": "пассажир "
+  },
+  {
+    "number": 3146,
+    "termin": "passion ",
+    "transcription": "[ˈpæʃən] ",
+    "translate": "страсть "
+  },
+  {
+    "number": 3147,
+    "termin": "past ",
+    "transcription": "[pɑːst] ",
+    "translate": "мимо "
+  },
+  {
+    "number": 3148,
+    "termin": "past ",
+    "transcription": "[pɑːst] ",
+    "translate": "прошлый, прошедший "
+  },
+  {
+    "number": 3149,
+    "termin": "pastime ",
+    "transcription": "[ˈpɑːstaɪm] ",
+    "translate": "времяпрепровождение "
+  },
+  {
+    "number": 3150,
+    "termin": "pastry ",
+    "transcription": "[ˈpeɪstri] ",
+    "translate": "выпечка, тесто "
+  },
+  {
+    "number": 3151,
+    "termin": "pasture ",
+    "transcription": "[ˈpɑːsʧə] ",
+    "translate": "пастбище "
+  },
+  {
+    "number": 3152,
+    "termin": "pat ",
+    "transcription": "[pæt] ",
+    "translate": "похлопать, потрепать "
+  },
+  {
+    "number": 3153,
+    "termin": "patch ",
+    "transcription": "[pæʧ] ",
+    "translate": "заплатка, латать "
+  },
+  {
+    "number": 3154,
+    "termin": "path ",
+    "transcription": "[pɑːθ] ",
+    "translate": "путь "
+  },
+  {
+    "number": 3155,
+    "termin": "pathetic ",
+    "transcription": "[pəˈθɛtɪk] ",
+    "translate": "жалкий "
+  },
+  {
+    "number": 3156,
+    "termin": "patient ",
+    "transcription": "[ˈpeɪʃənt] ",
+    "translate": "терпеливый "
+  },
+  {
+    "number": 3157,
+    "termin": "patio ",
+    "transcription": "[ˈpætɪəʊ] ",
+    "translate": "внутренний дворик "
+  },
+  {
+    "number": 3158,
+    "termin": "patrol ",
+    "transcription": "[pəˈtrəʊl] ",
+    "translate": "патруль "
+  },
+  {
+    "number": 3159,
+    "termin": "patron ",
+    "transcription": "[ˈpeɪtrən] ",
+    "translate": "покровитель "
+  },
+  {
+    "number": 3160,
+    "termin": "pattern ",
+    "transcription": "[ˈpætən] ",
+    "translate": "шаблон, образец "
+  },
+  {
+    "number": 3161,
+    "termin": "pause ",
+    "transcription": "[pɔːz] ",
+    "translate": "приостанавливать "
+  },
+  {
+    "number": 3162,
+    "termin": "pave ",
+    "transcription": "[peɪv] ",
+    "translate": "вымостить "
+  },
+  {
+    "number": 3163,
+    "termin": "paw ",
+    "transcription": "[pɔː] ",
+    "translate": "лапа "
+  },
+  {
+    "number": 3164,
+    "termin": "pay back ",
+    "transcription": "[peɪbæk] ",
+    "translate": "вернуть деньги "
+  },
+  {
+    "number": 3165,
+    "termin": "pay off ",
+    "transcription": "[peɪɒf] ",
+    "translate": "расплатиться (с долгом) "
+  },
+  {
+    "number": 3166,
+    "termin": "pay out ",
+    "transcription": "[peɪaʊt] ",
+    "translate": "выплатить (крупную сумму) "
+  },
+  {
+    "number": 3167,
+    "termin": "payment ",
+    "transcription": "[ˈpeɪmənt] ",
+    "translate": "оплата "
+  },
+  {
+    "number": 3168,
+    "termin": "pea ",
+    "transcription": "[piː] ",
+    "translate": "горошина "
+  },
+  {
+    "number": 3169,
+    "termin": "peaceful ",
+    "transcription": "[ˈpiːsfʊl] ",
+    "translate": "мирный "
+  },
+  {
+    "number": 3170,
+    "termin": "peacekeeper ",
+    "transcription": "[peacekeeper] ",
+    "translate": "миротворец "
+  },
+  {
+    "number": 3171,
+    "termin": "peach ",
+    "transcription": "[piːʧ] ",
+    "translate": "персик "
+  },
+  {
+    "number": 3172,
+    "termin": "peanut ",
+    "transcription": "[ˈpiːnʌt] ",
+    "translate": "арахис "
+  },
+  {
+    "number": 3173,
+    "termin": "pear ",
+    "transcription": "[peə] ",
+    "translate": "груша "
+  },
+  {
+    "number": 3174,
+    "termin": "pearl ",
+    "transcription": "[pɜːl] ",
+    "translate": "жемчуг, жемчужина "
+  },
+  {
+    "number": 3175,
+    "termin": "peasant ",
+    "transcription": "[ˈpɛzənt] ",
+    "translate": "крестьянин "
+  },
+  {
+    "number": 3176,
+    "termin": "pebble ",
+    "transcription": "[ˈpɛbl] ",
+    "translate": "морской камень "
+  },
+  {
+    "number": 3177,
+    "termin": "peck ",
+    "transcription": "[pɛk] ",
+    "translate": "клевать "
+  },
+  {
+    "number": 3178,
+    "termin": "peculiar ",
+    "transcription": "[pɪˈkjuːliə] ",
+    "translate": "своеобразный, особый "
+  },
+  {
+    "number": 3179,
+    "termin": "peddle ",
+    "transcription": "[ˈpɛdl] ",
+    "translate": "торговать вразнос "
+  },
+  {
+    "number": 3180,
+    "termin": "pedestrian ",
+    "transcription": "[pɪˈdɛstrɪən] ",
+    "translate": "пешеход "
+  },
+  {
+    "number": 3181,
+    "termin": "pee ",
+    "transcription": "[piː] ",
+    "translate": "писать "
+  },
+  {
+    "number": 3182,
+    "termin": "peek ",
+    "transcription": "[piːk] ",
+    "translate": "вгзлянуть, подсмотреть "
+  },
+  {
+    "number": 3183,
+    "termin": "peel ",
+    "transcription": "[piːl] ",
+    "translate": "кожура, очищать "
+  },
+  {
+    "number": 3184,
+    "termin": "peer ",
+    "transcription": "[pɪə] ",
+    "translate": "ровня, ровесник "
+  },
+  {
+    "number": 3185,
+    "termin": "peer ",
+    "transcription": "[pɪə] ",
+    "translate": "вглядываться "
+  },
+  {
+    "number": 3186,
+    "termin": "peg ",
+    "transcription": "[pɛg] ",
+    "translate": "колышек, фиксатор "
+  },
+  {
+    "number": 3187,
+    "termin": "penalty ",
+    "transcription": "[ˈpɛnlti] ",
+    "translate": "наказание "
+  },
+  {
+    "number": 3188,
+    "termin": "pending ",
+    "transcription": "[ˈpɛndɪŋ] ",
+    "translate": "в ожидании, на рассмотрении "
+  },
+  {
+    "number": 3189,
+    "termin": "penetrate ",
+    "transcription": "[ˈpɛnɪtreɪt] ",
+    "translate": "проникать "
+  },
+  {
+    "number": 3190,
+    "termin": "peninsula ",
+    "transcription": "[pɪˈnɪnsjʊlə] ",
+    "translate": "полуостров "
+  },
+  {
+    "number": 3191,
+    "termin": "pepper ",
+    "transcription": "[ˈpɛpə] ",
+    "translate": "перец "
+  },
+  {
+    "number": 3192,
+    "termin": "per ",
+    "transcription": "[pɜː] ",
+    "translate": "(кол-во) на (единицу) "
+  },
+  {
+    "number": 3193,
+    "termin": "perceive ",
+    "transcription": "[pəˈsiːv] ",
+    "translate": "воспринимать, ощущать "
+  },
+  {
+    "number": 3194,
+    "termin": "perception ",
+    "transcription": "[pəˈsɛpʃən] ",
+    "translate": "восприятие "
+  },
+  {
+    "number": 3195,
+    "termin": "perch ",
+    "transcription": "[pɜːʧ] ",
+    "translate": "взгромоздиться, усесться "
+  },
+  {
+    "number": 3196,
+    "termin": "perennial ",
+    "transcription": "[pəˈrɛniəl] ",
+    "translate": "многолетний, вечный "
+  },
+  {
+    "number": 3197,
+    "termin": "perfect ",
+    "transcription": "[ˈpɜːfɪkt] ",
+    "translate": "совершенный "
+  },
+  {
+    "number": 3198,
+    "termin": "perform ",
+    "transcription": "[pəˈfɔːm] ",
+    "translate": "выполнить, исполнить "
+  },
+  {
+    "number": 3199,
+    "termin": "perhaps ",
+    "transcription": "[pəˈhæps] ",
+    "translate": "возможно "
+  },
+  {
+    "number": 3200,
+    "termin": "peril ",
+    "transcription": "[ˈpɛrɪl] ",
+    "translate": "опасность, угроза "
+  },
+  {
+    "number": 3201,
+    "termin": "perish ",
+    "transcription": "[ˈpɛrɪʃ] ",
+    "translate": "погибать "
+  },
+  {
+    "number": 3202,
+    "termin": "perk ",
+    "transcription": "[pɜːk] ",
+    "translate": "привилегия, преимущество "
+  },
+  {
+    "number": 3203,
+    "termin": "perk up ",
+    "transcription": "[pɜːkʌp] ",
+    "translate": "воспрянуть, оживиться "
+  },
+  {
+    "number": 3204,
+    "termin": "permanent ",
+    "transcription": "[ˈpɜːmənənt] ",
+    "translate": "постоянный "
+  },
+  {
+    "number": 3205,
+    "termin": "permit ",
+    "transcription": "[pəˈmɪt] ",
+    "translate": "разрешать "
+  },
+  {
+    "number": 3206,
+    "termin": "perpetual ",
+    "transcription": "[pəˈpɛʧʊəl] ",
+    "translate": "вечный, постоянный "
+  },
+  {
+    "number": 3207,
+    "termin": "perplex ",
+    "transcription": "[pəˈplɛks] ",
+    "translate": "смутить, озадачить "
+  },
+  {
+    "number": 3208,
+    "termin": "persecute ",
+    "transcription": "[ˈpɜːsɪkjuːt] ",
+    "translate": "преследовать, травить "
+  },
+  {
+    "number": 3209,
+    "termin": "persist ",
+    "transcription": "[pəˈsɪst] ",
+    "translate": "сохраниться "
+  },
+  {
+    "number": 3210,
+    "termin": "persist ",
+    "transcription": "[pəˈsɪst] ",
+    "translate": "упорствовать "
+  },
+  {
+    "number": 3211,
+    "termin": "personnel ",
+    "transcription": "[ˌpɜːsəˈnɛl] ",
+    "translate": "персонал, личный состав "
+  },
+  {
+    "number": 3212,
+    "termin": "persuade ",
+    "transcription": "[pəˈsweɪd] ",
+    "translate": "убеждать "
+  },
+  {
+    "number": 3213,
+    "termin": "pervasive ",
+    "transcription": "[pɜːˈveɪsɪv] ",
+    "translate": "расширяющийся, всепроникающий "
+  },
+  {
+    "number": 3214,
+    "termin": "pervert ",
+    "transcription": "[ˈpɜːvɜːt] ",
+    "translate": "извращать, извращенец "
+  },
+  {
+    "number": 3215,
+    "termin": "pest ",
+    "transcription": "[pɛst] ",
+    "translate": "паразит, вредитель "
+  },
+  {
+    "number": 3216,
+    "termin": "pet ",
+    "transcription": "[pɛt] ",
+    "translate": "домашний питомец "
+  },
+  {
+    "number": 3217,
+    "termin": "petal ",
+    "transcription": "[ˈpɛtl] ",
+    "translate": "лепесток "
+  },
+  {
+    "number": 3218,
+    "termin": "petroleum ",
+    "transcription": "[pɪˈtrəʊlɪəm] ",
+    "translate": "нефть "
+  },
+  {
+    "number": 3219,
+    "termin": "petty ",
+    "transcription": "[ˈpɛti] ",
+    "translate": "мелкий, мелочный "
+  },
+  {
+    "number": 3220,
+    "termin": "phony ",
+    "transcription": "[ˈfəʊni] ",
+    "translate": "фальшивый "
+  },
+  {
+    "number": 3221,
+    "termin": "physician ",
+    "transcription": "[fɪˈzɪʃən] ",
+    "translate": "врач "
+  },
+  {
+    "number": 3222,
+    "termin": "pick ",
+    "transcription": "[pɪk] ",
+    "translate": "подбирать, собирать "
+  },
+  {
+    "number": 3223,
+    "termin": "pick on ",
+    "transcription": "[pɪkɒn] ",
+    "translate": "дразнить, докучать "
+  },
+  {
+    "number": 3224,
+    "termin": "pick out ",
+    "transcription": "[pɪkaʊt] ",
+    "translate": "выбрать или выделить из "
+  },
+  {
+    "number": 3225,
+    "termin": "pick up ",
+    "transcription": "[pɪkʌp] ",
+    "translate": "прибрать "
+  },
+  {
+    "number": 3226,
+    "termin": "pick up ",
+    "transcription": "[pɪkʌp] ",
+    "translate": "подобрать "
+  },
+  {
+    "number": 3227,
+    "termin": "pickle ",
+    "transcription": "[ˈpɪkl] ",
+    "translate": "мариновать, солить "
+  },
+  {
+    "number": 3228,
+    "termin": "pie ",
+    "transcription": "[paɪ] ",
+    "translate": "пирог "
+  },
+  {
+    "number": 3229,
+    "termin": "piece ",
+    "transcription": "[piːs] ",
+    "translate": "предмет, часть, кусок "
+  },
+  {
+    "number": 3230,
+    "termin": "pier ",
+    "transcription": "[pɪə] ",
+    "translate": "пристань, пирс "
+  },
+  {
+    "number": 3231,
+    "termin": "pierce ",
+    "transcription": "[pɪəs] ",
+    "translate": "проколоть "
+  },
+  {
+    "number": 3232,
+    "termin": "pigeon ",
+    "transcription": "[ˈpɪʤɪn] ",
+    "translate": "голубь "
+  },
+  {
+    "number": 3233,
+    "termin": "pile ",
+    "transcription": "[paɪl] ",
+    "translate": "куча, стопка "
+  },
+  {
+    "number": 3234,
+    "termin": "pile up ",
+    "transcription": "[paɪlʌp] ",
+    "translate": "сложить, навалить "
+  },
+  {
+    "number": 3235,
+    "termin": "pill ",
+    "transcription": "[pɪl] ",
+    "translate": "пилюля "
+  },
+  {
+    "number": 3236,
+    "termin": "pillar ",
+    "transcription": "[ˈpɪlə] ",
+    "translate": "столб, опора, колонна "
+  },
+  {
+    "number": 3237,
+    "termin": "pillow ",
+    "transcription": "[ˈpɪləʊ] ",
+    "translate": "подушка "
+  },
+  {
+    "number": 3238,
+    "termin": "pin ",
+    "transcription": "[pɪn] ",
+    "translate": "булавка, штырь, прикалывать "
+  },
+  {
+    "number": 3239,
+    "termin": "pinch ",
+    "transcription": "[pɪnʧ] ",
+    "translate": "зажать, ущипнуть "
+  },
+  {
+    "number": 3240,
+    "termin": "pine ",
+    "transcription": "[paɪn] ",
+    "translate": "сосна "
+  },
+  {
+    "number": 3241,
+    "termin": "pineapple ",
+    "transcription": "[ˈpaɪnˌæpl] ",
+    "translate": "ананас "
+  },
+  {
+    "number": 3242,
+    "termin": "pipe ",
+    "transcription": "[paɪp] ",
+    "translate": "трубка "
+  },
+  {
+    "number": 3243,
+    "termin": "pipe ",
+    "transcription": "[paɪp] ",
+    "translate": "труба "
+  },
+  {
+    "number": 3244,
+    "termin": "piss ",
+    "transcription": "[pɪs] ",
+    "translate": "писать, моча "
+  },
+  {
+    "number": 3245,
+    "termin": "piss about ",
+    "transcription": "[pɪsəˈbaʊt] ",
+    "translate": "страдать хернёй "
+  },
+  {
+    "number": 3246,
+    "termin": "piss off ",
+    "transcription": "[pɪsɒf] ",
+    "translate": "бесить "
+  },
+  {
+    "number": 3247,
+    "termin": "pit ",
+    "transcription": "[pɪt] ",
+    "translate": "яма "
+  },
+  {
+    "number": 3248,
+    "termin": "pitch ",
+    "transcription": "[pɪʧ] ",
+    "translate": "подавать (мяч) "
+  },
+  {
+    "number": 3249,
+    "termin": "pitch ",
+    "transcription": "[pɪʧ] ",
+    "translate": "ставить (напр. палатку) "
+  },
+  {
+    "number": 3250,
+    "termin": "pity ",
+    "transcription": "[ˈpɪti] ",
+    "translate": "жалость "
+  },
+  {
+    "number": 3251,
+    "termin": "pivot ",
+    "transcription": "[ˈpɪvət] ",
+    "translate": "стержень, ось, точка опоры "
+  },
+  {
+    "number": 3252,
+    "termin": "placement ",
+    "transcription": "[ˈpleɪsmənt] ",
+    "translate": "размещение "
+  },
+  {
+    "number": 3253,
+    "termin": "placid ",
+    "transcription": "[ˈplæsɪd] ",
+    "translate": "тихий, спокойный "
+  },
+  {
+    "number": 3254,
+    "termin": "plague ",
+    "transcription": "[pleɪg] ",
+    "translate": "чума "
+  },
+  {
+    "number": 3255,
+    "termin": "plain ",
+    "transcription": "[pleɪn] ",
+    "translate": "ясный, очевидный "
+  },
+  {
+    "number": 3256,
+    "termin": "plain ",
+    "transcription": "[pleɪn] ",
+    "translate": "ровный, равнина "
+  },
+  {
+    "number": 3257,
+    "termin": "plain ",
+    "transcription": "[pleɪn] ",
+    "translate": "простой, незамысловатый "
+  },
+  {
+    "number": 3258,
+    "termin": "plane ",
+    "transcription": "[pleɪn] ",
+    "translate": "самолёт "
+  },
+  {
+    "number": 3259,
+    "termin": "plank ",
+    "transcription": "[plæŋk] ",
+    "translate": "доска, планка "
+  },
+  {
+    "number": 3260,
+    "termin": "plant ",
+    "transcription": "[plɑːnt] ",
+    "translate": "растение, сажать "
+  },
+  {
+    "number": 3261,
+    "termin": "plant ",
+    "transcription": "[plɑːnt] ",
+    "translate": "завод, производство "
+  },
+  {
+    "number": 3262,
+    "termin": "plaque ",
+    "transcription": "[plɑːk] ",
+    "translate": "бляшка, металлический знак "
+  },
+  {
+    "number": 3263,
+    "termin": "plaster ",
+    "transcription": "[ˈplɑːstə] ",
+    "translate": "штукатурка или гипс "
+  },
+  {
+    "number": 3264,
+    "termin": "plate ",
+    "transcription": "[pleɪt] ",
+    "translate": "плита, пластина "
+  },
+  {
+    "number": 3265,
+    "termin": "platter ",
+    "transcription": "[ˈplætə] ",
+    "translate": "большое блюдо "
+  },
+  {
+    "number": 3266,
+    "termin": "plausible ",
+    "transcription": "[ˈplɔːzəbl] ",
+    "translate": "правдоподобный "
+  },
+  {
+    "number": 3267,
+    "termin": "playground ",
+    "transcription": "[ˈpleɪgraʊnd] ",
+    "translate": "детская площадка "
+  },
+  {
+    "number": 3268,
+    "termin": "plea ",
+    "transcription": "[pliː] ",
+    "translate": "просьба, требование, иск "
+  },
+  {
+    "number": 3269,
+    "termin": "please ",
+    "transcription": "[pliːz] ",
+    "translate": "радовать "
+  },
+  {
+    "number": 3270,
+    "termin": "pleasure ",
+    "transcription": "[ˈplɛʒə] ",
+    "translate": "удовольствие, наслаждение "
+  },
+  {
+    "number": 3271,
+    "termin": "pledge ",
+    "transcription": "[plɛʤ] ",
+    "translate": "залог, оставлять в залог "
+  },
+  {
+    "number": 3272,
+    "termin": "pledge ",
+    "transcription": "[plɛʤ] ",
+    "translate": "обещание, обязательство "
+  },
+  {
+    "number": 3273,
+    "termin": "plenty ",
+    "transcription": "[ˈplɛnti] ",
+    "translate": "множество, масса, достаток "
+  },
+  {
+    "number": 3274,
+    "termin": "plight ",
+    "transcription": "[plaɪt] ",
+    "translate": "тяжёлое положение, участь "
+  },
+  {
+    "number": 3275,
+    "termin": "plot ",
+    "transcription": "[plɒt] ",
+    "translate": "план, чертёж "
+  },
+  {
+    "number": 3276,
+    "termin": "plot ",
+    "transcription": "[plɒt] ",
+    "translate": "сюжет "
+  },
+  {
+    "number": 3277,
+    "termin": "plow (plough) ",
+    "transcription": "[plaʊ] ",
+    "translate": "пахать, плуг "
+  },
+  {
+    "number": 3278,
+    "termin": "pluck ",
+    "transcription": "[plʌk] ",
+    "translate": "сорвать, выдернуть "
+  },
+  {
+    "number": 3279,
+    "termin": "plug ",
+    "transcription": "[plʌg] ",
+    "translate": "штепсель, включать "
+  },
+  {
+    "number": 3280,
+    "termin": "plug in ",
+    "transcription": "[plʌgɪn] ",
+    "translate": "включать "
+  },
+  {
+    "number": 3281,
+    "termin": "plum ",
+    "transcription": "[plʌm] ",
+    "translate": "слива "
+  },
+  {
+    "number": 3282,
+    "termin": "plumbing ",
+    "transcription": "[ˈplʌmɪŋ] ",
+    "translate": "водопровод "
+  },
+  {
+    "number": 3283,
+    "termin": "plump ",
+    "transcription": "[plʌmp] ",
+    "translate": "пухлый "
+  },
+  {
+    "number": 3284,
+    "termin": "plunge ",
+    "transcription": "[plʌnʤ] ",
+    "translate": "окунуться, нырнуть "
+  },
+  {
+    "number": 3285,
+    "termin": "plural ",
+    "transcription": "[ˈplʊərəl] ",
+    "translate": "множественное число "
+  },
+  {
+    "number": 3286,
+    "termin": "pocket ",
+    "transcription": "[ˈpɒkɪt] ",
+    "translate": "карман, карманный "
+  },
+  {
+    "number": 3287,
+    "termin": "point ",
+    "transcription": "[pɔɪnt] ",
+    "translate": "смысл, суть "
+  },
+  {
+    "number": 3288,
+    "termin": "point ",
+    "transcription": "[pɔɪnt] ",
+    "translate": "точка "
+  },
+  {
+    "number": 3289,
+    "termin": "point ",
+    "transcription": "[pɔɪnt] ",
+    "translate": "очко "
+  },
+  {
+    "number": 3290,
+    "termin": "point ",
+    "transcription": "[pɔɪnt] ",
+    "translate": "острие, кончик "
+  },
+  {
+    "number": 3291,
+    "termin": "point ",
+    "transcription": "[pɔɪnt] ",
+    "translate": "пункт "
+  },
+  {
+    "number": 3292,
+    "termin": "point out ",
+    "transcription": "[pɔɪntaʊt] ",
+    "translate": "указать "
+  },
+  {
+    "number": 3293,
+    "termin": "poise ",
+    "transcription": "[pɔɪz] ",
+    "translate": "равновесие, самообладание "
+  },
+  {
+    "number": 3294,
+    "termin": "poison ",
+    "transcription": "[ˈpɔɪzn] ",
+    "translate": "яд, травить "
+  },
+  {
+    "number": 3295,
+    "termin": "poke ",
+    "transcription": "[pəʊk] ",
+    "translate": "совать, тыкать "
+  },
+  {
+    "number": 3296,
+    "termin": "poke out ",
+    "transcription": "[pəʊkaʊt] ",
+    "translate": "высовывать "
+  },
+  {
+    "number": 3297,
+    "termin": "pole ",
+    "transcription": "[pəʊl] ",
+    "translate": "полюс "
+  },
+  {
+    "number": 3298,
+    "termin": "pole ",
+    "transcription": "[pəʊl] ",
+    "translate": "шест, столб "
+  },
+  {
+    "number": 3299,
+    "termin": "policy ",
+    "transcription": "[ˈpɒlɪsi] ",
+    "translate": "политика, курс "
+  },
+  {
+    "number": 3300,
+    "termin": "polish ",
+    "transcription": "[ˈpɒlɪʃ] ",
+    "translate": "шлифовать, полировать "
+  },
+  {
+    "number": 3301,
+    "termin": "polite ",
+    "transcription": "[pəˈlaɪt] ",
+    "translate": "вежливый "
+  },
+  {
+    "number": 3302,
+    "termin": "poll ",
+    "transcription": "[pəʊl] ",
+    "translate": "опрос или голосование "
+  },
+  {
+    "number": 3303,
+    "termin": "pollute ",
+    "transcription": "[pəˈluːt] ",
+    "translate": "загрязнять "
+  },
+  {
+    "number": 3304,
+    "termin": "pond ",
+    "transcription": "[pɒnd] ",
+    "translate": "пруд "
+  },
+  {
+    "number": 3305,
+    "termin": "ponder ",
+    "transcription": "[ˈpɒndə] ",
+    "translate": "обдумывать "
+  },
+  {
+    "number": 3306,
+    "termin": "pool ",
+    "transcription": "[puːl] ",
+    "translate": "бассейн "
+  },
+  {
+    "number": 3307,
+    "termin": "poor ",
+    "transcription": "[pʊə] ",
+    "translate": "бедный "
+  },
+  {
+    "number": 3308,
+    "termin": "pope ",
+    "transcription": "[pəʊp] ",
+    "translate": "папа римский "
+  },
+  {
+    "number": 3309,
+    "termin": "population ",
+    "transcription": "[ˌpɒpjʊˈleɪʃən] ",
+    "translate": "население "
+  },
+  {
+    "number": 3310,
+    "termin": "porcelain ",
+    "transcription": "[ˈpɔːsəlɪn] ",
+    "translate": "фарфор "
+  },
+  {
+    "number": 3311,
+    "termin": "porch ",
+    "transcription": "[pɔːʧ] ",
+    "translate": "крыльцо, терраса, веранда "
+  },
+  {
+    "number": 3312,
+    "termin": "pork ",
+    "transcription": "[pɔːk] ",
+    "translate": "свинина "
+  },
+  {
+    "number": 3313,
+    "termin": "portable ",
+    "transcription": "[ˈpɔːtəbl] ",
+    "translate": "портативный, переносной "
+  },
+  {
+    "number": 3314,
+    "termin": "porter ",
+    "transcription": "[ˈpɔːtə] ",
+    "translate": "носильщик или порьте "
+  },
+  {
+    "number": 3315,
+    "termin": "portray ",
+    "transcription": "[pɔːˈtreɪ] ",
+    "translate": "изображать, показывать "
+  },
+  {
+    "number": 3316,
+    "termin": "possess ",
+    "transcription": "[pəˈzɛs] ",
+    "translate": "обладать "
+  },
+  {
+    "number": 3317,
+    "termin": "possible ",
+    "transcription": "[ˈpɒsəbl] ",
+    "translate": "возможный "
+  },
+  {
+    "number": 3318,
+    "termin": "post ",
+    "transcription": "[pəʊst] ",
+    "translate": "почта, почтовый "
+  },
+  {
+    "number": 3319,
+    "termin": "postpone ",
+    "transcription": "[pəʊstˈpəʊn] ",
+    "translate": "отложить, задержать "
+  },
+  {
+    "number": 3320,
+    "termin": "posture ",
+    "transcription": "[ˈpɒsʧə] ",
+    "translate": "поза "
+  },
+  {
+    "number": 3321,
+    "termin": "pot ",
+    "transcription": "[pɒt] ",
+    "translate": "горшок, кастрюля "
+  },
+  {
+    "number": 3322,
+    "termin": "potato ",
+    "transcription": "[pəˈteɪtəʊ] ",
+    "translate": "картофель "
+  },
+  {
+    "number": 3323,
+    "termin": "potent ",
+    "transcription": "[ˈpəʊtənt] ",
+    "translate": "мощный, могущественный "
+  },
+  {
+    "number": 3324,
+    "termin": "pouch ",
+    "transcription": "[paʊʧ] ",
+    "translate": "сумочка, кошелёк "
+  },
+  {
+    "number": 3325,
+    "termin": "poultry ",
+    "transcription": "[ˈpəʊltri] ",
+    "translate": "домашняя птица "
+  },
+  {
+    "number": 3326,
+    "termin": "pound ",
+    "transcription": "[paʊnd] ",
+    "translate": "фунт "
+  },
+  {
+    "number": 3327,
+    "termin": "pound ",
+    "transcription": "[paʊnd] ",
+    "translate": "долбить, толочь "
+  },
+  {
+    "number": 3328,
+    "termin": "pour ",
+    "transcription": "[pɔː] ",
+    "translate": "лить "
+  },
+  {
+    "number": 3329,
+    "termin": "pour in (into) ",
+    "transcription": "[pɔːrɪn] ",
+    "translate": "хлынуть, заполонить "
+  },
+  {
+    "number": 3330,
+    "termin": "poverty ",
+    "transcription": "[ˈpɒvəti] ",
+    "translate": "бедность, нищета "
+  },
+  {
+    "number": 3331,
+    "termin": "powder ",
+    "transcription": "[ˈpaʊdə] ",
+    "translate": "порошок "
+  },
+  {
+    "number": 3332,
+    "termin": "powerful ",
+    "transcription": "[ˈpaʊəfʊl] ",
+    "translate": "мощный, действенный "
+  },
+  {
+    "number": 3333,
+    "termin": "practice ",
+    "transcription": "[ˈpræktɪs] ",
+    "translate": "практика, практиковать "
+  },
+  {
+    "number": 3334,
+    "termin": "prairie ",
+    "transcription": "[ˈpreəri] ",
+    "translate": "степь, прерия "
+  },
+  {
+    "number": 3335,
+    "termin": "praise ",
+    "transcription": "[preɪz] ",
+    "translate": "хвалить, похвала "
+  },
+  {
+    "number": 3336,
+    "termin": "pray ",
+    "transcription": "[preɪ] ",
+    "translate": "молиться "
+  },
+  {
+    "number": 3337,
+    "termin": "preach ",
+    "transcription": "[priːʧ] ",
+    "translate": "проповедовать "
+  },
+  {
+    "number": 3338,
+    "termin": "precarious ",
+    "transcription": "[prɪˈkeərɪəs] ",
+    "translate": "ненадёжный, шаткий "
+  },
+  {
+    "number": 3339,
+    "termin": "precaution ",
+    "transcription": "[prɪˈkɔːʃən] ",
+    "translate": "предосторожность "
+  },
+  {
+    "number": 3340,
+    "termin": "precede ",
+    "transcription": "[pri(ː)ˈsiːd] ",
+    "translate": "предшествовать "
+  },
+  {
+    "number": 3341,
+    "termin": "precious ",
+    "transcription": "[ˈprɛʃəs] ",
+    "translate": "драгоценный "
+  },
+  {
+    "number": 3342,
+    "termin": "precise ",
+    "transcription": "[prɪˈsaɪz] ",
+    "translate": "точный "
+  },
+  {
+    "number": 3343,
+    "termin": "preclude ",
+    "transcription": "[prɪˈkluːd] ",
+    "translate": "исключить, помешать "
+  },
+  {
+    "number": 3344,
+    "termin": "predator ",
+    "transcription": "[ˈprɛdətə] ",
+    "translate": "хищник "
+  },
+  {
+    "number": 3345,
+    "termin": "predecessor ",
+    "transcription": "[ˈpriːdɪsɛsə] ",
+    "translate": "предшественник "
+  },
+  {
+    "number": 3346,
+    "termin": "predict ",
+    "transcription": "[prɪˈdɪkt] ",
+    "translate": "предсказывать "
+  },
+  {
+    "number": 3347,
+    "termin": "predominant ",
+    "transcription": "[prɪˈdɒmɪnənt] ",
+    "translate": "преобладающий "
+  },
+  {
+    "number": 3348,
+    "termin": "prefer ",
+    "transcription": "[priˈfɜː] ",
+    "translate": "предпочитать "
+  },
+  {
+    "number": 3349,
+    "termin": "pregnant ",
+    "transcription": "[ˈprɛgnənt] ",
+    "translate": "беременная "
+  },
+  {
+    "number": 3350,
+    "termin": "prejudice ",
+    "transcription": "[ˈprɛʤʊdɪs] ",
+    "translate": "предубеждение, предрассудок "
+  },
+  {
+    "number": 3351,
+    "termin": "preliminary ",
+    "transcription": "[prɪˈlɪmɪnəri] ",
+    "translate": "предварительный "
+  },
+  {
+    "number": 3352,
+    "termin": "premature ",
+    "transcription": "[ˌprɛməˈtjʊə] ",
+    "translate": "преждевременный "
+  },
+  {
+    "number": 3353,
+    "termin": "premise ",
+    "transcription": "[ˈprɛmɪs] ",
+    "translate": "предпосылка "
+  },
+  {
+    "number": 3354,
+    "termin": "premises ",
+    "transcription": "[ˈprɛmɪsɪz] ",
+    "translate": "помещение (-я) "
+  },
+  {
+    "number": 3355,
+    "termin": "preoccupy ",
+    "transcription": "[pri(ː)ˈɒkjʊpaɪ] ",
+    "translate": "занимать внимание "
+  },
+  {
+    "number": 3356,
+    "termin": "prepare ",
+    "transcription": "[prɪˈpeə] ",
+    "translate": "приготовить "
+  },
+  {
+    "number": 3357,
+    "termin": "prescribe ",
+    "transcription": "[prɪsˈkraɪb] ",
+    "translate": "предписывать "
+  },
+  {
+    "number": 3358,
+    "termin": "present ",
+    "transcription": "[ˈprɛznt] ",
+    "translate": "настоящее (время) "
+  },
+  {
+    "number": 3359,
+    "termin": "present ",
+    "transcription": "[ˈprɛznt] ",
+    "translate": "присутствующий, в наличии "
+  },
+  {
+    "number": 3360,
+    "termin": "preserve ",
+    "transcription": "[prɪˈzɜːv] ",
+    "translate": "сохранять, беречь "
+  },
+  {
+    "number": 3361,
+    "termin": "preside ",
+    "transcription": "[prɪˈzaɪd] ",
+    "translate": "председательствовать "
+  },
+  {
+    "number": 3362,
+    "termin": "press ",
+    "transcription": "[prɛs] ",
+    "translate": "нажимать "
+  },
+  {
+    "number": 3363,
+    "termin": "presume ",
+    "transcription": "[prɪˈzjuːm] ",
+    "translate": "предполагать "
+  },
+  {
+    "number": 3364,
+    "termin": "pretend ",
+    "transcription": "[prɪˈtɛnd] ",
+    "translate": "притворяться "
+  },
+  {
+    "number": 3365,
+    "termin": "pretty ",
+    "transcription": "[ˈprɪti] ",
+    "translate": "довольно-таки "
+  },
+  {
+    "number": 3366,
+    "termin": "pretty ",
+    "transcription": "[ˈprɪti] ",
+    "translate": "приятный, милый "
+  },
+  {
+    "number": 3367,
+    "termin": "prevail ",
+    "transcription": "[prɪˈveɪl] ",
+    "translate": "преобладать, возобладать "
+  },
+  {
+    "number": 3368,
+    "termin": "prevent ",
+    "transcription": "[prɪˈvɛnt] ",
+    "translate": "предотвращать "
+  },
+  {
+    "number": 3369,
+    "termin": "prevent smb from ",
+    "transcription": "[prɪˈvɛntsmbfrɒm] ",
+    "translate": "мешать "
+  },
+  {
+    "number": 3370,
+    "termin": "previous ",
+    "transcription": "[ˈpriːviəs] ",
+    "translate": "предшествующий "
+  },
+  {
+    "number": 3371,
+    "termin": "prey ",
+    "transcription": "[preɪ] ",
+    "translate": "добыча "
+  },
+  {
+    "number": 3372,
+    "termin": "prick ",
+    "transcription": "[prɪk] ",
+    "translate": "колоть "
+  },
+  {
+    "number": 3373,
+    "termin": "pride ",
+    "transcription": "[praɪd] ",
+    "translate": "гордость "
+  },
+  {
+    "number": 3374,
+    "termin": "priest ",
+    "transcription": "[priːst] ",
+    "translate": "жрец, священник "
+  },
+  {
+    "number": 3375,
+    "termin": "primary ",
+    "transcription": "[ˈpraɪməri] ",
+    "translate": "первичный, главный "
+  },
+  {
+    "number": 3376,
+    "termin": "prime ",
+    "transcription": "[praɪm] ",
+    "translate": "важный, главный, первый "
+  },
+  {
+    "number": 3377,
+    "termin": "primitive ",
+    "transcription": "[ˈprɪmɪtɪv] ",
+    "translate": "первобытный "
+  },
+  {
+    "number": 3378,
+    "termin": "principal ",
+    "transcription": "[ˈprɪnsəpəl] ",
+    "translate": "главный, основной "
+  },
+  {
+    "number": 3379,
+    "termin": "prior ",
+    "transcription": "[ˈpraɪə] ",
+    "translate": "предварительный, предшествующий "
+  },
+  {
+    "number": 3380,
+    "termin": "prison ",
+    "transcription": "[ˈprɪzn] ",
+    "translate": "тюрьма "
+  },
+  {
+    "number": 3381,
+    "termin": "pristine ",
+    "transcription": "[ˈprɪstaɪn] ",
+    "translate": "нетронутый, первозданный "
+  },
+  {
+    "number": 3382,
+    "termin": "privacy ",
+    "transcription": "[ˈprɪvəsi] ",
+    "translate": "частная жизнь, конфиденциальность "
+  },
+  {
+    "number": 3383,
+    "termin": "private ",
+    "transcription": "[ˈpraɪvɪt] ",
+    "translate": "частный, личный "
+  },
+  {
+    "number": 3384,
+    "termin": "probable ",
+    "transcription": "[ˈprɒbəbl] ",
+    "translate": "вероятный, возможный "
+  },
+  {
+    "number": 3385,
+    "termin": "probe ",
+    "transcription": "[prəʊb] ",
+    "translate": "исследовать, проверить "
+  },
+  {
+    "number": 3386,
+    "termin": "probe ",
+    "transcription": "[prəʊb] ",
+    "translate": "датчик, зонд "
+  },
+  {
+    "number": 3387,
+    "termin": "procedure ",
+    "transcription": "[prəˈsiːʤə] ",
+    "translate": "процедура "
+  },
+  {
+    "number": 3388,
+    "termin": "proceed ",
+    "transcription": "[prəˈsiːd] ",
+    "translate": "следовать, продолжать "
+  },
+  {
+    "number": 3389,
+    "termin": "process ",
+    "transcription": "[ˈprəʊsɛs] ",
+    "translate": "обработать "
+  },
+  {
+    "number": 3390,
+    "termin": "proclaim ",
+    "transcription": "[prəˈkleɪm] ",
+    "translate": "провозглашать "
+  },
+  {
+    "number": 3391,
+    "termin": "procure ",
+    "transcription": "[prəˈkjʊə] ",
+    "translate": "достать, добыть, обеспечить "
+  },
+  {
+    "number": 3392,
+    "termin": "prod ",
+    "transcription": "[prɒd] ",
+    "translate": "ткнуть (чтобы сдвинуть) "
+  },
+  {
+    "number": 3393,
+    "termin": "produce ",
+    "transcription": "[ˈprɒdjuːs] ",
+    "translate": "производить "
+  },
+  {
+    "number": 3394,
+    "termin": "proficient ",
+    "transcription": "[prəˈfɪʃənt] ",
+    "translate": "опытный, умелый "
+  },
+  {
+    "number": 3395,
+    "termin": "profit ",
+    "transcription": "[ˈprɒfɪt] ",
+    "translate": "польза, извлекать пользу "
+  },
+  {
+    "number": 3396,
+    "termin": "profound ",
+    "transcription": "[prəˈfaʊnd] ",
+    "translate": "глубокий (перен.) "
+  },
+  {
+    "number": 3397,
+    "termin": "prohibit ",
+    "transcription": "[prəˈhɪbɪt] ",
+    "translate": "запрещать "
+  },
+  {
+    "number": 3398,
+    "termin": "prolong ",
+    "transcription": "[prəʊˈlɒŋ] ",
+    "translate": "продлить "
+  },
+  {
+    "number": 3399,
+    "termin": "prominent ",
+    "transcription": "[ˈprɒmɪnənt] ",
+    "translate": "выдающийся, видный "
+  },
+  {
+    "number": 3400,
+    "termin": "promise ",
+    "transcription": "[ˈprɒmɪs] ",
+    "translate": "обещать, обещание "
+  },
+  {
+    "number": 3401,
+    "termin": "promote ",
+    "transcription": "[prəˈməʊt] ",
+    "translate": "поощрять, помогать "
+  },
+  {
+    "number": 3402,
+    "termin": "prompt ",
+    "transcription": "[prɒmpt] ",
+    "translate": "побуждать, подстрекать "
+  },
+  {
+    "number": 3403,
+    "termin": "prompt ",
+    "transcription": "[prɒmpt] ",
+    "translate": "срочный, оперативный "
+  },
+  {
+    "number": 3404,
+    "termin": "prone ",
+    "transcription": "[prəʊn] ",
+    "translate": "склонный "
+  },
+  {
+    "number": 3405,
+    "termin": "pronounce ",
+    "transcription": "[prəˈnaʊns] ",
+    "translate": "произносить "
+  },
+  {
+    "number": 3406,
+    "termin": "proof ",
+    "transcription": "[pruːf] ",
+    "translate": "доказательство (неисч.) "
+  },
+  {
+    "number": 3407,
+    "termin": "prop ",
+    "transcription": "[prɒp] ",
+    "translate": "подпирать, подпорка "
+  },
+  {
+    "number": 3408,
+    "termin": "propagate ",
+    "transcription": "[ˈprɒpəgeɪt] ",
+    "translate": "размножать, распространять "
+  },
+  {
+    "number": 3409,
+    "termin": "propel ",
+    "transcription": "[prəˈpɛl] ",
+    "translate": "двигать, толкать "
+  },
+  {
+    "number": 3410,
+    "termin": "proper ",
+    "transcription": "[ˈprɒpə] ",
+    "translate": "правильный, надлежащий "
+  },
+  {
+    "number": 3411,
+    "termin": "property ",
+    "transcription": "[ˈprɒpəti] ",
+    "translate": "собственность "
+  },
+  {
+    "number": 3412,
+    "termin": "prophet ",
+    "transcription": "[ˈprɒfɪt] ",
+    "translate": "пророк "
+  },
+  {
+    "number": 3413,
+    "termin": "proponent ",
+    "transcription": "[prəˈpəʊnənt] ",
+    "translate": "сторонник, поборник "
+  },
+  {
+    "number": 3414,
+    "termin": "propose ",
+    "transcription": "[prəˈpəʊz] ",
+    "translate": "предлагать "
+  },
+  {
+    "number": 3415,
+    "termin": "prosecute ",
+    "transcription": "[ˈprɒsɪkjuːt] ",
+    "translate": "вести, осуществлять "
+  },
+  {
+    "number": 3416,
+    "termin": "prosecute ",
+    "transcription": "[ˈprɒsɪkjuːt] ",
+    "translate": "преследовать (законодательно) "
+  },
+  {
+    "number": 3417,
+    "termin": "prospect ",
+    "transcription": "[ˈprɒspɛkt] ",
+    "translate": "перспектива, вид будущего "
+  },
+  {
+    "number": 3418,
+    "termin": "prosper ",
+    "transcription": "[ˈprɒspə] ",
+    "translate": "процветать, преуспевать "
+  },
+  {
+    "number": 3419,
+    "termin": "protect ",
+    "transcription": "[prəˈtɛkt] ",
+    "translate": "защищать "
+  },
+  {
+    "number": 3420,
+    "termin": "proud ",
+    "transcription": "[praʊd] ",
+    "translate": "гордый, гордящийся "
+  },
+  {
+    "number": 3421,
+    "termin": "prove ",
+    "transcription": "[pruːv] ",
+    "translate": "доказывать "
+  },
+  {
+    "number": 3422,
+    "termin": "proverb ",
+    "transcription": "[ˈprɒvəb] ",
+    "translate": "пословица "
+  },
+  {
+    "number": 3423,
+    "termin": "provide ",
+    "transcription": "[prəˈvaɪd] ",
+    "translate": "обеспечивать, снабжать "
+  },
+  {
+    "number": 3424,
+    "termin": "provided ",
+    "transcription": "[prəˈvaɪdɪd] ",
+    "translate": "при условии "
+  },
+  {
+    "number": 3425,
+    "termin": "provisional ",
+    "transcription": "[prəˈvɪʒənl] ",
+    "translate": "предварительный, временный "
+  },
+  {
+    "number": 3426,
+    "termin": "proximity ",
+    "transcription": "[prɒkˈsɪmɪti] ",
+    "translate": "близость "
+  },
+  {
+    "number": 3427,
+    "termin": "prudent ",
+    "transcription": "[ˈpruːdənt] ",
+    "translate": "разумный, осторожный "
+  },
+  {
+    "number": 3428,
+    "termin": "pry ",
+    "transcription": "[praɪ] ",
+    "translate": "любопытствовать, совать нос "
+  },
+  {
+    "number": 3429,
+    "termin": "publish ",
+    "transcription": "[ˈpʌblɪʃ] ",
+    "translate": "публиковать, издавать "
+  },
+  {
+    "number": 3430,
+    "termin": "puddle ",
+    "transcription": "[ˈpʌdl] ",
+    "translate": "лужа "
+  },
+  {
+    "number": 3431,
+    "termin": "puff ",
+    "transcription": "[pʌf] ",
+    "translate": "дуновение, пых, клубы (дыма) "
+  },
+  {
+    "number": 3432,
+    "termin": "pull back ",
+    "transcription": "[pʊlbæk] ",
+    "translate": "отступить, отвести войска "
+  },
+  {
+    "number": 3433,
+    "termin": "pull off ",
+    "transcription": "[pʊlɒf] ",
+    "translate": "справиться, вытянуть "
+  },
+  {
+    "number": 3434,
+    "termin": "pull over ",
+    "transcription": "[pʊlˈəʊvə] ",
+    "translate": "притормозить ненадолго "
+  },
+  {
+    "number": 3435,
+    "termin": "pull through ",
+    "transcription": "[pʊlθruː] ",
+    "translate": "выжить, выздороветь "
+  },
+  {
+    "number": 3436,
+    "termin": "pump ",
+    "transcription": "[pʌmp] ",
+    "translate": "насос, нагнетать "
+  },
+  {
+    "number": 3437,
+    "termin": "pumpkin ",
+    "transcription": "[ˈpʌmpkɪn] ",
+    "translate": "тыква "
+  },
+  {
+    "number": 3438,
+    "termin": "punch ",
+    "transcription": "[pʌnʧ] ",
+    "translate": "нажать (кнопку) "
+  },
+  {
+    "number": 3439,
+    "termin": "punch ",
+    "transcription": "[pʌnʧ] ",
+    "translate": "удар (кулаком), бить "
+  },
+  {
+    "number": 3440,
+    "termin": "punish ",
+    "transcription": "[ˈpʌnɪʃ] ",
+    "translate": "наказывать "
+  },
+  {
+    "number": 3441,
+    "termin": "pupil ",
+    "transcription": "[ˈpjuːpl] ",
+    "translate": "зрачок "
+  },
+  {
+    "number": 3442,
+    "termin": "pupil ",
+    "transcription": "[ˈpjuːpl] ",
+    "translate": "ученик "
+  },
+  {
+    "number": 3443,
+    "termin": "puppet ",
+    "transcription": "[ˈpʌpɪt] ",
+    "translate": "кукла, марионетка "
+  },
+  {
+    "number": 3444,
+    "termin": "puppy ",
+    "transcription": "[ˈpʌpi] ",
+    "translate": "щенок "
+  },
+  {
+    "number": 3445,
+    "termin": "purchase ",
+    "transcription": "[ˈpɜːʧəs] ",
+    "translate": "покупка, покупать "
+  },
+  {
+    "number": 3446,
+    "termin": "pure ",
+    "transcription": "[pjʊə] ",
+    "translate": "чистый, незагрязнённый "
+  },
+  {
+    "number": 3447,
+    "termin": "purge ",
+    "transcription": "[pɜːʤ] ",
+    "translate": "чистка, очищать "
+  },
+  {
+    "number": 3448,
+    "termin": "purple ",
+    "transcription": "[ˈpɜːpl] ",
+    "translate": "пурпурный, фиолетовый "
+  },
+  {
+    "number": 3449,
+    "termin": "purpose ",
+    "transcription": "[ˈpɜːpəs] ",
+    "translate": "цель, причина "
+  },
+  {
+    "number": 3450,
+    "termin": "purse ",
+    "transcription": "[pɜːs] ",
+    "translate": "кошелек, сумочка "
+  },
+  {
+    "number": 3451,
+    "termin": "pursue ",
+    "transcription": "[pəˈsjuː] ",
+    "translate": "преследовать, гнаться "
+  },
+  {
+    "number": 3452,
+    "termin": "pursuit ",
+    "transcription": "[pəˈsjuːt] ",
+    "translate": "преследование "
+  },
+  {
+    "number": 3453,
+    "termin": "put aside ",
+    "transcription": "[pʊtəˈsaɪd] ",
+    "translate": "отложить "
+  },
+  {
+    "number": 3454,
+    "termin": "put in ",
+    "transcription": "[pʊtɪn] ",
+    "translate": "вложить "
+  },
+  {
+    "number": 3455,
+    "termin": "put off ",
+    "transcription": "[pʊtɒf] ",
+    "translate": "отвратить, отвлечь и т. д. "
+  },
+  {
+    "number": 3456,
+    "termin": "put off ",
+    "transcription": "[pʊtɒf] ",
+    "translate": "откладывать "
+  },
+  {
+    "number": 3457,
+    "termin": "put on ",
+    "transcription": "[pʊtɒn] ",
+    "translate": "надеть "
+  },
+  {
+    "number": 3458,
+    "termin": "put on ",
+    "transcription": "[pʊtɒn] ",
+    "translate": "провести (мероприятие) "
+  },
+  {
+    "number": 3459,
+    "termin": "put out ",
+    "transcription": "[pʊtaʊt] ",
+    "translate": "потушить "
+  },
+  {
+    "number": 3460,
+    "termin": "put out ",
+    "transcription": "[pʊtaʊt] ",
+    "translate": "обременять, стеснять "
+  },
+  {
+    "number": 3461,
+    "termin": "put smb down ",
+    "transcription": "[pʊtsmbdaʊn] ",
+    "translate": "подавлять, угнетать "
+  },
+  {
+    "number": 3462,
+    "termin": "put smth down to ",
+    "transcription": "[pʊtsmthdaʊntuː] ",
+    "translate": "объяснить, списать на "
+  },
+  {
+    "number": 3463,
+    "termin": "put through ",
+    "transcription": "[pʊtθruː] ",
+    "translate": "подвергнуть "
+  },
+  {
+    "number": 3464,
+    "termin": "put together ",
+    "transcription": "[pʊttəˈgɛðə] ",
+    "translate": "собирать, соединять "
+  },
+  {
+    "number": 3465,
+    "termin": "put up with ",
+    "transcription": "[pʊtʌpwɪð] ",
+    "translate": "принимать, мириться "
+  },
+  {
+    "number": 3466,
+    "termin": "puzzle ",
+    "transcription": "[ˈpʌzl] ",
+    "translate": "озадачить "
+  }
+]

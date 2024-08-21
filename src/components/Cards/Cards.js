@@ -58,7 +58,7 @@ function Cards(props) {
     let startPoint = 0;
     let endPoint = startPoint + size;
     // если слов не набирается на полную карточку выбранного размера цикл должен выполниться 1 раз
-    let counter = Math.floor(words.length / size) + 1;
+    let counter = Math.ceil(words.length / size);
     let createdLessons = [];
 
     for (let i = 0; i < counter; i++) {

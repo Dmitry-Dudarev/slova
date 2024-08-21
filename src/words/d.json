@@ -1,0 +1,1844 @@
+[
+  {
+    "number": 1148,
+    "termin": "dagger ",
+    "transcription": "[ˈdægə] ",
+    "translate": "кинжал "
+  },
+  {
+    "number": 1149,
+    "termin": "daily ",
+    "transcription": "[ˈdeɪli] ",
+    "translate": "ежедневно "
+  },
+  {
+    "number": 1150,
+    "termin": "dairy ",
+    "transcription": "[ˈdeəri] ",
+    "translate": "молочные продукты "
+  },
+  {
+    "number": 1151,
+    "termin": "dam ",
+    "transcription": "[dæm] ",
+    "translate": "плотина "
+  },
+  {
+    "number": 1152,
+    "termin": "damage ",
+    "transcription": "[ˈdæmɪʤ] ",
+    "translate": "вред, повреждать "
+  },
+  {
+    "number": 1153,
+    "termin": "damn (goddamn) ",
+    "transcription": "[dæm] ",
+    "translate": "проклятый, проклинать "
+  },
+  {
+    "number": 1154,
+    "termin": "damp ",
+    "transcription": "[dæmp] ",
+    "translate": "сырой, сырость "
+  },
+  {
+    "number": 1155,
+    "termin": "dangle ",
+    "transcription": "[ˈdæŋgl] ",
+    "translate": "мотаться "
+  },
+  {
+    "number": 1156,
+    "termin": "dare ",
+    "transcription": "[deə] ",
+    "translate": "осмелиться "
+  },
+  {
+    "number": 1157,
+    "termin": "darling ",
+    "transcription": "[ˈdɑːlɪŋ] ",
+    "translate": "дорогой/ая (устар.) "
+  },
+  {
+    "number": 1158,
+    "termin": "darn ",
+    "transcription": "[dɑːn] ",
+    "translate": "штопать "
+  },
+  {
+    "number": 1159,
+    "termin": "dash ",
+    "transcription": "[dæʃ] ",
+    "translate": "тире, чёрточка "
+  },
+  {
+    "number": 1160,
+    "termin": "dash ",
+    "transcription": "[dæʃ] ",
+    "translate": "бросать, бросаться "
+  },
+  {
+    "number": 1161,
+    "termin": "dash ",
+    "transcription": "[dæʃ] ",
+    "translate": "разрушить (перен.) "
+  },
+  {
+    "number": 1162,
+    "termin": "data ",
+    "transcription": "[ˈdeɪtə] ",
+    "translate": "данные "
+  },
+  {
+    "number": 1163,
+    "termin": "database ",
+    "transcription": "[ˈdeɪtəˌbeɪs] ",
+    "translate": "база данных "
+  },
+  {
+    "number": 1164,
+    "termin": "date ",
+    "transcription": "[deɪt] ",
+    "translate": "свидание, встречаться "
+  },
+  {
+    "number": 1165,
+    "termin": "daunt ",
+    "transcription": "[dɔːnt] ",
+    "translate": "пугать, обескураживать "
+  },
+  {
+    "number": 1166,
+    "termin": "dawn ",
+    "transcription": "[dɔːn] ",
+    "translate": "рассвет "
+  },
+  {
+    "number": 1167,
+    "termin": "dawn on ",
+    "transcription": "[dɔːnɒn] ",
+    "translate": "осенить "
+  },
+  {
+    "number": 1168,
+    "termin": "day off ",
+    "transcription": "[deɪɒf] ",
+    "translate": "выходной "
+  },
+  {
+    "number": 1169,
+    "termin": "daze ",
+    "transcription": "[deɪz] ",
+    "translate": "ошеломить "
+  },
+  {
+    "number": 1170,
+    "termin": "dazzle ",
+    "transcription": "[ˈdæzl] ",
+    "translate": "ослепить "
+  },
+  {
+    "number": 1171,
+    "termin": "dead end ",
+    "transcription": "[dɛdɛnd] ",
+    "translate": "тупик "
+  },
+  {
+    "number": 1172,
+    "termin": "deaf ",
+    "transcription": "[dɛf] ",
+    "translate": "глухой "
+  },
+  {
+    "number": 1173,
+    "termin": "deal ",
+    "transcription": "[diːl] ",
+    "translate": "сделка "
+  },
+  {
+    "number": 1174,
+    "termin": "deal in ",
+    "transcription": "[diːlɪn] ",
+    "translate": "заниматься (напр. торговать) "
+  },
+  {
+    "number": 1175,
+    "termin": "deal with ",
+    "transcription": "[diːlwɪð] ",
+    "translate": "иметь дело с "
+  },
+  {
+    "number": 1176,
+    "termin": "debate ",
+    "transcription": "[dɪˈbeɪt] ",
+    "translate": "обсуждать, спорить "
+  },
+  {
+    "number": 1177,
+    "termin": "debris ",
+    "transcription": "[ˈdeɪbriː] ",
+    "translate": "мусор, обломки, завалы "
+  },
+  {
+    "number": 1178,
+    "termin": "debt ",
+    "transcription": "[dɛt] ",
+    "translate": "долг "
+  },
+  {
+    "number": 1179,
+    "termin": "decade ",
+    "transcription": "[ˈdɛkeɪd] ",
+    "translate": "десятилетие "
+  },
+  {
+    "number": 1180,
+    "termin": "decay ",
+    "transcription": "[dɪˈkeɪ] ",
+    "translate": "распад, упадок, разлагаться "
+  },
+  {
+    "number": 1181,
+    "termin": "deceased ",
+    "transcription": "[dɪˈsiːst] ",
+    "translate": "покойный, усопший "
+  },
+  {
+    "number": 1182,
+    "termin": "deceive ",
+    "transcription": "[dɪˈsiːv] ",
+    "translate": "обманывать "
+  },
+  {
+    "number": 1183,
+    "termin": "decent ",
+    "transcription": "[ˈdiːsnt] ",
+    "translate": "приличный, достойный "
+  },
+  {
+    "number": 1184,
+    "termin": "deception ",
+    "transcription": "[dɪˈsɛpʃən] ",
+    "translate": "обман "
+  },
+  {
+    "number": 1185,
+    "termin": "decide ",
+    "transcription": "[dɪˈsaɪd] ",
+    "translate": "решить "
+  },
+  {
+    "number": 1186,
+    "termin": "decisive ",
+    "transcription": "[dɪˈsaɪsɪv] ",
+    "translate": "решающий, решительный "
+  },
+  {
+    "number": 1187,
+    "termin": "deck ",
+    "transcription": "[dɛk] ",
+    "translate": "палуба, настил "
+  },
+  {
+    "number": 1188,
+    "termin": "declare ",
+    "transcription": "[dɪˈkleə] ",
+    "translate": "объявлять "
+  },
+  {
+    "number": 1189,
+    "termin": "decline ",
+    "transcription": "[dɪˈklaɪn] ",
+    "translate": "отказаться, отклонить "
+  },
+  {
+    "number": 1190,
+    "termin": "decline ",
+    "transcription": "[dɪˈklaɪn] ",
+    "translate": "снижаться, снижение "
+  },
+  {
+    "number": 1191,
+    "termin": "decorate ",
+    "transcription": "[ˈdɛkəreɪt] ",
+    "translate": "украшать "
+  },
+  {
+    "number": 1192,
+    "termin": "decrease ",
+    "transcription": "[diːˈkriːs] ",
+    "translate": "уменьшать(ся) "
+  },
+  {
+    "number": 1193,
+    "termin": "decree ",
+    "transcription": "[dɪˈkriː] ",
+    "translate": "постановление, декрет, указ "
+  },
+  {
+    "number": 1194,
+    "termin": "dedicate ",
+    "transcription": "[ˈdɛdɪkeɪt] ",
+    "translate": "посвящать "
+  },
+  {
+    "number": 1195,
+    "termin": "deduct ",
+    "transcription": "[dɪˈdʌkt] ",
+    "translate": "вычитать (об. про деньги) "
+  },
+  {
+    "number": 1196,
+    "termin": "deed ",
+    "transcription": "[diːd] ",
+    "translate": "дело, поступок "
+  },
+  {
+    "number": 1197,
+    "termin": "deem ",
+    "transcription": "[diːm] ",
+    "translate": "считать (чем-либо) "
+  },
+  {
+    "number": 1198,
+    "termin": "deep ",
+    "transcription": "[diːp] ",
+    "translate": "глубокий "
+  },
+  {
+    "number": 1199,
+    "termin": "deer ",
+    "transcription": "[dɪə] ",
+    "translate": "олень "
+  },
+  {
+    "number": 1200,
+    "termin": "defeat ",
+    "transcription": "[dɪˈfiːt] ",
+    "translate": "поражение, наносить поражение "
+  },
+  {
+    "number": 1201,
+    "termin": "defence (defense) ",
+    "transcription": "[dɪˈfɛns] ",
+    "translate": "защита, защитный "
+  },
+  {
+    "number": 1202,
+    "termin": "defend ",
+    "transcription": "[dɪˈfɛnd] ",
+    "translate": "защитить "
+  },
+  {
+    "number": 1203,
+    "termin": "deficient ",
+    "transcription": "[dɪˈfɪʃənt] ",
+    "translate": "недостаточный, неполный "
+  },
+  {
+    "number": 1204,
+    "termin": "define ",
+    "transcription": "[dɪˈfaɪn] ",
+    "translate": "определять "
+  },
+  {
+    "number": 1205,
+    "termin": "definite ",
+    "transcription": "[ˈdɛfɪnɪt] ",
+    "translate": "определённый "
+  },
+  {
+    "number": 1206,
+    "termin": "deflect ",
+    "transcription": "[dɪˈflɛkt] ",
+    "translate": "отклонять, преломлять "
+  },
+  {
+    "number": 1207,
+    "termin": "deft ",
+    "transcription": "[dɛft] ",
+    "translate": "ловкий, проворный "
+  },
+  {
+    "number": 1208,
+    "termin": "defy ",
+    "transcription": "[dɪˈfaɪ] ",
+    "translate": "пренебрегать, отрицать "
+  },
+  {
+    "number": 1209,
+    "termin": "degree ",
+    "transcription": "[dɪˈgriː] ",
+    "translate": "степень (во всех значениях) "
+  },
+  {
+    "number": 1210,
+    "termin": "degree ",
+    "transcription": "[dɪˈgriː] ",
+    "translate": "градус "
+  },
+  {
+    "number": 1211,
+    "termin": "deity ",
+    "transcription": "[ˈdiːɪti] ",
+    "translate": "божество "
+  },
+  {
+    "number": 1212,
+    "termin": "delay ",
+    "transcription": "[dɪˈleɪ] ",
+    "translate": "задерживать(ся) "
+  },
+  {
+    "number": 1213,
+    "termin": "deliberate ",
+    "transcription": "[dɪˈlɪbərɪt] ",
+    "translate": "обдуманный, преднамеренный "
+  },
+  {
+    "number": 1214,
+    "termin": "delicate ",
+    "transcription": "[ˈdɛlɪkɪt] ",
+    "translate": "тонкий, нежный, хрупкий "
+  },
+  {
+    "number": 1215,
+    "termin": "delicious ",
+    "transcription": "[dɪˈlɪʃəs] ",
+    "translate": "восхитительный (о еде) "
+  },
+  {
+    "number": 1216,
+    "termin": "delight ",
+    "transcription": "[dɪˈlaɪt] ",
+    "translate": "восторг "
+  },
+  {
+    "number": 1217,
+    "termin": "delinquent ",
+    "transcription": "[dɪˈlɪŋkwənt] ",
+    "translate": "правонарушитель "
+  },
+  {
+    "number": 1218,
+    "termin": "deliver ",
+    "transcription": "[dɪˈlɪvə] ",
+    "translate": "доставлять "
+  },
+  {
+    "number": 1219,
+    "termin": "deliver ",
+    "transcription": "[dɪˈlɪvə] ",
+    "translate": "рожать "
+  },
+  {
+    "number": 1220,
+    "termin": "delusion ",
+    "transcription": "[dɪˈluːʒən] ",
+    "translate": "наваждение, заблуждение "
+  },
+  {
+    "number": 1221,
+    "termin": "demand ",
+    "transcription": "[dɪˈmɑːnd] ",
+    "translate": "требовать "
+  },
+  {
+    "number": 1222,
+    "termin": "demand ",
+    "transcription": "[dɪˈmɑːnd] ",
+    "translate": "спрос "
+  },
+  {
+    "number": 1223,
+    "termin": "demise ",
+    "transcription": "[dɪˈmaɪz] ",
+    "translate": "кончина, конец "
+  },
+  {
+    "number": 1224,
+    "termin": "demolish ",
+    "transcription": "[dɪˈmɒlɪʃ] ",
+    "translate": "сносить "
+  },
+  {
+    "number": 1225,
+    "termin": "den ",
+    "transcription": "[dɛn] ",
+    "translate": "логово, берлога "
+  },
+  {
+    "number": 1226,
+    "termin": "denote ",
+    "transcription": "[dɪˈnəʊt] ",
+    "translate": "обозначать "
+  },
+  {
+    "number": 1227,
+    "termin": "denounce ",
+    "transcription": "[dɪˈnaʊns] ",
+    "translate": "осуждать, разоблачать "
+  },
+  {
+    "number": 1228,
+    "termin": "dense ",
+    "transcription": "[dɛns] ",
+    "translate": "густой "
+  },
+  {
+    "number": 1229,
+    "termin": "dent ",
+    "transcription": "[dɛnt] ",
+    "translate": "вмятина "
+  },
+  {
+    "number": 1230,
+    "termin": "dental ",
+    "transcription": "[ˈdɛntl] ",
+    "translate": "зубной, стоматологический "
+  },
+  {
+    "number": 1231,
+    "termin": "deny ",
+    "transcription": "[dɪˈnaɪ] ",
+    "translate": "отрицать "
+  },
+  {
+    "number": 1232,
+    "termin": "depart ",
+    "transcription": "[dɪˈpɑːt] ",
+    "translate": "отправляться, отходить "
+  },
+  {
+    "number": 1233,
+    "termin": "department ",
+    "transcription": "[dɪˈpɑːtmənt] ",
+    "translate": "отдел "
+  },
+  {
+    "number": 1234,
+    "termin": "depend ",
+    "transcription": "[dɪˈpɛnd] ",
+    "translate": "зависеть "
+  },
+  {
+    "number": 1235,
+    "termin": "dependent ",
+    "transcription": "[dɪˈpɛndənt] ",
+    "translate": "зависимый "
+  },
+  {
+    "number": 1236,
+    "termin": "depict ",
+    "transcription": "[dɪˈpɪkt] ",
+    "translate": "изображать, описывать "
+  },
+  {
+    "number": 1237,
+    "termin": "deplete ",
+    "transcription": "[dɪˈpliːt] ",
+    "translate": "истощать "
+  },
+  {
+    "number": 1238,
+    "termin": "deploy ",
+    "transcription": "[dɪˈplɔɪ] ",
+    "translate": "развёртывать "
+  },
+  {
+    "number": 1239,
+    "termin": "depot ",
+    "transcription": "[ˈdɛpəʊ] ",
+    "translate": "хранилище, база, склад "
+  },
+  {
+    "number": 1240,
+    "termin": "depress ",
+    "transcription": "[dɪˈprɛs] ",
+    "translate": "угнетать, подавлять "
+  },
+  {
+    "number": 1241,
+    "termin": "deprive ",
+    "transcription": "[dɪˈpraɪv] ",
+    "translate": "лишать "
+  },
+  {
+    "number": 1242,
+    "termin": "depth ",
+    "transcription": "[dɛpθ] ",
+    "translate": "глубина "
+  },
+  {
+    "number": 1243,
+    "termin": "deputy ",
+    "transcription": "[ˈdɛpjʊti] ",
+    "translate": "депутат, представитель "
+  },
+  {
+    "number": 1244,
+    "termin": "derive ",
+    "transcription": "[dɪˈraɪv] ",
+    "translate": "выводить, извлекать "
+  },
+  {
+    "number": 1245,
+    "termin": "descend ",
+    "transcription": "[dɪˈsɛnd] ",
+    "translate": "спускаться "
+  },
+  {
+    "number": 1246,
+    "termin": "descend from ",
+    "transcription": "[dɪˈsɛndfrɒm] ",
+    "translate": "происходить от "
+  },
+  {
+    "number": 1247,
+    "termin": "describe ",
+    "transcription": "[dɪsˈkraɪb] ",
+    "translate": "описать "
+  },
+  {
+    "number": 1248,
+    "termin": "desert ",
+    "transcription": "[ˈdɛzət] ",
+    "translate": "пустыня "
+  },
+  {
+    "number": 1249,
+    "termin": "desert ",
+    "transcription": "[ˈdɛzət] ",
+    "translate": "бросать, оставлять "
+  },
+  {
+    "number": 1250,
+    "termin": "deserve ",
+    "transcription": "[dɪˈzɜːv] ",
+    "translate": "заслуживать "
+  },
+  {
+    "number": 1251,
+    "termin": "designate ",
+    "transcription": "[ˈdɛzɪgnɪt] ",
+    "translate": "обозначать, называть "
+  },
+  {
+    "number": 1252,
+    "termin": "desire ",
+    "transcription": "[dɪˈzaɪə] ",
+    "translate": "желание, желать "
+  },
+  {
+    "number": 1253,
+    "termin": "desk ",
+    "transcription": "[dɛsk] ",
+    "translate": "письменный стол "
+  },
+  {
+    "number": 1254,
+    "termin": "desktop ",
+    "transcription": "[ˈdɛsktɒp] ",
+    "translate": "настольный "
+  },
+  {
+    "number": 1255,
+    "termin": "desolate ",
+    "transcription": "[ˈdɛsəlɪt] ",
+    "translate": "пустынный, безлюдный "
+  },
+  {
+    "number": 1256,
+    "termin": "despair ",
+    "transcription": "[dɪsˈpeə] ",
+    "translate": "отчаяние, безнадёжность "
+  },
+  {
+    "number": 1257,
+    "termin": "desperate ",
+    "transcription": "[ˈdɛspərɪt] ",
+    "translate": "отчаянный, безвыходный "
+  },
+  {
+    "number": 1258,
+    "termin": "despise ",
+    "transcription": "[dɪsˈpaɪz] ",
+    "translate": "презирать "
+  },
+  {
+    "number": 1259,
+    "termin": "despite ",
+    "transcription": "[dɪsˈpaɪt] ",
+    "translate": "несмотря на "
+  },
+  {
+    "number": 1260,
+    "termin": "destination ",
+    "transcription": "[ˌdɛstɪˈneɪʃən] ",
+    "translate": "место назначения "
+  },
+  {
+    "number": 1261,
+    "termin": "destiny ",
+    "transcription": "[ˈdɛstɪni] ",
+    "translate": "судьба, предназначение "
+  },
+  {
+    "number": 1262,
+    "termin": "destroy ",
+    "transcription": "[dɪsˈtrɔɪ] ",
+    "translate": "разрушать "
+  },
+  {
+    "number": 1263,
+    "termin": "detach ",
+    "transcription": "[dɪˈtæʧ] ",
+    "translate": "отделить, оторвать "
+  },
+  {
+    "number": 1264,
+    "termin": "detain ",
+    "transcription": "[dɪˈteɪn] ",
+    "translate": "задерживать "
+  },
+  {
+    "number": 1265,
+    "termin": "detect ",
+    "transcription": "[dɪˈtɛkt] ",
+    "translate": "обнаружить, выявить "
+  },
+  {
+    "number": 1266,
+    "termin": "detention ",
+    "transcription": "[dɪˈtɛnʃən] ",
+    "translate": "задержание, арест "
+  },
+  {
+    "number": 1267,
+    "termin": "deter ",
+    "transcription": "[dɪˈtɜː] ",
+    "translate": "удерживать (от действия) "
+  },
+  {
+    "number": 1268,
+    "termin": "deteriorate ",
+    "transcription": "[dɪˈtɪərɪəreɪt] ",
+    "translate": "ухудшать "
+  },
+  {
+    "number": 1269,
+    "termin": "determine ",
+    "transcription": "[dɪˈtɜːmɪn] ",
+    "translate": "определить "
+  },
+  {
+    "number": 1270,
+    "termin": "determined ",
+    "transcription": "[dɪˈtɜːmɪnd] ",
+    "translate": "решительный "
+  },
+  {
+    "number": 1271,
+    "termin": "detriment ",
+    "transcription": "[ˈdɛtrɪmənt] ",
+    "translate": "ущерб, вред "
+  },
+  {
+    "number": 1272,
+    "termin": "devastate ",
+    "transcription": "[ˈdɛvəsteɪt] ",
+    "translate": "опустошать, разорять "
+  },
+  {
+    "number": 1273,
+    "termin": "develop ",
+    "transcription": "[dɪˈvɛləp] ",
+    "translate": "развивать, разрабатывать "
+  },
+  {
+    "number": 1274,
+    "termin": "deviate ",
+    "transcription": "[ˈdiːvɪeɪt] ",
+    "translate": "отклоняться "
+  },
+  {
+    "number": 1275,
+    "termin": "devise ",
+    "transcription": "[dɪˈvaɪz] ",
+    "translate": "придумывать, изобретать "
+  },
+  {
+    "number": 1276,
+    "termin": "devoid ",
+    "transcription": "[dɪˈvɔɪd] ",
+    "translate": "лишенный "
+  },
+  {
+    "number": 1277,
+    "termin": "devote ",
+    "transcription": "[dɪˈvəʊt] ",
+    "translate": "посвятить, уделить "
+  },
+  {
+    "number": 1278,
+    "termin": "devour ",
+    "transcription": "[dɪˈvaʊə] ",
+    "translate": "пожирать "
+  },
+  {
+    "number": 1279,
+    "termin": "dial ",
+    "transcription": "[ˈdaɪəl] ",
+    "translate": "набирать номер "
+  },
+  {
+    "number": 1280,
+    "termin": "diamond ",
+    "transcription": "[ˈdaɪəmənd] ",
+    "translate": "бриллиант обычно алмаз "
+  },
+  {
+    "number": 1281,
+    "termin": "diary ",
+    "transcription": "[ˈdaɪəri] ",
+    "translate": "дневник "
+  },
+  {
+    "number": 1282,
+    "termin": "dice (pl: dice) ",
+    "transcription": "[daɪs] ",
+    "translate": "кубик (игральный) "
+  },
+  {
+    "number": 1283,
+    "termin": "dictionary ",
+    "transcription": "[ˈdɪkʃ(ə)n(ə)ri] ",
+    "translate": "словарь "
+  },
+  {
+    "number": 1284,
+    "termin": "die down ",
+    "transcription": "[daɪdaʊn] ",
+    "translate": "утихнуть "
+  },
+  {
+    "number": 1285,
+    "termin": "differ ",
+    "transcription": "[ˈdɪfə] ",
+    "translate": "отличаться "
+  },
+  {
+    "number": 1286,
+    "termin": "different ",
+    "transcription": "[ˈdɪfrənt] ",
+    "translate": "разный, отличающийся "
+  },
+  {
+    "number": 1287,
+    "termin": "difficulty ",
+    "transcription": "[ˈdɪfɪkəlti] ",
+    "translate": "трудность "
+  },
+  {
+    "number": 1288,
+    "termin": "diffuse ",
+    "transcription": "[dɪˈfjuːs] ",
+    "translate": "рассеивать, распылять "
+  },
+  {
+    "number": 1289,
+    "termin": "dig (dug, dug) ",
+    "transcription": "[dɪg] ",
+    "translate": "копать "
+  },
+  {
+    "number": 1290,
+    "termin": "dig up ",
+    "transcription": "[dɪgʌp] ",
+    "translate": "откопать "
+  },
+  {
+    "number": 1291,
+    "termin": "digest ",
+    "transcription": "[ˈdaɪʤɛst] ",
+    "translate": "переваривать "
+  },
+  {
+    "number": 1292,
+    "termin": "digit ",
+    "transcription": "[ˈdɪʤɪt] ",
+    "translate": "цифра "
+  },
+  {
+    "number": 1293,
+    "termin": "dignity ",
+    "transcription": "[ˈdɪgnɪti] ",
+    "translate": "достоинство "
+  },
+  {
+    "number": 1294,
+    "termin": "diligent ",
+    "transcription": "[ˈdɪlɪʤənt] ",
+    "translate": "усердный, старательный "
+  },
+  {
+    "number": 1295,
+    "termin": "dilute ",
+    "transcription": "[daɪˈljuːt] ",
+    "translate": "разбавлять, разводить "
+  },
+  {
+    "number": 1296,
+    "termin": "dim ",
+    "transcription": "[dɪm] ",
+    "translate": "тусклый "
+  },
+  {
+    "number": 1297,
+    "termin": "dimension ",
+    "transcription": "[dɪˈmɛnʃən] ",
+    "translate": "измерение, размер "
+  },
+  {
+    "number": 1298,
+    "termin": "diminish ",
+    "transcription": "[dɪˈmɪnɪʃ] ",
+    "translate": "уменьшаться "
+  },
+  {
+    "number": 1299,
+    "termin": "dine ",
+    "transcription": "[daɪn] ",
+    "translate": "обедать "
+  },
+  {
+    "number": 1300,
+    "termin": "dip ",
+    "transcription": "[dɪp] ",
+    "translate": "окунать, погружать "
+  },
+  {
+    "number": 1301,
+    "termin": "dire ",
+    "transcription": "[ˈdaɪə] ",
+    "translate": "страшный, тяжёлый "
+  },
+  {
+    "number": 1302,
+    "termin": "direct ",
+    "transcription": "[dɪˈrɛkt] ",
+    "translate": "прямой, непосредственный "
+  },
+  {
+    "number": 1303,
+    "termin": "direct ",
+    "transcription": "[dɪˈrɛkt] ",
+    "translate": "направлять "
+  },
+  {
+    "number": 1304,
+    "termin": "directory ",
+    "transcription": "[dɪˈrɛktəri] ",
+    "translate": "справочник "
+  },
+  {
+    "number": 1305,
+    "termin": "disable ",
+    "transcription": "[dɪsˈeɪbl] ",
+    "translate": "отключить, нейтрализовать "
+  },
+  {
+    "number": 1306,
+    "termin": "disabled ",
+    "transcription": "[dɪsˈeɪbld] ",
+    "translate": "инвалид (прил.) "
+  },
+  {
+    "number": 1307,
+    "termin": "disappoint ",
+    "transcription": "[ˌdɪsəˈpɔɪnt] ",
+    "translate": "разочаровывать "
+  },
+  {
+    "number": 1308,
+    "termin": "disaster ",
+    "transcription": "[dɪˈzɑːstə] ",
+    "translate": "бедствие "
+  },
+  {
+    "number": 1309,
+    "termin": "discard ",
+    "transcription": "[ˈdɪskɑːd] ",
+    "translate": "отбросить, отказаться "
+  },
+  {
+    "number": 1310,
+    "termin": "discern ",
+    "transcription": "[dɪˈsɜːn] ",
+    "translate": "различить, распознать "
+  },
+  {
+    "number": 1311,
+    "termin": "disciple ",
+    "transcription": "[dɪˈsaɪpl] ",
+    "translate": "ученик, последователь "
+  },
+  {
+    "number": 1312,
+    "termin": "disclose ",
+    "transcription": "[dɪsˈkləʊz] ",
+    "translate": "раскрывать, обнаруживать "
+  },
+  {
+    "number": 1313,
+    "termin": "discount ",
+    "transcription": "[ˈdɪskaʊnt] ",
+    "translate": "скидка "
+  },
+  {
+    "number": 1314,
+    "termin": "discourage ",
+    "transcription": "[dɪsˈkʌrɪʤ] ",
+    "translate": "отговорить, демотивировать "
+  },
+  {
+    "number": 1315,
+    "termin": "discourse ",
+    "transcription": "[dɪsˈkɔːs] ",
+    "translate": "речь, рассуждение "
+  },
+  {
+    "number": 1316,
+    "termin": "discover ",
+    "transcription": "[dɪsˈkʌvə] ",
+    "translate": "открыть (новое) "
+  },
+  {
+    "number": 1317,
+    "termin": "discreet ",
+    "transcription": "[dɪsˈkriːt] ",
+    "translate": "сдержанный "
+  },
+  {
+    "number": 1318,
+    "termin": "discrepancy ",
+    "transcription": "[dɪsˈkrɛpənsi] ",
+    "translate": "несоответствие, расхождение "
+  },
+  {
+    "number": 1319,
+    "termin": "discrete ",
+    "transcription": "[dɪsˈkriːt] ",
+    "translate": "отдельный, разрозненный "
+  },
+  {
+    "number": 1320,
+    "termin": "discretion ",
+    "transcription": "[dɪsˈkrɛʃən] ",
+    "translate": "благоразумие, усмотрение "
+  },
+  {
+    "number": 1321,
+    "termin": "discriminate ",
+    "transcription": "[dɪsˈkrɪmɪnɪt] ",
+    "translate": "различать, разделять "
+  },
+  {
+    "number": 1322,
+    "termin": "discuss ",
+    "transcription": "[dɪsˈkʌs] ",
+    "translate": "обсуждать "
+  },
+  {
+    "number": 1323,
+    "termin": "disdain ",
+    "transcription": "[dɪsˈdeɪn] ",
+    "translate": "пренебрегать, презирать "
+  },
+  {
+    "number": 1324,
+    "termin": "disease ",
+    "transcription": "[dɪˈziːz] ",
+    "translate": "болезнь "
+  },
+  {
+    "number": 1325,
+    "termin": "disgrace ",
+    "transcription": "[dɪsˈgreɪs] ",
+    "translate": "бесчестие, позор "
+  },
+  {
+    "number": 1326,
+    "termin": "disguise ",
+    "transcription": "[dɪsˈgaɪz] ",
+    "translate": "маскировать, маскировка "
+  },
+  {
+    "number": 1327,
+    "termin": "disgust ",
+    "transcription": "[dɪsˈgʌst] ",
+    "translate": "отвращение "
+  },
+  {
+    "number": 1328,
+    "termin": "dish ",
+    "transcription": "[dɪʃ] ",
+    "translate": "тарелка или миска "
+  },
+  {
+    "number": 1329,
+    "termin": "dish ",
+    "transcription": "[dɪʃ] ",
+    "translate": "блюдо "
+  },
+  {
+    "number": 1330,
+    "termin": "disillusion ",
+    "transcription": "[ˌdɪsɪˈluːʒən] ",
+    "translate": "разочаровывать "
+  },
+  {
+    "number": 1331,
+    "termin": "dislocate ",
+    "transcription": "[ˈdɪsləʊkeɪt] ",
+    "translate": "вывихнуть, сместить "
+  },
+  {
+    "number": 1332,
+    "termin": "dismantle ",
+    "transcription": "[dɪsˈmæntl] ",
+    "translate": "разобрать, демонтировать "
+  },
+  {
+    "number": 1333,
+    "termin": "dismay ",
+    "transcription": "[dɪsˈmeɪ] ",
+    "translate": "испуг, тревога, потрясение "
+  },
+  {
+    "number": 1334,
+    "termin": "dismiss ",
+    "transcription": "[dɪsˈmɪs] ",
+    "translate": "прогонять, посылать, увольнять "
+  },
+  {
+    "number": 1335,
+    "termin": "dismiss ",
+    "transcription": "[dɪsˈmɪs] ",
+    "translate": "отклонить, отбросить "
+  },
+  {
+    "number": 1336,
+    "termin": "disorder ",
+    "transcription": "[dɪsˈɔːdə] ",
+    "translate": "беспорядок "
+  },
+  {
+    "number": 1337,
+    "termin": "disparity ",
+    "transcription": "[dɪsˈpærɪti] ",
+    "translate": "неравенство "
+  },
+  {
+    "number": 1338,
+    "termin": "dispatch ",
+    "transcription": "[dɪsˈpæʧ] ",
+    "translate": "отправлять, отправка "
+  },
+  {
+    "number": 1339,
+    "termin": "dispel ",
+    "transcription": "[dɪsˈpɛl] ",
+    "translate": "развеяться, исчезнуть "
+  },
+  {
+    "number": 1340,
+    "termin": "dispense ",
+    "transcription": "[dɪsˈpɛns] ",
+    "translate": "распределять, раздавать "
+  },
+  {
+    "number": 1341,
+    "termin": "dispense with ",
+    "transcription": "[dɪsˈpɛnswɪð] ",
+    "translate": "обойтись без, избавиться "
+  },
+  {
+    "number": 1342,
+    "termin": "disperse ",
+    "transcription": "[dɪsˈpɜːs] ",
+    "translate": "рассеиваться "
+  },
+  {
+    "number": 1343,
+    "termin": "displace ",
+    "transcription": "[dɪsˈpleɪs] ",
+    "translate": "вытеснять, смещать "
+  },
+  {
+    "number": 1344,
+    "termin": "display ",
+    "transcription": "[dɪsˈpleɪ] ",
+    "translate": "показ(ывать), демонстрировать "
+  },
+  {
+    "number": 1345,
+    "termin": "dispose of ",
+    "transcription": "[dɪsˈpəʊzɒv] ",
+    "translate": "располагать, распоряжаться "
+  },
+  {
+    "number": 1346,
+    "termin": "dispose of ",
+    "transcription": "[dɪsˈpəʊzɒv] ",
+    "translate": "избавиться "
+  },
+  {
+    "number": 1347,
+    "termin": "dispute ",
+    "transcription": "[dɪsˈpjuːt] ",
+    "translate": "спор, спорить "
+  },
+  {
+    "number": 1348,
+    "termin": "disrupt ",
+    "transcription": "[dɪsˈrʌpt] ",
+    "translate": "нарушить, сорвать "
+  },
+  {
+    "number": 1349,
+    "termin": "dissent ",
+    "transcription": "[dɪˈsɛnt] ",
+    "translate": "несогласие, не соглашаться "
+  },
+  {
+    "number": 1350,
+    "termin": "dissipate ",
+    "transcription": "[ˈdɪsɪpeɪt] ",
+    "translate": "рассеивать "
+  },
+  {
+    "number": 1351,
+    "termin": "dissolve ",
+    "transcription": "[dɪˈzɒlv] ",
+    "translate": "растворять, растворяться "
+  },
+  {
+    "number": 1352,
+    "termin": "distant ",
+    "transcription": "[ˈdɪstənt] ",
+    "translate": "отдалённый "
+  },
+  {
+    "number": 1353,
+    "termin": "distinct ",
+    "transcription": "[dɪsˈtɪŋkt] ",
+    "translate": "чёткий, различимый "
+  },
+  {
+    "number": 1354,
+    "termin": "distinguish ",
+    "transcription": "[dɪsˈtɪŋgwɪʃ] ",
+    "translate": "выделять, отличать "
+  },
+  {
+    "number": 1355,
+    "termin": "distort ",
+    "transcription": "[dɪsˈtɔːt] ",
+    "translate": "искажать "
+  },
+  {
+    "number": 1356,
+    "termin": "distract ",
+    "transcription": "[dɪsˈtrækt] ",
+    "translate": "отвлекать "
+  },
+  {
+    "number": 1357,
+    "termin": "distress ",
+    "transcription": "[dɪsˈtrɛs] ",
+    "translate": "несчастье, страдание "
+  },
+  {
+    "number": 1358,
+    "termin": "distribute ",
+    "transcription": "[dɪsˈtrɪbju(ː)t] ",
+    "translate": "распределять "
+  },
+  {
+    "number": 1359,
+    "termin": "district ",
+    "transcription": "[ˈdɪstrɪkt] ",
+    "translate": "район, округ и т. п. "
+  },
+  {
+    "number": 1360,
+    "termin": "disturb ",
+    "transcription": "[dɪsˈtɜːb] ",
+    "translate": "тревожить "
+  },
+  {
+    "number": 1361,
+    "termin": "ditch ",
+    "transcription": "[dɪʧ] ",
+    "translate": "ров "
+  },
+  {
+    "number": 1362,
+    "termin": "dive ",
+    "transcription": "[daɪv] ",
+    "translate": "нырять "
+  },
+  {
+    "number": 1363,
+    "termin": "diverge ",
+    "transcription": "[daɪˈvɜːʤ] ",
+    "translate": "расходиться "
+  },
+  {
+    "number": 1364,
+    "termin": "diverse ",
+    "transcription": "[daɪˈvɜːs] ",
+    "translate": "разнообразный "
+  },
+  {
+    "number": 1365,
+    "termin": "divert ",
+    "transcription": "[daɪˈvɜːt] ",
+    "translate": "отвлечь, развлечь "
+  },
+  {
+    "number": 1366,
+    "termin": "divide ",
+    "transcription": "[dɪˈvaɪd] ",
+    "translate": "делить "
+  },
+  {
+    "number": 1367,
+    "termin": "divine ",
+    "transcription": "[dɪˈvaɪn] ",
+    "translate": "божественный "
+  },
+  {
+    "number": 1368,
+    "termin": "divorce ",
+    "transcription": "[dɪˈvɔːs] ",
+    "translate": "развод, разводиться "
+  },
+  {
+    "number": 1369,
+    "termin": "dizzy ",
+    "transcription": "[ˈdɪzi] ",
+    "translate": "головокружительный "
+  },
+  {
+    "number": 1370,
+    "termin": "do about ",
+    "transcription": "[duːəˈbaʊt] ",
+    "translate": "сделать (с чем-то) "
+  },
+  {
+    "number": 1371,
+    "termin": "do away with ",
+    "transcription": "[duːəˈweɪwɪð] ",
+    "translate": "покончить, избавиться "
+  },
+  {
+    "number": 1372,
+    "termin": "do up ",
+    "transcription": "[duːʌp] ",
+    "translate": "привести в порядок "
+  },
+  {
+    "number": 1373,
+    "termin": "do without ",
+    "transcription": "[duːwɪˈðaʊt] ",
+    "translate": "обойтись без "
+  },
+  {
+    "number": 1374,
+    "termin": "dock ",
+    "transcription": "[dɒk] ",
+    "translate": "причал, док "
+  },
+  {
+    "number": 1375,
+    "termin": "dodge ",
+    "transcription": "[dɒʤ] ",
+    "translate": "уворачиваться, уклоняться, уловка "
+  },
+  {
+    "number": 1376,
+    "termin": "dole ",
+    "transcription": "[dəʊl] ",
+    "translate": "пособие по безработице "
+  },
+  {
+    "number": 1377,
+    "termin": "doll ",
+    "transcription": "[dɒl] ",
+    "translate": "кукла "
+  },
+  {
+    "number": 1378,
+    "termin": "domain ",
+    "transcription": "[dəʊˈmeɪn] ",
+    "translate": "область, сфера, владение "
+  },
+  {
+    "number": 1379,
+    "termin": "dome ",
+    "transcription": "[dəʊm] ",
+    "translate": "купол, свод "
+  },
+  {
+    "number": 1380,
+    "termin": "domestic ",
+    "transcription": "[dəʊˈmɛstɪk] ",
+    "translate": "домашний "
+  },
+  {
+    "number": 1381,
+    "termin": "domestic ",
+    "transcription": "[dəʊˈmɛstɪk] ",
+    "translate": "внутренний (о политике) "
+  },
+  {
+    "number": 1382,
+    "termin": "donate ",
+    "transcription": "[dəʊˈneɪt] ",
+    "translate": "жертвовать, скидываться "
+  },
+  {
+    "number": 1383,
+    "termin": "donkey ",
+    "transcription": "[ˈdɒŋki] ",
+    "translate": "осел "
+  },
+  {
+    "number": 1384,
+    "termin": "doom ",
+    "transcription": "[duːm] ",
+    "translate": "гибель, рок, обречённость и т. д. "
+  },
+  {
+    "number": 1385,
+    "termin": "doorway ",
+    "transcription": "[ˈdɔːweɪ] ",
+    "translate": "дверной проем "
+  },
+  {
+    "number": 1386,
+    "termin": "dope ",
+    "transcription": "[dəʊp] ",
+    "translate": "наркотик, дурман "
+  },
+  {
+    "number": 1387,
+    "termin": "dormitory ",
+    "transcription": "[ˈdɔːmɪtri] ",
+    "translate": "общежитие "
+  },
+  {
+    "number": 1388,
+    "termin": "dot ",
+    "transcription": "[dɒt] ",
+    "translate": "точка "
+  },
+  {
+    "number": 1389,
+    "termin": "double ",
+    "transcription": "[ˈdʌbl] ",
+    "translate": "удваивать, двойной "
+  },
+  {
+    "number": 1390,
+    "termin": "doubt ",
+    "transcription": "[daʊt] ",
+    "translate": "сомневаться, сомнение "
+  },
+  {
+    "number": 1391,
+    "termin": "dough ",
+    "transcription": "[dəʊ] ",
+    "translate": "тесто "
+  },
+  {
+    "number": 1392,
+    "termin": "doughnut ",
+    "transcription": "[ˈdəʊnʌt] ",
+    "translate": "пончик "
+  },
+  {
+    "number": 1393,
+    "termin": "downtown ",
+    "transcription": "[ˈdaʊntaʊn] ",
+    "translate": "центр города "
+  },
+  {
+    "number": 1394,
+    "termin": "downturn ",
+    "transcription": "[ˈdaʊntɜːn] ",
+    "translate": "спад "
+  },
+  {
+    "number": 1395,
+    "termin": "dozen ",
+    "transcription": "[ˈdʌzn] ",
+    "translate": "дюжина "
+  },
+  {
+    "number": 1396,
+    "termin": "draft ",
+    "transcription": "[drɑːft] ",
+    "translate": "тяга, сквозняк "
+  },
+  {
+    "number": 1397,
+    "termin": "draft ",
+    "transcription": "[drɑːft] ",
+    "translate": "проект, черновик, набросок "
+  },
+  {
+    "number": 1398,
+    "termin": "drag ",
+    "transcription": "[dræg] ",
+    "translate": "тащить, волочить "
+  },
+  {
+    "number": 1399,
+    "termin": "drag on ",
+    "transcription": "[drægɒn] ",
+    "translate": "тянуться долго "
+  },
+  {
+    "number": 1400,
+    "termin": "drain ",
+    "transcription": "[dreɪn] ",
+    "translate": "слив, водосток "
+  },
+  {
+    "number": 1401,
+    "termin": "drastic ",
+    "transcription": "[ˈdræstɪk] ",
+    "translate": "радикальный, резкий "
+  },
+  {
+    "number": 1402,
+    "termin": "draw (drew, drawn) ",
+    "transcription": "[drɔː] ",
+    "translate": "тянуть "
+  },
+  {
+    "number": 1403,
+    "termin": "drawback ",
+    "transcription": "[ˈdrɔːbæk] ",
+    "translate": "недостаток "
+  },
+  {
+    "number": 1404,
+    "termin": "drawer ",
+    "transcription": "[ˈdrɔːə] ",
+    "translate": "выдвижной ящик "
+  },
+  {
+    "number": 1405,
+    "termin": "dread ",
+    "transcription": "[drɛd] ",
+    "translate": "страх, бояться "
+  },
+  {
+    "number": 1406,
+    "termin": "dream ",
+    "transcription": "[driːm] ",
+    "translate": "сон (видение) "
+  },
+  {
+    "number": 1407,
+    "termin": "dress ",
+    "transcription": "[drɛs] ",
+    "translate": "одеваться "
+  },
+  {
+    "number": 1408,
+    "termin": "dress up ",
+    "transcription": "[drɛsʌp] ",
+    "translate": "нарядиться "
+  },
+  {
+    "number": 1409,
+    "termin": "drift ",
+    "transcription": "[drɪft] ",
+    "translate": "дрейфовать или дрифтовать "
+  },
+  {
+    "number": 1410,
+    "termin": "drill ",
+    "transcription": "[drɪl] ",
+    "translate": "сверло, сверлить "
+  },
+  {
+    "number": 1411,
+    "termin": "drills ",
+    "transcription": "[drɪlz] ",
+    "translate": "тренировка, учение "
+  },
+  {
+    "number": 1412,
+    "termin": "drip ",
+    "transcription": "[drɪp] ",
+    "translate": "капля, капать "
+  },
+  {
+    "number": 1413,
+    "termin": "drive (drove, driven) ",
+    "transcription": "[draɪv] ",
+    "translate": "вести машину "
+  },
+  {
+    "number": 1414,
+    "termin": "drive (drove, driven) ",
+    "transcription": "[draɪv] ",
+    "translate": "двигать, гнать "
+  },
+  {
+    "number": 1415,
+    "termin": "drive out ",
+    "transcription": "[draɪvaʊt] ",
+    "translate": "выгнать "
+  },
+  {
+    "number": 1416,
+    "termin": "drizzle ",
+    "transcription": "[ˈdrɪzl] ",
+    "translate": "моросить, морось "
+  },
+  {
+    "number": 1417,
+    "termin": "drop ",
+    "transcription": "[drɒp] ",
+    "translate": "падать, ронять "
+  },
+  {
+    "number": 1418,
+    "termin": "drop ",
+    "transcription": "[drɒp] ",
+    "translate": "капля "
+  },
+  {
+    "number": 1419,
+    "termin": "drop by ",
+    "transcription": "[drɒpbaɪ] ",
+    "translate": "зайти (по пути) "
+  },
+  {
+    "number": 1420,
+    "termin": "drop off ",
+    "transcription": "[drɒpɒf] ",
+    "translate": "завезти, высадить "
+  },
+  {
+    "number": 1421,
+    "termin": "drop out of ",
+    "transcription": "[drɒpaʊtɒv] ",
+    "translate": "бросить (учёбу) "
+  },
+  {
+    "number": 1422,
+    "termin": "drought ",
+    "transcription": "[draʊt] ",
+    "translate": "засуха "
+  },
+  {
+    "number": 1423,
+    "termin": "drown ",
+    "transcription": "[draʊn] ",
+    "translate": "тонуть "
+  },
+  {
+    "number": 1424,
+    "termin": "drug ",
+    "transcription": "[drʌg] ",
+    "translate": "лекарство или наркотик "
+  },
+  {
+    "number": 1425,
+    "termin": "drum ",
+    "transcription": "[drʌm] ",
+    "translate": "барабан, барабанить "
+  },
+  {
+    "number": 1426,
+    "termin": "dry ",
+    "transcription": "[draɪ] ",
+    "translate": "сухой, сушить, засуха "
+  },
+  {
+    "number": 1427,
+    "termin": "dry up ",
+    "transcription": "[draɪʌp] ",
+    "translate": "пересохнуть, иссякнуть "
+  },
+  {
+    "number": 1428,
+    "termin": "dual ",
+    "transcription": "[ˈdju(ː)əl] ",
+    "translate": "парный, двоякий "
+  },
+  {
+    "number": 1429,
+    "termin": "dub ",
+    "transcription": "[dʌb] ",
+    "translate": "дублировать "
+  },
+  {
+    "number": 1430,
+    "termin": "dubious ",
+    "transcription": "[ˈdjuːbiəs] ",
+    "translate": "сомнительный "
+  },
+  {
+    "number": 1431,
+    "termin": "duckling ",
+    "transcription": "[ˈdʌklɪŋ] ",
+    "translate": "утёнок "
+  },
+  {
+    "number": 1432,
+    "termin": "dude ",
+    "transcription": "[djuːd] ",
+    "translate": "чувак "
+  },
+  {
+    "number": 1433,
+    "termin": "due ",
+    "transcription": "[djuː] ",
+    "translate": "должный, положенный "
+  },
+  {
+    "number": 1434,
+    "termin": "due to ",
+    "transcription": "[djuːtuː] ",
+    "translate": "из-за, в связи "
+  },
+  {
+    "number": 1435,
+    "termin": "duke ",
+    "transcription": "[djuːk] ",
+    "translate": "герцог "
+  },
+  {
+    "number": 1436,
+    "termin": "dull ",
+    "transcription": "[dʌl] ",
+    "translate": "скучный, унылый "
+  },
+  {
+    "number": 1437,
+    "termin": "dumb ",
+    "transcription": "[dʌm] ",
+    "translate": "немой "
+  },
+  {
+    "number": 1438,
+    "termin": "dumb ",
+    "transcription": "[dʌm] ",
+    "translate": "тупой "
+  },
+  {
+    "number": 1439,
+    "termin": "dummy ",
+    "transcription": "[ˈdʌmi] ",
+    "translate": "манекен, чучело "
+  },
+  {
+    "number": 1440,
+    "termin": "dump ",
+    "transcription": "[dʌmp] ",
+    "translate": "сваливать, сбрасывать, свалка "
+  },
+  {
+    "number": 1441,
+    "termin": "dump ",
+    "transcription": "[dʌmp] ",
+    "translate": "бросать (парня/девушку) "
+  },
+  {
+    "number": 1442,
+    "termin": "duo ",
+    "transcription": "[ˈdjuːəʊ] ",
+    "translate": "дуэт "
+  },
+  {
+    "number": 1443,
+    "termin": "duplicate ",
+    "transcription": "[ˈdjuːplɪkɪt] ",
+    "translate": "дублировать, дубликат "
+  },
+  {
+    "number": 1444,
+    "termin": "durable ",
+    "transcription": "[ˈdjʊərəbl] ",
+    "translate": "прочный, долговечный "
+  },
+  {
+    "number": 1445,
+    "termin": "duration ",
+    "transcription": "[djʊəˈreɪʃən] ",
+    "translate": "продолжительность "
+  },
+  {
+    "number": 1446,
+    "termin": "during ",
+    "transcription": "[ˈdjʊərɪŋ] ",
+    "translate": "во время "
+  },
+  {
+    "number": 1447,
+    "termin": "dusk ",
+    "transcription": "[dʌsk] ",
+    "translate": "смеркаться "
+  },
+  {
+    "number": 1448,
+    "termin": "dust ",
+    "transcription": "[dʌst] ",
+    "translate": "пыль "
+  },
+  {
+    "number": 1449,
+    "termin": "duty ",
+    "transcription": "[ˈdjuːti] ",
+    "translate": "обязанность, служба "
+  },
+  {
+    "number": 1450,
+    "termin": "dwarf ",
+    "transcription": "[dwɔːf] ",
+    "translate": "карлик, гном "
+  },
+  {
+    "number": 1451,
+    "termin": "dwell ",
+    "transcription": "[dwɛl] ",
+    "translate": "обитать, проживать "
+  },
+  {
+    "number": 1452,
+    "termin": "dwell on ",
+    "transcription": "[dwɛlɒn] ",
+    "translate": "остановиться (подробно) "
+  },
+  {
+    "number": 1453,
+    "termin": "dwindle ",
+    "transcription": "[ˈdwɪndl] ",
+    "translate": "постепенно уменьшаться "
+  },
+  {
+    "number": 1454,
+    "termin": "dye ",
+    "transcription": "[daɪ] ",
+    "translate": "краска, краситель "
+  }
+]

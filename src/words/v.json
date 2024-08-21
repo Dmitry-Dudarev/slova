@@ -1,0 +1,476 @@
+[
+  {
+    "number": 4757,
+    "termin": "vacation ",
+    "transcription": "[vəˈkeɪʃən] ",
+    "translate": "отпуск, каникулы "
+  },
+  {
+    "number": 4758,
+    "termin": "vague ",
+    "transcription": "[veɪg] ",
+    "translate": "смутный "
+  },
+  {
+    "number": 4759,
+    "termin": "vain ",
+    "transcription": "[veɪn] ",
+    "translate": "тщеславный, самолюбивый "
+  },
+  {
+    "number": 4760,
+    "termin": "vain ",
+    "transcription": "[veɪn] ",
+    "translate": "напрасный, безрезультатный "
+  },
+  {
+    "number": 4761,
+    "termin": "valid ",
+    "transcription": "[ˈvælɪd] ",
+    "translate": "действительный "
+  },
+  {
+    "number": 4762,
+    "termin": "valley ",
+    "transcription": "[ˈvæli] ",
+    "translate": "долина "
+  },
+  {
+    "number": 4763,
+    "termin": "value ",
+    "transcription": "[ˈvæljuː] ",
+    "translate": "ценность, оценивать "
+  },
+  {
+    "number": 4764,
+    "termin": "valve ",
+    "transcription": "[vælv] ",
+    "translate": "задвижка, вентиль "
+  },
+  {
+    "number": 4765,
+    "termin": "van ",
+    "transcription": "[væn] ",
+    "translate": "фургон "
+  },
+  {
+    "number": 4766,
+    "termin": "vanish ",
+    "transcription": "[ˈvænɪʃ] ",
+    "translate": "исчезнуть "
+  },
+  {
+    "number": 4767,
+    "termin": "vapor ",
+    "transcription": "[ˈveɪpə] ",
+    "translate": "пар "
+  },
+  {
+    "number": 4768,
+    "termin": "variety ",
+    "transcription": "[vəˈraɪəti] ",
+    "translate": "разнообразие, множество "
+  },
+  {
+    "number": 4769,
+    "termin": "various ",
+    "transcription": "[ˈveərɪəs] ",
+    "translate": "разнообразный "
+  },
+  {
+    "number": 4770,
+    "termin": "varnish ",
+    "transcription": "[ˈvɑːnɪʃ] ",
+    "translate": "лак, лакировать "
+  },
+  {
+    "number": 4771,
+    "termin": "vary ",
+    "transcription": "[ˈveəri] ",
+    "translate": "меняться, разниться "
+  },
+  {
+    "number": 4772,
+    "termin": "vase ",
+    "transcription": "[vɑːz] ",
+    "translate": "ваза "
+  },
+  {
+    "number": 4773,
+    "termin": "vast ",
+    "transcription": "[vɑːst] ",
+    "translate": "просторный, простор "
+  },
+  {
+    "number": 4774,
+    "termin": "vault ",
+    "transcription": "[vɔːlt] ",
+    "translate": "свод, небосвод "
+  },
+  {
+    "number": 4775,
+    "termin": "vault ",
+    "transcription": "[vɔːlt] ",
+    "translate": "хранилище, об. в подвале "
+  },
+  {
+    "number": 4776,
+    "termin": "veer ",
+    "transcription": "[vɪə] ",
+    "translate": "резко свернуть "
+  },
+  {
+    "number": 4777,
+    "termin": "vegetable ",
+    "transcription": "[ˈvɛʤɪtəbl] ",
+    "translate": "овощ "
+  },
+  {
+    "number": 4778,
+    "termin": "vegetation ",
+    "transcription": "[ˌvɛʤɪˈteɪʃən] ",
+    "translate": "растительность "
+  },
+  {
+    "number": 4779,
+    "termin": "vehicle ",
+    "transcription": "[ˈviːɪkl] ",
+    "translate": "транспортное средство "
+  },
+  {
+    "number": 4780,
+    "termin": "veil ",
+    "transcription": "[veɪl] ",
+    "translate": "вуаль, закрывать "
+  },
+  {
+    "number": 4781,
+    "termin": "vein ",
+    "transcription": "[veɪn] ",
+    "translate": "вена "
+  },
+  {
+    "number": 4782,
+    "termin": "velocity ",
+    "transcription": "[vɪˈlɒsɪti] ",
+    "translate": "быстрота перемещения "
+  },
+  {
+    "number": 4783,
+    "termin": "velvet ",
+    "transcription": "[ˈvɛlvɪt] ",
+    "translate": "бархат "
+  },
+  {
+    "number": 4784,
+    "termin": "vendor ",
+    "transcription": "[ˈvɛndɔː] ",
+    "translate": "продавец, торговец "
+  },
+  {
+    "number": 4785,
+    "termin": "vengeance ",
+    "transcription": "[ˈvɛnʤəns] ",
+    "translate": "отмщение "
+  },
+  {
+    "number": 4786,
+    "termin": "vent ",
+    "transcription": "[vɛnt] ",
+    "translate": "выход, отдушина "
+  },
+  {
+    "number": 4787,
+    "termin": "venture ",
+    "transcription": "[ˈvɛnʧə] ",
+    "translate": "авантюра, предприятие, решиться "
+  },
+  {
+    "number": 4788,
+    "termin": "verb ",
+    "transcription": "[vɜːb] ",
+    "translate": "глагол "
+  },
+  {
+    "number": 4789,
+    "termin": "verge ",
+    "transcription": "[vɜːʤ] ",
+    "translate": "обочина "
+  },
+  {
+    "number": 4790,
+    "termin": "verge ",
+    "transcription": "[vɜːʤ] ",
+    "translate": "грань, предел "
+  },
+  {
+    "number": 4791,
+    "termin": "verify ",
+    "transcription": "[ˈvɛrɪfaɪ] ",
+    "translate": "проверить "
+  },
+  {
+    "number": 4792,
+    "termin": "versatile ",
+    "transcription": "[ˈvɜːsətaɪl] ",
+    "translate": "универсальный, разносторонний "
+  },
+  {
+    "number": 4793,
+    "termin": "verse ",
+    "transcription": "[vɜːs] ",
+    "translate": "стих "
+  },
+  {
+    "number": 4794,
+    "termin": "vessel ",
+    "transcription": "[ˈvɛsl] ",
+    "translate": "сосуд "
+  },
+  {
+    "number": 4795,
+    "termin": "vessel ",
+    "transcription": "[ˈvɛsl] ",
+    "translate": "судно "
+  },
+  {
+    "number": 4796,
+    "termin": "vest ",
+    "transcription": "[vɛst] ",
+    "translate": "жилет "
+  },
+  {
+    "number": 4797,
+    "termin": "via ",
+    "transcription": "[ˈvaɪə] ",
+    "translate": "через "
+  },
+  {
+    "number": 4798,
+    "termin": "viable ",
+    "transcription": "[ˈvaɪəbl] ",
+    "translate": "жизнеспособный "
+  },
+  {
+    "number": 4799,
+    "termin": "vice ",
+    "transcription": "[vaɪs] ",
+    "translate": "порок, недостаток "
+  },
+  {
+    "number": 4800,
+    "termin": "vice versa ",
+    "transcription": "[vaɪsˈvɜːsə] ",
+    "translate": "(и) наоборот "
+  },
+  {
+    "number": 4801,
+    "termin": "vicinity ",
+    "transcription": "[vɪˈsɪnɪti] ",
+    "translate": "окрестность, близость "
+  },
+  {
+    "number": 4802,
+    "termin": "vicious ",
+    "transcription": "[ˈvɪʃəs] ",
+    "translate": "злобный, жестокий "
+  },
+  {
+    "number": 4803,
+    "termin": "victim ",
+    "transcription": "[ˈvɪktɪm] ",
+    "translate": "жертва "
+  },
+  {
+    "number": 4804,
+    "termin": "view ",
+    "transcription": "[vjuː] ",
+    "translate": "вид, взгляд "
+  },
+  {
+    "number": 4805,
+    "termin": "vigil ",
+    "transcription": "[ˈvɪʤɪl] ",
+    "translate": "дежурство, бдение "
+  },
+  {
+    "number": 4806,
+    "termin": "vigor ",
+    "transcription": "[ˈvɪgə] ",
+    "translate": "сила, энергия, здоровье "
+  },
+  {
+    "number": 4807,
+    "termin": "village ",
+    "transcription": "[ˈvɪlɪʤ] ",
+    "translate": "деревня "
+  },
+  {
+    "number": 4808,
+    "termin": "villain ",
+    "transcription": "[ˈvɪlən] ",
+    "translate": "негодяй "
+  },
+  {
+    "number": 4809,
+    "termin": "vine ",
+    "transcription": "[vaɪn] ",
+    "translate": "виноград (растение) "
+  },
+  {
+    "number": 4810,
+    "termin": "vinegar ",
+    "transcription": "[ˈvɪnɪgə] ",
+    "translate": "уксус "
+  },
+  {
+    "number": 4811,
+    "termin": "violate ",
+    "transcription": "[ˈvaɪəleɪt] ",
+    "translate": "нарушать "
+  },
+  {
+    "number": 4812,
+    "termin": "violent ",
+    "transcription": "[ˈvaɪələnt] ",
+    "translate": "яростный, жестокий "
+  },
+  {
+    "number": 4813,
+    "termin": "violet ",
+    "transcription": "[ˈvaɪəlɪt] ",
+    "translate": "фиолетовый "
+  },
+  {
+    "number": 4814,
+    "termin": "violin ",
+    "transcription": "[ˌvaɪəˈlɪn] ",
+    "translate": "скрипка "
+  },
+  {
+    "number": 4815,
+    "termin": "virgin ",
+    "transcription": "[ˈvɜːʤɪn] ",
+    "translate": "девственница, дева "
+  },
+  {
+    "number": 4816,
+    "termin": "virtual ",
+    "transcription": "[ˈvɜːtjʊəl] ",
+    "translate": "действительный, фактический "
+  },
+  {
+    "number": 4817,
+    "termin": "virtue ",
+    "transcription": "[ˈvɜːtjuː] ",
+    "translate": "достоинство, добродетель "
+  },
+  {
+    "number": 4818,
+    "termin": "visible ",
+    "transcription": "[ˈvɪzəbl] ",
+    "translate": "видимый "
+  },
+  {
+    "number": 4819,
+    "termin": "vision ",
+    "transcription": "[ˈvɪʒən] ",
+    "translate": "зрение или видение "
+  },
+  {
+    "number": 4820,
+    "termin": "visit ",
+    "transcription": "[ˈvɪzɪt] ",
+    "translate": "посетить, посещение "
+  },
+  {
+    "number": 4821,
+    "termin": "vital ",
+    "transcription": "[ˈvaɪtl] ",
+    "translate": "жизненный, жизненно важный "
+  },
+  {
+    "number": 4822,
+    "termin": "vivid ",
+    "transcription": "[ˈvɪvɪd] ",
+    "translate": "яркий "
+  },
+  {
+    "number": 4823,
+    "termin": "vocabulary ",
+    "transcription": "[vəʊˈkæbjʊləri] ",
+    "translate": "словарный запас "
+  },
+  {
+    "number": 4824,
+    "termin": "vocation ",
+    "transcription": "[vəʊˈkeɪʃən] ",
+    "translate": "призвание или профессия "
+  },
+  {
+    "number": 4825,
+    "termin": "void ",
+    "transcription": "[vɔɪd] ",
+    "translate": "недействительный, пустой "
+  },
+  {
+    "number": 4826,
+    "termin": "volatile ",
+    "transcription": "[ˈvɒlətaɪl] ",
+    "translate": "изменчивый, нестабильный "
+  },
+  {
+    "number": 4827,
+    "termin": "volume ",
+    "transcription": "[ˈvɒljʊm] ",
+    "translate": "громкость "
+  },
+  {
+    "number": 4828,
+    "termin": "volume ",
+    "transcription": "[ˈvɒljʊm] ",
+    "translate": "том, книга "
+  },
+  {
+    "number": 4829,
+    "termin": "volume ",
+    "transcription": "[ˈvɒljʊm] ",
+    "translate": "объём "
+  },
+  {
+    "number": 4830,
+    "termin": "voluntary ",
+    "transcription": "[ˈvɒləntəri] ",
+    "translate": "добровольный "
+  },
+  {
+    "number": 4831,
+    "termin": "vomit ",
+    "transcription": "[ˈvɒmɪt] ",
+    "translate": "рвота, страдать рвотой "
+  },
+  {
+    "number": 4832,
+    "termin": "vote ",
+    "transcription": "[vəʊt] ",
+    "translate": "голосовать "
+  },
+  {
+    "number": 4833,
+    "termin": "vow ",
+    "transcription": "[vaʊ] ",
+    "translate": "клятва, торжественное обещание "
+  },
+  {
+    "number": 4834,
+    "termin": "voyage ",
+    "transcription": "[ˈvɔɪɪʤ] ",
+    "translate": "путешествие, рейс "
+  },
+  {
+    "number": 4835,
+    "termin": "vulnerable ",
+    "transcription": "[ˈvʌlnərəbl] ",
+    "translate": "уязвимый, чувствительный "
+  }
+]

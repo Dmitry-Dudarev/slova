@@ -1,0 +1,902 @@
+[
+  {
+    "number": 4836,
+    "termin": "wad ",
+    "transcription": "[wɒd] ",
+    "translate": "комок или пачка (денег) "
+  },
+  {
+    "number": 4837,
+    "termin": "wade ",
+    "transcription": "[weɪd] ",
+    "translate": "брод, переходить вброд "
+  },
+  {
+    "number": 4838,
+    "termin": "waffle ",
+    "transcription": "[ˈwɒfl] ",
+    "translate": "вафля, вафельный "
+  },
+  {
+    "number": 4839,
+    "termin": "wag ",
+    "transcription": "[wæg] ",
+    "translate": "махать, вилять "
+  },
+  {
+    "number": 4840,
+    "termin": "wage ",
+    "transcription": "[weɪʤ] ",
+    "translate": "заработок, оплата "
+  },
+  {
+    "number": 4841,
+    "termin": "wail ",
+    "transcription": "[weɪl] ",
+    "translate": "вопить, вопль "
+  },
+  {
+    "number": 4842,
+    "termin": "waist ",
+    "transcription": "[weɪst] ",
+    "translate": "талия "
+  },
+  {
+    "number": 4843,
+    "termin": "waiter ",
+    "transcription": "[ˈweɪtə] ",
+    "translate": "официант "
+  },
+  {
+    "number": 4844,
+    "termin": "waive ",
+    "transcription": "[weɪv] ",
+    "translate": "отказаться, воздержаться от "
+  },
+  {
+    "number": 4845,
+    "termin": "wake (up)",
+    "transcription": "[weɪk] ",
+    "translate": "просыпаться или будить "
+  },
+  {
+    "number": 4846,
+    "termin": "wallet ",
+    "transcription": "[ˈwɒlɪt] ",
+    "translate": "бумажник "
+  },
+  {
+    "number": 4847,
+    "termin": "wallpaper ",
+    "transcription": "[ˈwɔːlˌpeɪpə] ",
+    "translate": "обои "
+  },
+  {
+    "number": 4848,
+    "termin": "walnut ",
+    "transcription": "[ˈwɔːlnʌt] ",
+    "translate": "грецкий орех "
+  },
+  {
+    "number": 4849,
+    "termin": "wander ",
+    "transcription": "[ˈwɒndə] ",
+    "translate": "бродить, блуждать "
+  },
+  {
+    "number": 4850,
+    "termin": "wane ",
+    "transcription": "[weɪn] ",
+    "translate": "убывать "
+  },
+  {
+    "number": 4851,
+    "termin": "ward ",
+    "transcription": "[wɔːd] ",
+    "translate": "палата, отделение, камера "
+  },
+  {
+    "number": 4852,
+    "termin": "ward ",
+    "transcription": "[wɔːd] ",
+    "translate": "округ, район "
+  },
+  {
+    "number": 4853,
+    "termin": "ward off ",
+    "transcription": "[wɔːdɒf] ",
+    "translate": "предотвратить, отогнать "
+  },
+  {
+    "number": 4854,
+    "termin": "warden ",
+    "transcription": "[ˈwɔːdn] ",
+    "translate": "смотритель, надзиратель "
+  },
+  {
+    "number": 4855,
+    "termin": "wardrobe ",
+    "transcription": "[ˈwɔːdrəʊb] ",
+    "translate": "шкаф, гардероб "
+  },
+  {
+    "number": 4856,
+    "termin": "warehouse ",
+    "transcription": "[ˈweəhaʊs] ",
+    "translate": "склад "
+  },
+  {
+    "number": 4857,
+    "termin": "warfare ",
+    "transcription": "[ˈwɔːfeə] ",
+    "translate": "военные действия "
+  },
+  {
+    "number": 4858,
+    "termin": "warmth ",
+    "transcription": "[wɔːmθ] ",
+    "translate": "тепло "
+  },
+  {
+    "number": 4859,
+    "termin": "warn ",
+    "transcription": "[wɔːn] ",
+    "translate": "предостерегать "
+  },
+  {
+    "number": 4860,
+    "termin": "warp ",
+    "transcription": "[wɔːp] ",
+    "translate": "деформироваться "
+  },
+  {
+    "number": 4861,
+    "termin": "warrant ",
+    "transcription": "[ˈwɒrənt] ",
+    "translate": "гарантировать, ручаться "
+  },
+  {
+    "number": 4862,
+    "termin": "warrior ",
+    "transcription": "[ˈwɒrɪə] ",
+    "translate": "воин "
+  },
+  {
+    "number": 4863,
+    "termin": "wary ",
+    "transcription": "[ˈweəri] ",
+    "translate": "осторожный, настороженный "
+  },
+  {
+    "number": 4864,
+    "termin": "wash down ",
+    "transcription": "[wɒʃdaʊn] ",
+    "translate": "запивать "
+  },
+  {
+    "number": 4865,
+    "termin": "wash up ",
+    "transcription": "[wɒʃʌp] ",
+    "translate": "умыться "
+  },
+  {
+    "number": 4866,
+    "termin": "wash up ",
+    "transcription": "[wɒʃʌp] ",
+    "translate": "помыть посуду "
+  },
+  {
+    "number": 4867,
+    "termin": "waste ",
+    "transcription": "[weɪst] ",
+    "translate": "отходы, обрезки, потери и т.п. "
+  },
+  {
+    "number": 4868,
+    "termin": "waste ",
+    "transcription": "[weɪst] ",
+    "translate": "тратить (впустую) "
+  },
+  {
+    "number": 4869,
+    "termin": "watch ",
+    "transcription": "[wɒʧ] ",
+    "translate": "часы (наручные) "
+  },
+  {
+    "number": 4870,
+    "termin": "watchful ",
+    "transcription": "[ˈwɒʧfʊl] ",
+    "translate": "бдительный "
+  },
+  {
+    "number": 4871,
+    "termin": "water down ",
+    "transcription": "[ˈwɔːtədaʊn] ",
+    "translate": "разбавить, ослабить "
+  },
+  {
+    "number": 4872,
+    "termin": "watercolor ",
+    "transcription": "[watercolor] ",
+    "translate": "акварель "
+  },
+  {
+    "number": 4873,
+    "termin": "waterfall ",
+    "transcription": "[ˈwɔːtəfɔːl] ",
+    "translate": "водопад "
+  },
+  {
+    "number": 4874,
+    "termin": "wave ",
+    "transcription": "[weɪv] ",
+    "translate": "волна "
+  },
+  {
+    "number": 4875,
+    "termin": "wave ",
+    "transcription": "[weɪv] ",
+    "translate": "махать, колебаться "
+  },
+  {
+    "number": 4876,
+    "termin": "waver ",
+    "transcription": "[ˈweɪvə] ",
+    "translate": "дрогнуть "
+  },
+  {
+    "number": 4877,
+    "termin": "wax ",
+    "transcription": "[wæks] ",
+    "translate": "воск "
+  },
+  {
+    "number": 4878,
+    "termin": "way ",
+    "transcription": "[weɪ] ",
+    "translate": "способ "
+  },
+  {
+    "number": 4879,
+    "termin": "weak ",
+    "transcription": "[wiːk] ",
+    "translate": "слабый "
+  },
+  {
+    "number": 4880,
+    "termin": "wealth ",
+    "transcription": "[wɛlθ] ",
+    "translate": "богатство "
+  },
+  {
+    "number": 4881,
+    "termin": "weapon ",
+    "transcription": "[ˈwɛpən] ",
+    "translate": "оружие "
+  },
+  {
+    "number": 4882,
+    "termin": "wear (wore, worn) ",
+    "transcription": "[weə] ",
+    "translate": "надевать, носить "
+  },
+  {
+    "number": 4883,
+    "termin": "wear off ",
+    "transcription": "[weərɒf] ",
+    "translate": "сойти на нет, выветриться "
+  },
+  {
+    "number": 4884,
+    "termin": "wear out ",
+    "transcription": "[weəraʊt] ",
+    "translate": "измотать, истрепать "
+  },
+  {
+    "number": 4885,
+    "termin": "weary ",
+    "transcription": "[ˈwɪəri] ",
+    "translate": "утомленный "
+  },
+  {
+    "number": 4886,
+    "termin": "weave (wove, woven) ",
+    "transcription": "[wiːv] ",
+    "translate": "плести, ткать "
+  },
+  {
+    "number": 4887,
+    "termin": "wedding ",
+    "transcription": "[ˈwɛdɪŋ] ",
+    "translate": "свадьба "
+  },
+  {
+    "number": 4888,
+    "termin": "wedge ",
+    "transcription": "[wɛʤ] ",
+    "translate": "клин, клиновидный "
+  },
+  {
+    "number": 4889,
+    "termin": "weed ",
+    "transcription": "[wiːd] ",
+    "translate": "сорняк, пропалывать "
+  },
+  {
+    "number": 4890,
+    "termin": "weep ",
+    "transcription": "[wiːp] ",
+    "translate": "рыдать "
+  },
+  {
+    "number": 4891,
+    "termin": "weigh ",
+    "transcription": "[weɪ] ",
+    "translate": "весить "
+  },
+  {
+    "number": 4892,
+    "termin": "weight ",
+    "transcription": "[weɪt] ",
+    "translate": "вес "
+  },
+  {
+    "number": 4893,
+    "termin": "weird ",
+    "transcription": "[wɪəd] ",
+    "translate": "нереальный, странный "
+  },
+  {
+    "number": 4894,
+    "termin": "welcome ",
+    "transcription": "[ˈwɛlkəm] ",
+    "translate": "желанный, приятный "
+  },
+  {
+    "number": 4895,
+    "termin": "weld ",
+    "transcription": "[wɛld] ",
+    "translate": "сварка, сваривать "
+  },
+  {
+    "number": 4896,
+    "termin": "welfare ",
+    "transcription": "[ˈwɛlfeə] ",
+    "translate": "пособие, мат. помощь "
+  },
+  {
+    "number": 4897,
+    "termin": "welfare ",
+    "transcription": "[ˈwɛlfeə] ",
+    "translate": "благополучие "
+  },
+  {
+    "number": 4898,
+    "termin": "well ",
+    "transcription": "[wɛl] ",
+    "translate": "колодец "
+  },
+  {
+    "number": 4899,
+    "termin": "well-being ",
+    "transcription": "[wɛl-ˈbiːɪŋ] ",
+    "translate": "благополучие "
+  },
+  {
+    "number": 4900,
+    "termin": "well-off ",
+    "transcription": "[wɛl-ɒf] ",
+    "translate": "обеспеченный "
+  },
+  {
+    "number": 4901,
+    "termin": "west ",
+    "transcription": "[wɛst] ",
+    "translate": "запад "
+  },
+  {
+    "number": 4902,
+    "termin": "wet ",
+    "transcription": "[wɛt] ",
+    "translate": "мокрый, мочить "
+  },
+  {
+    "number": 4903,
+    "termin": "whack ",
+    "transcription": "[wæk] ",
+    "translate": "удар, сильно бить "
+  },
+  {
+    "number": 4904,
+    "termin": "whale ",
+    "transcription": "[weɪl] ",
+    "translate": "кит "
+  },
+  {
+    "number": 4905,
+    "termin": "whatsoever ",
+    "transcription": "[ˌwɒtsəʊˈɛvə] ",
+    "translate": "совсем (не) "
+  },
+  {
+    "number": 4906,
+    "termin": "wheat ",
+    "transcription": "[wiːt] ",
+    "translate": "пшеница "
+  },
+  {
+    "number": 4907,
+    "termin": "wheel ",
+    "transcription": "[wiːl] ",
+    "translate": "колесо "
+  },
+  {
+    "number": 4908,
+    "termin": "whereabouts ",
+    "transcription": "[ˈweərəbaʊts] ",
+    "translate": "местонахождение "
+  },
+  {
+    "number": 4909,
+    "termin": "whereas ",
+    "transcription": "[weərˈæz] ",
+    "translate": "тогда как "
+  },
+  {
+    "number": 4910,
+    "termin": "whereby ",
+    "transcription": "[weəˈbaɪ] ",
+    "translate": "посредством чего "
+  },
+  {
+    "number": 4911,
+    "termin": "whether ",
+    "transcription": "[ˈwɛðə] ",
+    "translate": "ли "
+  },
+  {
+    "number": 4912,
+    "termin": "whim ",
+    "transcription": "[wɪm] ",
+    "translate": "каприз, прихоть "
+  },
+  {
+    "number": 4913,
+    "termin": "whine ",
+    "transcription": "[waɪn] ",
+    "translate": "ныть, скулить "
+  },
+  {
+    "number": 4914,
+    "termin": "whip ",
+    "transcription": "[wɪp] ",
+    "translate": "кнут, хлестать "
+  },
+  {
+    "number": 4915,
+    "termin": "whirl ",
+    "transcription": "[wɜːl] ",
+    "translate": "вихрь, кружиться "
+  },
+  {
+    "number": 4916,
+    "termin": "whisk ",
+    "transcription": "[wɪsk] ",
+    "translate": "сделать быстрое движение "
+  },
+  {
+    "number": 4917,
+    "termin": "whisper ",
+    "transcription": "[ˈwɪspə] ",
+    "translate": "шептать "
+  },
+  {
+    "number": 4918,
+    "termin": "whistle ",
+    "transcription": "[ˈwɪsl] ",
+    "translate": "свист, свистеть, свисток "
+  },
+  {
+    "number": 4919,
+    "termin": "whiz ",
+    "transcription": "[wɪz] ",
+    "translate": "ловкач, умелец (в области) "
+  },
+  {
+    "number": 4920,
+    "termin": "whiz ",
+    "transcription": "[wɪz] ",
+    "translate": "просвистеть, пронестись "
+  },
+  {
+    "number": 4921,
+    "termin": "whole ",
+    "transcription": "[həʊl] ",
+    "translate": "весь, целый "
+  },
+  {
+    "number": 4922,
+    "termin": "wholesale ",
+    "transcription": "[ˈhəʊlseɪl] ",
+    "translate": "опт "
+  },
+  {
+    "number": 4923,
+    "termin": "whore ",
+    "transcription": "[hɔː] ",
+    "translate": "шлюха "
+  },
+  {
+    "number": 4924,
+    "termin": "wicked ",
+    "transcription": "[ˈwɪkɪd] ",
+    "translate": "злобный, безнравственный "
+  },
+  {
+    "number": 4925,
+    "termin": "wide ",
+    "transcription": "[waɪd] ",
+    "translate": "широкий, просторный "
+  },
+  {
+    "number": 4926,
+    "termin": "widespread ",
+    "transcription": "[ˈwaɪdsprɛd] ",
+    "translate": "распространенный "
+  },
+  {
+    "number": 4927,
+    "termin": "widow ",
+    "transcription": "[ˈwɪdəʊ] ",
+    "translate": "вдова "
+  },
+  {
+    "number": 4928,
+    "termin": "width ",
+    "transcription": "[wɪdθ] ",
+    "translate": "ширина "
+  },
+  {
+    "number": 4929,
+    "termin": "wield ",
+    "transcription": "[wiːld] ",
+    "translate": "владеть, управляться "
+  },
+  {
+    "number": 4930,
+    "termin": "wiggle ",
+    "transcription": "[ˈwɪgl] ",
+    "translate": "шевелить "
+  },
+  {
+    "number": 4931,
+    "termin": "wilderness ",
+    "transcription": "[ˈwɪldənɪs] ",
+    "translate": "глушь, дикая местность "
+  },
+  {
+    "number": 4932,
+    "termin": "wildlife ",
+    "transcription": "[ˈwaɪldlaɪf] ",
+    "translate": "дикая природа "
+  },
+  {
+    "number": 4933,
+    "termin": "will ",
+    "transcription": "[wɪl] ",
+    "translate": "воля, желание "
+  },
+  {
+    "number": 4934,
+    "termin": "willow ",
+    "transcription": "[ˈwɪləʊ] ",
+    "translate": "ива "
+  },
+  {
+    "number": 4935,
+    "termin": "wince ",
+    "transcription": "[wɪns] ",
+    "translate": "поморщиться, поёжиться "
+  },
+  {
+    "number": 4936,
+    "termin": "wind (wound, wound) ",
+    "transcription": "[wɑɪnd] ",
+    "translate": "наматывать, виться, петлять "
+  },
+  {
+    "number": 4937,
+    "termin": "wind up ",
+    "transcription": "[wɪndʌp] ",
+    "translate": "заканчивать "
+  },
+  {
+    "number": 4938,
+    "termin": "windowpane ",
+    "transcription": "[ˈwɪndəʊpeɪn] ",
+    "translate": "оконное стекло "
+  },
+  {
+    "number": 4939,
+    "termin": "wine ",
+    "transcription": "[waɪn] ",
+    "translate": "вино "
+  },
+  {
+    "number": 4940,
+    "termin": "wink ",
+    "transcription": "[wɪŋk] ",
+    "translate": "подмигивать "
+  },
+  {
+    "number": 4941,
+    "termin": "wipe ",
+    "transcription": "[waɪp] ",
+    "translate": "вытирать, салфетка "
+  },
+  {
+    "number": 4942,
+    "termin": "wipe out ",
+    "transcription": "[waɪpaʊt] ",
+    "translate": "уничтожить "
+  },
+  {
+    "number": 4943,
+    "termin": "wire ",
+    "transcription": "[ˈwaɪə] ",
+    "translate": "проволока, провод "
+  },
+  {
+    "number": 4944,
+    "termin": "wise ",
+    "transcription": "[waɪz] ",
+    "translate": "мудрый "
+  },
+  {
+    "number": 4945,
+    "termin": "wise up ",
+    "transcription": "[waɪzʌp] ",
+    "translate": "поумнеть, стать мудрее "
+  },
+  {
+    "number": 4946,
+    "termin": "wit ",
+    "transcription": "[wɪt] ",
+    "translate": "ум, остроумие "
+  },
+  {
+    "number": 4947,
+    "termin": "witch ",
+    "transcription": "[wɪʧ] ",
+    "translate": "ведьма "
+  },
+  {
+    "number": 4948,
+    "termin": "withdraw ",
+    "transcription": "[wɪðˈdrɔː] ",
+    "translate": "отводить, убирать "
+  },
+  {
+    "number": 4949,
+    "termin": "wither ",
+    "transcription": "[ˈwɪðə] ",
+    "translate": "увянуть, засохнуть "
+  },
+  {
+    "number": 4950,
+    "termin": "withhold ",
+    "transcription": "[wɪðˈhəʊld] ",
+    "translate": "утаивать, удерживать "
+  },
+  {
+    "number": 4951,
+    "termin": "within ",
+    "transcription": "[wɪˈðɪn] ",
+    "translate": "в течение "
+  },
+  {
+    "number": 4952,
+    "termin": "within ",
+    "transcription": "[wɪˈðɪn] ",
+    "translate": "в пределах, внутри "
+  },
+  {
+    "number": 4953,
+    "termin": "withstand ",
+    "transcription": "[wɪðˈstænd] ",
+    "translate": "выдерживать "
+  },
+  {
+    "number": 4954,
+    "termin": "witness ",
+    "transcription": "[ˈwɪtnɪs] ",
+    "translate": "свидетель "
+  },
+  {
+    "number": 4955,
+    "termin": "wizard ",
+    "transcription": "[ˈwɪzəd] ",
+    "translate": "волшебник "
+  },
+  {
+    "number": 4956,
+    "termin": "wobble ",
+    "transcription": "[ˈwɒbl] ",
+    "translate": "качаться, шататься "
+  },
+  {
+    "number": 4957,
+    "termin": "woe ",
+    "transcription": "[wəʊ] ",
+    "translate": "горе "
+  },
+  {
+    "number": 4958,
+    "termin": "wonder ",
+    "transcription": "[ˈwʌndə] ",
+    "translate": "удивление, удивляться "
+  },
+  {
+    "number": 4959,
+    "termin": "wonder ",
+    "transcription": "[ˈwʌndə] ",
+    "translate": "хотеть знать "
+  },
+  {
+    "number": 4960,
+    "termin": "woo ",
+    "transcription": "[wuː] ",
+    "translate": "ухаживать, добиваться "
+  },
+  {
+    "number": 4961,
+    "termin": "wood ",
+    "transcription": "[wʊd] ",
+    "translate": "древесина, лес "
+  },
+  {
+    "number": 4962,
+    "termin": "wool ",
+    "transcription": "[wʊl] ",
+    "translate": "шерсть, шерстяной "
+  },
+  {
+    "number": 4963,
+    "termin": "work out ",
+    "transcription": "[wɜːkaʊt] ",
+    "translate": "тренироваться "
+  },
+  {
+    "number": 4964,
+    "termin": "work out ",
+    "transcription": "[wɜːkaʊt] ",
+    "translate": "получиться, сработать "
+  },
+  {
+    "number": 4965,
+    "termin": "workshop ",
+    "transcription": "[ˈwɜːkʃɒp] ",
+    "translate": "мастерская, студия "
+  },
+  {
+    "number": 4966,
+    "termin": "worldwide ",
+    "transcription": "[ˌwɜːldˈwaɪd] ",
+    "translate": "всемирный "
+  },
+  {
+    "number": 4967,
+    "termin": "worm ",
+    "transcription": "[wɜːm] ",
+    "translate": "червь "
+  },
+  {
+    "number": 4968,
+    "termin": "worry ",
+    "transcription": "[ˈwʌri] ",
+    "translate": "волновать (ся) "
+  },
+  {
+    "number": 4969,
+    "termin": "worsen ",
+    "transcription": "[ˈwɜːsn] ",
+    "translate": "ухудшать "
+  },
+  {
+    "number": 4970,
+    "termin": "worship ",
+    "transcription": "[ˈwɜːʃɪp] ",
+    "translate": "почитать, поклоняться "
+  },
+  {
+    "number": 4971,
+    "termin": "worth ",
+    "transcription": "[wɜːθ] ",
+    "translate": "стоимость, стоящий "
+  },
+  {
+    "number": 4972,
+    "termin": "worthwhile ",
+    "transcription": "[ˈwɜːθˈwaɪl] ",
+    "translate": "стоящий "
+  },
+  {
+    "number": 4973,
+    "termin": "wound ",
+    "transcription": "[wuːnd] ",
+    "translate": "рана, ранить "
+  },
+  {
+    "number": 4974,
+    "termin": "wrap ",
+    "transcription": "[ræp] ",
+    "translate": "заворачивать "
+  },
+  {
+    "number": 4975,
+    "termin": "wrath ",
+    "transcription": "[rɒθ] ",
+    "translate": "ярость "
+  },
+  {
+    "number": 4976,
+    "termin": "wreath ",
+    "transcription": "[riːθ] ",
+    "translate": "венок "
+  },
+  {
+    "number": 4977,
+    "termin": "wreck ",
+    "transcription": "[rɛk] ",
+    "translate": "разрушать "
+  },
+  {
+    "number": 4978,
+    "termin": "wrench ",
+    "transcription": "[rɛnʧ] ",
+    "translate": "гаечный ключ "
+  },
+  {
+    "number": 4979,
+    "termin": "wrestle ",
+    "transcription": "[ˈrɛsl] ",
+    "translate": "бороться "
+  },
+  {
+    "number": 4980,
+    "termin": "wretched ",
+    "transcription": "[ˈrɛʧɪd] ",
+    "translate": "жалкий, несчастный "
+  },
+  {
+    "number": 4981,
+    "termin": "wrinkle ",
+    "transcription": "[ˈrɪŋkl] ",
+    "translate": "морщина, сморщиваться "
+  },
+  {
+    "number": 4982,
+    "termin": "wrist ",
+    "transcription": "[rɪst] ",
+    "translate": "запястье "
+  },
+  {
+    "number": 4983,
+    "termin": "write out ",
+    "transcription": "[raɪtaʊt] ",
+    "translate": "выписать (документ) "
+  },
+  {
+    "number": 4984,
+    "termin": "wrong ",
+    "transcription": "[rɒŋ] ",
+    "translate": "не тот "
+  },
+  {
+    "number": 4985,
+    "termin": "wrongdoing ",
+    "transcription": "[ˈrɒŋˈdu(ː)ɪŋ] ",
+    "translate": "проступок, правонарушение "
+  }
+]

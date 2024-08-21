@@ -1,0 +1,1076 @@
+[
+  {
+    "number": 1920,
+    "termin": "gain ",
+    "transcription": "[geɪn] ",
+    "translate": "получать, выигрывать "
+  },
+  {
+    "number": 1921,
+    "termin": "gait ",
+    "transcription": "[geɪt] ",
+    "translate": "походка "
+  },
+  {
+    "number": 1922,
+    "termin": "gala ",
+    "transcription": "[ˈgɑːlə] ",
+    "translate": "праздничный, торжественный "
+  },
+  {
+    "number": 1923,
+    "termin": "gamble ",
+    "transcription": "[ˈgæmbl] ",
+    "translate": "азартная игра, играть "
+  },
+  {
+    "number": 1924,
+    "termin": "gang ",
+    "transcription": "[gæŋ] ",
+    "translate": "банда, шайка "
+  },
+  {
+    "number": 1925,
+    "termin": "gap ",
+    "transcription": "[gæp] ",
+    "translate": "разрыв, пробел "
+  },
+  {
+    "number": 1926,
+    "termin": "garbage ",
+    "transcription": "[ˈgɑːbɪʤ] ",
+    "translate": "мусор (особ. пищевой) "
+  },
+  {
+    "number": 1927,
+    "termin": "garden ",
+    "transcription": "[ˈgɑːdn] ",
+    "translate": "сад "
+  },
+  {
+    "number": 1928,
+    "termin": "garlic ",
+    "transcription": "[ˈgɑːlɪk] ",
+    "translate": "чеснок "
+  },
+  {
+    "number": 1929,
+    "termin": "garment ",
+    "transcription": "[ˈgɑːmənt] ",
+    "translate": "предмет одежды "
+  },
+  {
+    "number": 1930,
+    "termin": "garnish ",
+    "transcription": "[ˈgɑːnɪʃ] ",
+    "translate": "гарнир, украшение "
+  },
+  {
+    "number": 1931,
+    "termin": "gas ",
+    "transcription": "[gæs] ",
+    "translate": "бензин "
+  },
+  {
+    "number": 1932,
+    "termin": "gasp ",
+    "transcription": "[gɑːsp] ",
+    "translate": "задыхаться, ловить воздух "
+  },
+  {
+    "number": 1933,
+    "termin": "gates ",
+    "transcription": "[geɪts] ",
+    "translate": "ворота "
+  },
+  {
+    "number": 1934,
+    "termin": "gather ",
+    "transcription": "[ˈgæðə] ",
+    "translate": "собирать (ся) "
+  },
+  {
+    "number": 1935,
+    "termin": "gauge ",
+    "transcription": "[geɪʤ] ",
+    "translate": "измерить, изм. прибор "
+  },
+  {
+    "number": 1936,
+    "termin": "gaze ",
+    "transcription": "[geɪz] ",
+    "translate": "пристально глядеть "
+  },
+  {
+    "number": 1937,
+    "termin": "gear ",
+    "transcription": "[gɪə] ",
+    "translate": "механизм, привод, передача "
+  },
+  {
+    "number": 1938,
+    "termin": "geared to ",
+    "transcription": "[gɪədtuː] ",
+    "translate": "направлен на "
+  },
+  {
+    "number": 1939,
+    "termin": "gem ",
+    "transcription": "[ʤɛm] ",
+    "translate": "(полу)драгоценный камень "
+  },
+  {
+    "number": 1940,
+    "termin": "gender ",
+    "transcription": "[ˈʤɛndə] ",
+    "translate": "пол "
+  },
+  {
+    "number": 1941,
+    "termin": "gene ",
+    "transcription": "[ʤiːn] ",
+    "translate": "ген "
+  },
+  {
+    "number": 1942,
+    "termin": "general ",
+    "transcription": "[ˈʤɛnərəl] ",
+    "translate": "общий "
+  },
+  {
+    "number": 1943,
+    "termin": "generation ",
+    "transcription": "[ˌʤɛnəˈreɪʃən] ",
+    "translate": "поколение "
+  },
+  {
+    "number": 1944,
+    "termin": "generous ",
+    "transcription": "[ˈʤɛnərəs] ",
+    "translate": "великодушный, щедрый "
+  },
+  {
+    "number": 1945,
+    "termin": "gentle ",
+    "transcription": "[ˈʤɛntl] ",
+    "translate": "мягкий, тихий, нежный и т. д. "
+  },
+  {
+    "number": 1946,
+    "termin": "genuine ",
+    "transcription": "[ˈʤɛnjʊɪn] ",
+    "translate": "подлинный, настоящий "
+  },
+  {
+    "number": 1947,
+    "termin": "germ ",
+    "transcription": "[ʤɜːm] ",
+    "translate": "микроб или зародыш "
+  },
+  {
+    "number": 1948,
+    "termin": "gesture ",
+    "transcription": "[ˈʤɛsʧə] ",
+    "translate": "жест, жестикулировать "
+  },
+  {
+    "number": 1949,
+    "termin": "get ",
+    "transcription": "[gɛt] ",
+    "translate": "становиться "
+  },
+  {
+    "number": 1950,
+    "termin": "get about ",
+    "transcription": "[gɛtəˈbaʊt] ",
+    "translate": "передвигаться (на чём-то) "
+  },
+  {
+    "number": 1951,
+    "termin": "get ahead ",
+    "transcription": "[gɛtəˈhɛd] ",
+    "translate": "преуспевать, продвигаться "
+  },
+  {
+    "number": 1952,
+    "termin": "get ahead of ",
+    "transcription": "[gɛtəˈhɛdɒv] ",
+    "translate": "обогнать "
+  },
+  {
+    "number": 1953,
+    "termin": "get along ",
+    "transcription": "[gɛtəˈlɒŋ] ",
+    "translate": "ладить "
+  },
+  {
+    "number": 1954,
+    "termin": "get at ",
+    "transcription": "[gɛtæt] ",
+    "translate": "клонить, намекать "
+  },
+  {
+    "number": 1955,
+    "termin": "get away with ",
+    "transcription": "[gɛtəˈweɪwɪð] ",
+    "translate": "безнаказанно сделать "
+  },
+  {
+    "number": 1956,
+    "termin": "get back at ",
+    "transcription": "[gɛtbækæt] ",
+    "translate": "отомстить "
+  },
+  {
+    "number": 1957,
+    "termin": "get by ",
+    "transcription": "[gɛtbaɪ] ",
+    "translate": "обойтись, протянуть "
+  },
+  {
+    "number": 1958,
+    "termin": "get down ",
+    "transcription": "[gɛtdaʊn] ",
+    "translate": "приступить "
+  },
+  {
+    "number": 1959,
+    "termin": "get in ",
+    "transcription": "[gɛtɪn] ",
+    "translate": "прибывать (о транспорте) "
+  },
+  {
+    "number": 1960,
+    "termin": "get lost ",
+    "transcription": "[gɛtlɒst] ",
+    "translate": "пропасть, исчезнуть "
+  },
+  {
+    "number": 1961,
+    "termin": "get off ",
+    "transcription": "[gɛtɒf] ",
+    "translate": "выходить (из транспорта) "
+  },
+  {
+    "number": 1962,
+    "termin": "get off with ",
+    "transcription": "[gɛtɒfwɪð] ",
+    "translate": "отделаться чем-либо "
+  },
+  {
+    "number": 1963,
+    "termin": "get on ",
+    "transcription": "[gɛtɒn] ",
+    "translate": "быть, делать "
+  },
+  {
+    "number": 1964,
+    "termin": "get out of ",
+    "transcription": "[gɛtaʊtɒv] ",
+    "translate": "избежать, отмазаться "
+  },
+  {
+    "number": 1965,
+    "termin": "get over ",
+    "transcription": "[gɛtˈəʊvə] ",
+    "translate": "выздороветь, отойти "
+  },
+  {
+    "number": 1966,
+    "termin": "get rid of ",
+    "transcription": "[gɛtrɪdɒv] ",
+    "translate": "избавиться от "
+  },
+  {
+    "number": 1967,
+    "termin": "get stuck ",
+    "transcription": "[gɛtstʌk] ",
+    "translate": "застрять "
+  },
+  {
+    "number": 1968,
+    "termin": "get through ",
+    "transcription": "[gɛtθruː] ",
+    "translate": "дозвониться "
+  },
+  {
+    "number": 1969,
+    "termin": "get together ",
+    "transcription": "[gɛttəˈgɛðə] ",
+    "translate": "собираться "
+  },
+  {
+    "number": 1970,
+    "termin": "get used to ",
+    "transcription": "[gɛtjuːzdtuː] ",
+    "translate": "привыкнуть "
+  },
+  {
+    "number": 1971,
+    "termin": "ghost ",
+    "transcription": "[gəʊst] ",
+    "translate": "привидение "
+  },
+  {
+    "number": 1972,
+    "termin": "giant ",
+    "transcription": "[ˈʤaɪənt] ",
+    "translate": "гигантский "
+  },
+  {
+    "number": 1973,
+    "termin": "gift ",
+    "transcription": "[gɪft] ",
+    "translate": "подарок "
+  },
+  {
+    "number": 1974,
+    "termin": "giggle ",
+    "transcription": "[ˈgɪgl] ",
+    "translate": "хихикать, хихиканье "
+  },
+  {
+    "number": 1975,
+    "termin": "give a ride ",
+    "transcription": "[gɪvəraɪd] ",
+    "translate": "подвезти "
+  },
+  {
+    "number": 1976,
+    "termin": "give away ",
+    "transcription": "[gɪvəˈweɪ] ",
+    "translate": "раздавать, дарить "
+  },
+  {
+    "number": 1977,
+    "termin": "give away ",
+    "transcription": "[gɪvəˈweɪ] ",
+    "translate": "выдать (раскрыть) "
+  },
+  {
+    "number": 1978,
+    "termin": "give birth to ",
+    "transcription": "[gɪvbɜːθtuː] ",
+    "translate": "родить "
+  },
+  {
+    "number": 1979,
+    "termin": "give off ",
+    "transcription": "[gɪvɒf] ",
+    "translate": "издавать, испускать "
+  },
+  {
+    "number": 1980,
+    "termin": "give out ",
+    "transcription": "[gɪvaʊt] ",
+    "translate": "раздать, выдать "
+  },
+  {
+    "number": 1981,
+    "termin": "give up ",
+    "transcription": "[gɪvʌp] ",
+    "translate": "отказаться, сдаться "
+  },
+  {
+    "number": 1982,
+    "termin": "give up ",
+    "transcription": "[gɪvʌp] ",
+    "translate": "бросить (привычку) "
+  },
+  {
+    "number": 1983,
+    "termin": "glacier ",
+    "transcription": "[ˈglæsiə] ",
+    "translate": "ледник "
+  },
+  {
+    "number": 1984,
+    "termin": "glamour ",
+    "transcription": "[ˈglæmə] ",
+    "translate": "очарование, привлекательность "
+  },
+  {
+    "number": 1985,
+    "termin": "glance ",
+    "transcription": "[glɑːns] ",
+    "translate": "взгляд "
+  },
+  {
+    "number": 1986,
+    "termin": "glare ",
+    "transcription": "[gleə] ",
+    "translate": "яркий свет, ослеплять "
+  },
+  {
+    "number": 1987,
+    "termin": "glass ",
+    "transcription": "[glɑːs] ",
+    "translate": "стекло или стакан "
+  },
+  {
+    "number": 1988,
+    "termin": "glasses ",
+    "transcription": "[ˈglɑːsɪz] ",
+    "translate": "очки "
+  },
+  {
+    "number": 1989,
+    "termin": "glaze ",
+    "transcription": "[gleɪz] ",
+    "translate": "глазурь, глянец "
+  },
+  {
+    "number": 1990,
+    "termin": "gleam ",
+    "transcription": "[gliːm] ",
+    "translate": "блеск, отблеск "
+  },
+  {
+    "number": 1991,
+    "termin": "glee ",
+    "transcription": "[gliː] ",
+    "translate": "ликование "
+  },
+  {
+    "number": 1992,
+    "termin": "glide ",
+    "transcription": "[glaɪd] ",
+    "translate": "скользить, планировать "
+  },
+  {
+    "number": 1993,
+    "termin": "glimpse ",
+    "transcription": "[glɪmps] ",
+    "translate": "вид (мельком или уголком) "
+  },
+  {
+    "number": 1994,
+    "termin": "glint ",
+    "transcription": "[glɪnt] ",
+    "translate": "вспыхнуть, сверкнуть (слегка) "
+  },
+  {
+    "number": 1995,
+    "termin": "glitter ",
+    "transcription": "[ˈglɪtə] ",
+    "translate": "блеск, блестеть, сверкать "
+  },
+  {
+    "number": 1996,
+    "termin": "globe ",
+    "transcription": "[ˈgləʊb] ",
+    "translate": "мир, земной шар "
+  },
+  {
+    "number": 1997,
+    "termin": "gloom ",
+    "transcription": "[gluːm] ",
+    "translate": "сумрак, уныние "
+  },
+  {
+    "number": 1998,
+    "termin": "glory ",
+    "transcription": "[ˈglɔːri] ",
+    "translate": "слава, сияние "
+  },
+  {
+    "number": 1999,
+    "termin": "gloss ",
+    "transcription": "[glɒs] ",
+    "translate": "глянец, лоск "
+  },
+  {
+    "number": 2000,
+    "termin": "glove ",
+    "transcription": "[glʌv] ",
+    "translate": "перчатка "
+  },
+  {
+    "number": 2001,
+    "termin": "glow ",
+    "transcription": "[gləʊ] ",
+    "translate": "сияние, свечение "
+  },
+  {
+    "number": 2002,
+    "termin": "glue ",
+    "transcription": "[gluː] ",
+    "translate": "клей, клеить "
+  },
+  {
+    "number": 2003,
+    "termin": "gnaw on ",
+    "transcription": "[nɔːɒn] ",
+    "translate": "грызть, обгладывать "
+  },
+  {
+    "number": 2004,
+    "termin": "go about ",
+    "transcription": "[gəʊəˈbaʊt] ",
+    "translate": "заниматься (делами) "
+  },
+  {
+    "number": 2005,
+    "termin": "go against ",
+    "transcription": "[gəʊəˈgɛnst] ",
+    "translate": "противоречить "
+  },
+  {
+    "number": 2006,
+    "termin": "go ahead ",
+    "transcription": "[gəʊəˈhɛd] ",
+    "translate": "взять (и сделать) "
+  },
+  {
+    "number": 2007,
+    "termin": "go along ",
+    "transcription": "[gəʊəˈlɒŋ] ",
+    "translate": "поддерживать, соглашаться "
+  },
+  {
+    "number": 2008,
+    "termin": "go down ",
+    "transcription": "[gəʊdaʊn] ",
+    "translate": "быть принятым "
+  },
+  {
+    "number": 2009,
+    "termin": "go for ",
+    "transcription": "[gəʊfɔː] ",
+    "translate": "пытаться достичь, получить "
+  },
+  {
+    "number": 2010,
+    "termin": "go for ",
+    "transcription": "[gəʊfɔː] ",
+    "translate": "быть проданным за "
+  },
+  {
+    "number": 2011,
+    "termin": "go for ",
+    "transcription": "[gəʊfɔː] ",
+    "translate": "выбирать, предпочитать "
+  },
+  {
+    "number": 2012,
+    "termin": "go into ",
+    "transcription": "[gəʊˈɪntuː] ",
+    "translate": "вдаваться "
+  },
+  {
+    "number": 2013,
+    "termin": "go off ",
+    "transcription": "[gəʊɒf] ",
+    "translate": "сработать "
+  },
+  {
+    "number": 2014,
+    "termin": "go off ",
+    "transcription": "[gəʊɒf] ",
+    "translate": "отключиться "
+  },
+  {
+    "number": 2015,
+    "termin": "go on ",
+    "transcription": "[gəʊɒn] ",
+    "translate": "происходить "
+  },
+  {
+    "number": 2016,
+    "termin": "go on ",
+    "transcription": "[gəʊɒn] ",
+    "translate": "продолжаться "
+  },
+  {
+    "number": 2017,
+    "termin": "go out ",
+    "transcription": "[gəʊaʊt] ",
+    "translate": "погаснуть "
+  },
+  {
+    "number": 2018,
+    "termin": "go over ",
+    "transcription": "[gəʊˈəʊvə] ",
+    "translate": "просмотреть, изучить "
+  },
+  {
+    "number": 2019,
+    "termin": "go together ",
+    "transcription": "[gəʊtəˈgɛðə] ",
+    "translate": "сочетаться "
+  },
+  {
+    "number": 2020,
+    "termin": "go under ",
+    "transcription": "[gəʊˈʌndə] ",
+    "translate": "разориться "
+  },
+  {
+    "number": 2021,
+    "termin": "goal ",
+    "transcription": "[gəʊl] ",
+    "translate": "цель "
+  },
+  {
+    "number": 2022,
+    "termin": "goat ",
+    "transcription": "[gəʊt] ",
+    "translate": "козел, коза "
+  },
+  {
+    "number": 2023,
+    "termin": "goddess ",
+    "transcription": "[ˈgɒdɪs] ",
+    "translate": "богиня "
+  },
+  {
+    "number": 2024,
+    "termin": "goods ",
+    "transcription": "[gʊdz] ",
+    "translate": "товары "
+  },
+  {
+    "number": 2025,
+    "termin": "goof ",
+    "transcription": "[guːf] ",
+    "translate": "балбес, придурок (амер.) "
+  },
+  {
+    "number": 2026,
+    "termin": "gorgeous ",
+    "transcription": "[ˈgɔːʤəs] ",
+    "translate": "шикарный "
+  },
+  {
+    "number": 2027,
+    "termin": "gospel ",
+    "transcription": "[ˈgɒspəl] ",
+    "translate": "евангелие "
+  },
+  {
+    "number": 2028,
+    "termin": "gossip ",
+    "transcription": "[ˈgɒsɪp] ",
+    "translate": "слухи "
+  },
+  {
+    "number": 2029,
+    "termin": "govern ",
+    "transcription": "[ˈgʌvən] ",
+    "translate": "управлять "
+  },
+  {
+    "number": 2030,
+    "termin": "gown ",
+    "transcription": "[gaʊn] ",
+    "translate": "платье "
+  },
+  {
+    "number": 2031,
+    "termin": "grab ",
+    "transcription": "[græb] ",
+    "translate": "схватить, нахапать и т.д. "
+  },
+  {
+    "number": 2032,
+    "termin": "grace ",
+    "transcription": "[greɪs] ",
+    "translate": "благодать, милость "
+  },
+  {
+    "number": 2033,
+    "termin": "grade ",
+    "transcription": "[greɪd] ",
+    "translate": "оценка "
+  },
+  {
+    "number": 2034,
+    "termin": "grade ",
+    "transcription": "[greɪd] ",
+    "translate": "класс, уровень "
+  },
+  {
+    "number": 2035,
+    "termin": "gradual ",
+    "transcription": "[ˈgrædjʊəl] ",
+    "translate": "постепенный "
+  },
+  {
+    "number": 2036,
+    "termin": "graduate ",
+    "transcription": "[ˈgrædjʊət] ",
+    "translate": "выпускник, выпускаться "
+  },
+  {
+    "number": 2037,
+    "termin": "grain ",
+    "transcription": "[greɪn] ",
+    "translate": "зерно, крупица "
+  },
+  {
+    "number": 2038,
+    "termin": "grand ",
+    "transcription": "[grænd] ",
+    "translate": "большой, великий "
+  },
+  {
+    "number": 2039,
+    "termin": "grant ",
+    "transcription": "[grɑːnt] ",
+    "translate": "давать, дарить "
+  },
+  {
+    "number": 2040,
+    "termin": "grape ",
+    "transcription": "[greɪp] ",
+    "translate": "виноград (ягода) "
+  },
+  {
+    "number": 2041,
+    "termin": "graph ",
+    "transcription": "[grɑːf] ",
+    "translate": "график "
+  },
+  {
+    "number": 2042,
+    "termin": "grapple ",
+    "transcription": "[ˈgræpl] ",
+    "translate": "сцепиться, бороться "
+  },
+  {
+    "number": 2043,
+    "termin": "grasp ",
+    "transcription": "[grɑːsp] ",
+    "translate": "схватывать "
+  },
+  {
+    "number": 2044,
+    "termin": "grate ",
+    "transcription": "[greɪt] ",
+    "translate": "решётка "
+  },
+  {
+    "number": 2045,
+    "termin": "grateful ",
+    "transcription": "[ˈgreɪtfʊl] ",
+    "translate": "благодарный "
+  },
+  {
+    "number": 2046,
+    "termin": "gratify ",
+    "transcription": "[ˈgrætɪfaɪ] ",
+    "translate": "удовлетворять, радовать "
+  },
+  {
+    "number": 2047,
+    "termin": "gratitude ",
+    "transcription": "[ˈgrætɪtjuːd] ",
+    "translate": "благодарность "
+  },
+  {
+    "number": 2048,
+    "termin": "grave ",
+    "transcription": "[greɪv] ",
+    "translate": "могила "
+  },
+  {
+    "number": 2049,
+    "termin": "grave ",
+    "transcription": "[greɪv] ",
+    "translate": "серьёзный "
+  },
+  {
+    "number": 2050,
+    "termin": "gravel ",
+    "transcription": "[ˈgrævəl] ",
+    "translate": "гравий "
+  },
+  {
+    "number": 2051,
+    "termin": "gravy ",
+    "transcription": "[ˈgreɪvi] ",
+    "translate": "подливка, соус "
+  },
+  {
+    "number": 2052,
+    "termin": "graze ",
+    "transcription": "[greɪz] ",
+    "translate": "пасти(сь) "
+  },
+  {
+    "number": 2053,
+    "termin": "grease ",
+    "transcription": "[griːs] ",
+    "translate": "смазка, жир "
+  },
+  {
+    "number": 2054,
+    "termin": "greed ",
+    "transcription": "[griːd] ",
+    "translate": "жадность "
+  },
+  {
+    "number": 2055,
+    "termin": "greenhouse ",
+    "transcription": "[ˈgriːnhaʊs] ",
+    "translate": "теплица, оранжерея "
+  },
+  {
+    "number": 2056,
+    "termin": "greet ",
+    "transcription": "[griːt] ",
+    "translate": "приветствовать "
+  },
+  {
+    "number": 2057,
+    "termin": "grid ",
+    "transcription": "[grɪd] ",
+    "translate": "сетка, решётка "
+  },
+  {
+    "number": 2058,
+    "termin": "grief ",
+    "transcription": "[griːf] ",
+    "translate": "горе "
+  },
+  {
+    "number": 2059,
+    "termin": "grievance ",
+    "transcription": "[ˈgriːvəns] ",
+    "translate": "обида "
+  },
+  {
+    "number": 2060,
+    "termin": "grieve ",
+    "transcription": "[griːv] ",
+    "translate": "горевать "
+  },
+  {
+    "number": 2061,
+    "termin": "grim ",
+    "transcription": "[grɪm] ",
+    "translate": "мрачный, зловещий "
+  },
+  {
+    "number": 2062,
+    "termin": "grin ",
+    "transcription": "[grɪn] ",
+    "translate": "ухмыляться, ухмылка, оскал "
+  },
+  {
+    "number": 2063,
+    "termin": "grind (ground, groud) ",
+    "transcription": "[graɪnd] ",
+    "translate": "молоть, измельчать "
+  },
+  {
+    "number": 2064,
+    "termin": "grip ",
+    "transcription": "[grɪp] ",
+    "translate": "хватать, захват, хватка "
+  },
+  {
+    "number": 2065,
+    "termin": "grit ",
+    "transcription": "[grɪt] ",
+    "translate": "крошка, песок, гравий "
+  },
+  {
+    "number": 2066,
+    "termin": "grit ",
+    "transcription": "[grɪt] ",
+    "translate": "твёрдость, стойкость "
+  },
+  {
+    "number": 2067,
+    "termin": "groan ",
+    "transcription": "[grəʊn] ",
+    "translate": "стон, стонать "
+  },
+  {
+    "number": 2068,
+    "termin": "grocery ",
+    "transcription": "[ˈgrəʊsəri] ",
+    "translate": "продуктовый "
+  },
+  {
+    "number": 2069,
+    "termin": "groom ",
+    "transcription": "[grʊm] ",
+    "translate": "жених "
+  },
+  {
+    "number": 2070,
+    "termin": "groove ",
+    "transcription": "[gruːv] ",
+    "translate": "канавка, желоб "
+  },
+  {
+    "number": 2071,
+    "termin": "grope ",
+    "transcription": "[grəʊp] ",
+    "translate": "щупать, искать вслепую "
+  },
+  {
+    "number": 2072,
+    "termin": "gross ",
+    "transcription": "[grəʊs] ",
+    "translate": "валовой, грязный "
+  },
+  {
+    "number": 2073,
+    "termin": "gross ",
+    "transcription": "[grəʊs] ",
+    "translate": "грубый (во всех смыслах) "
+  },
+  {
+    "number": 2074,
+    "termin": "grove ",
+    "transcription": "[grəʊv] ",
+    "translate": "лесок "
+  },
+  {
+    "number": 2075,
+    "termin": "grow (grew, grown) ",
+    "transcription": "[grəʊ] ",
+    "translate": "становиться "
+  },
+  {
+    "number": 2076,
+    "termin": "grow (grew, grown) ",
+    "transcription": "[grəʊ] ",
+    "translate": "расти или выращивать "
+  },
+  {
+    "number": 2077,
+    "termin": "grow up ",
+    "transcription": "[grəʊʌp] ",
+    "translate": "вырастать "
+  },
+  {
+    "number": 2078,
+    "termin": "growl ",
+    "transcription": "[graʊl] ",
+    "translate": "рычать "
+  },
+  {
+    "number": 2079,
+    "termin": "grudge ",
+    "transcription": "[grʌʤ] ",
+    "translate": "обида, злоба "
+  },
+  {
+    "number": 2080,
+    "termin": "grumble ",
+    "transcription": "[ˈgrʌmbl] ",
+    "translate": "ворчать, жаловаться "
+  },
+  {
+    "number": 2081,
+    "termin": "grunt ",
+    "transcription": "[grʌnt] ",
+    "translate": "хрюкать "
+  },
+  {
+    "number": 2082,
+    "termin": "guard ",
+    "transcription": "[gɑːd] ",
+    "translate": "сторожить, стража "
+  },
+  {
+    "number": 2083,
+    "termin": "guess ",
+    "transcription": "[gɛs] ",
+    "translate": "угадывать, догадываться "
+  },
+  {
+    "number": 2084,
+    "termin": "guest ",
+    "transcription": "[gɛst] ",
+    "translate": "гость "
+  },
+  {
+    "number": 2085,
+    "termin": "guide ",
+    "transcription": "[gaɪd] ",
+    "translate": "вести, направлять "
+  },
+  {
+    "number": 2086,
+    "termin": "guideline ",
+    "transcription": "[ˈgaɪdlaɪn] ",
+    "translate": "общее правило, принцип "
+  },
+  {
+    "number": 2087,
+    "termin": "guilt ",
+    "transcription": "[gɪlt] ",
+    "translate": "вина "
+  },
+  {
+    "number": 2088,
+    "termin": "guise ",
+    "transcription": "[gaɪz] ",
+    "translate": "облик, личина "
+  },
+  {
+    "number": 2089,
+    "termin": "gulf ",
+    "transcription": "[gʌlf] ",
+    "translate": "разрыв, пропасть "
+  },
+  {
+    "number": 2090,
+    "termin": "gulf ",
+    "transcription": "[gʌlf] ",
+    "translate": "залив "
+  },
+  {
+    "number": 2091,
+    "termin": "gulp ",
+    "transcription": "[gʌlp] ",
+    "translate": "большой глоток, заглатывать "
+  },
+  {
+    "number": 2092,
+    "termin": "gum ",
+    "transcription": "[gʌm] ",
+    "translate": "жвачка "
+  },
+  {
+    "number": 2093,
+    "termin": "gun ",
+    "transcription": "[gʌn] ",
+    "translate": "огнестрельное оружие "
+  },
+  {
+    "number": 2094,
+    "termin": "gust ",
+    "transcription": "[gʌst] ",
+    "translate": "порыв "
+  },
+  {
+    "number": 2095,
+    "termin": "gut ",
+    "transcription": "[gʌt] ",
+    "translate": "кишка "
+  },
+  {
+    "number": 2096,
+    "termin": "gutter ",
+    "transcription": "[ˈgʌtə] ",
+    "translate": "желоб, сток "
+  },
+  {
+    "number": 2097,
+    "termin": "gym ",
+    "transcription": "[ʤɪm] ",
+    "translate": "спортзал "
+  },
+  {
+    "number": 2098,
+    "termin": "Gypsy ",
+    "transcription": "[ˈʤɪpsi] ",
+    "translate": "цыган, цыганский "
+  }
+]

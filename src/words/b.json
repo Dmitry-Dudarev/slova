@@ -1,0 +1,1964 @@
+[
+  {
+    "number": 304,
+    "termin": "bachelor",
+    "transcription": "[ˈbæʧələ] ",
+    "translate": "бакалавр"
+  },
+  {
+    "number": 305,
+    "termin": "bachelor",
+    "transcription": "[ˈbæʧələ]",
+    "translate": "холостяк"
+  },
+  {
+    "number": 306,
+    "termin": "back down",
+    "transcription": "[bækdaʊn]",
+    "translate": "отступить, отказаться"
+  },
+  {
+    "number": 307,
+    "termin": "back then",
+    "transcription": "[bækðɛn]",
+    "translate": "тогда"
+  },
+  {
+    "number": 308,
+    "termin": "back up",
+    "transcription": "[bækʌp]",
+    "translate": "поддержать, прикрыть"
+  },
+  {
+    "number": 309,
+    "termin": "backbone",
+    "transcription": "[ˈbækbəʊn]",
+    "translate": "хребет"
+  },
+  {
+    "number": 310,
+    "termin": "backdrop",
+    "transcription": "[ˈbækdrɒp]",
+    "translate": "фон"
+  },
+  {
+    "number": 311,
+    "termin": "background",
+    "transcription": "[ˈbækgraʊnd]",
+    "translate": "происхождение, предыстория и т.д."
+  },
+  {
+    "number": 312,
+    "termin": "background",
+    "transcription": "[ˈbækgraʊnd]",
+    "translate": "фон"
+  },
+  {
+    "number": 313,
+    "termin": "backpack",
+    "transcription": "[ˈbækˌpæk]",
+    "translate": "рюкзак"
+  },
+  {
+    "number": 314,
+    "termin": "badge",
+    "transcription": "[bæʤ]",
+    "translate": "значок"
+  },
+  {
+    "number": 315,
+    "termin": "baffled",
+    "transcription": "[ˈbæfld]",
+    "translate": "в неодумении, в тупике"
+  },
+  {
+    "number": 316,
+    "termin": "bag",
+    "transcription": "[bæg]",
+    "translate": "сумка, мешок"
+  },
+  {
+    "number": 317,
+    "termin": "bail",
+    "transcription": "[beɪl]",
+    "translate": "залог"
+  },
+  {
+    "number": 318,
+    "termin": "bait",
+    "transcription": "[beɪt]",
+    "translate": "приманка"
+  },
+  {
+    "number": 319,
+    "termin": "bake",
+    "transcription": "[beɪk]",
+    "translate": "печь (выпекать)"
+  },
+  {
+    "number": 320,
+    "termin": "bald",
+    "transcription": "[bɔːld]",
+    "translate": "лысый, плешивый"
+  },
+  {
+    "number": 321,
+    "termin": "bale",
+    "transcription": "[beɪl]",
+    "translate": "тюк"
+  },
+  {
+    "number": 322,
+    "termin": "balloon",
+    "transcription": "[bəˈluːn]",
+    "translate": "воздушный шар"
+  },
+  {
+    "number": 323,
+    "termin": "ballot",
+    "transcription": "[ˈbælət]",
+    "translate": "госолование, бюллетень"
+  },
+  {
+    "number": 324,
+    "termin": "ban",
+    "transcription": "[bæn]",
+    "translate": "запрещать"
+  },
+  {
+    "number": 325,
+    "termin": "band",
+    "transcription": "[bænd]",
+    "translate": "ансамбль"
+  },
+  {
+    "number": 326,
+    "termin": "bandage",
+    "transcription": "[ˈbændɪʤ]",
+    "translate": "повязка"
+  },
+  {
+    "number": 327,
+    "termin": "bang",
+    "transcription": "[bæŋ]",
+    "translate": "удар, взрыв"
+  },
+  {
+    "number": 328,
+    "termin": "banish",
+    "transcription": "[ˈbænɪʃ]",
+    "translate": "отгонять"
+  },
+  {
+    "number": 329,
+    "termin": "bank",
+    "transcription": "[bæŋk]",
+    "translate": "берег (реки, озера)"
+  },
+  {
+    "number": 330,
+    "termin": "bank on",
+    "transcription": "[bæŋkɒn]",
+    "translate": "надеяться, полагаться"
+  },
+  {
+    "number": 331,
+    "termin": "bankrupt",
+    "transcription": "[ˈbæŋkrʌpt]",
+    "translate": "банкрот, неплатежеспособный"
+  },
+  {
+    "number": 332,
+    "termin": "banner",
+    "transcription": "[ˈbænə]",
+    "translate": "знамя, транспарант"
+  },
+  {
+    "number": 333,
+    "termin": "baptize",
+    "transcription": "[bæpˈtaɪz]",
+    "translate": "крестить"
+  },
+  {
+    "number": 334,
+    "termin": "bar",
+    "transcription": "[bɑː]",
+    "translate": "пластина, брусок, прут и т. д."
+  },
+  {
+    "number": 335,
+    "termin": "bar",
+    "transcription": "[bɑː]",
+    "translate": "загораживать"
+  },
+  {
+    "number": 336,
+    "termin": "barb",
+    "transcription": "[bɑːb]",
+    "translate": "шип, зазубрина"
+  },
+  {
+    "number": 337,
+    "termin": "barber",
+    "transcription": "[ˈbɑːbə]",
+    "translate": "парикмахер"
+  },
+  {
+    "number": 338,
+    "termin": "bare",
+    "transcription": "[beə]",
+    "translate": "голый"
+  },
+  {
+    "number": 339,
+    "termin": "barefoot",
+    "transcription": "[ˈbeəfʊt]",
+    "translate": "босиком"
+  },
+  {
+    "number": 340,
+    "termin": "barely ",
+    "transcription": "[ˈbeəli] ",
+    "translate": "едва, еле-еле "
+  },
+  {
+    "number": 341,
+    "termin": "bargain ",
+    "transcription": "[ˈbɑːgɪn] ",
+    "translate": "сделка, торговаться "
+  },
+  {
+    "number": 342,
+    "termin": "bark ",
+    "transcription": "[bɑːk] ",
+    "translate": "кора "
+  },
+  {
+    "number": 343,
+    "termin": "bark ",
+    "transcription": "[bɑːk] ",
+    "translate": "лаять "
+  },
+  {
+    "number": 344,
+    "termin": "barn ",
+    "transcription": "[bɑːn] ",
+    "translate": "сарай "
+  },
+  {
+    "number": 345,
+    "termin": "barrel ",
+    "transcription": "[ˈbærəl] ",
+    "translate": "barrel "
+  },
+  {
+    "number": 346,
+    "termin": "barren ",
+    "transcription": "[ˈbærən] ",
+    "translate": "бесплодный "
+  },
+  {
+    "number": 347,
+    "termin": "bartender ",
+    "transcription": "[ˈbɑːˌtɛndə] ",
+    "translate": "бармен "
+  },
+  {
+    "number": 348,
+    "termin": "base ",
+    "transcription": "[beɪs] ",
+    "translate": "основа, основывать "
+  },
+  {
+    "number": 349,
+    "termin": "basement ",
+    "transcription": "[ˈbeɪsmənt] ",
+    "translate": "подвал "
+  },
+  {
+    "number": 350,
+    "termin": "bash ",
+    "transcription": "[bæʃ] ",
+    "translate": "колотить "
+  },
+  {
+    "number": 351,
+    "termin": "bash in ",
+    "transcription": "[bæʃɪn] ",
+    "translate": "разбить, расколотить "
+  },
+  {
+    "number": 352,
+    "termin": "basket ",
+    "transcription": "[ˈbɑːskɪt] ",
+    "translate": "корзина "
+  },
+  {
+    "number": 353,
+    "termin": "bastard ",
+    "transcription": "[ˈbæstəd] ",
+    "translate": "ублюдок "
+  },
+  {
+    "number": 354,
+    "termin": "bat ",
+    "transcription": "[bæt] ",
+    "translate": "бита "
+  },
+  {
+    "number": 355,
+    "termin": "bat ",
+    "transcription": "[bæt] ",
+    "translate": "летучая мышь "
+  },
+  {
+    "number": 356,
+    "termin": "batch ",
+    "transcription": "[bæʧ] ",
+    "translate": "партия, серия, группа "
+  },
+  {
+    "number": 357,
+    "termin": "bath ",
+    "transcription": "[bɑːθ] ",
+    "translate": "ванна "
+  },
+  {
+    "number": 358,
+    "termin": "bathe ",
+    "transcription": "[beɪð] ",
+    "translate": "купаться, купать "
+  },
+  {
+    "number": 359,
+    "termin": "batter ",
+    "transcription": "[ˈbætə] ",
+    "translate": "паста, тесто, взбивать "
+  },
+  {
+    "number": 360,
+    "termin": "battle ",
+    "transcription": "[ˈbætl] ",
+    "translate": "битва "
+  },
+  {
+    "number": 361,
+    "termin": "bay ",
+    "transcription": "[beɪ] ",
+    "translate": "залив "
+  },
+  {
+    "number": 362,
+    "termin": "be after ",
+    "transcription": "[biːˈɑːftə] ",
+    "translate": "иметь целью "
+  },
+  {
+    "number": 363,
+    "termin": "be back ",
+    "transcription": "[biːbæk] ",
+    "translate": "возвращаться "
+  },
+  {
+    "number": 364,
+    "termin": "be into ",
+    "transcription": "[biːˈɪntuː] ",
+    "translate": "заниматься, увлекаться "
+  },
+  {
+    "number": 365,
+    "termin": "be keen to ",
+    "transcription": "[biːkiːntuː] ",
+    "translate": "желать, стремиться "
+  },
+  {
+    "number": 366,
+    "termin": "be late ",
+    "transcription": "[biːleɪt] ",
+    "translate": "опоздать "
+  },
+  {
+    "number": 367,
+    "termin": "be off ",
+    "transcription": "[biːɒf] ",
+    "translate": "отсутствовать "
+  },
+  {
+    "number": 368,
+    "termin": "be on fire ",
+    "transcription": "[biːɒnˈfaɪə] ",
+    "translate": "гореть "
+  },
+  {
+    "number": 369,
+    "termin": "be over ",
+    "transcription": "[biːˈəʊvə] ",
+    "translate": "закончиться "
+  },
+  {
+    "number": 370,
+    "termin": "be up to ",
+    "transcription": "[biːʌptuː] ",
+    "translate": "замышлять что-то "
+  },
+  {
+    "number": 371,
+    "termin": "bead ",
+    "transcription": "[biːd] ",
+    "translate": "шарик, бусинка "
+  },
+  {
+    "number": 372,
+    "termin": "beak ",
+    "transcription": "[biːk] ",
+    "translate": "клюв "
+  },
+  {
+    "number": 373,
+    "termin": "beam ",
+    "transcription": "[biːm] ",
+    "translate": "балка, перекладина "
+  },
+  {
+    "number": 374,
+    "termin": "beam ",
+    "transcription": "[biːm] ",
+    "translate": "луч "
+  },
+  {
+    "number": 375,
+    "termin": "bean ",
+    "transcription": "[biːn] ",
+    "translate": "боб "
+  },
+  {
+    "number": 376,
+    "termin": "bear (bore, born) ",
+    "transcription": "[beə] ",
+    "translate": "рожать "
+  },
+  {
+    "number": 377,
+    "termin": "bear (bore, born) ",
+    "transcription": "[beə] ",
+    "translate": "нести, втч перен. "
+  },
+  {
+    "number": 378,
+    "termin": "beard ",
+    "transcription": "[bɪəd] ",
+    "translate": "борода "
+  },
+  {
+    "number": 379,
+    "termin": "beast ",
+    "transcription": "[biːst] ",
+    "translate": "зверь, животное, скот "
+  },
+  {
+    "number": 380,
+    "termin": "beat (beat, beaten) ",
+    "transcription": "[biːt] ",
+    "translate": "победить "
+  },
+  {
+    "number": 381,
+    "termin": "beat (beat, beaten) ",
+    "transcription": "[biːt] ",
+    "translate": "бить "
+  },
+  {
+    "number": 382,
+    "termin": "beat up ",
+    "transcription": "[biːtʌp] ",
+    "translate": "побить "
+  },
+  {
+    "number": 383,
+    "termin": "beauty ",
+    "transcription": "[ˈbjuːti] ",
+    "translate": "красота или красавица "
+  },
+  {
+    "number": 384,
+    "termin": "beaver ",
+    "transcription": "[ˈbiːvə] ",
+    "translate": "бобр "
+  },
+  {
+    "number": 385,
+    "termin": "beckon ",
+    "transcription": "[ˈbɛkən] ",
+    "translate": "манить "
+  },
+  {
+    "number": 386,
+    "termin": "become of ",
+    "transcription": "[bɪˈkʌmɒv] ",
+    "translate": "случиться с к-л впоследствии "
+  },
+  {
+    "number": 387,
+    "termin": "beef ",
+    "transcription": "[biːf] ",
+    "translate": "говядина "
+  },
+  {
+    "number": 388,
+    "termin": "beep ",
+    "transcription": "[biːp] ",
+    "translate": "гудок, гудеть, пищать "
+  },
+  {
+    "number": 389,
+    "termin": "beetle ",
+    "transcription": "[ˈbiːtl] ",
+    "translate": "жук "
+  },
+  {
+    "number": 390,
+    "termin": "beforehand ",
+    "transcription": "[bɪˈfɔːhænd] ",
+    "translate": "заранее "
+  },
+  {
+    "number": 391,
+    "termin": "beg ",
+    "transcription": "[bɛg] ",
+    "translate": "просить "
+  },
+  {
+    "number": 392,
+    "termin": "behave ",
+    "transcription": "[bɪˈheɪv] ",
+    "translate": "вести себя "
+  },
+  {
+    "number": 393,
+    "termin": "behavior ",
+    "transcription": "[bɪˈheɪvjə] ",
+    "translate": "поведение "
+  },
+  {
+    "number": 394,
+    "termin": "behold ",
+    "transcription": "[bɪˈhəʊld] ",
+    "translate": "созерцать, видеть "
+  },
+  {
+    "number": 395,
+    "termin": "beige ",
+    "transcription": "[beɪʒ] ",
+    "translate": "бежевый "
+  },
+  {
+    "number": 396,
+    "termin": "belief ",
+    "transcription": "[bɪˈliːf] ",
+    "translate": "убеждение, вера "
+  },
+  {
+    "number": 397,
+    "termin": "bell ",
+    "transcription": "[bɛl] ",
+    "translate": "колокол, колокольчик "
+  },
+  {
+    "number": 398,
+    "termin": "bellow ",
+    "transcription": "[ˈbɛləʊ] ",
+    "translate": "реветь, рёв "
+  },
+  {
+    "number": 399,
+    "termin": "belly ",
+    "transcription": "[ˈbɛli] ",
+    "translate": "живот "
+  },
+  {
+    "number": 400,
+    "termin": "belong to ",
+    "transcription": "[bɪˈlɒŋtuː] ",
+    "translate": "принадлежать "
+  },
+  {
+    "number": 401,
+    "termin": "beloved ",
+    "transcription": "[bɪˈlʌvd] ",
+    "translate": "любимый "
+  },
+  {
+    "number": 402,
+    "termin": "below ",
+    "transcription": "[bɪˈləʊ] ",
+    "translate": "ниже, под "
+  },
+  {
+    "number": 403,
+    "termin": "belt ",
+    "transcription": "[bɛlt] ",
+    "translate": "пояс, опоясывать "
+  },
+  {
+    "number": 404,
+    "termin": "bench ",
+    "transcription": "[bɛnʧ] ",
+    "translate": "скамейка "
+  },
+  {
+    "number": 405,
+    "termin": "bend (bent, bent) ",
+    "transcription": "[bɛnd] ",
+    "translate": "изгибать, изгиб "
+  },
+  {
+    "number": 406,
+    "termin": "beneath ",
+    "transcription": "[bɪˈniːθ] ",
+    "translate": "ниже, под "
+  },
+  {
+    "number": 407,
+    "termin": "benefit ",
+    "transcription": "[ˈbɛnɪfɪt] ",
+    "translate": "польза, создавать пользу "
+  },
+  {
+    "number": 408,
+    "termin": "benevolent ",
+    "transcription": "[bɪˈnɛvələnt] ",
+    "translate": "благожелательный "
+  },
+  {
+    "number": 409,
+    "termin": "berry ",
+    "transcription": "[ˈbɛri] ",
+    "translate": "ягода "
+  },
+  {
+    "number": 410,
+    "termin": "berth ",
+    "transcription": "[bɜːθ] ",
+    "translate": "койка, место, полка в поезде "
+  },
+  {
+    "number": 411,
+    "termin": "beside ",
+    "transcription": "[bɪˈsaɪd] ",
+    "translate": "рядом "
+  },
+  {
+    "number": 412,
+    "termin": "besides ",
+    "transcription": "[bɪˈsaɪdz] ",
+    "translate": "кроме "
+  },
+  {
+    "number": 413,
+    "termin": "bestow ",
+    "transcription": "[bɪˈstəʊ] ",
+    "translate": "даровать "
+  },
+  {
+    "number": 414,
+    "termin": "bet ",
+    "transcription": "[bɛt] ",
+    "translate": "ставка, пари, держать пари "
+  },
+  {
+    "number": 415,
+    "termin": "betray ",
+    "transcription": "[bɪˈtreɪ] ",
+    "translate": "предавать "
+  },
+  {
+    "number": 416,
+    "termin": "beverage ",
+    "transcription": "[ˈbɛvərɪʤ] ",
+    "translate": "напиток "
+  },
+  {
+    "number": 417,
+    "termin": "beware ",
+    "transcription": "[bɪˈweə] ",
+    "translate": "остерегаться "
+  },
+  {
+    "number": 418,
+    "termin": "bewilder ",
+    "transcription": "[bɪˈwɪldə] ",
+    "translate": "смущать, сбивать с толку "
+  },
+  {
+    "number": 419,
+    "termin": "beyond ",
+    "transcription": "[bɪˈjɒnd] ",
+    "translate": "вне, свыше "
+  },
+  {
+    "number": 420,
+    "termin": "bias ",
+    "transcription": "[ˈbaɪəs] ",
+    "translate": "склонность, предвзятость "
+  },
+  {
+    "number": 421,
+    "termin": "bicycle ",
+    "transcription": "[ˈbaɪsɪkl] ",
+    "translate": "велосипед "
+  },
+  {
+    "number": 422,
+    "termin": "bid ",
+    "transcription": "[bɪd] ",
+    "translate": "заявка, предложение цены "
+  },
+  {
+    "number": 423,
+    "termin": "bigot ",
+    "transcription": "[ˈbɪgət] ",
+    "translate": "фанатик "
+  },
+  {
+    "number": 424,
+    "termin": "bill ",
+    "transcription": "[bɪl] ",
+    "translate": "счёт (к оплате) "
+  },
+  {
+    "number": 425,
+    "termin": "bill ",
+    "transcription": "[bɪl] ",
+    "translate": "банкнота "
+  },
+  {
+    "number": 426,
+    "termin": "billboard ",
+    "transcription": "[ˈbɪlbɔːd] ",
+    "translate": "рекламный щит "
+  },
+  {
+    "number": 427,
+    "termin": "billion ",
+    "transcription": "[ˈbɪljən] ",
+    "translate": "миллиард "
+  },
+  {
+    "number": 428,
+    "termin": "bin ",
+    "transcription": "[bɪn] ",
+    "translate": "ящик, ведро, ларь "
+  },
+  {
+    "number": 429,
+    "termin": "bind (bound, bound) ",
+    "transcription": "[baɪnd] ",
+    "translate": "связывать "
+  },
+  {
+    "number": 430,
+    "termin": "binge ",
+    "transcription": "[bɪnʤ] ",
+    "translate": "кутёж, загул, пьянка "
+  },
+  {
+    "number": 431,
+    "termin": "birth ",
+    "transcription": "[bɜːθ] ",
+    "translate": "рождение "
+  },
+  {
+    "number": 432,
+    "termin": "bishop ",
+    "transcription": "[ˈbɪʃəp] ",
+    "translate": "епископ "
+  },
+  {
+    "number": 433,
+    "termin": "bitch ",
+    "transcription": "[bɪʧ] ",
+    "translate": "сука "
+  },
+  {
+    "number": 434,
+    "termin": "bite (bit, bitten) ",
+    "transcription": "[baɪt] ",
+    "translate": "кусать, укус "
+  },
+  {
+    "number": 435,
+    "termin": "bitter ",
+    "transcription": "[ˈbɪtə] ",
+    "translate": "горький "
+  },
+  {
+    "number": 436,
+    "termin": "bizarre ",
+    "transcription": "[bɪˈzɑː] ",
+    "translate": "странный, причудливый "
+  },
+  {
+    "number": 437,
+    "termin": "black out ",
+    "transcription": "[blækaʊt] ",
+    "translate": "вырубиться "
+  },
+  {
+    "number": 438,
+    "termin": "black out ",
+    "transcription": "[blækaʊt] ",
+    "translate": "быть обесточенным "
+  },
+  {
+    "number": 439,
+    "termin": "blackmail ",
+    "transcription": "[ˈblækmeɪl] ",
+    "translate": "шантажировать "
+  },
+  {
+    "number": 440,
+    "termin": "blade ",
+    "transcription": "[bleɪd] ",
+    "translate": "лезвие "
+  },
+  {
+    "number": 441,
+    "termin": "blame ",
+    "transcription": "[bleɪm] ",
+    "translate": "винить "
+  },
+  {
+    "number": 442,
+    "termin": "bland ",
+    "transcription": "[blænd] ",
+    "translate": "пресный, мягкий "
+  },
+  {
+    "number": 443,
+    "termin": "blank ",
+    "transcription": "[blæŋk] ",
+    "translate": "пустой, чистый "
+  },
+  {
+    "number": 444,
+    "termin": "blanket ",
+    "transcription": "[ˈblæŋkɪt] ",
+    "translate": "одеяло, покрывало "
+  },
+  {
+    "number": 445,
+    "termin": "blast ",
+    "transcription": "[blɑːst] ",
+    "translate": "дуновение, порыв "
+  },
+  {
+    "number": 446,
+    "termin": "blast ",
+    "transcription": "[blɑːst] ",
+    "translate": "взрыв, взрывать "
+  },
+  {
+    "number": 447,
+    "termin": "blatant ",
+    "transcription": "[ˈbleɪtənt] ",
+    "translate": "явный, вопиющий "
+  },
+  {
+    "number": 448,
+    "termin": "blaze ",
+    "transcription": "[bleɪz] ",
+    "translate": "полыхать, пламя "
+  },
+  {
+    "number": 449,
+    "termin": "bleach ",
+    "transcription": "[bliːʧ] ",
+    "translate": "отбелить, обесцветить "
+  },
+  {
+    "number": 450,
+    "termin": "bleak ",
+    "transcription": "[bliːk] ",
+    "translate": "мрачный "
+  },
+  {
+    "number": 451,
+    "termin": "bleed (bled, bled) ",
+    "transcription": "[bliːd] ",
+    "translate": "кровоточить "
+  },
+  {
+    "number": 452,
+    "termin": "blend ",
+    "transcription": "[blɛnd] ",
+    "translate": "смешивать "
+  },
+  {
+    "number": 453,
+    "termin": "bless ",
+    "transcription": "[blɛs] ",
+    "translate": "благословлять "
+  },
+  {
+    "number": 454,
+    "termin": "blind ",
+    "transcription": "[blaɪnd] ",
+    "translate": "слепой "
+  },
+  {
+    "number": 455,
+    "termin": "blink ",
+    "transcription": "[blɪŋk] ",
+    "translate": "мерцать, мигать "
+  },
+  {
+    "number": 456,
+    "termin": "bliss ",
+    "transcription": "[blɪs] ",
+    "translate": "блаженство "
+  },
+  {
+    "number": 457,
+    "termin": "blizzard ",
+    "transcription": "[ˈblɪzəd] ",
+    "translate": "метель, буран "
+  },
+  {
+    "number": 458,
+    "termin": "bloat ",
+    "transcription": "[bləʊt] ",
+    "translate": "раздуваться "
+  },
+  {
+    "number": 459,
+    "termin": "block ",
+    "transcription": "[blɒk] ",
+    "translate": "кусок, глыба и т. д. "
+  },
+  {
+    "number": 460,
+    "termin": "block ",
+    "transcription": "[blɒk] ",
+    "translate": "квартал "
+  },
+  {
+    "number": 461,
+    "termin": "block out ",
+    "transcription": "[blɒkaʊt] ",
+    "translate": "блокировать, не пускать "
+  },
+  {
+    "number": 462,
+    "termin": "block up ",
+    "transcription": "[blɒkʌp] ",
+    "translate": "забиться (о канале) "
+  },
+  {
+    "number": 463,
+    "termin": "blonde ",
+    "transcription": "[blɒnd] ",
+    "translate": "блондинка "
+  },
+  {
+    "number": 464,
+    "termin": "bloom ",
+    "transcription": "[bluːm] ",
+    "translate": "расцвет, расцветать "
+  },
+  {
+    "number": 465,
+    "termin": "blossom ",
+    "transcription": "[ˈblɒsəm] ",
+    "translate": "цвести, цветок"
+  },
+  {
+    "number": 466,
+    "termin": "blouse ",
+    "transcription": "[blaʊz] ",
+    "translate": "блузка "
+  },
+  {
+    "number": 467,
+    "termin": "blow (blew blown) ",
+    "transcription": "[bləʊ] ",
+    "translate": "дуть "
+  },
+  {
+    "number": 468,
+    "termin": "blow (blew blown) ",
+    "transcription": "[bləʊ] ",
+    "translate": "удар "
+  },
+  {
+    "number": 469,
+    "termin": "blow out ",
+    "transcription": "[bləʊaʊt] ",
+    "translate": "задуть (свечу) "
+  },
+  {
+    "number": 470,
+    "termin": "blow over ",
+    "transcription": "[bləʊˈəʊvə] ",
+    "translate": "пройти, утихнуть "
+  },
+  {
+    "number": 471,
+    "termin": "blow up ",
+    "transcription": "[bləʊʌp] ",
+    "translate": "взорвать "
+  },
+  {
+    "number": 472,
+    "termin": "blow up ",
+    "transcription": "[bləʊʌp] ",
+    "translate": "накачивать, надувать "
+  },
+  {
+    "number": 473,
+    "termin": "bluff ",
+    "transcription": "[blʌf] ",
+    "translate": "блеф "
+  },
+  {
+    "number": 474,
+    "termin": "blunt ",
+    "transcription": "[blʌnt] ",
+    "translate": "тупой, притуплять "
+  },
+  {
+    "number": 475,
+    "termin": "blur ",
+    "transcription": "[blɜː] ",
+    "translate": "размывать, смазывать "
+  },
+  {
+    "number": 476,
+    "termin": "blush ",
+    "transcription": "[blʌʃ] ",
+    "translate": "румянец, краснеть "
+  },
+  {
+    "number": 477,
+    "termin": "board ",
+    "transcription": "[bɔːd] ",
+    "translate": "совет, коллегия "
+  },
+  {
+    "number": 478,
+    "termin": "board ",
+    "transcription": "[bɔːd] ",
+    "translate": "доска "
+  },
+  {
+    "number": 479,
+    "termin": "board ",
+    "transcription": "[bɔːd] ",
+    "translate": "борт, подниматься на борт "
+  },
+  {
+    "number": 480,
+    "termin": "boast ",
+    "transcription": "[bəʊst] ",
+    "translate": "хвастать, хвастовство "
+  },
+  {
+    "number": 481,
+    "termin": "boat ",
+    "transcription": "[bəʊt] ",
+    "translate": "лодка, судно "
+  },
+  {
+    "number": 482,
+    "termin": "bog ",
+    "transcription": "[bɒg] ",
+    "translate": "болото, трясина "
+  },
+  {
+    "number": 483,
+    "termin": "boil ",
+    "transcription": "[bɔɪl] ",
+    "translate": "кипеть, кипятить, варить "
+  },
+  {
+    "number": 484,
+    "termin": "bold ",
+    "transcription": "[bəʊld] ",
+    "translate": "смелый, дерзкий, безрассудный "
+  },
+  {
+    "number": 485,
+    "termin": "bolster ",
+    "transcription": "[ˈbəʊlstə] ",
+    "translate": "укреплять, поддерживать "
+  },
+  {
+    "number": 486,
+    "termin": "bond ",
+    "transcription": "[bɒnd] ",
+    "translate": "связь, узы, соединение "
+  },
+  {
+    "number": 487,
+    "termin": "bond ",
+    "transcription": "[bɒnd] ",
+    "translate": "обязательство, облигация "
+  },
+  {
+    "number": 488,
+    "termin": "bone ",
+    "transcription": "[bəʊn] ",
+    "translate": "кость "
+  },
+  {
+    "number": 489,
+    "termin": "bonfire ",
+    "transcription": "[ˈbɒnˌfaɪə] ",
+    "translate": "костер "
+  },
+  {
+    "number": 490,
+    "termin": "boobs ",
+    "transcription": "[buːbz] ",
+    "translate": "сиськи "
+  },
+  {
+    "number": 491,
+    "termin": "book ",
+    "transcription": "[bʊk] ",
+    "translate": "купить, забронировать "
+  },
+  {
+    "number": 492,
+    "termin": "boom ",
+    "transcription": "[buːm] ",
+    "translate": "заграждение, пояс "
+  },
+  {
+    "number": 493,
+    "termin": "boost ",
+    "transcription": "[buːst] ",
+    "translate": "повышать, усиливать "
+  },
+  {
+    "number": 494,
+    "termin": "boot ",
+    "transcription": "[buːt] ",
+    "translate": "сапог, ботинок "
+  },
+  {
+    "number": 495,
+    "termin": "booth ",
+    "transcription": "[buːð] ",
+    "translate": "будка, кабина "
+  },
+  {
+    "number": 496,
+    "termin": "booze ",
+    "transcription": "[buːz] ",
+    "translate": "выпивка "
+  },
+  {
+    "number": 497,
+    "termin": "border ",
+    "transcription": "[ˈbɔːdə] ",
+    "translate": "граница, край "
+  },
+  {
+    "number": 498,
+    "termin": "bore ",
+    "transcription": "[bɔː] ",
+    "translate": "надоедать "
+  },
+  {
+    "number": 499,
+    "termin": "borough ",
+    "transcription": "[ˈbʌrə] ",
+    "translate": "район, место "
+  },
+  {
+    "number": 500,
+    "termin": "borrow ",
+    "transcription": "[ˈbɒrəʊ] ",
+    "translate": "брать взаймы "
+  },
+  {
+    "number": 501,
+    "termin": "both ",
+    "transcription": "[bəʊθ] ",
+    "translate": "оба "
+  },
+  {
+    "number": 502,
+    "termin": "bother ",
+    "transcription": "[ˈbɒðə] ",
+    "translate": "беспокоить "
+  },
+  {
+    "number": 503,
+    "termin": "bottom ",
+    "transcription": "[ˈbɒtəm] ",
+    "translate": "дно "
+  },
+  {
+    "number": 504,
+    "termin": "boulder ",
+    "transcription": "[ˈbəʊldə] ",
+    "translate": "валун "
+  },
+  {
+    "number": 505,
+    "termin": "bounce ",
+    "transcription": "[baʊns] ",
+    "translate": "отскакивать, прыгать "
+  },
+  {
+    "number": 506,
+    "termin": "bound ",
+    "transcription": "[baʊnd] ",
+    "translate": "обязан "
+  },
+  {
+    "number": 507,
+    "termin": "boundary ",
+    "transcription": "[ˈbaʊndəri] ",
+    "translate": "граница, черта "
+  },
+  {
+    "number": 508,
+    "termin": "bounds ",
+    "transcription": "[baʊndz] ",
+    "translate": "границы, рамки (перен.) "
+  },
+  {
+    "number": 509,
+    "termin": "bounty ",
+    "transcription": "[ˈbaʊnti] ",
+    "translate": "вознаграждение "
+  },
+  {
+    "number": 510,
+    "termin": "bout ",
+    "transcription": "[baʊt] ",
+    "translate": "всплеск, приступ "
+  },
+  {
+    "number": 511,
+    "termin": "bout ",
+    "transcription": "[baʊt] ",
+    "translate": "бой, поединок "
+  },
+  {
+    "number": 512,
+    "termin": "bow ",
+    "transcription": "[baʊ] ",
+    "translate": "бант, бабочка "
+  },
+  {
+    "number": 513,
+    "termin": "bow ",
+    "transcription": "[baʊ] ",
+    "translate": "лук "
+  },
+  {
+    "number": 514,
+    "termin": "bow ",
+    "transcription": "[baʊ] ",
+    "translate": "поклон, наклоняться "
+  },
+  {
+    "number": 515,
+    "termin": "bow out ",
+    "transcription": "[baʊaʊt] ",
+    "translate": "откланяться, уйти "
+  },
+  {
+    "number": 516,
+    "termin": "bowel ",
+    "transcription": "[ˈbaʊəl] ",
+    "translate": "кишка "
+  },
+  {
+    "number": 517,
+    "termin": "bowl ",
+    "transcription": "[bəʊl] ",
+    "translate": "миска "
+  },
+  {
+    "number": 518,
+    "termin": "bowl smb over ",
+    "transcription": "[bəʊlsmbˈəʊvə] ",
+    "translate": "сбить с ног, сразить "
+  },
+  {
+    "number": 519,
+    "termin": "brace ",
+    "transcription": "[breɪs] ",
+    "translate": "скоба, распорка, скрепа "
+  },
+  {
+    "number": 520,
+    "termin": "bracket ",
+    "transcription": "[ˈbrækɪt] ",
+    "translate": "скобка "
+  },
+  {
+    "number": 521,
+    "termin": "brag ",
+    "transcription": "[bræg] ",
+    "translate": "хвастаться, кичиться "
+  },
+  {
+    "number": 522,
+    "termin": "braid ",
+    "transcription": "[breɪd] ",
+    "translate": "коса "
+  },
+  {
+    "number": 523,
+    "termin": "brake ",
+    "transcription": "[breɪk] ",
+    "translate": "тормоз "
+  },
+  {
+    "number": 524,
+    "termin": "branch ",
+    "transcription": "[brɑːnʧ] ",
+    "translate": "ветвь "
+  },
+  {
+    "number": 525,
+    "termin": "branch ",
+    "transcription": "[brɑːnʧ] ",
+    "translate": "филиал, ответвление "
+  },
+  {
+    "number": 526,
+    "termin": "brass ",
+    "transcription": "[brɑːs] ",
+    "translate": "латунь "
+  },
+  {
+    "number": 527,
+    "termin": "brassiere (bra) ",
+    "transcription": "[ˈbræsɪə] ",
+    "translate": "бюстгальтер "
+  },
+  {
+    "number": 528,
+    "termin": "brave ",
+    "transcription": "[breɪv] ",
+    "translate": "храбрый "
+  },
+  {
+    "number": 529,
+    "termin": "brawl ",
+    "transcription": "[brɔːl] ",
+    "translate": "шумная драка, скандал "
+  },
+  {
+    "number": 530,
+    "termin": "brazen ",
+    "transcription": "[ˈbreɪzn] ",
+    "translate": "наглый "
+  },
+  {
+    "number": 531,
+    "termin": "breach ",
+    "transcription": "[briːʧ] ",
+    "translate": "брешь, прорывать, пробивать "
+  },
+  {
+    "number": 532,
+    "termin": "breadth ",
+    "transcription": "[brɛdθ] ",
+    "translate": "ширина, широта "
+  },
+  {
+    "number": 533,
+    "termin": "break ",
+    "transcription": "[breɪk] ",
+    "translate": "перерыв, перемена "
+  },
+  {
+    "number": 534,
+    "termin": "break (broke, broken) ",
+    "transcription": "[breɪk] ",
+    "translate": "нарушать "
+  },
+  {
+    "number": 535,
+    "termin": "break away ",
+    "transcription": "[breɪkəˈweɪ] ",
+    "translate": "отделяться "
+  },
+  {
+    "number": 536,
+    "termin": "break down ",
+    "transcription": "[breɪkdaʊn] ",
+    "translate": "ломаться "
+  },
+  {
+    "number": 537,
+    "termin": "break into (break in) ",
+    "transcription": "[breɪkˈɪntuː] ",
+    "translate": "проникнуть, вломиться "
+  },
+  {
+    "number": 538,
+    "termin": "break out ",
+    "transcription": "[breɪkaʊt] ",
+    "translate": "вспыхнуть, разразиться "
+  },
+  {
+    "number": 539,
+    "termin": "break out ",
+    "transcription": "[breɪkaʊt] ",
+    "translate": "сбежать, вырваться "
+  },
+  {
+    "number": 540,
+    "termin": "break up ",
+    "transcription": "[breɪkʌp] ",
+    "translate": "разнимать "
+  },
+  {
+    "number": 541,
+    "termin": "break up ",
+    "transcription": "[breɪkʌp] ",
+    "translate": "разорвать отношения "
+  },
+  {
+    "number": 542,
+    "termin": "breakthrough ",
+    "transcription": "[ˈbreɪkˌθruː] ",
+    "translate": "прорыв, достижение "
+  },
+  {
+    "number": 543,
+    "termin": "breast ",
+    "transcription": "[brɛst] ",
+    "translate": "грудь "
+  },
+  {
+    "number": 544,
+    "termin": "breath ",
+    "transcription": "[brɛθ] ",
+    "translate": "дыхание, вздох "
+  },
+  {
+    "number": 545,
+    "termin": "breathe ",
+    "transcription": "[briːð] ",
+    "translate": "дышать "
+  },
+  {
+    "number": 546,
+    "termin": "breed ",
+    "transcription": "[briːd] ",
+    "translate": "порода, поколение и т д. "
+  },
+  {
+    "number": 547,
+    "termin": "breed (bred, bred) ",
+    "transcription": "[briːd] ",
+    "translate": "разводить, выращивать "
+  },
+  {
+    "number": 548,
+    "termin": "brew ",
+    "transcription": "[bruː] ",
+    "translate": "заваривать, варить напиток "
+  },
+  {
+    "number": 549,
+    "termin": "bribe ",
+    "transcription": "[braɪb] ",
+    "translate": "взятка "
+  },
+  {
+    "number": 550,
+    "termin": "brick ",
+    "transcription": "[brɪk] ",
+    "translate": "кирпич "
+  },
+  {
+    "number": 551,
+    "termin": "bride ",
+    "transcription": "[braɪd] ",
+    "translate": "невеста "
+  },
+  {
+    "number": 552,
+    "termin": "bridge ",
+    "transcription": "[brɪʤ] ",
+    "translate": "мост "
+  },
+  {
+    "number": 553,
+    "termin": "brief ",
+    "transcription": "[briːf] ",
+    "translate": "краткий "
+  },
+  {
+    "number": 554,
+    "termin": "briefcase ",
+    "transcription": "[ˈbriːfˌkeɪs] ",
+    "translate": "портфель "
+  },
+  {
+    "number": 555,
+    "termin": "briefs ",
+    "transcription": "[briːfs] ",
+    "translate": "трусы "
+  },
+  {
+    "number": 556,
+    "termin": "bright ",
+    "transcription": "[braɪt] ",
+    "translate": "яркий "
+  },
+  {
+    "number": 557,
+    "termin": "brilliant ",
+    "transcription": "[ˈbrɪljənt] ",
+    "translate": "блестящий "
+  },
+  {
+    "number": 558,
+    "termin": "brim ",
+    "transcription": "[ˈbrɪm] ",
+    "translate": "край сосуда "
+  },
+  {
+    "number": 559,
+    "termin": "bring (brought, brought) ",
+    "transcription": "[brɪŋ] ",
+    "translate": "принести "
+  },
+  {
+    "number": 560,
+    "termin": "bring along ",
+    "transcription": "[brɪŋəˈlɒŋ] ",
+    "translate": "взять с собой "
+  },
+  {
+    "number": 561,
+    "termin": "bring around ",
+    "transcription": "[brɪŋəˈraʊnd] ",
+    "translate": "убедить "
+  },
+  {
+    "number": 562,
+    "termin": "bring back ",
+    "transcription": "[brɪŋbæk] ",
+    "translate": "вернуть "
+  },
+  {
+    "number": 563,
+    "termin": "bring down ",
+    "transcription": "[brɪŋdaʊn] ",
+    "translate": "сбрасывать, свергать "
+  },
+  {
+    "number": 564,
+    "termin": "bring out ",
+    "transcription": "[brɪŋaʊt] ",
+    "translate": "выпустить (новинку и т.д.) "
+  },
+  {
+    "number": 565,
+    "termin": "bring up ",
+    "transcription": "[brɪŋʌp] ",
+    "translate": "поднять тему "
+  },
+  {
+    "number": 566,
+    "termin": "bring up ",
+    "transcription": "[brɪŋʌp] ",
+    "translate": "воспитывать "
+  },
+  {
+    "number": 567,
+    "termin": "brink ",
+    "transcription": "[brɪŋk] ",
+    "translate": "грань, край "
+  },
+  {
+    "number": 568,
+    "termin": "brisk ",
+    "transcription": "[brɪsk] ",
+    "translate": "энергичный, оживлённый "
+  },
+  {
+    "number": 569,
+    "termin": "bristle ",
+    "transcription": "[ˈbrɪsl] ",
+    "translate": "щетина "
+  },
+  {
+    "number": 570,
+    "termin": "brittle ",
+    "transcription": "[ˈbrɪtl] ",
+    "translate": "ломкий "
+  },
+  {
+    "number": 571,
+    "termin": "broad ",
+    "transcription": "[brɔːd] ",
+    "translate": "широкий "
+  },
+  {
+    "number": 572,
+    "termin": "broadcast ",
+    "transcription": "[ˈbrɔːdkɑːst] ",
+    "translate": "транслировать, трансляция "
+  },
+  {
+    "number": 573,
+    "termin": "broom ",
+    "transcription": "[brʊm] ",
+    "translate": "метла, веник "
+  },
+  {
+    "number": 574,
+    "termin": "broth ",
+    "transcription": "[brɒθ] ",
+    "translate": "бульон, отвар "
+  },
+  {
+    "number": 575,
+    "termin": "bruise ",
+    "transcription": "[bruːz] ",
+    "translate": "синяк, ушиб "
+  },
+  {
+    "number": 576,
+    "termin": "brush ",
+    "transcription": "[brʌʃ] ",
+    "translate": "кисть, щётка, чистить "
+  },
+  {
+    "number": 577,
+    "termin": "brute ",
+    "transcription": "[bruːt] ",
+    "translate": "животное, зверь, грубый "
+  },
+  {
+    "number": 578,
+    "termin": "bubble ",
+    "transcription": "[ˈbʌbl] ",
+    "translate": "пузырь "
+  },
+  {
+    "number": 579,
+    "termin": "buck ",
+    "transcription": "[bʌk] ",
+    "translate": "самец, обычно рогатых "
+  },
+  {
+    "number": 580,
+    "termin": "bucket ",
+    "transcription": "[ˈbʌkɪt] ",
+    "translate": "ведро, бадья "
+  },
+  {
+    "number": 581,
+    "termin": "buckle ",
+    "transcription": "[ˈbʌkl] ",
+    "translate": "пряжка "
+  },
+  {
+    "number": 582,
+    "termin": "buckle up ",
+    "transcription": "[ˈbʌklʌp] ",
+    "translate": "пристегнуться "
+  },
+  {
+    "number": 583,
+    "termin": "bud ",
+    "transcription": "[bʌd] ",
+    "translate": "бутон или почка растения "
+  },
+  {
+    "number": 584,
+    "termin": "buddy ",
+    "transcription": "[ˈbʌdi] ",
+    "translate": "дружище, парень "
+  },
+  {
+    "number": 585,
+    "termin": "budge ",
+    "transcription": "[bʌʤ] ",
+    "translate": "сдвинуть "
+  },
+  {
+    "number": 586,
+    "termin": "buffalo ",
+    "transcription": "[ˈbʌfələʊ] ",
+    "translate": "буйвол или бизон "
+  },
+  {
+    "number": 587,
+    "termin": "bug ",
+    "transcription": "[bʌg] ",
+    "translate": "жук "
+  },
+  {
+    "number": 588,
+    "termin": "build on ",
+    "transcription": "[bɪldɒn] ",
+    "translate": "нарастить, развить "
+  },
+  {
+    "number": 589,
+    "termin": "built-in ",
+    "transcription": "[ˈbɪltˈɪn] ",
+    "translate": "встроенный "
+  },
+  {
+    "number": 590,
+    "termin": "bulb ",
+    "transcription": "[bʌlb] ",
+    "translate": "лампа, колба "
+  },
+  {
+    "number": 591,
+    "termin": "bulge ",
+    "transcription": "[bʌlʤ] ",
+    "translate": "бугор, выпуклость "
+  },
+  {
+    "number": 592,
+    "termin": "bulk ",
+    "transcription": "[bʌlk] ",
+    "translate": "основная масса "
+  },
+  {
+    "number": 593,
+    "termin": "bullet ",
+    "transcription": "[ˈbʊlɪt] ",
+    "translate": "пуля "
+  },
+  {
+    "number": 594,
+    "termin": "bullshit ",
+    "transcription": "[ˈbʊlʃɪt] ",
+    "translate": "ерунда, чушь "
+  },
+  {
+    "number": 595,
+    "termin": "bully ",
+    "transcription": "[ˈbʊli] ",
+    "translate": "задира, задирать "
+  },
+  {
+    "number": 596,
+    "termin": "bum ",
+    "transcription": "[bʌm] ",
+    "translate": "бомж или бездельник "
+  },
+  {
+    "number": 597,
+    "termin": "bump ",
+    "transcription": "[bʌmp] ",
+    "translate": "шишка, выпуклость "
+  },
+  {
+    "number": 598,
+    "termin": "bump ",
+    "transcription": "[bʌmp] ",
+    "translate": "удар, ударять "
+  },
+  {
+    "number": 599,
+    "termin": "bump into ",
+    "transcription": "[bʌmpˈɪntuː] ",
+    "translate": "случайно встретить "
+  },
+  {
+    "number": 600,
+    "termin": "bun ",
+    "transcription": "[bʌn] ",
+    "translate": "булочка "
+  },
+  {
+    "number": 601,
+    "termin": "bunch ",
+    "transcription": "[bʌnʧ] ",
+    "translate": "связка, пучок, группа "
+  },
+  {
+    "number": 602,
+    "termin": "bundle ",
+    "transcription": "[ˈbʌndl] ",
+    "translate": "связка, пучок, пачка "
+  },
+  {
+    "number": 603,
+    "termin": "bunk ",
+    "transcription": "[bʌŋk] ",
+    "translate": "койка, спальное место "
+  },
+  {
+    "number": 604,
+    "termin": "bunny ",
+    "transcription": "[ˈbʌni] ",
+    "translate": "кролик (разг, детск.) "
+  },
+  {
+    "number": 605,
+    "termin": "burden ",
+    "transcription": "[ˈbɜːdn] ",
+    "translate": "бремя, нагружать "
+  },
+  {
+    "number": 606,
+    "termin": "burglar ",
+    "transcription": "[ˈbɜːglə] ",
+    "translate": "вор взломщик "
+  },
+  {
+    "number": 607,
+    "termin": "burn ",
+    "transcription": "[bɜːn] ",
+    "translate": "жечь "
+  },
+  {
+    "number": 608,
+    "termin": "burn down ",
+    "transcription": "[bɜːndaʊn] ",
+    "translate": "сгореть, сжечь (полностью) "
+  },
+  {
+    "number": 609,
+    "termin": "burn out ",
+    "transcription": "[bɜːnaʊt] ",
+    "translate": "выгореть, перегореть "
+  },
+  {
+    "number": 610,
+    "termin": "burrow ",
+    "transcription": "[ˈbɜːrəʊ] ",
+    "translate": "нора, зарываться "
+  },
+  {
+    "number": 611,
+    "termin": "burst ",
+    "transcription": "[bɜːst] ",
+    "translate": "взрыв, всплеск и т. д. "
+  },
+  {
+    "number": 612,
+    "termin": "bury ",
+    "transcription": "[ˈbɛri] ",
+    "translate": "хоронить "
+  },
+  {
+    "number": 613,
+    "termin": "bush ",
+    "transcription": "[bʊʃ] ",
+    "translate": "куст "
+  },
+  {
+    "number": 614,
+    "termin": "bustle ",
+    "transcription": "[ˈbʌsl] ",
+    "translate": "суета, суматоха "
+  },
+  {
+    "number": 615,
+    "termin": "busy ",
+    "transcription": "[ˈbɪzi] ",
+    "translate": "занятый "
+  },
+  {
+    "number": 616,
+    "termin": "butcher ",
+    "transcription": "[ˈbʊʧə] ",
+    "translate": "мясник "
+  },
+  {
+    "number": 617,
+    "termin": "butt ",
+    "transcription": "[bʌt] ",
+    "translate": "торец, зад "
+  },
+  {
+    "number": 618,
+    "termin": "butt in (on) ",
+    "transcription": "[bʌtɪn] ",
+    "translate": "встревать, вмешиваться "
+  },
+  {
+    "number": 619,
+    "termin": "butter ",
+    "transcription": "[ˈbʌtə] ",
+    "translate": "масло сливочное "
+  },
+  {
+    "number": 620,
+    "termin": "butterfly ",
+    "transcription": "[ˈbʌtəflaɪ] ",
+    "translate": "бабочка "
+  },
+  {
+    "number": 621,
+    "termin": "button ",
+    "transcription": "[ˈbʌtn] ",
+    "translate": "пуговица, застёгивать "
+  },
+  {
+    "number": 622,
+    "termin": "buy ",
+    "transcription": "[baɪ] ",
+    "translate": "верить, соглашаться (разг.) "
+  },
+  {
+    "number": 623,
+    "termin": "buy up ",
+    "transcription": "[baɪʌp] ",
+    "translate": "скупить "
+  },
+  {
+    "number": 624,
+    "termin": "buzz ",
+    "transcription": "[bʌz] ",
+    "translate": "жужжать "
+  },
+  {
+    "number": 625,
+    "termin": "by chance ",
+    "transcription": "[baɪʧɑːns] ",
+    "translate": "случайно "
+  },
+  {
+    "number": 626,
+    "termin": "by far ",
+    "transcription": "[baɪfɑː] ",
+    "translate": "безусловно "
+  },
+  {
+    "number": 627,
+    "termin": "by heart ",
+    "transcription": "[baɪhɑːt] ",
+    "translate": "наизусть "
+  },
+  {
+    "number": 628,
+    "termin": "by oneself ",
+    "transcription": "[baɪwʌnˈsɛlf] ",
+    "translate": "один, сам "
+  },
+  {
+    "number": 629,
+    "termin": "by the way ",
+    "transcription": "[baɪðəweɪ] ",
+    "translate": "кстати "
+  },
+  {
+    "number": 630,
+    "termin": "bypass ",
+    "transcription": "[ˈbaɪpɑːs] ",
+    "translate": "обходить, обход "
+  }
+]

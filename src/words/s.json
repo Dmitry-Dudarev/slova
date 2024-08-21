@@ -1,0 +1,3920 @@
+[
+  {
+    "number": 3785,
+    "termin": "sack ",
+    "transcription": "[sæk] ",
+    "translate": "мешок "
+  },
+  {
+    "number": 3786,
+    "termin": "sacred ",
+    "transcription": "[ˈseɪkrɪd] ",
+    "translate": "священный "
+  },
+  {
+    "number": 3787,
+    "termin": "sacrifice ",
+    "transcription": "[ˈsækrɪfaɪs] ",
+    "translate": "жертва, жертвовать "
+  },
+  {
+    "number": 3788,
+    "termin": "saddle ",
+    "transcription": "[ˈsædl] ",
+    "translate": "седло "
+  },
+  {
+    "number": 3789,
+    "termin": "safe ",
+    "transcription": "[seɪf] ",
+    "translate": "надёжный, защищённый "
+  },
+  {
+    "number": 3790,
+    "termin": "sage ",
+    "transcription": "[seɪʤ] ",
+    "translate": "мудрец "
+  },
+  {
+    "number": 3791,
+    "termin": "sail ",
+    "transcription": "[seɪl] ",
+    "translate": "парус, плыть (о судне) "
+  },
+  {
+    "number": 3792,
+    "termin": "saint ",
+    "transcription": "[seɪnt] ",
+    "translate": "святой "
+  },
+  {
+    "number": 3793,
+    "termin": "salary ",
+    "transcription": "[ˈsæləri] ",
+    "translate": "зарплата "
+  },
+  {
+    "number": 3794,
+    "termin": "sale ",
+    "transcription": "[seɪl] ",
+    "translate": "продажа, сбыт "
+  },
+  {
+    "number": 3795,
+    "termin": "salesperson ",
+    "transcription": "[ˈseɪlzˌpɜːsən] ",
+    "translate": "продавец (в магазине) "
+  },
+  {
+    "number": 3796,
+    "termin": "salient ",
+    "transcription": "[ˈseɪliənt] ",
+    "translate": "выступающий, заметный "
+  },
+  {
+    "number": 3797,
+    "termin": "saliva ",
+    "transcription": "[səˈlaɪvə] ",
+    "translate": "слюна "
+  },
+  {
+    "number": 3798,
+    "termin": "salmon ",
+    "transcription": "[ˈsæmən] ",
+    "translate": "лосось "
+  },
+  {
+    "number": 3799,
+    "termin": "salt ",
+    "transcription": "[sɔːlt] ",
+    "translate": "соль "
+  },
+  {
+    "number": 3800,
+    "termin": "salvage ",
+    "transcription": "[ˈsælvɪʤ] ",
+    "translate": "спасти, уберечь от потери "
+  },
+  {
+    "number": 3801,
+    "termin": "sample ",
+    "transcription": "[ˈsɑːmpl] ",
+    "translate": "образец, часть "
+  },
+  {
+    "number": 3802,
+    "termin": "sanctuary ",
+    "transcription": "[ˈsæŋktjʊəri] ",
+    "translate": "убежище или заповедник "
+  },
+  {
+    "number": 3803,
+    "termin": "sand ",
+    "transcription": "[sænd] ",
+    "translate": "песок "
+  },
+  {
+    "number": 3804,
+    "termin": "sane ",
+    "transcription": "[seɪn] ",
+    "translate": "здравый, вменяемый "
+  },
+  {
+    "number": 3805,
+    "termin": "satellite ",
+    "transcription": "[ˈsætəlaɪt] ",
+    "translate": "спутник "
+  },
+  {
+    "number": 3806,
+    "termin": "satisfy ",
+    "transcription": "[ˈsætɪsfaɪ] ",
+    "translate": "удовлетворять "
+  },
+  {
+    "number": 3807,
+    "termin": "saturated ",
+    "transcription": "[ˈsæʧəreɪtɪd] ",
+    "translate": "насыщенный "
+  },
+  {
+    "number": 3808,
+    "termin": "saucepan ",
+    "transcription": "[ˈsɔːspən] ",
+    "translate": "кастрюля или сковорода "
+  },
+  {
+    "number": 3809,
+    "termin": "saucer ",
+    "transcription": "[ˈsɔːsə] ",
+    "translate": "блюдце "
+  },
+  {
+    "number": 3810,
+    "termin": "sausage ",
+    "transcription": "[ˈsɒsɪʤ] ",
+    "translate": "колбаса "
+  },
+  {
+    "number": 3811,
+    "termin": "savage ",
+    "transcription": "[ˈsævɪʤ] ",
+    "translate": "дикарь, дикий (в т. ч. перен.) "
+  },
+  {
+    "number": 3812,
+    "termin": "save up ",
+    "transcription": "[seɪvʌp] ",
+    "translate": "накопить "
+  },
+  {
+    "number": 3813,
+    "termin": "savings ",
+    "transcription": "[ˈseɪvɪŋz] ",
+    "translate": "сбережения "
+  },
+  {
+    "number": 3814,
+    "termin": "savior ",
+    "transcription": "[ˈseɪvjə] ",
+    "translate": "спаситель "
+  },
+  {
+    "number": 3815,
+    "termin": "savor ",
+    "transcription": "[ˈseɪvə] ",
+    "translate": "вкус, смаковать "
+  },
+  {
+    "number": 3816,
+    "termin": "scaffold ",
+    "transcription": "[ˈskæfəld] ",
+    "translate": "помост "
+  },
+  {
+    "number": 3817,
+    "termin": "scale ",
+    "transcription": "[skeɪl] ",
+    "translate": "чешуя, шелуха "
+  },
+  {
+    "number": 3818,
+    "termin": "scale ",
+    "transcription": "[skeɪl] ",
+    "translate": "взбираться "
+  },
+  {
+    "number": 3819,
+    "termin": "scale ",
+    "transcription": "[skeɪl] ",
+    "translate": "масштаб, шкала "
+  },
+  {
+    "number": 3820,
+    "termin": "scales ",
+    "transcription": "[skeɪlz] ",
+    "translate": "весы "
+  },
+  {
+    "number": 3821,
+    "termin": "scant ",
+    "transcription": "[skænt] ",
+    "translate": "скудный "
+  },
+  {
+    "number": 3822,
+    "termin": "scar ",
+    "transcription": "[skɑː] ",
+    "translate": "шрам "
+  },
+  {
+    "number": 3823,
+    "termin": "scarce ",
+    "transcription": "[skeəs] ",
+    "translate": "редкий, скудный "
+  },
+  {
+    "number": 3824,
+    "termin": "scare ",
+    "transcription": "[skeə] ",
+    "translate": "пугать "
+  },
+  {
+    "number": 3825,
+    "termin": "scarf ",
+    "transcription": "[skɑːf] ",
+    "translate": "шарф "
+  },
+  {
+    "number": 3826,
+    "termin": "scarlet ",
+    "transcription": "[ˈskɑːlɪt] ",
+    "translate": "алый "
+  },
+  {
+    "number": 3827,
+    "termin": "scatter ",
+    "transcription": "[ˈskætə] ",
+    "translate": "разбрасывать, рассеивать "
+  },
+  {
+    "number": 3828,
+    "termin": "scent ",
+    "transcription": "[sɛnt] ",
+    "translate": "аромат или нюх "
+  },
+  {
+    "number": 3829,
+    "termin": "schedule ",
+    "transcription": "[ˈʃɛdjuːl] ",
+    "translate": "график, расписание "
+  },
+  {
+    "number": 3830,
+    "termin": "scheme ",
+    "transcription": "[skiːm] ",
+    "translate": "схема "
+  },
+  {
+    "number": 3831,
+    "termin": "scholar ",
+    "transcription": "[ˈskɒlə] ",
+    "translate": "учёный "
+  },
+  {
+    "number": 3832,
+    "termin": "scholarship (money) ",
+    "transcription": "[ˈskɒləʃɪp] ",
+    "translate": "стипендия "
+  },
+  {
+    "number": 3833,
+    "termin": "science ",
+    "transcription": "[ˈsaɪəns] ",
+    "translate": "наука "
+  },
+  {
+    "number": 3834,
+    "termin": "scissors ",
+    "transcription": "[ˈsɪzəz] ",
+    "translate": "ножницы "
+  },
+  {
+    "number": 3835,
+    "termin": "scold ",
+    "transcription": "[skəʊld] ",
+    "translate": "бранить, ругать "
+  },
+  {
+    "number": 3836,
+    "termin": "scoop ",
+    "transcription": "[skuːp] ",
+    "translate": "совок, ковш, черпать "
+  },
+  {
+    "number": 3837,
+    "termin": "scope ",
+    "transcription": "[skəʊp] ",
+    "translate": "пределы, район "
+  },
+  {
+    "number": 3838,
+    "termin": "score ",
+    "transcription": "[skɔː] ",
+    "translate": "счёт, очко, балл "
+  },
+  {
+    "number": 3839,
+    "termin": "scorn ",
+    "transcription": "[skɔːn] ",
+    "translate": "презирать, презрение "
+  },
+  {
+    "number": 3840,
+    "termin": "scour ",
+    "transcription": "[ˈskaʊə] ",
+    "translate": "обыскать, прочесать "
+  },
+  {
+    "number": 3841,
+    "termin": "scout ",
+    "transcription": "[skaʊt] ",
+    "translate": "разведчик "
+  },
+  {
+    "number": 3842,
+    "termin": "scowl ",
+    "transcription": "[skaʊl] ",
+    "translate": "насупиться, рассердиться "
+  },
+  {
+    "number": 3843,
+    "termin": "scramble ",
+    "transcription": "[ˈskræmbl] ",
+    "translate": "драка, схватка "
+  },
+  {
+    "number": 3844,
+    "termin": "scramble ",
+    "transcription": "[ˈskræmbl] ",
+    "translate": "карабкаться, продираться "
+  },
+  {
+    "number": 3845,
+    "termin": "scrambled eggs ",
+    "transcription": "[ˈskræmbldɛgz] ",
+    "translate": "яичница "
+  },
+  {
+    "number": 3846,
+    "termin": "scrap ",
+    "transcription": "[skræp] ",
+    "translate": "обломок, обрывок "
+  },
+  {
+    "number": 3847,
+    "termin": "scrape ",
+    "transcription": "[skreɪp] ",
+    "translate": "скрести "
+  },
+  {
+    "number": 3848,
+    "termin": "scrape through ",
+    "transcription": "[skreɪpθruː] ",
+    "translate": "с трудом пройти "
+  },
+  {
+    "number": 3849,
+    "termin": "scrape together ",
+    "transcription": "[skreɪptəˈgɛðə] ",
+    "translate": "наскрести (денег) "
+  },
+  {
+    "number": 3850,
+    "termin": "scratch ",
+    "transcription": "[skræʧ] ",
+    "translate": "царапать, царапина "
+  },
+  {
+    "number": 3851,
+    "termin": "scream ",
+    "transcription": "[skriːm] ",
+    "translate": "кричать, крик, вопль "
+  },
+  {
+    "number": 3852,
+    "termin": "screech ",
+    "transcription": "[skriːʧ] ",
+    "translate": "визг, скрип, хрип и т. д. "
+  },
+  {
+    "number": 3853,
+    "termin": "screenplay ",
+    "transcription": "[ˈskriːnpleɪ] ",
+    "translate": "сценарий "
+  },
+  {
+    "number": 3854,
+    "termin": "screw ",
+    "transcription": "[skruː] ",
+    "translate": "винт, ввинчивать "
+  },
+  {
+    "number": 3855,
+    "termin": "screw ",
+    "transcription": "[skruː] ",
+    "translate": "к чёрту "
+  },
+  {
+    "number": 3856,
+    "termin": "screw up ",
+    "transcription": "[skruːʌp] ",
+    "translate": "завалить, просрать "
+  },
+  {
+    "number": 3857,
+    "termin": "scribble ",
+    "transcription": "[ˈskrɪbl] ",
+    "translate": "криво написать, нацарапать "
+  },
+  {
+    "number": 3858,
+    "termin": "scrub ",
+    "transcription": "[skrʌb] ",
+    "translate": "чистить, драить "
+  },
+  {
+    "number": 3859,
+    "termin": "scrutiny ",
+    "transcription": "[ˈskruːtɪni] ",
+    "translate": "внимательный осмотр, изучение "
+  },
+  {
+    "number": 3860,
+    "termin": "scurry ",
+    "transcription": "[ˈskʌri] ",
+    "translate": "бежать, сновать, суетиться "
+  },
+  {
+    "number": 3861,
+    "termin": "seal ",
+    "transcription": "[siːl] ",
+    "translate": "печать, запечатывать "
+  },
+  {
+    "number": 3862,
+    "termin": "seal ",
+    "transcription": "[siːl] ",
+    "translate": "тюлень "
+  },
+  {
+    "number": 3863,
+    "termin": "seam ",
+    "transcription": "[siːm] ",
+    "translate": "шов "
+  },
+  {
+    "number": 3864,
+    "termin": "search ",
+    "transcription": "[sɜːʧ] ",
+    "translate": "поиски, искать "
+  },
+  {
+    "number": 3865,
+    "termin": "seasoning ",
+    "transcription": "[ˈsiːznɪŋ] ",
+    "translate": "приправа "
+  },
+  {
+    "number": 3866,
+    "termin": "seat ",
+    "transcription": "[siːt] ",
+    "translate": "место, сиденье "
+  },
+  {
+    "number": 3867,
+    "termin": "secular ",
+    "transcription": "[ˈsɛkjʊlə] ",
+    "translate": "светский "
+  },
+  {
+    "number": 3868,
+    "termin": "secure ",
+    "transcription": "[sɪˈkjʊə] ",
+    "translate": "безопасный, надёжный "
+  },
+  {
+    "number": 3869,
+    "termin": "sediment ",
+    "transcription": "[ˈsɛdɪmənt] ",
+    "translate": "осадок "
+  },
+  {
+    "number": 3870,
+    "termin": "seduce ",
+    "transcription": "[sɪˈdjuːs] ",
+    "translate": "соблазнять "
+  },
+  {
+    "number": 3871,
+    "termin": "see off ",
+    "transcription": "[siːɒf] ",
+    "translate": "провожать (в путь) "
+  },
+  {
+    "number": 3872,
+    "termin": "see through ",
+    "transcription": "[siːθruː] ",
+    "translate": "довести до конца "
+  },
+  {
+    "number": 3873,
+    "termin": "see to ",
+    "transcription": "[siːtuː] ",
+    "translate": "заняться, позаботиться "
+  },
+  {
+    "number": 3874,
+    "termin": "seed ",
+    "transcription": "[siːd] ",
+    "translate": "семя, сеять "
+  },
+  {
+    "number": 3875,
+    "termin": "seek (sought, sought) ",
+    "transcription": "[siːk] ",
+    "translate": "искать, стремиться "
+  },
+  {
+    "number": 3876,
+    "termin": "seem ",
+    "transcription": "[siːm] ",
+    "translate": "казаться "
+  },
+  {
+    "number": 3877,
+    "termin": "seep ",
+    "transcription": "[siːp] ",
+    "translate": "просачиваться, проникать "
+  },
+  {
+    "number": 3878,
+    "termin": "segregate ",
+    "transcription": "[ˈsɛgrɪgeɪt] ",
+    "translate": "разделять "
+  },
+  {
+    "number": 3879,
+    "termin": "seize ",
+    "transcription": "[siːz] ",
+    "translate": "схватить "
+  },
+  {
+    "number": 3880,
+    "termin": "seldom ",
+    "transcription": "[ˈsɛldəm] ",
+    "translate": "редко "
+  },
+  {
+    "number": 3881,
+    "termin": "select ",
+    "transcription": "[sɪˈlɛkt] ",
+    "translate": "выбирать, отбирать "
+  },
+  {
+    "number": 3882,
+    "termin": "selfish ",
+    "transcription": "[ˈsɛlfɪʃ] ",
+    "translate": "эгоистичный "
+  },
+  {
+    "number": 3883,
+    "termin": "sell out of ",
+    "transcription": "[sɛlaʊtɒv] ",
+    "translate": "распродать (весь товар) "
+  },
+  {
+    "number": 3884,
+    "termin": "send (sent, sent) ",
+    "transcription": "[sɛnd] ",
+    "translate": "отправить "
+  },
+  {
+    "number": 3885,
+    "termin": "send out ",
+    "transcription": "[sɛndaʊt] ",
+    "translate": "рассылать "
+  },
+  {
+    "number": 3886,
+    "termin": "senior ",
+    "transcription": "[ˈsiːnjə] ",
+    "translate": "старший "
+  },
+  {
+    "number": 3887,
+    "termin": "sensation ",
+    "transcription": "[sɛnˈseɪʃən] ",
+    "translate": "ощущение "
+  },
+  {
+    "number": 3888,
+    "termin": "sense ",
+    "transcription": "[sɛns] ",
+    "translate": "чувство, осознание "
+  },
+  {
+    "number": 3889,
+    "termin": "sense ",
+    "transcription": "[sɛns] ",
+    "translate": "смысл, значение "
+  },
+  {
+    "number": 3890,
+    "termin": "sensible ",
+    "transcription": "[ˈsɛnsəbl] ",
+    "translate": "разумный, имеющий смысл "
+  },
+  {
+    "number": 3891,
+    "termin": "sensitive ",
+    "transcription": "[ˈsɛnsɪtɪv] ",
+    "translate": "чувствительный "
+  },
+  {
+    "number": 3892,
+    "termin": "sentence ",
+    "transcription": "[ˈsɛntəns] ",
+    "translate": "предложение "
+  },
+  {
+    "number": 3893,
+    "termin": "sentence ",
+    "transcription": "[ˈsɛntəns] ",
+    "translate": "приговор "
+  },
+  {
+    "number": 3894,
+    "termin": "sentiment ",
+    "transcription": "[ˈsɛntɪmənt] ",
+    "translate": "настроение, чувство "
+  },
+  {
+    "number": 3895,
+    "termin": "separate ",
+    "transcription": "[ˈsɛprɪt] ",
+    "translate": "отдельный, отделять "
+  },
+  {
+    "number": 3896,
+    "termin": "sequence ",
+    "transcription": "[ˈsiːkwəns] ",
+    "translate": "последовательность "
+  },
+  {
+    "number": 3897,
+    "termin": "serene ",
+    "transcription": "[sɪˈriːn] ",
+    "translate": "безмятежный, безоблачный "
+  },
+  {
+    "number": 3898,
+    "termin": "series ",
+    "transcription": "[ˈsɪəriːz] ",
+    "translate": "сериал "
+  },
+  {
+    "number": 3899,
+    "termin": "sermon ",
+    "transcription": "[ˈsɜːmən] ",
+    "translate": "проповедь "
+  },
+  {
+    "number": 3900,
+    "termin": "serve ",
+    "transcription": "[sɜːv] ",
+    "translate": "служить "
+  },
+  {
+    "number": 3901,
+    "termin": "serve ",
+    "transcription": "[sɜːv] ",
+    "translate": "сидеть (в тюрьме) "
+  },
+  {
+    "number": 3902,
+    "termin": "serve ",
+    "transcription": "[sɜːv] ",
+    "translate": "подавать (блюдо) "
+  },
+  {
+    "number": 3903,
+    "termin": "set ",
+    "transcription": "[sɛt] ",
+    "translate": "набор, комплект "
+  },
+  {
+    "number": 3904,
+    "termin": "set (set, set) ",
+    "transcription": "[sɛt] ",
+    "translate": "установить, наладить "
+  },
+  {
+    "number": 3905,
+    "termin": "set about ",
+    "transcription": "[sɛtəˈbaʊt] ",
+    "translate": "приступить, начать "
+  },
+  {
+    "number": 3906,
+    "termin": "set down ",
+    "transcription": "[sɛtdaʊn] ",
+    "translate": "написать, установить "
+  },
+  {
+    "number": 3907,
+    "termin": "set out ",
+    "transcription": "[sɛtaʊt] ",
+    "translate": "разъяснять "
+  },
+  {
+    "number": 3908,
+    "termin": "set out for ",
+    "transcription": "[sɛtaʊtfɔː] ",
+    "translate": "отправиться "
+  },
+  {
+    "number": 3909,
+    "termin": "set smb back ",
+    "transcription": "[sɛtsmbbæk] ",
+    "translate": "задержать "
+  },
+  {
+    "number": 3910,
+    "termin": "set smb back ",
+    "transcription": "[sɛtsmbbæk] ",
+    "translate": "обойтись в (сумму) "
+  },
+  {
+    "number": 3911,
+    "termin": "set smb up ",
+    "transcription": "[sɛtsmbʌp] ",
+    "translate": "подставить "
+  },
+  {
+    "number": 3912,
+    "termin": "set smb up with ",
+    "transcription": "[sɛtsmbʌpwɪð] ",
+    "translate": "устроить, организовать "
+  },
+  {
+    "number": 3913,
+    "termin": "set smb up with ",
+    "transcription": "[sɛtsmbʌpwɪð] ",
+    "translate": "познакомить, свести "
+  },
+  {
+    "number": 3914,
+    "termin": "settle ",
+    "transcription": "[ˈsɛtl] ",
+    "translate": "уладить "
+  },
+  {
+    "number": 3915,
+    "termin": "settle ",
+    "transcription": "[ˈsɛtl] ",
+    "translate": "селиться "
+  },
+  {
+    "number": 3916,
+    "termin": "settle for ",
+    "transcription": "[ˈsɛtlfɔː] ",
+    "translate": "согласиться на "
+  },
+  {
+    "number": 3917,
+    "termin": "settle in ",
+    "transcription": "[ˈsɛtlɪn] ",
+    "translate": "освоиться "
+  },
+  {
+    "number": 3918,
+    "termin": "settle on ",
+    "transcription": "[ˈsɛtlɒn] ",
+    "translate": "определиться, договориться "
+  },
+  {
+    "number": 3919,
+    "termin": "sever ",
+    "transcription": "[ˈsɛvə] ",
+    "translate": "разрывать, разъединять "
+  },
+  {
+    "number": 3920,
+    "termin": "several ",
+    "transcription": "[ˈsɛvrəl] ",
+    "translate": "несколько "
+  },
+  {
+    "number": 3921,
+    "termin": "severe ",
+    "transcription": "[sɪˈvɪə] ",
+    "translate": "серьёзный, суровый, жёсткий "
+  },
+  {
+    "number": 3922,
+    "termin": "sew ",
+    "transcription": "[səʊ] ",
+    "translate": "шить "
+  },
+  {
+    "number": 3923,
+    "termin": "sewage ",
+    "transcription": "[ˈsju(ː)ɪʤ] ",
+    "translate": "канализация, сточные воды "
+  },
+  {
+    "number": 3924,
+    "termin": "sex ",
+    "transcription": "[sɛks] ",
+    "translate": "пол "
+  },
+  {
+    "number": 3925,
+    "termin": "shabby ",
+    "transcription": "[ˈʃæbi] ",
+    "translate": "потрёпанный, облезлый "
+  },
+  {
+    "number": 3926,
+    "termin": "shack ",
+    "transcription": "[ʃæk] ",
+    "translate": "лачуга, хибара, будка "
+  },
+  {
+    "number": 3927,
+    "termin": "shade ",
+    "transcription": "[ʃeɪd] ",
+    "translate": "тень "
+  },
+  {
+    "number": 3928,
+    "termin": "shade ",
+    "transcription": "[ʃeɪd] ",
+    "translate": "оттенок (яркости) "
+  },
+  {
+    "number": 3929,
+    "termin": "shadow ",
+    "transcription": "[ˈʃædəʊ] ",
+    "translate": "тень "
+  },
+  {
+    "number": 3930,
+    "termin": "shaft ",
+    "transcription": "[ʃɑːft] ",
+    "translate": "вал, ось, стержень "
+  },
+  {
+    "number": 3931,
+    "termin": "shaft ",
+    "transcription": "[ʃɑːft] ",
+    "translate": "шахта (напр. лифта) "
+  },
+  {
+    "number": 3932,
+    "termin": "shake ",
+    "transcription": "[ʃeɪk] ",
+    "translate": "пожать (руки) "
+  },
+  {
+    "number": 3933,
+    "termin": "shake (shook, shaken) ",
+    "transcription": "[ʃeɪk] ",
+    "translate": "трясти "
+  },
+  {
+    "number": 3934,
+    "termin": "shake off ",
+    "transcription": "[ʃeɪkɒf] ",
+    "translate": "отделаться "
+  },
+  {
+    "number": 3935,
+    "termin": "shake up ",
+    "transcription": "[ʃeɪkʌp] ",
+    "translate": "встряхнуть, взбудоражить "
+  },
+  {
+    "number": 3936,
+    "termin": "shallow ",
+    "transcription": "[ˈʃæləʊ] ",
+    "translate": "мелкий "
+  },
+  {
+    "number": 3937,
+    "termin": "shame ",
+    "transcription": "[ʃeɪm] ",
+    "translate": "стыд, позор "
+  },
+  {
+    "number": 3938,
+    "termin": "shape ",
+    "transcription": "[ʃeɪp] ",
+    "translate": "форма, формировать "
+  },
+  {
+    "number": 3939,
+    "termin": "share ",
+    "transcription": "[ʃeə] ",
+    "translate": "делить, доля "
+  },
+  {
+    "number": 3940,
+    "termin": "share ",
+    "transcription": "[ʃeə] ",
+    "translate": "разделять (напр. мнение) "
+  },
+  {
+    "number": 3941,
+    "termin": "shareholder ",
+    "transcription": "[ˈʃeəˌhəʊldə] ",
+    "translate": "акционер "
+  },
+  {
+    "number": 3942,
+    "termin": "shark ",
+    "transcription": "[ʃɑːk] ",
+    "translate": "акула "
+  },
+  {
+    "number": 3943,
+    "termin": "sharp ",
+    "transcription": "[ʃɑːp] ",
+    "translate": "острый "
+  },
+  {
+    "number": 3944,
+    "termin": "shatter ",
+    "transcription": "[ˈʃætə] ",
+    "translate": "разрушить, раздробить "
+  },
+  {
+    "number": 3945,
+    "termin": "shave ",
+    "transcription": "[ʃeɪv] ",
+    "translate": "брить "
+  },
+  {
+    "number": 3946,
+    "termin": "shed ",
+    "transcription": "[ʃɛd] ",
+    "translate": "сарай, ангар и т.п. "
+  },
+  {
+    "number": 3947,
+    "termin": "shed (shed, shed) ",
+    "transcription": "[ʃɛd] ",
+    "translate": "проливать, терять, сбрасывать "
+  },
+  {
+    "number": 3948,
+    "termin": "sheep (pl:sheep) ",
+    "transcription": "[ʃiːp] ",
+    "translate": "овца "
+  },
+  {
+    "number": 3949,
+    "termin": "sheer ",
+    "transcription": "[ʃɪə] ",
+    "translate": "явный, полный, чистый "
+  },
+  {
+    "number": 3950,
+    "termin": "sheer ",
+    "transcription": "[ʃɪə] ",
+    "translate": "отвесный "
+  },
+  {
+    "number": 3951,
+    "termin": "sheet ",
+    "transcription": "[ʃiːt] ",
+    "translate": "лист "
+  },
+  {
+    "number": 3952,
+    "termin": "shelf (pl: shelves) ",
+    "transcription": "[ʃɛlf] ",
+    "translate": "полка, уступ "
+  },
+  {
+    "number": 3953,
+    "termin": "shell ",
+    "transcription": "[ʃɛl] ",
+    "translate": "скорлупа, раковина, гильза "
+  },
+  {
+    "number": 3954,
+    "termin": "shelter ",
+    "transcription": "[ˈʃɛltə] ",
+    "translate": "укрытие, убежище "
+  },
+  {
+    "number": 3955,
+    "termin": "shepherd ",
+    "transcription": "[ˈʃɛpəd] ",
+    "translate": "пастух "
+  },
+  {
+    "number": 3956,
+    "termin": "shield ",
+    "transcription": "[ʃiːld] ",
+    "translate": "щит, прикрывать "
+  },
+  {
+    "number": 3957,
+    "termin": "shift ",
+    "transcription": "[ʃɪft] ",
+    "translate": "сменить, сдвинуть "
+  },
+  {
+    "number": 3958,
+    "termin": "shift ",
+    "transcription": "[ʃɪft] ",
+    "translate": "смена (на работе) "
+  },
+  {
+    "number": 3959,
+    "termin": "shimmer ",
+    "transcription": "[ˈʃɪmə] ",
+    "translate": "мерцать, переливаться "
+  },
+  {
+    "number": 3960,
+    "termin": "shine (shone, shined) ",
+    "transcription": "[ʃaɪn] ",
+    "translate": "сиять, блестить, светить "
+  },
+  {
+    "number": 3961,
+    "termin": "ship ",
+    "transcription": "[ʃɪp] ",
+    "translate": "доставлять "
+  },
+  {
+    "number": 3962,
+    "termin": "shirt ",
+    "transcription": "[ʃɜːt] ",
+    "translate": "рубашка "
+  },
+  {
+    "number": 3963,
+    "termin": "shiver ",
+    "transcription": "[ˈʃɪvə] ",
+    "translate": "дрожь, дрожать "
+  },
+  {
+    "number": 3964,
+    "termin": "shoe ",
+    "transcription": "[ʃuː] ",
+    "translate": "туфля, ботинок (низкий) "
+  },
+  {
+    "number": 3965,
+    "termin": "shoot (shot, shot) ",
+    "transcription": "[ʃuːt] ",
+    "translate": "стрелять "
+  },
+  {
+    "number": 3966,
+    "termin": "shoot (shot, shot) ",
+    "transcription": "[ʃuːt] ",
+    "translate": "снимать, фотографировать "
+  },
+  {
+    "number": 3967,
+    "termin": "shore ",
+    "transcription": "[ʃɔː] ",
+    "translate": "берег "
+  },
+  {
+    "number": 3968,
+    "termin": "shortage ",
+    "transcription": "[ˈʃɔːtɪʤ] ",
+    "translate": "нехватка "
+  },
+  {
+    "number": 3969,
+    "termin": "shoulder ",
+    "transcription": "[ˈʃəʊldə] ",
+    "translate": "плечо "
+  },
+  {
+    "number": 3970,
+    "termin": "shout ",
+    "transcription": "[ʃaʊt] ",
+    "translate": "кричать "
+  },
+  {
+    "number": 3971,
+    "termin": "shove ",
+    "transcription": "[ʃʌv] ",
+    "translate": "резко толкнуть, пихнуть "
+  },
+  {
+    "number": 3972,
+    "termin": "shovel ",
+    "transcription": "[ˈʃʌvl] ",
+    "translate": "лопата или совок "
+  },
+  {
+    "number": 3973,
+    "termin": "show around ",
+    "transcription": "[ʃəʊəˈraʊnd] ",
+    "translate": "показать места "
+  },
+  {
+    "number": 3974,
+    "termin": "show off ",
+    "transcription": "[ʃəʊɒf] ",
+    "translate": "показать всем, похвастаться "
+  },
+  {
+    "number": 3975,
+    "termin": "show up ",
+    "transcription": "[ʃəʊʌp] ",
+    "translate": "прийти (на тусовку) "
+  },
+  {
+    "number": 3976,
+    "termin": "showcase ",
+    "transcription": "[ˈʃəʊkeɪs] ",
+    "translate": "витрина, демонстрировать "
+  },
+  {
+    "number": 3977,
+    "termin": "shower ",
+    "transcription": "[ˈʃaʊə] ",
+    "translate": "душ "
+  },
+  {
+    "number": 3978,
+    "termin": "shred ",
+    "transcription": "[ʃrɛd] ",
+    "translate": "мелко порубить "
+  },
+  {
+    "number": 3979,
+    "termin": "shrewd ",
+    "transcription": "[ʃruːd] ",
+    "translate": "проницательный "
+  },
+  {
+    "number": 3980,
+    "termin": "shriek ",
+    "transcription": "[ʃriːk] ",
+    "translate": "пронзительный крик, вскрикнуть "
+  },
+  {
+    "number": 3981,
+    "termin": "shrimp ",
+    "transcription": "[ʃrɪmp] ",
+    "translate": "креветка "
+  },
+  {
+    "number": 3982,
+    "termin": "shrine ",
+    "transcription": "[ʃraɪn] ",
+    "translate": "святыня "
+  },
+  {
+    "number": 3983,
+    "termin": "shrink (shrank, shrunk) ",
+    "transcription": "[ʃrɪŋk] ",
+    "translate": "сжаться, съёжиться "
+  },
+  {
+    "number": 3984,
+    "termin": "shroud ",
+    "transcription": "[ʃraʊd] ",
+    "translate": "пелена, окутывать "
+  },
+  {
+    "number": 3985,
+    "termin": "shrub ",
+    "transcription": "[ʃrʌb] ",
+    "translate": "куст "
+  },
+  {
+    "number": 3986,
+    "termin": "shrug ",
+    "transcription": "[ʃrʌg] ",
+    "translate": "пожать плечами "
+  },
+  {
+    "number": 3987,
+    "termin": "shudder ",
+    "transcription": "[ˈʃʌdə] ",
+    "translate": "содрогаться, дрожь "
+  },
+  {
+    "number": 3988,
+    "termin": "shuffle ",
+    "transcription": "[ˈʃʌfl] ",
+    "translate": "перемешивать, тасовать "
+  },
+  {
+    "number": 3989,
+    "termin": "shun ",
+    "transcription": "[ʃʌn] ",
+    "translate": "избегать "
+  },
+  {
+    "number": 3990,
+    "termin": "shut (shut, shut) ",
+    "transcription": "[ʃʌt] ",
+    "translate": "закрыть "
+  },
+  {
+    "number": 3991,
+    "termin": "shut out ",
+    "transcription": "[ʃʌtaʊt] ",
+    "translate": "не впускать "
+  },
+  {
+    "number": 3992,
+    "termin": "shut up ",
+    "transcription": "[ʃʌtʌp] ",
+    "translate": "заткнуться "
+  },
+  {
+    "number": 3993,
+    "termin": "shy ",
+    "transcription": "[ʃaɪ] ",
+    "translate": "застенчивый "
+  },
+  {
+    "number": 3994,
+    "termin": "siblings ",
+    "transcription": "[ˈsɪblɪŋz] ",
+    "translate": "братья и сестры "
+  },
+  {
+    "number": 3995,
+    "termin": "sick ",
+    "transcription": "[sɪk] ",
+    "translate": "больной, плохо чувствующий "
+  },
+  {
+    "number": 3996,
+    "termin": "sideline ",
+    "transcription": "[ˈsaɪdlaɪn] ",
+    "translate": "что-то вторичное "
+  },
+  {
+    "number": 3997,
+    "termin": "sidewalk ",
+    "transcription": "[ˈsaɪdwɔːk] ",
+    "translate": "тротуар "
+  },
+  {
+    "number": 3998,
+    "termin": "sideways ",
+    "transcription": "[ˈsaɪdweɪz] ",
+    "translate": "вбок "
+  },
+  {
+    "number": 3999,
+    "termin": "siege ",
+    "transcription": "[siːʤ] ",
+    "translate": "осада "
+  },
+  {
+    "number": 4000,
+    "termin": "sift ",
+    "transcription": "[sɪft] ",
+    "translate": "просеять "
+  },
+  {
+    "number": 4001,
+    "termin": "sigh ",
+    "transcription": "[saɪ] ",
+    "translate": "вздох "
+  },
+  {
+    "number": 4002,
+    "termin": "sight ",
+    "transcription": "[saɪt] ",
+    "translate": "вид, поле зрения "
+  },
+  {
+    "number": 4003,
+    "termin": "sight ",
+    "transcription": "[saɪt] ",
+    "translate": "достопримечаетльность "
+  },
+  {
+    "number": 4004,
+    "termin": "sign ",
+    "transcription": "[saɪn] ",
+    "translate": "знак "
+  },
+  {
+    "number": 4005,
+    "termin": "sign ",
+    "transcription": "[saɪn] ",
+    "translate": "подпись, подписывать "
+  },
+  {
+    "number": 4006,
+    "termin": "sign up ",
+    "transcription": "[saɪnʌp] ",
+    "translate": "записаться, зарегистрироваться "
+  },
+  {
+    "number": 4007,
+    "termin": "signature ",
+    "transcription": "[ˈsɪgnɪʧə] ",
+    "translate": "подпись "
+  },
+  {
+    "number": 4008,
+    "termin": "significant ",
+    "transcription": "[sɪgˈnɪfɪkənt] ",
+    "translate": "значительный "
+  },
+  {
+    "number": 4009,
+    "termin": "signify ",
+    "transcription": "[ˈsɪgnɪfaɪ] ",
+    "translate": "означать "
+  },
+  {
+    "number": 4010,
+    "termin": "silent ",
+    "transcription": "[ˈsaɪlənt] ",
+    "translate": "тихий, молчаливый "
+  },
+  {
+    "number": 4011,
+    "termin": "silk ",
+    "transcription": "[sɪlk] ",
+    "translate": "шёлк, шёлковый "
+  },
+  {
+    "number": 4012,
+    "termin": "sill ",
+    "transcription": "[sɪl] ",
+    "translate": "подоконник, порог "
+  },
+  {
+    "number": 4013,
+    "termin": "silly ",
+    "transcription": "[ˈsɪli] ",
+    "translate": "глупый "
+  },
+  {
+    "number": 4014,
+    "termin": "similar ",
+    "transcription": "[ˈsɪmɪlə] ",
+    "translate": "похожий "
+  },
+  {
+    "number": 4015,
+    "termin": "simmer ",
+    "transcription": "[ˈsɪmə] ",
+    "translate": "медленно кипятить "
+  },
+  {
+    "number": 4016,
+    "termin": "simple ",
+    "transcription": "[ˈsɪmpl] ",
+    "translate": "простой, обычный "
+  },
+  {
+    "number": 4017,
+    "termin": "simulate ",
+    "transcription": "[ˈsɪmjʊleɪt] ",
+    "translate": "моделировать, имитировать "
+  },
+  {
+    "number": 4018,
+    "termin": "simultaneous ",
+    "transcription": "[ˌsɪməlˈteɪniəs] ",
+    "translate": "одновременный "
+  },
+  {
+    "number": 4019,
+    "termin": "sin ",
+    "transcription": "[sɪn] ",
+    "translate": "грех, грешить "
+  },
+  {
+    "number": 4020,
+    "termin": "since ",
+    "transcription": "[sɪns] ",
+    "translate": "поскольку "
+  },
+  {
+    "number": 4021,
+    "termin": "since ",
+    "transcription": "[sɪns] ",
+    "translate": "с (какого-то времени) "
+  },
+  {
+    "number": 4022,
+    "termin": "sincere ",
+    "transcription": "[sɪnˈsɪə] ",
+    "translate": "искренний "
+  },
+  {
+    "number": 4023,
+    "termin": "single ",
+    "transcription": "[ˈsɪŋgl] ",
+    "translate": "один, отдельный, единый "
+  },
+  {
+    "number": 4024,
+    "termin": "singular ",
+    "transcription": "[ˈsɪŋgjʊlə] ",
+    "translate": "единственный, особый "
+  },
+  {
+    "number": 4025,
+    "termin": "sinister ",
+    "transcription": "[ˈsɪnɪstə] ",
+    "translate": "зловещий "
+  },
+  {
+    "number": 4026,
+    "termin": "sink ",
+    "transcription": "[sɪŋk] ",
+    "translate": "раковина "
+  },
+  {
+    "number": 4027,
+    "termin": "sink (sank, sunk) ",
+    "transcription": "[sɪŋk] ",
+    "translate": "тонуть, топить "
+  },
+  {
+    "number": 4028,
+    "termin": "sip ",
+    "transcription": "[sɪp] ",
+    "translate": "глоток "
+  },
+  {
+    "number": 4029,
+    "termin": "sit around ",
+    "transcription": "[sɪtəˈraʊnd] ",
+    "translate": "просто сидеть "
+  },
+  {
+    "number": 4030,
+    "termin": "sit back ",
+    "transcription": "[sɪtbæk] ",
+    "translate": "отсидеться "
+  },
+  {
+    "number": 4031,
+    "termin": "sit out ",
+    "transcription": "[sɪtaʊt] ",
+    "translate": "высидеть "
+  },
+  {
+    "number": 4032,
+    "termin": "site ",
+    "transcription": "[saɪt] ",
+    "translate": "местоположение "
+  },
+  {
+    "number": 4033,
+    "termin": "situate ",
+    "transcription": "[ˈsɪtjʊˌeɪt] ",
+    "translate": "располагать "
+  },
+  {
+    "number": 4034,
+    "termin": "size up ",
+    "transcription": "[saɪzʌp] ",
+    "translate": "изучить, оценить "
+  },
+  {
+    "number": 4035,
+    "termin": "skate ",
+    "transcription": "[skeɪt] ",
+    "translate": "конёк, кататься на коньках "
+  },
+  {
+    "number": 4036,
+    "termin": "sketch ",
+    "transcription": "[skɛʧ] ",
+    "translate": "набросок, эскиз "
+  },
+  {
+    "number": 4037,
+    "termin": "ski ",
+    "transcription": "[skiː] ",
+    "translate": "ездить на лыжах "
+  },
+  {
+    "number": 4038,
+    "termin": "skid ",
+    "transcription": "[skɪd] ",
+    "translate": "заносить, скользить, буксовать "
+  },
+  {
+    "number": 4039,
+    "termin": "skill ",
+    "transcription": "[skɪl] ",
+    "translate": "умение, искусство и т. д. "
+  },
+  {
+    "number": 4040,
+    "termin": "skillet ",
+    "transcription": "[ˈskɪlɪt] ",
+    "translate": "сковорода (глубокая) "
+  },
+  {
+    "number": 4041,
+    "termin": "skim ",
+    "transcription": "[skɪm] ",
+    "translate": "скользить (легко) "
+  },
+  {
+    "number": 4042,
+    "termin": "skin ",
+    "transcription": "[skɪn] ",
+    "translate": "кожа "
+  },
+  {
+    "number": 4043,
+    "termin": "skinny ",
+    "transcription": "[ˈskɪni] ",
+    "translate": "тощий "
+  },
+  {
+    "number": 4044,
+    "termin": "skip ",
+    "transcription": "[skɪp] ",
+    "translate": "прыгать, перепрыгивать "
+  },
+  {
+    "number": 4045,
+    "termin": "skirt ",
+    "transcription": "[skɜːt] ",
+    "translate": "юбка "
+  },
+  {
+    "number": 4046,
+    "termin": "skull ",
+    "transcription": "[skʌl] ",
+    "translate": "череп "
+  },
+  {
+    "number": 4047,
+    "termin": "slab ",
+    "transcription": "[slæb] ",
+    "translate": "плита, блок "
+  },
+  {
+    "number": 4048,
+    "termin": "slack ",
+    "transcription": "[slæk] ",
+    "translate": "слабина, поблажка "
+  },
+  {
+    "number": 4049,
+    "termin": "slam ",
+    "transcription": "[slæm] ",
+    "translate": "хлопать, ударять, захлопывать "
+  },
+  {
+    "number": 4050,
+    "termin": "slant ",
+    "transcription": "[slɑːnt] ",
+    "translate": "наклон, скос, наклонять "
+  },
+  {
+    "number": 4051,
+    "termin": "slap ",
+    "transcription": "[slæp] ",
+    "translate": "шлёпать, пощечина "
+  },
+  {
+    "number": 4052,
+    "termin": "slash ",
+    "transcription": "[slæʃ] ",
+    "translate": "рубить, хлестать, кромсать "
+  },
+  {
+    "number": 4053,
+    "termin": "slate ",
+    "transcription": "[sleɪt] ",
+    "translate": "шифер или сланец "
+  },
+  {
+    "number": 4054,
+    "termin": "slaughter ",
+    "transcription": "[ˈslɔːtə] ",
+    "translate": "бойня (в т. ч. перен.), забивать "
+  },
+  {
+    "number": 4055,
+    "termin": "slave ",
+    "transcription": "[sleɪv] ",
+    "translate": "раб "
+  },
+  {
+    "number": 4056,
+    "termin": "slay (slew, slain) ",
+    "transcription": "[sleɪ] ",
+    "translate": "умертвить "
+  },
+  {
+    "number": 4057,
+    "termin": "sleek ",
+    "transcription": "[sliːk] ",
+    "translate": "гладкий, лоснящийся "
+  },
+  {
+    "number": 4058,
+    "termin": "sleep around ",
+    "transcription": "[sliːpəˈraʊnd] ",
+    "translate": "трахаться, блудить "
+  },
+  {
+    "number": 4059,
+    "termin": "sleeve ",
+    "transcription": "[sliːv] ",
+    "translate": "рукав "
+  },
+  {
+    "number": 4060,
+    "termin": "slender ",
+    "transcription": "[ˈslɛndə] ",
+    "translate": "тонкий, стройный, изящный "
+  },
+  {
+    "number": 4061,
+    "termin": "slice ",
+    "transcription": "[slaɪs] ",
+    "translate": "ломтик, нарезать "
+  },
+  {
+    "number": 4062,
+    "termin": "slick ",
+    "transcription": "[slɪk] ",
+    "translate": "скользкий "
+  },
+  {
+    "number": 4063,
+    "termin": "slide (slid, slid) ",
+    "transcription": "[slaɪd] ",
+    "translate": "скользить "
+  },
+  {
+    "number": 4064,
+    "termin": "slight ",
+    "transcription": "[slaɪt] ",
+    "translate": "лёгкий, слабый, незначительный "
+  },
+  {
+    "number": 4065,
+    "termin": "slim ",
+    "transcription": "[slɪm] ",
+    "translate": "стройный "
+  },
+  {
+    "number": 4066,
+    "termin": "slime ",
+    "transcription": "[slaɪm] ",
+    "translate": "слизь "
+  },
+  {
+    "number": 4067,
+    "termin": "slip ",
+    "transcription": "[slɪp] ",
+    "translate": "скользнуть "
+  },
+  {
+    "number": 4068,
+    "termin": "slipper ",
+    "transcription": "[ˈslɪpə] ",
+    "translate": "тапок "
+  },
+  {
+    "number": 4069,
+    "termin": "slippery ",
+    "transcription": "[ˈslɪpəri] ",
+    "translate": "скользкий "
+  },
+  {
+    "number": 4070,
+    "termin": "slit ",
+    "transcription": "[slɪt] ",
+    "translate": "щель "
+  },
+  {
+    "number": 4071,
+    "termin": "slope ",
+    "transcription": "[sləʊp] ",
+    "translate": "склон, наклон "
+  },
+  {
+    "number": 4072,
+    "termin": "sloppy ",
+    "transcription": "[ˈslɒpi] ",
+    "translate": "небрежный, неряшливый "
+  },
+  {
+    "number": 4073,
+    "termin": "slot ",
+    "transcription": "[slɒt] ",
+    "translate": "разъём, паз, гнездо "
+  },
+  {
+    "number": 4074,
+    "termin": "slow down ",
+    "transcription": "[sləʊdaʊn] ",
+    "translate": "замедлиться "
+  },
+  {
+    "number": 4075,
+    "termin": "sludge ",
+    "transcription": "[slʌʤ] ",
+    "translate": "осадок, отстой, ил "
+  },
+  {
+    "number": 4076,
+    "termin": "slum ",
+    "transcription": "[slʌm] ",
+    "translate": "трущобы "
+  },
+  {
+    "number": 4077,
+    "termin": "slump ",
+    "transcription": "[slʌmp] ",
+    "translate": "спад, сваливаться "
+  },
+  {
+    "number": 4078,
+    "termin": "sly ",
+    "transcription": "[slaɪ] ",
+    "translate": "лукавый, коварный "
+  },
+  {
+    "number": 4079,
+    "termin": "smack ",
+    "transcription": "[smæk] ",
+    "translate": "шлёпнуть, хлопнуть "
+  },
+  {
+    "number": 4080,
+    "termin": "smart ",
+    "transcription": "[smɑːt] ",
+    "translate": "умный, хитрый "
+  },
+  {
+    "number": 4081,
+    "termin": "smash ",
+    "transcription": "[smæʃ] ",
+    "translate": "громить, разбивать "
+  },
+  {
+    "number": 4082,
+    "termin": "smear ",
+    "transcription": "[smɪə] ",
+    "translate": "мазать "
+  },
+  {
+    "number": 4083,
+    "termin": "smell ",
+    "transcription": "[smɛl] ",
+    "translate": "запах, пахнуть, нюхать "
+  },
+  {
+    "number": 4084,
+    "termin": "smirk ",
+    "transcription": "[smɜːk] ",
+    "translate": "ухмылка "
+  },
+  {
+    "number": 4085,
+    "termin": "smooth ",
+    "transcription": "[smuːð] ",
+    "translate": "гладкий "
+  },
+  {
+    "number": 4086,
+    "termin": "smother ",
+    "transcription": "[ˈsmʌðə] ",
+    "translate": "задушить "
+  },
+  {
+    "number": 4087,
+    "termin": "smudge ",
+    "transcription": "[smʌʤ] ",
+    "translate": "смазать "
+  },
+  {
+    "number": 4088,
+    "termin": "smuggle ",
+    "transcription": "[ˈsmʌgl] ",
+    "translate": "провозить тайно "
+  },
+  {
+    "number": 4089,
+    "termin": "snack ",
+    "transcription": "[snæk] ",
+    "translate": "лёгкая закуска "
+  },
+  {
+    "number": 4090,
+    "termin": "snag ",
+    "transcription": "[snæg] ",
+    "translate": "коряга или загвоздка "
+  },
+  {
+    "number": 4091,
+    "termin": "snail ",
+    "transcription": "[sneɪl] ",
+    "translate": "улитка "
+  },
+  {
+    "number": 4092,
+    "termin": "snake ",
+    "transcription": "[sneɪk] ",
+    "translate": "змея "
+  },
+  {
+    "number": 4093,
+    "termin": "snap ",
+    "transcription": "[snæp] ",
+    "translate": "щёлкать, щелчок "
+  },
+  {
+    "number": 4094,
+    "termin": "snapshot ",
+    "transcription": "[ˈsnæpˌʃɒt] ",
+    "translate": "снимок "
+  },
+  {
+    "number": 4095,
+    "termin": "snarl ",
+    "transcription": "[snɑːl] ",
+    "translate": "рычать, огрызаться "
+  },
+  {
+    "number": 4096,
+    "termin": "snatch ",
+    "transcription": "[snæʧ] ",
+    "translate": "схватить, утащить "
+  },
+  {
+    "number": 4097,
+    "termin": "sneak ",
+    "transcription": "[sniːk] ",
+    "translate": "красться "
+  },
+  {
+    "number": 4098,
+    "termin": "sneakers ",
+    "transcription": "[ˈsniːkəz] ",
+    "translate": "кеды, кроссовки "
+  },
+  {
+    "number": 4099,
+    "termin": "sneer ",
+    "transcription": "[snɪə] ",
+    "translate": "усмешка, насмехаться "
+  },
+  {
+    "number": 4100,
+    "termin": "sneeze ",
+    "transcription": "[sniːz] ",
+    "translate": "чихать "
+  },
+  {
+    "number": 4101,
+    "termin": "sniff ",
+    "transcription": "[snɪf] ",
+    "translate": "нюхать, сопеть, фы и т. д. "
+  },
+  {
+    "number": 4102,
+    "termin": "snore ",
+    "transcription": "[snɔː] ",
+    "translate": "храп, храпеть "
+  },
+  {
+    "number": 4103,
+    "termin": "snort ",
+    "transcription": "[snɔːt] ",
+    "translate": "фыркнуть, хмыкнуть "
+  },
+  {
+    "number": 4104,
+    "termin": "snowball ",
+    "transcription": "[ˈsnəʊbɔːl] ",
+    "translate": "снежок "
+  },
+  {
+    "number": 4105,
+    "termin": "snug ",
+    "transcription": "[snʌg] ",
+    "translate": "уютный, тесный "
+  },
+  {
+    "number": 4106,
+    "termin": "so far ",
+    "transcription": "[səʊfɑː] ",
+    "translate": "до сих пор "
+  },
+  {
+    "number": 4107,
+    "termin": "soak ",
+    "transcription": "[səʊk] ",
+    "translate": "мочить, пропитывать "
+  },
+  {
+    "number": 4108,
+    "termin": "soap ",
+    "transcription": "[səʊp] ",
+    "translate": "мыло "
+  },
+  {
+    "number": 4109,
+    "termin": "soar ",
+    "transcription": "[sɔː] ",
+    "translate": "парить, взмывать (втч. о ценах) "
+  },
+  {
+    "number": 4110,
+    "termin": "sob ",
+    "transcription": "[sɒb] ",
+    "translate": "рыдать, всхлипывать "
+  },
+  {
+    "number": 4111,
+    "termin": "sober ",
+    "transcription": "[ˈsəʊbə] ",
+    "translate": "трезвый "
+  },
+  {
+    "number": 4112,
+    "termin": "sober up ",
+    "transcription": "[ˈsəʊbərʌp] ",
+    "translate": "протрезветь "
+  },
+  {
+    "number": 4113,
+    "termin": "so-called ",
+    "transcription": "[ˈsəʊˈkɔːld] ",
+    "translate": "так называемый "
+  },
+  {
+    "number": 4114,
+    "termin": "soccer ",
+    "transcription": "[ˈsɒkə] ",
+    "translate": "футбол "
+  },
+  {
+    "number": 4115,
+    "termin": "society ",
+    "transcription": "[səˈsaɪəti] ",
+    "translate": "общество "
+  },
+  {
+    "number": 4116,
+    "termin": "sock ",
+    "transcription": "[sɒk] ",
+    "translate": "носок "
+  },
+  {
+    "number": 4117,
+    "termin": "socket ",
+    "transcription": "[ˈsɒkɪt] ",
+    "translate": "разъем, розетка "
+  },
+  {
+    "number": 4118,
+    "termin": "soften ",
+    "transcription": "[ˈsɒfn] ",
+    "translate": "смягчать "
+  },
+  {
+    "number": 4119,
+    "termin": "software ",
+    "transcription": "[ˈsɒftweə] ",
+    "translate": "программое обеспечение "
+  },
+  {
+    "number": 4120,
+    "termin": "soil ",
+    "transcription": "[sɔɪl] ",
+    "translate": "почва "
+  },
+  {
+    "number": 4121,
+    "termin": "solar ",
+    "transcription": "[ˈsəʊlə] ",
+    "translate": "солнечный "
+  },
+  {
+    "number": 4122,
+    "termin": "sole ",
+    "transcription": "[səʊl] ",
+    "translate": "единственный "
+  },
+  {
+    "number": 4123,
+    "termin": "sole ",
+    "transcription": "[səʊl] ",
+    "translate": "подошва "
+  },
+  {
+    "number": 4124,
+    "termin": "solemn ",
+    "transcription": "[ˈsɒləm] ",
+    "translate": "торжественный, серьёзный "
+  },
+  {
+    "number": 4125,
+    "termin": "solid ",
+    "transcription": "[ˈsɒlɪd] ",
+    "translate": "сплошной "
+  },
+  {
+    "number": 4126,
+    "termin": "solid ",
+    "transcription": "[ˈsɒlɪd] ",
+    "translate": "твёрдый, крепкий "
+  },
+  {
+    "number": 4127,
+    "termin": "solitary ",
+    "transcription": "[ˈsɒlɪtəri] ",
+    "translate": "уединенный "
+  },
+  {
+    "number": 4128,
+    "termin": "solitude ",
+    "transcription": "[ˈsɒlɪtjuːd] ",
+    "translate": "одиночество "
+  },
+  {
+    "number": 4129,
+    "termin": "solution ",
+    "transcription": "[səˈluːʃən] ",
+    "translate": "решение, ответ "
+  },
+  {
+    "number": 4130,
+    "termin": "solution ",
+    "transcription": "[səˈluːʃən] ",
+    "translate": "раствор "
+  },
+  {
+    "number": 4131,
+    "termin": "solve ",
+    "transcription": "[sɒlv] ",
+    "translate": "решить "
+  },
+  {
+    "number": 4132,
+    "termin": "someday ",
+    "transcription": "[ˈsʌmˌdeɪ] ",
+    "translate": "когда-нибудь "
+  },
+  {
+    "number": 4133,
+    "termin": "somewhat ",
+    "transcription": "[ˈsʌmwɒt] ",
+    "translate": "слегка "
+  },
+  {
+    "number": 4134,
+    "termin": "soon ",
+    "transcription": "[suːn] ",
+    "translate": "скоро или рано "
+  },
+  {
+    "number": 4135,
+    "termin": "soot ",
+    "transcription": "[sʊt] ",
+    "translate": "сажа "
+  },
+  {
+    "number": 4136,
+    "termin": "soothe ",
+    "transcription": "[suːð] ",
+    "translate": "успокаивать "
+  },
+  {
+    "number": 4137,
+    "termin": "sophisticated ",
+    "transcription": "[səˈfɪstɪkeɪtɪd] ",
+    "translate": "сложный, изощрённый "
+  },
+  {
+    "number": 4138,
+    "termin": "sore ",
+    "transcription": "[sɔː] ",
+    "translate": "больной, рана "
+  },
+  {
+    "number": 4139,
+    "termin": "sorrow ",
+    "transcription": "[ˈsɒrəʊ] ",
+    "translate": "горе, скорбь "
+  },
+  {
+    "number": 4140,
+    "termin": "sound ",
+    "transcription": "[saʊnd] ",
+    "translate": "здоровый "
+  },
+  {
+    "number": 4141,
+    "termin": "sour ",
+    "transcription": "[ˈsaʊə] ",
+    "translate": "кислый "
+  },
+  {
+    "number": 4142,
+    "termin": "source ",
+    "transcription": "[sɔːs] ",
+    "translate": "источник "
+  },
+  {
+    "number": 4143,
+    "termin": "south ",
+    "transcription": "[saʊθ] ",
+    "translate": "юг, южный "
+  },
+  {
+    "number": 4144,
+    "termin": "sovereign ",
+    "transcription": "[ˈsɒvrɪn] ",
+    "translate": "суверенный "
+  },
+  {
+    "number": 4145,
+    "termin": "sow (sowed, sown) ",
+    "transcription": "[səʊ] ",
+    "translate": "сеять "
+  },
+  {
+    "number": 4146,
+    "termin": "space ",
+    "transcription": "[speɪs] ",
+    "translate": "пространство "
+  },
+  {
+    "number": 4147,
+    "termin": "space ",
+    "transcription": "[speɪs] ",
+    "translate": "космос "
+  },
+  {
+    "number": 4148,
+    "termin": "spade ",
+    "transcription": "[speɪd] ",
+    "translate": "лопата "
+  },
+  {
+    "number": 4149,
+    "termin": "span ",
+    "transcription": "[spæn] ",
+    "translate": "пролёт, интервал "
+  },
+  {
+    "number": 4150,
+    "termin": "spare ",
+    "transcription": "[speə] ",
+    "translate": "щадить, избавить "
+  },
+  {
+    "number": 4151,
+    "termin": "spare ",
+    "transcription": "[speə] ",
+    "translate": "запасной, лишний "
+  },
+  {
+    "number": 4152,
+    "termin": "spare ",
+    "transcription": "[speə] ",
+    "translate": "выделить, уделить "
+  },
+  {
+    "number": 4153,
+    "termin": "spark ",
+    "transcription": "[spɑːk] ",
+    "translate": "искра, вспыхивать "
+  },
+  {
+    "number": 4154,
+    "termin": "sparkle ",
+    "transcription": "[ˈspɑːkl] ",
+    "translate": "сверкать, блистать, искриться "
+  },
+  {
+    "number": 4155,
+    "termin": "sparse ",
+    "transcription": "[spɑːs] ",
+    "translate": "редкий, разреженный "
+  },
+  {
+    "number": 4156,
+    "termin": "spawn ",
+    "transcription": "[spɔːn] ",
+    "translate": "порождать, порождение и т. д. "
+  },
+  {
+    "number": 4157,
+    "termin": "speak out ",
+    "transcription": "[spiːkaʊt] ",
+    "translate": "высказать "
+  },
+  {
+    "number": 4158,
+    "termin": "speak up ",
+    "transcription": "[spiːkʌp] ",
+    "translate": "говорить громче "
+  },
+  {
+    "number": 4159,
+    "termin": "spear ",
+    "transcription": "[spɪə] ",
+    "translate": "копье "
+  },
+  {
+    "number": 4160,
+    "termin": "special ",
+    "transcription": "[ˈspɛʃəl] ",
+    "translate": "особенный, специальный "
+  },
+  {
+    "number": 4161,
+    "termin": "species ",
+    "transcription": "[ˈspiːʃiːz] ",
+    "translate": "вид (биол.) "
+  },
+  {
+    "number": 4162,
+    "termin": "specific ",
+    "transcription": "[spɪˈsɪfɪk] ",
+    "translate": "конкретный "
+  },
+  {
+    "number": 4163,
+    "termin": "specify ",
+    "transcription": "[ˈspɛsɪfaɪ] ",
+    "translate": "указать, установить, уточнить "
+  },
+  {
+    "number": 4164,
+    "termin": "specimen ",
+    "transcription": "[ˈspɛsɪmɪn] ",
+    "translate": "образец, экземпляр "
+  },
+  {
+    "number": 4165,
+    "termin": "speck ",
+    "transcription": "[spɛk] ",
+    "translate": "пятнышко, крупинка "
+  },
+  {
+    "number": 4166,
+    "termin": "spectacle ",
+    "transcription": "[ˈspɛktəkl] ",
+    "translate": "зрелище "
+  },
+  {
+    "number": 4167,
+    "termin": "spectator ",
+    "transcription": "[spɛkˈteɪtə] ",
+    "translate": "зритель, наблюдатель "
+  },
+  {
+    "number": 4168,
+    "termin": "speculate ",
+    "transcription": "[ˈspɛkjʊleɪt] ",
+    "translate": "предполагать, строить догадки "
+  },
+  {
+    "number": 4169,
+    "termin": "speed up ",
+    "transcription": "[spiːdʌp] ",
+    "translate": "ускориться "
+  },
+  {
+    "number": 4170,
+    "termin": "spell ",
+    "transcription": "[spɛl] ",
+    "translate": "заклинание, чары "
+  },
+  {
+    "number": 4171,
+    "termin": "spell ",
+    "transcription": "[spɛl] ",
+    "translate": "произносить (писать) по буквам "
+  },
+  {
+    "number": 4172,
+    "termin": "spell out ",
+    "transcription": "[spɛlaʊt] ",
+    "translate": "разъяснить "
+  },
+  {
+    "number": 4173,
+    "termin": "spend (spent, spent) ",
+    "transcription": "[spɛnd] ",
+    "translate": "тратить, проводить (время) "
+  },
+  {
+    "number": 4174,
+    "termin": "spice ",
+    "transcription": "[spaɪs] ",
+    "translate": "пряность, специя "
+  },
+  {
+    "number": 4175,
+    "termin": "spike ",
+    "transcription": "[spaɪk] ",
+    "translate": "шип, штырь, острие, клин "
+  },
+  {
+    "number": 4176,
+    "termin": "spill ",
+    "transcription": "[spɪl] ",
+    "translate": "проливать, рассыпать "
+  },
+  {
+    "number": 4177,
+    "termin": "spin ",
+    "transcription": "[spɪn] ",
+    "translate": "крутить "
+  },
+  {
+    "number": 4178,
+    "termin": "spine ",
+    "transcription": "[spaɪn] ",
+    "translate": "позвоночник "
+  },
+  {
+    "number": 4179,
+    "termin": "spirit ",
+    "transcription": "[ˈspɪrɪt] ",
+    "translate": "дух "
+  },
+  {
+    "number": 4180,
+    "termin": "spit (spat, spat) ",
+    "transcription": "[spɪt] ",
+    "translate": "плевать "
+  },
+  {
+    "number": 4181,
+    "termin": "splash ",
+    "transcription": "[splæʃ] ",
+    "translate": "брызги, всплеск "
+  },
+  {
+    "number": 4182,
+    "termin": "splendid ",
+    "transcription": "[ˈsplɛndɪd] ",
+    "translate": "великолепный, блестящий "
+  },
+  {
+    "number": 4183,
+    "termin": "splinter ",
+    "transcription": "[ˈsplɪntə] ",
+    "translate": "щепка, осколок, заноза "
+  },
+  {
+    "number": 4184,
+    "termin": "split (split, split) ",
+    "transcription": "[splɪt] ",
+    "translate": "расколоться, распасться "
+  },
+  {
+    "number": 4185,
+    "termin": "split up ",
+    "transcription": "[splɪtʌp] ",
+    "translate": "разделиться "
+  },
+  {
+    "number": 4186,
+    "termin": "spoil ",
+    "transcription": "[spɔːɪl] ",
+    "translate": "портить "
+  },
+  {
+    "number": 4187,
+    "termin": "spokesman ",
+    "transcription": "[ˈspəʊksmən] ",
+    "translate": "представитель, прес-секретарь "
+  },
+  {
+    "number": 4188,
+    "termin": "sponge ",
+    "transcription": "[spʌnʤ] ",
+    "translate": "губка "
+  },
+  {
+    "number": 4189,
+    "termin": "spooky ",
+    "transcription": "[ˈspuːki] ",
+    "translate": "жуткий "
+  },
+  {
+    "number": 4190,
+    "termin": "spot ",
+    "transcription": "[spɒt] ",
+    "translate": "место "
+  },
+  {
+    "number": 4191,
+    "termin": "spot ",
+    "transcription": "[spɒt] ",
+    "translate": "пятно "
+  },
+  {
+    "number": 4192,
+    "termin": "spot ",
+    "transcription": "[spɒt] ",
+    "translate": "заметить, увидеть "
+  },
+  {
+    "number": 4193,
+    "termin": "spotlight ",
+    "transcription": "[ˈspɒtlaɪt] ",
+    "translate": "прожектор, центр внимания "
+  },
+  {
+    "number": 4194,
+    "termin": "spouse ",
+    "transcription": "[spaʊz] ",
+    "translate": "супруг, супруга "
+  },
+  {
+    "number": 4195,
+    "termin": "sprawl ",
+    "transcription": "[sprɔːl] ",
+    "translate": "растягиваться, расползаться "
+  },
+  {
+    "number": 4196,
+    "termin": "spread (spread, spread) ",
+    "transcription": "[sprɛd] ",
+    "translate": "распространять(ся) "
+  },
+  {
+    "number": 4197,
+    "termin": "spring (sprang, sprung) ",
+    "transcription": "[sprɪŋ] ",
+    "translate": "прыгать "
+  },
+  {
+    "number": 4198,
+    "termin": "spring (sprang, sprung) ",
+    "transcription": "[sprɪŋ] ",
+    "translate": "источник, проистекать "
+  },
+  {
+    "number": 4199,
+    "termin": "sprinkle ",
+    "transcription": "[ˈsprɪŋkl] ",
+    "translate": "побрызгать, посыпать "
+  },
+  {
+    "number": 4200,
+    "termin": "sprout ",
+    "transcription": "[spraʊt] ",
+    "translate": "росток, прорастать "
+  },
+  {
+    "number": 4201,
+    "termin": "spur ",
+    "transcription": "[spɜː] ",
+    "translate": "шпора, побуждать "
+  },
+  {
+    "number": 4202,
+    "termin": "spy (on) ",
+    "transcription": "[spaɪ] ",
+    "translate": "шпион, шпионить "
+  },
+  {
+    "number": 4203,
+    "termin": "squad ",
+    "transcription": "[skwɒd] ",
+    "translate": "команда, отряд "
+  },
+  {
+    "number": 4204,
+    "termin": "square ",
+    "transcription": "[skweə] ",
+    "translate": "квадрат, квадратный "
+  },
+  {
+    "number": 4205,
+    "termin": "square ",
+    "transcription": "[skweə] ",
+    "translate": "площадь "
+  },
+  {
+    "number": 4206,
+    "termin": "squash ",
+    "transcription": "[skwɒʃ] ",
+    "translate": "раздавливать, расплющивать "
+  },
+  {
+    "number": 4207,
+    "termin": "squat ",
+    "transcription": "[skwɒt] ",
+    "translate": "приседать, приземистый "
+  },
+  {
+    "number": 4208,
+    "termin": "squeak ",
+    "transcription": "[skwiːk] ",
+    "translate": "пищать, скрипеть "
+  },
+  {
+    "number": 4209,
+    "termin": "squeal ",
+    "transcription": "[skwiːl] ",
+    "translate": "визг, визжать "
+  },
+  {
+    "number": 4210,
+    "termin": "squeeze ",
+    "transcription": "[skwiːz] ",
+    "translate": "сжимать "
+  },
+  {
+    "number": 4211,
+    "termin": "squid ",
+    "transcription": "[skwɪd] ",
+    "translate": "кальмар "
+  },
+  {
+    "number": 4212,
+    "termin": "squint ",
+    "transcription": "[skwɪnt] ",
+    "translate": "щуриться или коситься "
+  },
+  {
+    "number": 4213,
+    "termin": "squirm ",
+    "transcription": "[skwɜːm] ",
+    "translate": "извиваться, ёрзать "
+  },
+  {
+    "number": 4214,
+    "termin": "squirrel ",
+    "transcription": "[ˈskwɪrəl] ",
+    "translate": "белка "
+  },
+  {
+    "number": 4215,
+    "termin": "squirt ",
+    "transcription": "[skwɜːt] ",
+    "translate": "тонкая струя "
+  },
+  {
+    "number": 4216,
+    "termin": "stab ",
+    "transcription": "[stæb] ",
+    "translate": "ударить ножом, зарезать "
+  },
+  {
+    "number": 4217,
+    "termin": "stable ",
+    "transcription": "[ˈsteɪbl] ",
+    "translate": "устойчивый "
+  },
+  {
+    "number": 4218,
+    "termin": "stack ",
+    "transcription": "[stæk] ",
+    "translate": "стопка, куча, складывать "
+  },
+  {
+    "number": 4219,
+    "termin": "staff ",
+    "transcription": "[stɑːf] ",
+    "translate": "персонал "
+  },
+  {
+    "number": 4220,
+    "termin": "stage ",
+    "transcription": "[steɪʤ] ",
+    "translate": "сцена "
+  },
+  {
+    "number": 4221,
+    "termin": "stage ",
+    "transcription": "[steɪʤ] ",
+    "translate": "стадия, ступень "
+  },
+  {
+    "number": 4222,
+    "termin": "stagger ",
+    "transcription": "[ˈstægə] ",
+    "translate": "шататься, колебаться "
+  },
+  {
+    "number": 4223,
+    "termin": "stain ",
+    "transcription": "[steɪn] ",
+    "translate": "пятно, окрашиваться, пачкать "
+  },
+  {
+    "number": 4224,
+    "termin": "stairs ",
+    "transcription": "[steəz] ",
+    "translate": "ступеньки, лестница "
+  },
+  {
+    "number": 4225,
+    "termin": "stake ",
+    "transcription": "[steɪk] ",
+    "translate": "стойка, кол, столб "
+  },
+  {
+    "number": 4226,
+    "termin": "stake ",
+    "transcription": "[steɪk] ",
+    "translate": "ставка, делать ставку "
+  },
+  {
+    "number": 4227,
+    "termin": "stale ",
+    "transcription": "[steɪl] ",
+    "translate": "несвежий "
+  },
+  {
+    "number": 4228,
+    "termin": "stalk ",
+    "transcription": "[stɔːk] ",
+    "translate": "красться, преследовать "
+  },
+  {
+    "number": 4229,
+    "termin": "stalk ",
+    "transcription": "[stɔːk] ",
+    "translate": "стебель "
+  },
+  {
+    "number": 4230,
+    "termin": "stall ",
+    "transcription": "[stɔːl] ",
+    "translate": "застопориться, замедлиться "
+  },
+  {
+    "number": 4231,
+    "termin": "stall ",
+    "transcription": "[stɔːl] ",
+    "translate": "палатка, ларёк "
+  },
+  {
+    "number": 4232,
+    "termin": "stamp ",
+    "transcription": "[stæmp] ",
+    "translate": "печать, штамп, марка "
+  },
+  {
+    "number": 4233,
+    "termin": "stance ",
+    "transcription": "[stɑːns] ",
+    "translate": "поза, положение "
+  },
+  {
+    "number": 4234,
+    "termin": "stand ",
+    "transcription": "[stænd] ",
+    "translate": "терпеть, выносить "
+  },
+  {
+    "number": 4235,
+    "termin": "stand by ",
+    "transcription": "[stændbaɪ] ",
+    "translate": "поддерживать, быть наготове "
+  },
+  {
+    "number": 4236,
+    "termin": "stand for ",
+    "transcription": "[stændfɔː] ",
+    "translate": "выступать за "
+  },
+  {
+    "number": 4237,
+    "termin": "stand for ",
+    "transcription": "[stændfɔː] ",
+    "translate": "обозначать (в сокращении) "
+  },
+  {
+    "number": 4238,
+    "termin": "stand out ",
+    "transcription": "[stændaʊt] ",
+    "translate": "выделяться "
+  },
+  {
+    "number": 4239,
+    "termin": "standpoint ",
+    "transcription": "[ˈstændpɔɪnt] ",
+    "translate": "точка зрения "
+  },
+  {
+    "number": 4240,
+    "termin": "staple ",
+    "transcription": "[ˈsteɪpl] ",
+    "translate": "скоба, скрепка "
+  },
+  {
+    "number": 4241,
+    "termin": "stare ",
+    "transcription": "[steə] ",
+    "translate": "пялиться, пристальный взгляд "
+  },
+  {
+    "number": 4242,
+    "termin": "stark ",
+    "transcription": "[stɑːk] ",
+    "translate": "чёткий, жёсткий, острый "
+  },
+  {
+    "number": 4243,
+    "termin": "start up ",
+    "transcription": "[stɑːtʌp] ",
+    "translate": "основать, установить "
+  },
+  {
+    "number": 4244,
+    "termin": "startle ",
+    "transcription": "[ˈstɑːtl] ",
+    "translate": "испугать (неожиданностью) "
+  },
+  {
+    "number": 4245,
+    "termin": "starve ",
+    "transcription": "[stɑːv] ",
+    "translate": "голодать "
+  },
+  {
+    "number": 4246,
+    "termin": "stash ",
+    "transcription": "[stæʃ] ",
+    "translate": "тайник, заначка, прятать "
+  },
+  {
+    "number": 4247,
+    "termin": "state ",
+    "transcription": "[steɪt] ",
+    "translate": "государство "
+  },
+  {
+    "number": 4248,
+    "termin": "state ",
+    "transcription": "[steɪt] ",
+    "translate": "состояние "
+  },
+  {
+    "number": 4249,
+    "termin": "state ",
+    "transcription": "[steɪt] ",
+    "translate": "заявить, отметить "
+  },
+  {
+    "number": 4250,
+    "termin": "stature ",
+    "transcription": "[ˈstæʧə] ",
+    "translate": "рост "
+  },
+  {
+    "number": 4251,
+    "termin": "statutory ",
+    "transcription": "[ˈstætjʊtəri] ",
+    "translate": "установленный законом "
+  },
+  {
+    "number": 4252,
+    "termin": "stay ",
+    "transcription": "[steɪ] ",
+    "translate": "оставаться "
+  },
+  {
+    "number": 4253,
+    "termin": "stay ",
+    "transcription": "[steɪ] ",
+    "translate": "остановиться пожить "
+  },
+  {
+    "number": 4254,
+    "termin": "stay up ",
+    "transcription": "[steɪʌp] ",
+    "translate": "не ложиться "
+  },
+  {
+    "number": 4255,
+    "termin": "steady ",
+    "transcription": "[ˈstɛdi] ",
+    "translate": "устойчивый "
+  },
+  {
+    "number": 4256,
+    "termin": "steal (stole, stolen) ",
+    "transcription": "[stiːl] ",
+    "translate": "красть "
+  },
+  {
+    "number": 4257,
+    "termin": "stealth ",
+    "transcription": "[stɛlθ] ",
+    "translate": "скрытность, хитрость "
+  },
+  {
+    "number": 4258,
+    "termin": "steam ",
+    "transcription": "[stiːm] ",
+    "translate": "пар "
+  },
+  {
+    "number": 4259,
+    "termin": "steel ",
+    "transcription": "[stiːl] ",
+    "translate": "сталь, стальной "
+  },
+  {
+    "number": 4260,
+    "termin": "steep ",
+    "transcription": "[stiːp] ",
+    "translate": "крутой "
+  },
+  {
+    "number": 4261,
+    "termin": "steer ",
+    "transcription": "[stɪə] ",
+    "translate": "управлять, направлять "
+  },
+  {
+    "number": 4262,
+    "termin": "stellar ",
+    "transcription": "[ˈstɛlə] ",
+    "translate": "звездный "
+  },
+  {
+    "number": 4263,
+    "termin": "stem ",
+    "transcription": "[stɛm] ",
+    "translate": "стебель "
+  },
+  {
+    "number": 4264,
+    "termin": "step ",
+    "transcription": "[stɛp] ",
+    "translate": "шаг, ступать, ступенька "
+  },
+  {
+    "number": 4265,
+    "termin": "step down ",
+    "transcription": "[stɛpdaʊn] ",
+    "translate": "уйти в отставку "
+  },
+  {
+    "number": 4266,
+    "termin": "step in ",
+    "transcription": "[stɛpɪn] ",
+    "translate": "вмешаться "
+  },
+  {
+    "number": 4267,
+    "termin": "stern ",
+    "transcription": "[stɜːn] ",
+    "translate": "суровый, строгий "
+  },
+  {
+    "number": 4268,
+    "termin": "stew ",
+    "transcription": "[stjuː] ",
+    "translate": "тушить, рагу "
+  },
+  {
+    "number": 4269,
+    "termin": "stick ",
+    "transcription": "[stɪk] ",
+    "translate": "палка, тыкать палкой "
+  },
+  {
+    "number": 4270,
+    "termin": "stick (stuck, stuck) ",
+    "transcription": "[stɪk] ",
+    "translate": "приклеить "
+  },
+  {
+    "number": 4271,
+    "termin": "stick at ",
+    "transcription": "[stɪkæt] ",
+    "translate": "упорно продолжать "
+  },
+  {
+    "number": 4272,
+    "termin": "stick out ",
+    "transcription": "[stɪkaʊt] ",
+    "translate": "торчать, выделяться "
+  },
+  {
+    "number": 4273,
+    "termin": "stick to ",
+    "transcription": "[stɪktuː] ",
+    "translate": "придерживаться, соблюдать "
+  },
+  {
+    "number": 4274,
+    "termin": "stick together ",
+    "transcription": "[stɪktəˈgɛðə] ",
+    "translate": "держаться вместе "
+  },
+  {
+    "number": 4275,
+    "termin": "stiff ",
+    "transcription": "[stɪf] ",
+    "translate": "жёсткий, негнущийся "
+  },
+  {
+    "number": 4276,
+    "termin": "stifle ",
+    "transcription": "[ˈstaɪfl] ",
+    "translate": "удушать "
+  },
+  {
+    "number": 4277,
+    "termin": "still ",
+    "transcription": "[stɪl] ",
+    "translate": "спокойный, неподвижный "
+  },
+  {
+    "number": 4278,
+    "termin": "sting (stung, stung) ",
+    "transcription": "[stɪŋ] ",
+    "translate": "жалить, жало "
+  },
+  {
+    "number": 4279,
+    "termin": "stink (stank, stunk) ",
+    "transcription": "[stɪŋk] ",
+    "translate": "вонять "
+  },
+  {
+    "number": 4280,
+    "termin": "stir ",
+    "transcription": "[stɜː] ",
+    "translate": "шевелить(ся), двигать и т.д. "
+  },
+  {
+    "number": 4281,
+    "termin": "stir up ",
+    "transcription": "[stɜːrʌp] ",
+    "translate": "вызвать, возбудить "
+  },
+  {
+    "number": 4282,
+    "termin": "stitch ",
+    "transcription": "[stɪʧ] ",
+    "translate": "стежок, сшить, зашить "
+  },
+  {
+    "number": 4283,
+    "termin": "stock ",
+    "transcription": "[stɒk] ",
+    "translate": "банальный, шаблонный "
+  },
+  {
+    "number": 4284,
+    "termin": "stock ",
+    "transcription": "[stɒk] ",
+    "translate": "запас "
+  },
+  {
+    "number": 4285,
+    "termin": "stock ",
+    "transcription": "[stɒk] ",
+    "translate": "акции "
+  },
+  {
+    "number": 4286,
+    "termin": "stock up on ",
+    "transcription": "[stɒkʌpɒn] ",
+    "translate": "запастись "
+  },
+  {
+    "number": 4287,
+    "termin": "stocking ",
+    "transcription": "[ˈstɒkɪŋ] ",
+    "translate": "чулок "
+  },
+  {
+    "number": 4288,
+    "termin": "stomach ",
+    "transcription": "[ˈstʌmək] ",
+    "translate": "желудок, живот "
+  },
+  {
+    "number": 4289,
+    "termin": "stomp ",
+    "transcription": "[stɒmp] ",
+    "translate": "топать "
+  },
+  {
+    "number": 4290,
+    "termin": "stool ",
+    "transcription": "[stuːl] ",
+    "translate": "табурет "
+  },
+  {
+    "number": 4291,
+    "termin": "stoop ",
+    "transcription": "[stuːp] ",
+    "translate": "крыльцо со ступеньками (амер.) "
+  },
+  {
+    "number": 4292,
+    "termin": "stoop ",
+    "transcription": "[stuːp] ",
+    "translate": "наклоняться или сутулиться "
+  },
+  {
+    "number": 4293,
+    "termin": "stop over ",
+    "transcription": "[stɒpˈəʊvə] ",
+    "translate": "заехать, остановиться "
+  },
+  {
+    "number": 4294,
+    "termin": "store ",
+    "transcription": "[stɔː] ",
+    "translate": "хранить, хранилище "
+  },
+  {
+    "number": 4295,
+    "termin": "store ",
+    "transcription": "[stɔː] ",
+    "translate": "магазин "
+  },
+  {
+    "number": 4296,
+    "termin": "stout ",
+    "transcription": "[staʊt] ",
+    "translate": "толстый, плотный, крепкий "
+  },
+  {
+    "number": 4297,
+    "termin": "stove ",
+    "transcription": "[stəʊv] ",
+    "translate": "плита "
+  },
+  {
+    "number": 4298,
+    "termin": "straight ",
+    "transcription": "[streɪt] ",
+    "translate": "прямой, прямо "
+  },
+  {
+    "number": 4299,
+    "termin": "straightforward ",
+    "transcription": "[streɪtˈfɔːwəd] ",
+    "translate": "простой, прямой, откровенный "
+  },
+  {
+    "number": 4300,
+    "termin": "strain ",
+    "transcription": "[streɪn] ",
+    "translate": "напрягать, напряжение "
+  },
+  {
+    "number": 4301,
+    "termin": "strait ",
+    "transcription": "[streɪt] ",
+    "translate": "пролив "
+  },
+  {
+    "number": 4302,
+    "termin": "strand ",
+    "transcription": "[strænd] ",
+    "translate": "застрять, сесть на мель "
+  },
+  {
+    "number": 4303,
+    "termin": "strand ",
+    "transcription": "[strænd] ",
+    "translate": "прядь, нить (об. скрученная) "
+  },
+  {
+    "number": 4304,
+    "termin": "strangle ",
+    "transcription": "[ˈstræŋgl] ",
+    "translate": "придушить "
+  },
+  {
+    "number": 4305,
+    "termin": "strap ",
+    "transcription": "[stræp] ",
+    "translate": "ремень "
+  },
+  {
+    "number": 4306,
+    "termin": "straw ",
+    "transcription": "[strɔː] ",
+    "translate": "солома "
+  },
+  {
+    "number": 4307,
+    "termin": "strawberry ",
+    "transcription": "[ˈstrɔːbəri] ",
+    "translate": "клубника "
+  },
+  {
+    "number": 4308,
+    "termin": "stray ",
+    "transcription": "[streɪ] ",
+    "translate": "бродить, бродячий "
+  },
+  {
+    "number": 4309,
+    "termin": "streak ",
+    "transcription": "[striːk] ",
+    "translate": "полоса, след, струя "
+  },
+  {
+    "number": 4310,
+    "termin": "stream ",
+    "transcription": "[striːm] ",
+    "translate": "поток, ручей "
+  },
+  {
+    "number": 4311,
+    "termin": "strength ",
+    "transcription": "[strɛŋθ] ",
+    "translate": "сила, мощность, прочность "
+  },
+  {
+    "number": 4312,
+    "termin": "stress ",
+    "transcription": "[strɛs] ",
+    "translate": "подчеркнуть, заострить внимание "
+  },
+  {
+    "number": 4313,
+    "termin": "stretch ",
+    "transcription": "[strɛʧ] ",
+    "translate": "тянуть, вытягивать "
+  },
+  {
+    "number": 4314,
+    "termin": "strew (strewn, strewn) ",
+    "transcription": "[struː] ",
+    "translate": "разбрасывать "
+  },
+  {
+    "number": 4315,
+    "termin": "strict ",
+    "transcription": "[strɪkt] ",
+    "translate": "строгий, точный "
+  },
+  {
+    "number": 4316,
+    "termin": "stride (strode, stridden) ",
+    "transcription": "[straɪd] ",
+    "translate": "шагать, шаг "
+  },
+  {
+    "number": 4317,
+    "termin": "strike ",
+    "transcription": "[straɪk] ",
+    "translate": "забастовка "
+  },
+  {
+    "number": 4318,
+    "termin": "strike (struck, struck) ",
+    "transcription": "[straɪk] ",
+    "translate": "бить, удар "
+  },
+  {
+    "number": 4319,
+    "termin": "string ",
+    "transcription": "[strɪŋ] ",
+    "translate": "струна, тетива, бечева "
+  },
+  {
+    "number": 4320,
+    "termin": "stringent ",
+    "transcription": "[ˈstrɪnʤənt] ",
+    "translate": "строгий "
+  },
+  {
+    "number": 4321,
+    "termin": "strip ",
+    "transcription": "[strɪp] ",
+    "translate": "полоса, лента "
+  },
+  {
+    "number": 4322,
+    "termin": "strip ",
+    "transcription": "[strɪp] ",
+    "translate": "снимать (обнажать) "
+  },
+  {
+    "number": 4323,
+    "termin": "stripe ",
+    "transcription": "[straɪp] ",
+    "translate": "полоса "
+  },
+  {
+    "number": 4324,
+    "termin": "strive (strove, striven) ",
+    "transcription": "[straɪv] ",
+    "translate": "стремиться, добиваться "
+  },
+  {
+    "number": 4325,
+    "termin": "stroke ",
+    "transcription": "[strəʊk] ",
+    "translate": "гладить "
+  },
+  {
+    "number": 4326,
+    "termin": "stroll ",
+    "transcription": "[strəʊl] ",
+    "translate": "прогулка, прогуливаться "
+  },
+  {
+    "number": 4327,
+    "termin": "struggle ",
+    "transcription": "[ˈstrʌgl] ",
+    "translate": "бороться, борьба "
+  },
+  {
+    "number": 4328,
+    "termin": "stubborn ",
+    "transcription": "[ˈstʌbən] ",
+    "translate": "упрямый "
+  },
+  {
+    "number": 4329,
+    "termin": "stud ",
+    "transcription": "[stʌd] ",
+    "translate": "шпилька "
+  },
+  {
+    "number": 4330,
+    "termin": "stuff ",
+    "transcription": "[stʌf] ",
+    "translate": "вещи, всякая фигня "
+  },
+  {
+    "number": 4331,
+    "termin": "stuffy ",
+    "transcription": "[ˈstʌfi] ",
+    "translate": "душный "
+  },
+  {
+    "number": 4332,
+    "termin": "stumble ",
+    "transcription": "[ˈstʌmbl] ",
+    "translate": "спотыкаться, запинаться "
+  },
+  {
+    "number": 4333,
+    "termin": "stump ",
+    "transcription": "[stʌmp] ",
+    "translate": "пень "
+  },
+  {
+    "number": 4334,
+    "termin": "stun ",
+    "transcription": "[stʌn] ",
+    "translate": "ошеломить, оглушить "
+  },
+  {
+    "number": 4335,
+    "termin": "stunt ",
+    "transcription": "[stʌnt] ",
+    "translate": "трюк, выходка "
+  },
+  {
+    "number": 4336,
+    "termin": "stupid ",
+    "transcription": "[ˈstjuːpɪd] ",
+    "translate": "глупый "
+  },
+  {
+    "number": 4337,
+    "termin": "sturdy ",
+    "transcription": "[ˈstɜːdi] ",
+    "translate": "крепкий "
+  },
+  {
+    "number": 4338,
+    "termin": "subdue ",
+    "transcription": "[səbˈdjuː] ",
+    "translate": "подавить, укротить "
+  },
+  {
+    "number": 4339,
+    "termin": "subject ",
+    "transcription": "[ˈsʌbʤɪkt] ",
+    "translate": "предмет, тема "
+  },
+  {
+    "number": 4340,
+    "termin": "subject ",
+    "transcription": "[ˈsʌbʤɪkt] ",
+    "translate": "подверженный, подвергать "
+  },
+  {
+    "number": 4341,
+    "termin": "sublime ",
+    "transcription": "[səˈblaɪm] ",
+    "translate": "возвышенный, величественный "
+  },
+  {
+    "number": 4342,
+    "termin": "submerge ",
+    "transcription": "[səbˈmɜːʤ] ",
+    "translate": "погружаться под воду "
+  },
+  {
+    "number": 4343,
+    "termin": "submit ",
+    "transcription": "[səbˈmɪt] ",
+    "translate": "подавать информацию "
+  },
+  {
+    "number": 4344,
+    "termin": "submit to ",
+    "transcription": "[səbˈmɪttuː] ",
+    "translate": "подчиниться "
+  },
+  {
+    "number": 4345,
+    "termin": "subordinate ",
+    "transcription": "[səˈbɔːdnɪt] ",
+    "translate": "подчиненный, подчинять "
+  },
+  {
+    "number": 4346,
+    "termin": "subscribe ",
+    "transcription": "[səbˈskraɪb] ",
+    "translate": "подписываться "
+  },
+  {
+    "number": 4347,
+    "termin": "subsequent ",
+    "transcription": "[ˈsʌbsɪkwənt] ",
+    "translate": "последующий "
+  },
+  {
+    "number": 4348,
+    "termin": "subside ",
+    "transcription": "[səbˈsaɪd] ",
+    "translate": "утихать, спадать "
+  },
+  {
+    "number": 4349,
+    "termin": "subsidiary ",
+    "transcription": "[səbˈsɪdiəri] ",
+    "translate": "вспомогательный, дополнительный "
+  },
+  {
+    "number": 4350,
+    "termin": "subsist ",
+    "transcription": "[səbˈsɪst] ",
+    "translate": "существовать, прокормиться "
+  },
+  {
+    "number": 4351,
+    "termin": "substance ",
+    "transcription": "[ˈsʌbstəns] ",
+    "translate": "вещество, материя "
+  },
+  {
+    "number": 4352,
+    "termin": "substantial ",
+    "transcription": "[səbˈstænʃəl] ",
+    "translate": "существенный, значительный "
+  },
+  {
+    "number": 4353,
+    "termin": "substantive ",
+    "transcription": "[ˈsʌbstəntɪv] ",
+    "translate": "существенный, основной "
+  },
+  {
+    "number": 4354,
+    "termin": "substitute ",
+    "transcription": "[ˈsʌbstɪtjuːt] ",
+    "translate": "заменять, замена "
+  },
+  {
+    "number": 4355,
+    "termin": "subtitles ",
+    "transcription": "[ˈsʌbˌtaɪtlz] ",
+    "translate": "субтитры "
+  },
+  {
+    "number": 4356,
+    "termin": "subtle ",
+    "transcription": "[ˈsʌtl] ",
+    "translate": "тонкий, неуловимый "
+  },
+  {
+    "number": 4357,
+    "termin": "subtract ",
+    "transcription": "[səbˈtrækt] ",
+    "translate": "вычитать "
+  },
+  {
+    "number": 4358,
+    "termin": "suburb ",
+    "transcription": "[ˈsʌbɜːb] ",
+    "translate": "пригород "
+  },
+  {
+    "number": 4359,
+    "termin": "subvert ",
+    "transcription": "[sʌbˈvɜːt] ",
+    "translate": "подорвать "
+  },
+  {
+    "number": 4360,
+    "termin": "subway ",
+    "transcription": "[ˈsʌbweɪ] ",
+    "translate": "метро (амер.) "
+  },
+  {
+    "number": 4361,
+    "termin": "succeed ",
+    "transcription": "[səkˈsiːd] ",
+    "translate": "достичь цели "
+  },
+  {
+    "number": 4362,
+    "termin": "success ",
+    "transcription": "[səkˈsɛs] ",
+    "translate": "успех "
+  },
+  {
+    "number": 4363,
+    "termin": "succession ",
+    "transcription": "[səkˈsɛʃən] ",
+    "translate": "последовательность "
+  },
+  {
+    "number": 4364,
+    "termin": "successor ",
+    "transcription": "[səkˈsɛsə] ",
+    "translate": "преемник "
+  },
+  {
+    "number": 4365,
+    "termin": "succumb ",
+    "transcription": "[səˈkʌm] ",
+    "translate": "поддаться, не устоять "
+  },
+  {
+    "number": 4366,
+    "termin": "suck ",
+    "transcription": "[sʌk] ",
+    "translate": "сосать "
+  },
+  {
+    "number": 4367,
+    "termin": "sudden ",
+    "transcription": "[ˈsʌdn] ",
+    "translate": "внезапный "
+  },
+  {
+    "number": 4368,
+    "termin": "sue ",
+    "transcription": "[sjuː] ",
+    "translate": "предъявить иск "
+  },
+  {
+    "number": 4369,
+    "termin": "suffer ",
+    "transcription": "[ˈsʌfə] ",
+    "translate": "страдать "
+  },
+  {
+    "number": 4370,
+    "termin": "suffice ",
+    "transcription": "[səˈfaɪs] ",
+    "translate": "хватать, быть достаточным "
+  },
+  {
+    "number": 4371,
+    "termin": "sufficient ",
+    "transcription": "[səˈfɪʃənt] ",
+    "translate": "достаточный "
+  },
+  {
+    "number": 4372,
+    "termin": "suffocate ",
+    "transcription": "[ˈsʌfəkeɪt] ",
+    "translate": "задыхаться "
+  },
+  {
+    "number": 4373,
+    "termin": "suggest ",
+    "transcription": "[səˈʤɛst] ",
+    "translate": "предлагать "
+  },
+  {
+    "number": 4374,
+    "termin": "suit ",
+    "transcription": "[sjuːt] ",
+    "translate": "костюм, комплект "
+  },
+  {
+    "number": 4375,
+    "termin": "suit ",
+    "transcription": "[sjuːt] ",
+    "translate": "подходить, соответствовать "
+  },
+  {
+    "number": 4376,
+    "termin": "suitcase ",
+    "transcription": "[ˈsjuːtkeɪs] ",
+    "translate": "чемодан "
+  },
+  {
+    "number": 4377,
+    "termin": "suite ",
+    "transcription": "[swiːt] ",
+    "translate": "апартаменты, номер люкс "
+  },
+  {
+    "number": 4378,
+    "termin": "sulfur (sulphur) ",
+    "transcription": "[ˈsʌlfə] ",
+    "translate": "сера "
+  },
+  {
+    "number": 4379,
+    "termin": "sum ",
+    "transcription": "[sʌm] ",
+    "translate": "сумма, суммировать "
+  },
+  {
+    "number": 4380,
+    "termin": "sum up ",
+    "transcription": "[sʌmʌp] ",
+    "translate": "подытожить "
+  },
+  {
+    "number": 4381,
+    "termin": "summary ",
+    "transcription": "[ˈsʌməri] ",
+    "translate": "сводка, конспект "
+  },
+  {
+    "number": 4382,
+    "termin": "summit ",
+    "transcription": "[ˈsʌmɪt] ",
+    "translate": "вершина, верх "
+  },
+  {
+    "number": 4383,
+    "termin": "summon ",
+    "transcription": "[ˈsʌmən] ",
+    "translate": "вызывать "
+  },
+  {
+    "number": 4384,
+    "termin": "sunset ",
+    "transcription": "[ˈsʌnsɛt] ",
+    "translate": "закат солнца "
+  },
+  {
+    "number": 4385,
+    "termin": "superb ",
+    "transcription": "[sju(ː)ˈpɜːb] ",
+    "translate": "превосходный "
+  },
+  {
+    "number": 4386,
+    "termin": "superficial ",
+    "transcription": "[ˌsjuːpəˈfɪʃəl] ",
+    "translate": "поверхностный "
+  },
+  {
+    "number": 4387,
+    "termin": "superintendent ",
+    "transcription": "[ˌsjuːpərɪnˈtɛndənt] ",
+    "translate": "управляющий, начальник "
+  },
+  {
+    "number": 4388,
+    "termin": "superior ",
+    "transcription": "[sju(ː)ˈpɪərɪə] ",
+    "translate": "высший, превосходящий "
+  },
+  {
+    "number": 4389,
+    "termin": "supervise ",
+    "transcription": "[ˈsjuːpəvaɪz] ",
+    "translate": "надзирать, контролировать "
+  },
+  {
+    "number": 4390,
+    "termin": "supplement ",
+    "transcription": "[ˈsʌplɪmənt] ",
+    "translate": "дополнение, дополнять "
+  },
+  {
+    "number": 4391,
+    "termin": "supply ",
+    "transcription": "[səˈplaɪ] ",
+    "translate": "поставлять, поставка "
+  },
+  {
+    "number": 4392,
+    "termin": "supply ",
+    "transcription": "[səˈplaɪ] ",
+    "translate": "предложение "
+  },
+  {
+    "number": 4393,
+    "termin": "support ",
+    "transcription": "[səˈpɔːt] ",
+    "translate": "поддерживать "
+  },
+  {
+    "number": 4394,
+    "termin": "suppose ",
+    "transcription": "[səˈpəʊz] ",
+    "translate": "полагать "
+  },
+  {
+    "number": 4395,
+    "termin": "suppress ",
+    "transcription": "[səˈprɛs] ",
+    "translate": "подавлять, удерживать "
+  },
+  {
+    "number": 4396,
+    "termin": "supreme ",
+    "transcription": "[sju(ː)ˈpriːm] ",
+    "translate": "высший, верховный "
+  },
+  {
+    "number": 4397,
+    "termin": "sure ",
+    "transcription": "[ʃʊə] ",
+    "translate": "уверенный "
+  },
+  {
+    "number": 4398,
+    "termin": "surf ",
+    "transcription": "[sɜːf] ",
+    "translate": "прибой "
+  },
+  {
+    "number": 4399,
+    "termin": "surface ",
+    "transcription": "[ˈsɜːfɪs] ",
+    "translate": "поверхность "
+  },
+  {
+    "number": 4400,
+    "termin": "surge ",
+    "transcription": "[sɜːʤ] ",
+    "translate": "волна, всплеск, вздыматься "
+  },
+  {
+    "number": 4401,
+    "termin": "surgery ",
+    "transcription": "[ˈsɜːʤəri] ",
+    "translate": "хирургия, операция "
+  },
+  {
+    "number": 4402,
+    "termin": "surpass ",
+    "transcription": "[sɜːˈpɑːs] ",
+    "translate": "превзойти "
+  },
+  {
+    "number": 4403,
+    "termin": "surplus ",
+    "transcription": "[ˈsɜːpləs] ",
+    "translate": "избыток, излишек (экон.) "
+  },
+  {
+    "number": 4404,
+    "termin": "surprise ",
+    "transcription": "[səˈpraɪz] ",
+    "translate": "удивлять, удивление "
+  },
+  {
+    "number": 4405,
+    "termin": "surrender ",
+    "transcription": "[səˈrɛndə] ",
+    "translate": "сдаваться, капитулировать "
+  },
+  {
+    "number": 4406,
+    "termin": "surround ",
+    "transcription": "[səˈraʊnd] ",
+    "translate": "окружать "
+  },
+  {
+    "number": 4407,
+    "termin": "surveillance ",
+    "transcription": "[sɜːˈveɪləns] ",
+    "translate": "наблюдение "
+  },
+  {
+    "number": 4408,
+    "termin": "survey ",
+    "transcription": "[ˈsɜːveɪ] ",
+    "translate": "обзор, исследование "
+  },
+  {
+    "number": 4409,
+    "termin": "survive ",
+    "transcription": "[səˈvaɪv] ",
+    "translate": "выжить "
+  },
+  {
+    "number": 4410,
+    "termin": "susceptible ",
+    "transcription": "[səˈsɛptəbl] ",
+    "translate": "восприимчивый, подверженный "
+  },
+  {
+    "number": 4411,
+    "termin": "suspect ",
+    "transcription": "[ˈsʌspɛkt] ",
+    "translate": "подозревать, подозреваемый "
+  },
+  {
+    "number": 4412,
+    "termin": "suspend ",
+    "transcription": "[səsˈpɛnd] ",
+    "translate": "приостановить, подвесить "
+  },
+  {
+    "number": 4413,
+    "termin": "suspicious ",
+    "transcription": "[səsˈpɪʃəs] ",
+    "translate": "подозрительный "
+  },
+  {
+    "number": 4414,
+    "termin": "sustain ",
+    "transcription": "[səsˈteɪn] ",
+    "translate": "поддерживать "
+  },
+  {
+    "number": 4415,
+    "termin": "swallow ",
+    "transcription": "[ˈswɒləʊ] ",
+    "translate": "проглатывать, глоток "
+  },
+  {
+    "number": 4416,
+    "termin": "swamp ",
+    "transcription": "[swɒmp] ",
+    "translate": "болото, топь "
+  },
+  {
+    "number": 4417,
+    "termin": "swan ",
+    "transcription": "[swɒn] ",
+    "translate": "лебедь "
+  },
+  {
+    "number": 4418,
+    "termin": "swap ",
+    "transcription": "[swɒp] ",
+    "translate": "менять, обмен "
+  },
+  {
+    "number": 4419,
+    "termin": "swarm ",
+    "transcription": "[swɔːm] ",
+    "translate": "рой, роиться, толпиться "
+  },
+  {
+    "number": 4420,
+    "termin": "sway ",
+    "transcription": "[sweɪ] ",
+    "translate": "раскачивать "
+  },
+  {
+    "number": 4421,
+    "termin": "swear ",
+    "transcription": "[sweə] ",
+    "translate": "клясться "
+  },
+  {
+    "number": 4422,
+    "termin": "swear ",
+    "transcription": "[sweə] ",
+    "translate": "ругаться "
+  },
+  {
+    "number": 4423,
+    "termin": "sweat ",
+    "transcription": "[swɛt] ",
+    "translate": "пот, потеть "
+  },
+  {
+    "number": 4424,
+    "termin": "sweep ",
+    "transcription": "[swiːp] ",
+    "translate": "размах, охват "
+  },
+  {
+    "number": 4425,
+    "termin": "sweep (swept, swept) ",
+    "transcription": "[swiːp] ",
+    "translate": "подметать "
+  },
+  {
+    "number": 4426,
+    "termin": "sweetheart ",
+    "transcription": "[ˈswiːthɑːt] ",
+    "translate": "возлюбленный (ая), милый "
+  },
+  {
+    "number": 4427,
+    "termin": "swell (swelled, swollen) ",
+    "transcription": "[swɛl] ",
+    "translate": "раздуваться, распухать "
+  },
+  {
+    "number": 4428,
+    "termin": "swift ",
+    "transcription": "[swɪft] ",
+    "translate": "быстрый, скорый "
+  },
+  {
+    "number": 4429,
+    "termin": "swing (swung, swung) ",
+    "transcription": "[swɪŋ] ",
+    "translate": "качать, махать "
+  },
+  {
+    "number": 4430,
+    "termin": "swirl ",
+    "transcription": "[swɜːl] ",
+    "translate": "кружить, вихрь, водоворот "
+  },
+  {
+    "number": 4431,
+    "termin": "switch ",
+    "transcription": "[swɪʧ] ",
+    "translate": "переключать, переключатель "
+  },
+  {
+    "number": 4432,
+    "termin": "swoop ",
+    "transcription": "[swuːp] ",
+    "translate": "кинуться, напасть "
+  },
+  {
+    "number": 4433,
+    "termin": "sword ",
+    "transcription": "[sɔːd] ",
+    "translate": "меч "
+  },
+  {
+    "number": 4434,
+    "termin": "syllable ",
+    "transcription": "[ˈsɪləbl] ",
+    "translate": "слог "
+  },
+  {
+    "number": 4435,
+    "termin": "symbol ",
+    "transcription": "[ˈsɪmbəl] ",
+    "translate": "символ "
+  },
+  {
+    "number": 4436,
+    "termin": "sympathy ",
+    "transcription": "[ˈsɪmpəθi] ",
+    "translate": "сочуствие "
+  },
+  {
+    "number": 4437,
+    "termin": "syringe ",
+    "transcription": "[ˈsɪrɪnʤ] ",
+    "translate": "шприц "
+  }
+]

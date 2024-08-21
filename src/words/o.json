@@ -1,0 +1,722 @@
+[
+  {
+    "number": 2983,
+    "termin": "oak ",
+    "transcription": "[əʊk] ",
+    "translate": "дуб "
+  },
+  {
+    "number": 2984,
+    "termin": "oath ",
+    "transcription": "[əʊθ] ",
+    "translate": "клятва, присяга "
+  },
+  {
+    "number": 2985,
+    "termin": "oats ",
+    "transcription": "[əʊts] ",
+    "translate": "овес, овсянка "
+  },
+  {
+    "number": 2986,
+    "termin": "obedience ",
+    "transcription": "[əˈbiːdiəns] ",
+    "translate": "покорность "
+  },
+  {
+    "number": 2987,
+    "termin": "obese ",
+    "transcription": "[əʊˈbiːs] ",
+    "translate": "страдающий ожирением "
+  },
+  {
+    "number": 2988,
+    "termin": "obey ",
+    "transcription": "[əˈbeɪ] ",
+    "translate": "подчиняться, слушаться "
+  },
+  {
+    "number": 2989,
+    "termin": "object ",
+    "transcription": "[ˈɒbʤɪkt] ",
+    "translate": "возражать "
+  },
+  {
+    "number": 2990,
+    "termin": "objective ",
+    "transcription": "[əbˈʤɛktɪv] ",
+    "translate": "цель "
+  },
+  {
+    "number": 2991,
+    "termin": "oblige ",
+    "transcription": "[əˈblaɪʤ] ",
+    "translate": "обязывать "
+  },
+  {
+    "number": 2992,
+    "termin": "oblique ",
+    "transcription": "[əˈbliːk] ",
+    "translate": "косой, наклонный "
+  },
+  {
+    "number": 2993,
+    "termin": "obscene ",
+    "transcription": "[ɒbˈsiːn] ",
+    "translate": "непристойный "
+  },
+  {
+    "number": 2994,
+    "termin": "obscure ",
+    "transcription": "[əbˈskjʊə] ",
+    "translate": "неясный, тёмный "
+  },
+  {
+    "number": 2995,
+    "termin": "observe ",
+    "transcription": "[əbˈzɜːv] ",
+    "translate": "наблюдать "
+  },
+  {
+    "number": 2996,
+    "termin": "obsess ",
+    "transcription": "[əbˈsɛs] ",
+    "translate": "овладеть (разумом) "
+  },
+  {
+    "number": 2997,
+    "termin": "obsolete ",
+    "transcription": "[ˈɒbsəliːt] ",
+    "translate": "устарелый "
+  },
+  {
+    "number": 2998,
+    "termin": "obstacle ",
+    "transcription": "[ˈɒbstəkl] ",
+    "translate": "препятствие "
+  },
+  {
+    "number": 2999,
+    "termin": "obstruct ",
+    "transcription": "[əbˈstrʌkt] ",
+    "translate": "препятствовать, загромождать "
+  },
+  {
+    "number": 3000,
+    "termin": "obtain ",
+    "transcription": "[əbˈteɪn] ",
+    "translate": "получить, обрести "
+  },
+  {
+    "number": 3001,
+    "termin": "obvious ",
+    "transcription": "[ˈɒbvɪəs] ",
+    "translate": "очевидный "
+  },
+  {
+    "number": 3002,
+    "termin": "occasion ",
+    "transcription": "[əˈkeɪʒən] ",
+    "translate": "случай, событие "
+  },
+  {
+    "number": 3003,
+    "termin": "occupation ",
+    "transcription": "[ˌɒkjʊˈpeɪʃən] ",
+    "translate": "профессия, род деятельности "
+  },
+  {
+    "number": 3004,
+    "termin": "occupy ",
+    "transcription": "[ˈɒkjʊpaɪ] ",
+    "translate": "занимать "
+  },
+  {
+    "number": 3005,
+    "termin": "occur ",
+    "transcription": "[əˈkɜː] ",
+    "translate": "случиться "
+  },
+  {
+    "number": 3006,
+    "termin": "occur to ",
+    "transcription": "[əˈkɜːtuː] ",
+    "translate": "прийти в голову "
+  },
+  {
+    "number": 3007,
+    "termin": "odd ",
+    "transcription": "[ɒd] ",
+    "translate": "необычный, неправильный "
+  },
+  {
+    "number": 3008,
+    "termin": "odds ",
+    "transcription": "[ɒdz] ",
+    "translate": "шансы "
+  },
+  {
+    "number": 3009,
+    "termin": "odor (odour) ",
+    "transcription": "[ˈəʊdə] ",
+    "translate": "запах "
+  },
+  {
+    "number": 3010,
+    "termin": "offence ",
+    "transcription": "[əˈfɛns] ",
+    "translate": "обида "
+  },
+  {
+    "number": 3011,
+    "termin": "offence (offense) ",
+    "transcription": "[əˈfɛns] ",
+    "translate": "преступление, нарушение "
+  },
+  {
+    "number": 3012,
+    "termin": "offend ",
+    "transcription": "[əˈfɛnd] ",
+    "translate": "обидеть, оскорбить "
+  },
+  {
+    "number": 3013,
+    "termin": "offer ",
+    "transcription": "[ˈɒfə] ",
+    "translate": "предлагать, предложение "
+  },
+  {
+    "number": 3014,
+    "termin": "officer ",
+    "transcription": "[ˈɒfɪsə] ",
+    "translate": "служащий, должностное лицо "
+  },
+  {
+    "number": 3015,
+    "termin": "offset ",
+    "transcription": "[ˈɒfsɛt] ",
+    "translate": "смещение "
+  },
+  {
+    "number": 3016,
+    "termin": "offspring ",
+    "transcription": "[ˈɒfsprɪŋ] ",
+    "translate": "отпрыск, потомство "
+  },
+  {
+    "number": 3017,
+    "termin": "oil ",
+    "transcription": "[ɔɪl] ",
+    "translate": "масло "
+  },
+  {
+    "number": 3018,
+    "termin": "oil ",
+    "transcription": "[ɔɪl] ",
+    "translate": "нефть "
+  },
+  {
+    "number": 3019,
+    "termin": "ominous ",
+    "transcription": "[ˈɒmɪnəs] ",
+    "translate": "зловещий "
+  },
+  {
+    "number": 3020,
+    "termin": "omit ",
+    "transcription": "[əˈmɪt] ",
+    "translate": "пропускать "
+  },
+  {
+    "number": 3021,
+    "termin": "on account of ",
+    "transcription": "[ɒnəˈkaʊntɒv] ",
+    "translate": "в связи "
+  },
+  {
+    "number": 3022,
+    "termin": "on behalf of ",
+    "transcription": "[ɒnbɪˈhɑːfɒv] ",
+    "translate": "от имени "
+  },
+  {
+    "number": 3023,
+    "termin": "on foot ",
+    "transcription": "[ɒnfʊt] ",
+    "translate": "пешком "
+  },
+  {
+    "number": 3024,
+    "termin": "on purpose ",
+    "transcription": "[ɒnˈpɜːpəs] ",
+    "translate": "нарочно "
+  },
+  {
+    "number": 3025,
+    "termin": "on the contrary ",
+    "transcription": "[ɒnðəˈkɒntrəri] ",
+    "translate": "наоборот "
+  },
+  {
+    "number": 3026,
+    "termin": "once ",
+    "transcription": "[wʌns] ",
+    "translate": "однажды, когда-либо "
+  },
+  {
+    "number": 3027,
+    "termin": "ongoing ",
+    "transcription": "[ˈɒŋˌgəʊɪŋ] ",
+    "translate": "происходящий, продолжающий "
+  },
+  {
+    "number": 3028,
+    "termin": "onion ",
+    "transcription": "[ˈʌnjən] ",
+    "translate": "лук, луковица "
+  },
+  {
+    "number": 3029,
+    "termin": "onset ",
+    "transcription": "[ˈɒnsɛt] ",
+    "translate": "начало, наступление "
+  },
+  {
+    "number": 3030,
+    "termin": "onward (onwards) ",
+    "transcription": "[ˈɒnwəd] ",
+    "translate": "далее "
+  },
+  {
+    "number": 3031,
+    "termin": "opaque ",
+    "transcription": "[əʊˈpeɪk] ",
+    "translate": "непрозрачный "
+  },
+  {
+    "number": 3032,
+    "termin": "operate ",
+    "transcription": "[ˈɒpəreɪt] ",
+    "translate": "управлять, работать с "
+  },
+  {
+    "number": 3033,
+    "termin": "opinion ",
+    "transcription": "[əˈpɪnjən] ",
+    "translate": "мнение "
+  },
+  {
+    "number": 3034,
+    "termin": "opportunity ",
+    "transcription": "[ˌɒpəˈtjuːnɪti] ",
+    "translate": "возможность "
+  },
+  {
+    "number": 3035,
+    "termin": "oppose ",
+    "transcription": "[əˈpəʊz] ",
+    "translate": "противостоять "
+  },
+  {
+    "number": 3036,
+    "termin": "opposite ",
+    "transcription": "[ˈɒpəzɪt] ",
+    "translate": "противоположный "
+  },
+  {
+    "number": 3037,
+    "termin": "oppress ",
+    "transcription": "[əˈprɛs] ",
+    "translate": "угнетать, притеснять "
+  },
+  {
+    "number": 3038,
+    "termin": "opt for ",
+    "transcription": "[ɒptfɔː] ",
+    "translate": "выбирать из вариантов "
+  },
+  {
+    "number": 3039,
+    "termin": "option ",
+    "transcription": "[ˈɒpʃən] ",
+    "translate": "выбор, вариант "
+  },
+  {
+    "number": 3040,
+    "termin": "oral ",
+    "transcription": "[ˈɔːrəl] ",
+    "translate": "устный, ротовой "
+  },
+  {
+    "number": 3041,
+    "termin": "orchard ",
+    "transcription": "[ˈɔːʧəd] ",
+    "translate": "фруктовый сад "
+  },
+  {
+    "number": 3042,
+    "termin": "order ",
+    "transcription": "[ˈɔːdə] ",
+    "translate": "порядок, упорядочивать "
+  },
+  {
+    "number": 3043,
+    "termin": "order ",
+    "transcription": "[ˈɔːdə] ",
+    "translate": "заказ, заказывать "
+  },
+  {
+    "number": 3044,
+    "termin": "order ",
+    "transcription": "[ˈɔːdə] ",
+    "translate": "приказ "
+  },
+  {
+    "number": 3045,
+    "termin": "ordinary ",
+    "transcription": "[ˈɔːdnri] ",
+    "translate": "обычный "
+  },
+  {
+    "number": 3046,
+    "termin": "oriental ",
+    "transcription": "[ˌɔːrɪˈɛnt(ə)l] ",
+    "translate": "восточный, азиатский "
+  },
+  {
+    "number": 3047,
+    "termin": "origin ",
+    "transcription": "[ˈɒrɪʤɪn] ",
+    "translate": "происхождение, начало "
+  },
+  {
+    "number": 3048,
+    "termin": "original ",
+    "transcription": "[əˈrɪʤənl] ",
+    "translate": "первоначальный, первоисточник "
+  },
+  {
+    "number": 3049,
+    "termin": "orphan ",
+    "transcription": "[ˈɔːfən] ",
+    "translate": "сирота "
+  },
+  {
+    "number": 3050,
+    "termin": "ostensibly ",
+    "transcription": "[ɒsˈtɛnsəbli] ",
+    "translate": "по видимости, якобы "
+  },
+  {
+    "number": 3051,
+    "termin": "otherwise ",
+    "transcription": "[ˈʌðəwaɪz] ",
+    "translate": "иначе, иным образом "
+  },
+  {
+    "number": 3052,
+    "termin": "ought ",
+    "transcription": "[ɔːt] ",
+    "translate": "должен, обязан "
+  },
+  {
+    "number": 3053,
+    "termin": "ounce ",
+    "transcription": "[aʊns] ",
+    "translate": "унция "
+  },
+  {
+    "number": 3054,
+    "termin": "out loud ",
+    "transcription": "[aʊtlaʊd] ",
+    "translate": "вслух "
+  },
+  {
+    "number": 3055,
+    "termin": "outcome ",
+    "transcription": "[ˈaʊtkʌm] ",
+    "translate": "результат, исход "
+  },
+  {
+    "number": 3056,
+    "termin": "outdated ",
+    "transcription": "[aʊtˈdeɪtɪd] ",
+    "translate": "устаревший "
+  },
+  {
+    "number": 3057,
+    "termin": "outdoor (outdoors) ",
+    "transcription": "[ˈaʊtdɔː] ",
+    "translate": "на улице "
+  },
+  {
+    "number": 3058,
+    "termin": "outer ",
+    "transcription": "[ˈaʊtə] ",
+    "translate": "внешний "
+  },
+  {
+    "number": 3059,
+    "termin": "outfit ",
+    "transcription": "[ˈaʊtfɪt] ",
+    "translate": "наряд, комплект, набор "
+  },
+  {
+    "number": 3060,
+    "termin": "outgoing ",
+    "transcription": "[aʊtˈgəʊɪŋ] ",
+    "translate": "уходящий "
+  },
+  {
+    "number": 3061,
+    "termin": "outing ",
+    "transcription": "[ˈaʊtɪŋ] ",
+    "translate": "прогулка, пикник и т. д. "
+  },
+  {
+    "number": 3062,
+    "termin": "outlaw ",
+    "transcription": "[ˈaʊtlɔː] ",
+    "translate": "преступник (особ. на свободе) "
+  },
+  {
+    "number": 3063,
+    "termin": "outlet ",
+    "transcription": "[ˈaʊtlɛt] ",
+    "translate": "выход (отверстие) "
+  },
+  {
+    "number": 3064,
+    "termin": "outline ",
+    "transcription": "[ˈaʊtlaɪn] ",
+    "translate": "контур, очертание, очертить "
+  },
+  {
+    "number": 3065,
+    "termin": "outlook ",
+    "transcription": "[ˈaʊtlʊk] ",
+    "translate": "вид, взгляд, кругозор "
+  },
+  {
+    "number": 3066,
+    "termin": "outnumber ",
+    "transcription": "[aʊtˈnʌmbə] ",
+    "translate": "превосходить численно "
+  },
+  {
+    "number": 3067,
+    "termin": "output ",
+    "transcription": "[ˈaʊtpʊt] ",
+    "translate": "выпуск, выход "
+  },
+  {
+    "number": 3068,
+    "termin": "outrage ",
+    "transcription": "[ˈaʊtreɪʤ] ",
+    "translate": "произвол, насилие, поругание "
+  },
+  {
+    "number": 3069,
+    "termin": "outright ",
+    "transcription": "[ˈaʊtraɪt] ",
+    "translate": "прямой, откровенный "
+  },
+  {
+    "number": 3070,
+    "termin": "outset ",
+    "transcription": "[ˈaʊtsɛt] ",
+    "translate": "начало "
+  },
+  {
+    "number": 3071,
+    "termin": "outskirts ",
+    "transcription": "[ˈaʊtskɜːts] ",
+    "translate": "окраина, окрестности "
+  },
+  {
+    "number": 3072,
+    "termin": "outstanding ",
+    "transcription": "[aʊtˈstændɪŋ] ",
+    "translate": "выдающийся "
+  },
+  {
+    "number": 3073,
+    "termin": "outstanding ",
+    "transcription": "[aʊtˈstændɪŋ] ",
+    "translate": "неоплаченный "
+  },
+  {
+    "number": 3074,
+    "termin": "outweigh ",
+    "transcription": "[aʊtˈweɪ] ",
+    "translate": "перевешивать "
+  },
+  {
+    "number": 3075,
+    "termin": "oven ",
+    "transcription": "[ˈʌvn] ",
+    "translate": "печь, духовка "
+  },
+  {
+    "number": 3076,
+    "termin": "over ",
+    "transcription": "[ˈəʊvə] ",
+    "translate": "заново "
+  },
+  {
+    "number": 3077,
+    "termin": "overall ",
+    "transcription": "[ˈəʊvərɔːl] ",
+    "translate": "общий, целый "
+  },
+  {
+    "number": 3078,
+    "termin": "overcome ",
+    "transcription": "[ˌəʊvəˈkʌm] ",
+    "translate": "преодолеть, побороть "
+  },
+  {
+    "number": 3079,
+    "termin": "overflow ",
+    "transcription": "[ˈəʊvəfləʊ] ",
+    "translate": "переполняться, разлиться "
+  },
+  {
+    "number": 3080,
+    "termin": "overhead ",
+    "transcription": "[ˈəʊvɛhɛd] ",
+    "translate": "над головой "
+  },
+  {
+    "number": 3081,
+    "termin": "overhear ",
+    "transcription": "[ˌəʊvəˈhɪə] ",
+    "translate": "подслушать, нечаянно услышать "
+  },
+  {
+    "number": 3082,
+    "termin": "overlap ",
+    "transcription": "[ˌəʊvəˈlæp] ",
+    "translate": "перекрываться "
+  },
+  {
+    "number": 3083,
+    "termin": "overlook ",
+    "transcription": "[ˌəʊvəˈlʊk] ",
+    "translate": "не заметить "
+  },
+  {
+    "number": 3084,
+    "termin": "overnight ",
+    "transcription": "[ˌəʊvəˈnaɪt] ",
+    "translate": "ночной, с ночёвкой "
+  },
+  {
+    "number": 3085,
+    "termin": "override ",
+    "transcription": "[ˌəʊvəˈraɪd] ",
+    "translate": "перекрывать, отменять "
+  },
+  {
+    "number": 3086,
+    "termin": "overseas ",
+    "transcription": "[ˌəʊvəˈsiːz] ",
+    "translate": "за рубежом, особ. за морем "
+  },
+  {
+    "number": 3087,
+    "termin": "oversee ",
+    "transcription": "[ˌəʊvəˈsiː] ",
+    "translate": "контролировать, надзирать "
+  },
+  {
+    "number": 3088,
+    "termin": "oversight ",
+    "transcription": "[ˈəʊvəsaɪt] ",
+    "translate": "надзор "
+  },
+  {
+    "number": 3089,
+    "termin": "overt ",
+    "transcription": "[ˈəʊvɜːt] ",
+    "translate": "явный, открытый "
+  },
+  {
+    "number": 3090,
+    "termin": "overtake ",
+    "transcription": "[ˌəʊvəˈteɪk] ",
+    "translate": "обгонять "
+  },
+  {
+    "number": 3091,
+    "termin": "overthrow ",
+    "transcription": "[ˈəʊvəθrəʊ] ",
+    "translate": "свергнуть "
+  },
+  {
+    "number": 3092,
+    "termin": "overtime ",
+    "transcription": "[ˈəʊvətaɪm] ",
+    "translate": "сверхурочная работа "
+  },
+  {
+    "number": 3093,
+    "termin": "overturn ",
+    "transcription": "[ˈəʊvətɜːn] ",
+    "translate": "опрокинуть (ся) "
+  },
+  {
+    "number": 3094,
+    "termin": "overview ",
+    "transcription": "[ˈəʊvəvjuː] ",
+    "translate": "обзор "
+  },
+  {
+    "number": 3095,
+    "termin": "overwhelm ",
+    "transcription": "[ˌəʊvəˈwɛlm] ",
+    "translate": "завалить, подавить "
+  },
+  {
+    "number": 3096,
+    "termin": "owe ",
+    "transcription": "[əʊ] ",
+    "translate": "задолжать "
+  },
+  {
+    "number": 3097,
+    "termin": "owe ",
+    "transcription": "[əʊ] ",
+    "translate": "быть обязанным чем-л. "
+  },
+  {
+    "number": 3098,
+    "termin": "owl ",
+    "transcription": "[aʊl] ",
+    "translate": "сова "
+  },
+  {
+    "number": 3099,
+    "termin": "own ",
+    "transcription": "[əʊn] ",
+    "translate": "владеть "
+  },
+  {
+    "number": 3100,
+    "termin": "own up to ",
+    "transcription": "[əʊnʌptuː] ",
+    "translate": "признаться, согласиться "
+  },
+  {
+    "number": 3101,
+    "termin": "oxygen ",
+    "transcription": "[ˈɒksɪʤən] ",
+    "translate": "кислород "
+  },
+  {
+    "number": 3102,
+    "termin": "oyster ",
+    "transcription": "[ˈɔɪstə] ",
+    "translate": "устрица "
+  }
+]
