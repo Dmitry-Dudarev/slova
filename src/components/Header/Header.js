@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Header(props) {
   return (
     <div className="header">
-      <Link className="header__link app-link" to={"/"}>
+      <Link className="header__link app-link" to={"/slova/"}>
         <h1 className="app-text header__app-name">
           {textRu.headerAppName}
         </h1>

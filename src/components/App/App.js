@@ -31,7 +31,7 @@ function App() {
         <main>
           <Routes>
             <Route
-              path='/slova'
+              path='/slova/'
               element={
                 <Main />
               }>
