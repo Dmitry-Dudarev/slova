@@ -31,18 +31,18 @@ function App() {
         <main>
           <Routes>
             <Route
-              path='/'
+              path='/slova'
               element={
                 <Main />
               }>
               <Route index element={
                 <MainDefault />
               } />
-              <Route path='/:letter' element={
+              <Route path='/slova/:letter' element={
                 <Cards currentLetter={currentLetter} updateCurrentLesson={updateCurrentLesson} />
               } />
 
-              <Route path='/:letter/:number' element={
+              <Route path='/slova/:letter/:number' element={
                 <Lesson currentLesson={currentLesson} />
               } />
 
