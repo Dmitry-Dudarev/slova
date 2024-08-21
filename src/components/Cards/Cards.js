@@ -70,15 +70,9 @@ function Cards(props) {
     setLessons(createdLessons)
   };
 
-
-
-
-
-
-
   return (
     <section className="cards">
-      <h3 className="cards__title app-text">Карточки на бкуву {letter}</h3>
+      <h3 className="cards__title app-text">Карточки на букву <span className="cards__title-letter">{letter.toUpperCase()}</span></h3>
 
       {/* необходимо реализовать опции урока */}
 
@@ -88,11 +82,13 @@ function Cards(props) {
         <p className="configurator__title app-text">
           Выберите размер пакета карточек
         </p>
-        {lessonSizes.map(size => (
-          <button key={size} className="configurator__sizeselector" onClick={() => onSelectorHandleClick(size)}>
-            <p className="app-text">{`x ${size}`}</p>
-          </button>
-        ))}
+        <div className="configurator__buttons-container">
+          {lessonSizes.map(size => (
+            <div key={size} className="configurator__size-button" onClick={() => onSelectorHandleClick(size)}>
+              <p className="configurator__size-button-text app-text app-link">{`x ${size}`}</p>
+            </div>
+          ))}
+        </div>
       </div>
 
       <div className={

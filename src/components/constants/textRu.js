@@ -1,4 +1,5 @@
 export const textRu = {
   headerAppName: "СЛОВА",
-  lettersTitle: "Здесь будут отображаться буквы алфавита",
+  lettersTitle: "Буквы английского языка",
+  lettersShowButton: "Показать буквы",
 };

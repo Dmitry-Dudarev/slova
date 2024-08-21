@@ -4,18 +4,37 @@
   align-items: center;
 }
 
+.letters_hidden {
+  display: none;
+}
+
 .letters__title {
-  letter-spacing: normal;
+  font-size: 3vw;
+  padding-bottom: 2vw;
 }
 
 .letters__list {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(13, 1fr);
+  grid-template-columns: repeat(8, 1fr);
   grid-template-rows: auto;
-  column-gap: 3vw;
-  row-gap: 3vw;
+  column-gap: 2vw;
+  row-gap: 2vw;
+}
 
-  color: aliceblue;
-  border: 1px solid red;
+.letters__show-button {
+  width: 50vw;
+}
+
+.letter__show-button-text {
+  font-size: 3vw;
+  text-align: center;
+  background-color: rgb(35, 35, 35);
+  border-radius: 1vw;
+}
+
+@media (max-width: 450px) and (max-aspect-ratio: 1/1) {
+  .letters__list {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }

@@ -12,12 +12,15 @@ function Card(props) {
 
 
   return (
-    <Link className="card" to={`${index}`} onClick={() => hadleClick(lesson)}>
+    <Link className="card app-link" to={`${index}`} onClick={() => hadleClick(lesson)}>
       <p className="card__title app-text">{
         `${lesson[0].termin} - ${lesson.at(-1).termin}`}
       </p>
 
       <p className="card__wordcount app-text">
+        <span className="card__wordcount-text app-text">
+          карточек в уроке: 
+        </span>
         {lesson.length}
       </p>
     </Link>

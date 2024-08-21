@@ -8,6 +8,16 @@
 .app-text {
   margin: 0;
   line-height: 1;
-  letter-spacing: 0.7vw;
-  color: #b9b9b9;
+  color: #dbdbdb;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 0.2vw;
+}
+
+.app-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.app-link:hover {
+  background-color: black;
 }
