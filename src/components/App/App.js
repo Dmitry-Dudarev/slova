@@ -21,9 +21,6 @@ function App() {
   //   speechSynthesis.speak(utterance)
   // }, [])
 
-  const voices = window.speechSynthesis.getVoices();
-  console.log(voices)
-
   // const updateCurrentLetter = (newCurrentLetter) => {
   //   setCurrentLetter(newCurrentLetter)
   // };

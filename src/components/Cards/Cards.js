@@ -69,6 +69,8 @@ function Cards(props) {
     setLessons(createdLessons)
   };
 
+  console.log(wordList.length)
+
   return (
     <section className="cards">
       <h3 className="cards__title app-text">Карточки на букву <span className="cards__title-letter">{letter.toUpperCase()}</span></h3>
@@ -87,6 +89,10 @@ function Cards(props) {
               <p className="configurator__size-button-text app-text app-link">{`x ${size}`}</p>
             </div>
           ))}
+          {/* добавим возможность запустить все карточки разом */}
+          <div className="configurator__size-button" onClick={() => onSelectorHandleClick(wordList.length)}>
+            <p className="configurator__size-button-text app-text app-link">{`Все`}</p>
+          </div>
         </div>
       </div>
 
