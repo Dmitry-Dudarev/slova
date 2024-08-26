@@ -3,34 +3,52 @@ import './Letters.css';
 import { textRu } from "../constants/textRu";
 import { alphabeth } from "../../words/alphabet";
 import Letter from "../Letter/Letter";
+import { isMainOpen, lettersVisibility } from "../../state/atoms";
+import { useRecoilState, useRecoilValue } from "recoil";
 
 function Letters(props) {
-  const [isLetterSelected, setIsLetterSelected] = React.useState(false);
+  // const [isLettersInvisible, setIsLettersInvisible] = React.useState(false);
+  const [isLettersInvisible, setIsLettersInvisible] = useRecoilState(lettersVisibility);
+  const mainPageisOpen = useRecoilValue(isMainOpen);
 
-  function hideLetters() {
-    setIsLetterSelected(!isLetterSelected)
+  // function switchLetters() {
+  //   if (mainPageisOpen) {
+  //     setIsLettersInvisible(false)
+  //   } else {
+  //     setIsLettersInvisible(!isLettersInvisible)
+  //   }
+  // };
+
+  function switchLetters() {
+    setIsLettersInvisible(!isLettersInvisible)
   };
 
-  return (
-    isLetterSelected ?
+  console.log(useRecoilValue(isMainOpen))
 
-      <div className="letters__show-button" onClick={hideLetters}>
+
+
+  return (
+    isLettersInvisible ?
+
+      <div className="letters__show-button" onClick={switchLetters}>
         <p className="letter__show-button-text app-text app-link">{textRu.lettersShowButton}</p>
-      </div> 
-      
+      </div>
+
       :
 
-      <div className={`letters ${isLetterSelected && "letters_hidden"}`}>
+
+      <div className={`letters ${isLettersInvisible && "letters_hidden"}`}>
         <h2 className="app-text letters__title">
           {textRu.lettersTitle}
         </h2>
         <div className="letters__list">
           {
             alphabeth.map(letter => (
-              <Letter key={letter} name={letter} hideLetters={hideLetters} />
+              <Letter key={letter} name={letter} hideLetters={switchLetters} />
             ))}
         </div>
       </div>
+
 
   );
 };

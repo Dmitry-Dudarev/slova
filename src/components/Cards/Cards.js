@@ -69,8 +69,6 @@ function Cards(props) {
     setLessons(createdLessons)
   };
 
-  console.log(wordList.length)
-
   return (
     <section className="cards">
       <h3 className="cards__title app-text">Карточки на букву <span className="cards__title-letter">{letter.toUpperCase()}</span></h3>

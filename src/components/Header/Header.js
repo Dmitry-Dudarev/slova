@@ -4,6 +4,7 @@ import { textRu } from "../constants/textRu";
 import { Link } from "react-router-dom";
 
 function Header(props) {
+
   return (
     <div className="header">
       <Link className="header__link app-link" to={"/slova/"}>
