@@ -14,6 +14,15 @@ function App() {
   const [currentLetter, setCurrentLetter] = React.useState('');
   const [currentLesson, setCurrentLesson] = React.useState([]);
 
+  // React.useEffect(() => {
+  //   let utterance = new SpeechSynthesisUtterance("Hello, dude");
+  //   const voices = window.speechSynthesis.getVoices();
+  //   utterance.voice = voices[5]
+  //   speechSynthesis.speak(utterance)
+  // }, [])
+
+  const voices = window.speechSynthesis.getVoices();
+  console.log(voices)
 
   // const updateCurrentLetter = (newCurrentLetter) => {
   //   setCurrentLetter(newCurrentLetter)

@@ -56,6 +56,19 @@
 } 
 
 @media (max-width: 450px) {
+  .configurator__title {
+    font-size: 3.5vw;
+  }
+
+  .configurator__buttons-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .configurator__size-button-text {
+    font-size: 6vw;
+    padding: 6vw 1vw;
+  }
+
   .cards__title {
     font-size: 5vw;
   }
