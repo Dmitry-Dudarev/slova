@@ -2,10 +2,10 @@
   z-index: 2;
   display: flex;
   width: 90vw;
-  height: 90vh;
+  min-height: 90vh;
   border: 1px solid red;
   background-color: #000;
-  opacity: 0.8;
+  opacity: 0.9;
   position: absolute;
   top: 50%;
   left: 50%;

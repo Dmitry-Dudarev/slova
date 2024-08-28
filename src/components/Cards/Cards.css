@@ -34,10 +34,17 @@
   display: none;
 }
 
-.configurator__size-button-text {
-  font-size: 2vw;
+.configurator__size-button {
   background-color: rgb(35, 35, 35);
   border-radius: 1vw;
+  height: 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.configurator__size-button-text {
+  font-size: 2vw;
   text-align: center;
 }
 
@@ -53,7 +60,7 @@
     grid-template-columns: repeat(2, 1fr);
     padding-top: 2vw;
   }
-} 
+}
 
 @media (max-width: 450px) {
   .configurator__title {
@@ -64,12 +71,15 @@
     grid-template-columns: repeat(3, 1fr);
   }
 
+  .configurator__size-button {
+    height: 10vw;
+  }
+
   .configurator__size-button-text {
     font-size: 6vw;
-    padding: 6vw 1vw;
   }
 
   .cards__title {
     font-size: 5vw;
   }
-} 
+}

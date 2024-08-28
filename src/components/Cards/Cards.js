@@ -83,13 +83,13 @@ function Cards(props) {
         </p>
         <div className="configurator__buttons-container">
           {lessonSizes.map(size => (
-            <div key={size} className="configurator__size-button" onClick={() => onSelectorHandleClick(size)}>
-              <p className="configurator__size-button-text app-text app-link">{`x ${size}`}</p>
+            <div key={size} className="configurator__size-button app-link" onClick={() => onSelectorHandleClick(size)}>
+              <p className="configurator__size-button-text app-text">{`x ${size}`}</p>
             </div>
           ))}
           {/* добавим возможность запустить все карточки разом */}
-          <div className="configurator__size-button" onClick={() => onSelectorHandleClick(wordList.length)}>
-            <p className="configurator__size-button-text app-text app-link">{`Все`}</p>
+          <div className="configurator__size-button app-link" onClick={() => onSelectorHandleClick(wordList.length)}>
+            <p className="configurator__size-button-text app-text">{`Все`}</p>
           </div>
         </div>
       </div>

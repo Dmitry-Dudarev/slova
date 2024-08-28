@@ -19,3 +19,8 @@ export const popupState = atom({
     key: "isPopupHidden",
     default: true
 });
+
+export const popupContentState = atom({
+    key: "popupContent",
+    default:""
+})

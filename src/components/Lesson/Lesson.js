@@ -3,15 +3,17 @@ import "./Lesson.css";
 import Word from "../Word/Word";
 import navArronw from "../../images/navArrow.svg";
 import menuIcon from "../../images/menuIcon.svg";
-import { popupState } from "../../state/atoms";
+import { popupState, popupContentState } from "../../state/atoms";
 import { useRecoilState } from "recoil";
 
 function Lesson({ currentLesson }) {
   const [currentWord, setCurrentWord] = React.useState(0);
   const [isPopupHidden, setIsPopupHidden] = useRecoilState(popupState);
+  const [popupContent, setPopupContent] = useRecoilState(popupContentState);
 
   const handleMenuIconClick = () => {
     setIsPopupHidden(false);
+    setPopupContent("lesson");
   };
 
   function handleClick(direction) {
@@ -21,8 +23,6 @@ function Lesson({ currentLesson }) {
       setCurrentWord(currentWord + 1)
     }
   };
-
-  console.log(currentLesson.length, currentWord + 1)
 
   return (
     <div className="lesson">
