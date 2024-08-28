@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from '../Header/Header';
 import { Routes, Route, useLocation } from 'react-router-dom';
-import { useRecoilState, useRecoilValue } from 'recoil';
+import { useRecoilState } from 'recoil';
 import { mainOpenState, letterButtonPushState } from '../../state/atoms';
 import Main from '../Main/Main';
 import MainDefault from '../MainDefault/MainDefault';
