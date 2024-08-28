@@ -9,6 +9,7 @@ import MainDefault from '../MainDefault/MainDefault';
 import Cards from '../Cards/Cards';
 import letterContext from '../../Contexts/letterContext';
 import Lesson from '../Lesson/Lesson';
+import Popup from '../Popup/Popup';
 
 function App() {
 
@@ -19,8 +20,8 @@ function App() {
 
   const location = useLocation().pathname;
 
-  React.useEffect(()=> {
-    if(location.endsWith("/slova/" || "/slova")){
+  React.useEffect(() => {
+    if (location.endsWith("/slova/" || "/slova")) {
       setIsMainPageOpen(true)
       setIsLetterButtonPushed(false)
     } else {
@@ -45,33 +46,34 @@ function App() {
 
   return (
 
-      <div className="app">
-        <Header />
-        <letterContext.Provider value={{ currentLetter, setCurrentLetter }}>
-          <main>
-            <Routes>
-              <Route
-                path='/slova/'
-                element={
-                  <Main />
-                }>
-                <Route index element={
-                  <MainDefault />
-                } />
-                <Route path='/slova/:letter' element={
-                  <Cards currentLetter={currentLetter} updateCurrentLesson={updateCurrentLesson} />
-                } />
+    <div className="app">
+      <Header />
 
-                <Route path='/slova/:letter/:number' element={
-                  <Lesson currentLesson={currentLesson} />
-                } />
+      <main>
+        <Routes>
+          <Route
+            path='/slova/'
+            element={
+              <Main />
+            }>
+            <Route index element={
+              <MainDefault />
+            } />
+            <Route path='/slova/:letter' element={
+              <Cards currentLetter={currentLetter} updateCurrentLesson={updateCurrentLesson} />
+            } />
 
-              </Route>
+            <Route path='/slova/:letter/:number' element={
+              <Lesson currentLesson={currentLesson} />
+            } />
 
-            </Routes>
-          </main>
-        </letterContext.Provider>
-      </div>
+          </Route>
+        </Routes>
+      </main>
+      
+      <Popup />
+
+    </div>
 
   );
 }

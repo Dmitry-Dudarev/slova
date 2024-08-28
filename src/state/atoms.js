@@ -14,3 +14,8 @@ export const letterButtonPushState = atom({
     key: "isLetterButtonPushed",
     default: false
 });
+
+export const popupState = atom({
+    key: "isPopupHidden",
+    default: true
+});

@@ -14,6 +14,43 @@
   transform: rotate(0.5turn);
 }
 
-.lesson__translate_hidden{
+.lesson__section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lesson__options {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.lesson__options-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.lesson__counter {
+  font-size: 2vw;
+}
+
+.lesson__options-icon {
+  width: 4vw;
+}
+
+.lesson__translate_hidden {
   visibility: hidden;
+}
+
+@media (max-width:450px) {
+  .lesson__counter {
+    font-size: 5vw;
+  }
+
+  .lesson__options-icon {
+    width: 8vw;
+  }
 }

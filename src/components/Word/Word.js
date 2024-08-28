@@ -11,7 +11,7 @@ function Word({ word }) {
   };
 
   return (
-    <div className="word">
+    <div className="word">  
       <p className="word__termin app-text">{termin}</p>
 
       <div className="word__translate-section" onClick={handleClick}>
