@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/slova/static/css/main.173f869f.css",
-    "main.js": "/slova/static/js/main.741b354d.js",
+    "main.css": "/slova/static/css/main.3e3e98dc.css",
+    "main.js": "/slova/static/js/main.0f0278ad.js",
     "static/js/424.7f4df905.chunk.js": "/slova/static/js/424.7f4df905.chunk.js",
     "static/js/576.9b9a2eb8.chunk.js": "/slova/static/js/576.9b9a2eb8.chunk.js",
     "static/js/600.1ac5cbda.chunk.js": "/slova/static/js/600.1ac5cbda.chunk.js",
@@ -35,12 +35,12 @@
     "static/media/navArrow.svg": "/slova/static/media/navArrow.b595789a5e0b2ab150ded88cbe7de1d7.svg",
     "index.html": "/slova/index.html",
     "static/media/closeIcon.svg": "/slova/static/media/closeIcon.cba4193364126a4712e9e028247e680a.svg",
-    "main.173f869f.css.map": "/slova/static/css/main.173f869f.css.map",
-    "main.741b354d.js.map": "/slova/static/js/main.741b354d.js.map",
+    "main.3e3e98dc.css.map": "/slova/static/css/main.3e3e98dc.css.map",
+    "main.0f0278ad.js.map": "/slova/static/js/main.0f0278ad.js.map",
     "592.a2113b25.chunk.js.map": "/slova/static/js/592.a2113b25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.173f869f.css",
-    "static/js/main.741b354d.js"
+    "static/css/main.3e3e98dc.css",
+    "static/js/main.0f0278ad.js"
   ]
 }
