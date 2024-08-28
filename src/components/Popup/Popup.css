@@ -10,8 +10,22 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  padding-top: 6vw;
+  box-sizing: border-box;
 }
 
 .popup_hidden {
   display: none;
+}
+
+.popup__close-icon {
+  width: 5vw;
+  position: fixed;
+  top: 1vh;
+  right: 1vw;
+  transition: opacity 0.3s ease;
+}
+
+.popup__close-icon:hover {
+  opacity: 0.4;
 }

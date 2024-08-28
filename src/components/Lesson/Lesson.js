@@ -3,10 +3,16 @@ import "./Lesson.css";
 import Word from "../Word/Word";
 import navArronw from "../../images/navArrow.svg";
 import menuIcon from "../../images/menuIcon.svg";
-import { textRu } from "../constants/textRu";
+import { popupState } from "../../state/atoms";
+import { useRecoilState } from "recoil";
 
 function Lesson({ currentLesson }) {
   const [currentWord, setCurrentWord] = React.useState(0);
+  const [isPopupHidden, setIsPopupHidden] = useRecoilState(popupState);
+
+  const handleMenuIconClick = () => {
+    setIsPopupHidden(false);
+  };
 
   function handleClick(direction) {
     if (direction === "left" && currentWord > 0) {
@@ -32,7 +38,11 @@ function Lesson({ currentLesson }) {
                 {`${currentLesson.length} / ${currentWord + 1}`}
               </p>
 
-              <img className="lesson__options-icon app-link" src={menuIcon} alt="menu" />
+              <img 
+              className="lesson__options-icon app-link" 
+              src={menuIcon} 
+              alt="menu"
+              onClick={handleMenuIconClick} />
 
             </div>
             <Word word={currentLesson[currentWord]} />
