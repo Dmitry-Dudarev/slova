@@ -1,11 +1,16 @@
 import { atom } from "recoil";
 
-export const isMainOpen = atom({
+// Обе переменных влияют на переменную-селектор видимости букв:
+
+// отвечает, открыта ли сейчас
+// главная страница
+export const mainOpenState = atom({
     key: "isMainOpen",
-    default: false
+    default: true
 });
 
-export const lettersVisibility = atom({
-    key: "isLettersInvisible",
+// Отвечает, была ли нажата кнопка выбора буквы
+export const letterButtonPushState = atom({
+    key: "isLetterButtonPushed",
     default: false
-})
+});

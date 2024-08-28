@@ -3,29 +3,18 @@ import './Letters.css';
 import { textRu } from "../constants/textRu";
 import { alphabeth } from "../../words/alphabet";
 import Letter from "../Letter/Letter";
-import { isMainOpen, lettersVisibility } from "../../state/atoms";
+import { letterButtonPushState } from "../../state/atoms";
+import { lettersVisibility } from "../../state/selectors";
 import { useRecoilState, useRecoilValue } from "recoil";
 
 function Letters(props) {
-  // const [isLettersInvisible, setIsLettersInvisible] = React.useState(false);
-  const [isLettersInvisible, setIsLettersInvisible] = useRecoilState(lettersVisibility);
-  const mainPageisOpen = useRecoilValue(isMainOpen);
-
-  // function switchLetters() {
-  //   if (mainPageisOpen) {
-  //     setIsLettersInvisible(false)
-  //   } else {
-  //     setIsLettersInvisible(!isLettersInvisible)
-  //   }
-  // };
+  
+  const [isLetterButtonPushed, setIsLetterButtonPushed] = useRecoilState(letterButtonPushState);
+  const isLettersInvisible = useRecoilValue(lettersVisibility);
 
   function switchLetters() {
-    setIsLettersInvisible(!isLettersInvisible)
+    setIsLetterButtonPushed(!isLetterButtonPushed);
   };
-
-  console.log(useRecoilValue(isMainOpen))
-
-
 
   return (
     isLettersInvisible ?
@@ -35,7 +24,6 @@ function Letters(props) {
       </div>
 
       :
-
 
       <div className={`letters ${isLettersInvisible && "letters_hidden"}`}>
         <h2 className="app-text letters__title">
@@ -48,8 +36,6 @@ function Letters(props) {
             ))}
         </div>
       </div>
-
-
   );
 };
 
