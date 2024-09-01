@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/slova/static/css/main.40153b6e.css",
-    "main.js": "/slova/static/js/main.a7498050.js",
+    "main.css": "/slova/static/css/main.45a27f6e.css",
+    "main.js": "/slova/static/js/main.e7c79b1e.js",
     "static/js/424.7f4df905.chunk.js": "/slova/static/js/424.7f4df905.chunk.js",
     "static/js/576.9b9a2eb8.chunk.js": "/slova/static/js/576.9b9a2eb8.chunk.js",
     "static/js/600.1ac5cbda.chunk.js": "/slova/static/js/600.1ac5cbda.chunk.js",
@@ -31,18 +31,19 @@
     "static/js/592.a2113b25.chunk.js": "/slova/static/js/592.a2113b25.chunk.js",
     "static/media/CourierNew.woff": "/slova/static/media/CourierNew.600838f76351ec43e28e.woff",
     "static/media/CourierNew.woff2": "/slova/static/media/CourierNew.4282cd9c3752b5678c3e.woff2",
+    "static/media/speakerIcon.svg": "/slova/static/media/speakerIcon.fb2383a2e065915e8bce367a1b481af4.svg",
     "static/media/menuIcon.svg": "/slova/static/media/menuIcon.fdd6aaa04f4e68f6b06e78bb512eb27f.svg",
     "static/media/checkboxUnchecked.svg": "/slova/static/media/checkboxUnchecked.3cbd496e353e893bd819f4c4ee5d97fe.svg",
     "static/media/checkboxChecked.svg": "/slova/static/media/checkboxChecked.fd93510958c05b9e051a16f55681b784.svg",
     "static/media/navArrow.svg": "/slova/static/media/navArrow.b595789a5e0b2ab150ded88cbe7de1d7.svg",
     "index.html": "/slova/index.html",
     "static/media/closeIcon.svg": "/slova/static/media/closeIcon.cba4193364126a4712e9e028247e680a.svg",
-    "main.40153b6e.css.map": "/slova/static/css/main.40153b6e.css.map",
-    "main.a7498050.js.map": "/slova/static/js/main.a7498050.js.map",
+    "main.45a27f6e.css.map": "/slova/static/css/main.45a27f6e.css.map",
+    "main.e7c79b1e.js.map": "/slova/static/js/main.e7c79b1e.js.map",
     "592.a2113b25.chunk.js.map": "/slova/static/js/592.a2113b25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40153b6e.css",
-    "static/js/main.a7498050.js"
+    "static/css/main.45a27f6e.css",
+    "static/js/main.e7c79b1e.js"
   ]
 }
