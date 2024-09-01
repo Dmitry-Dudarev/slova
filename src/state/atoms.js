@@ -32,3 +32,11 @@ export const transcriptionVisibilityState = atom({
     key: "isTranscriptionVisible",
     default: true
 });
+
+// ОЗВУЧКА
+
+// браузер способер синтезировать речь нашим методом?
+export const speechSynthesisAbilityState = atom({
+    key: "isSpeechSynthAvailabeInBrowser",
+    default: false
+});

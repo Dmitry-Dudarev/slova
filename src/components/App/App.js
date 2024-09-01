@@ -3,7 +3,7 @@ import './App.css';
 import Header from '../Header/Header';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { useRecoilState } from 'recoil';
-import { mainOpenState, letterButtonPushState } from '../../state/atoms';
+import { mainOpenState, letterButtonPushState, speechSynthesisAbilityState } from '../../state/atoms';
 import Main from '../Main/Main';
 import MainDefault from '../MainDefault/MainDefault';
 import Cards from '../Cards/Cards';
@@ -17,8 +17,17 @@ function App() {
   const [currentLesson, setCurrentLesson] = React.useState([]);
   const [isMainPageOpen, setIsMainPageOpen] = useRecoilState(mainOpenState);
   const [isLetterButtonPushed, setIsLetterButtonPushed] = useRecoilState(letterButtonPushState);
+  const [isSpeechSynthAvailable, setIsSpeechSynthAvailable] = useRecoilState(speechSynthesisAbilityState);
 
   const location = useLocation().pathname;
+
+  // установим переменную, отвечающую за возможность 
+  // синтеза речи браузером в соответствующее значение
+  React.useEffect(()=>{
+    if(window.speechSynthesis) {
+      setIsSpeechSynthAvailable(true);
+    }
+  },[]);
 
   React.useEffect(() => {
     if (location.endsWith("/slova/" || "/slova")) {
