@@ -24,14 +24,16 @@ function Word({ word }) {
     return word.transcription;
   };
 
-  // Возможность озвучивания
-  // const synth = window.speechSynthesis;
-  // let utterance = new SpeechSynthesisUtterance(termin);
+  // Озвучивание
+  const speachSynth = window.speechSynthesis;
+  let utterance = new SpeechSynthesisUtterance(termin);
   // const voices = window.speechSynthesis.getVoices();
 
-
-
-  function handleClick() {
+  const sayTermin = () => {
+    speachSynth.speak(utterance)
+  };
+  
+  function showTranslate() {
     setIsTranslateVisible(!isTranslateVisible)
   };
 
@@ -45,11 +47,12 @@ function Word({ word }) {
         </p>
       }
 
-      <div className="word__translate-section" onClick={handleClick}>
+      <div className="word__translate-section" onClick={showTranslate}>
         <p className={`word__translate app-text ${isTranslateVisible && "word__translate_visible"}`}>{translate}</p>
       </div>
+
       {isSpeakerButtonVisible &&
-        <div className="word__speaker-button-container">
+        <div className="word__speaker-button-container app-link" onClick={sayTermin}>
           <img className="word__speaker-button" src={speakerIcon} alt="speak" />
         </div>
       }

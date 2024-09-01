@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import Header from '../Header/Header';
 import { Routes, Route, useLocation } from 'react-router-dom';
-import { useRecoilState } from 'recoil';
-import { mainOpenState, letterButtonPushState, speechSynthesisAbilityState } from '../../state/atoms';
+import { useRecoilState, useRecoilValue } from 'recoil';
+import { mainOpenState, letterButtonPushState, speechSynthesisAbilityState, speakerVoicesList, currentLanguage } from '../../state/atoms';
 import Main from '../Main/Main';
 import MainDefault from '../MainDefault/MainDefault';
 import Cards from '../Cards/Cards';
@@ -18,16 +18,40 @@ function App() {
   const [isMainPageOpen, setIsMainPageOpen] = useRecoilState(mainOpenState);
   const [isLetterButtonPushed, setIsLetterButtonPushed] = useRecoilState(letterButtonPushState);
   const [isSpeechSynthAvailable, setIsSpeechSynthAvailable] = useRecoilState(speechSynthesisAbilityState);
+  const [speakerVoices, setSpeakerVoices] = useRecoilState(speakerVoicesList);
 
   const location = useLocation().pathname;
 
   // установим переменную, отвечающую за возможность 
   // синтеза речи браузером в соответствующее значение
-  React.useEffect(()=>{
-    if(window.speechSynthesis) {
+  React.useEffect(() => {
+    if (window.speechSynthesis) {
       setIsSpeechSynthAvailable(true);
     }
-  },[]);
+  }, []);
+
+
+  // Получим список голосов для озвучки
+  React.useEffect(() => {
+    // список голосов может загрузиться не сразу,
+    // поэтому изначально метод может возвращать пустой массив
+    // а значит добавим проверку длинны вернувшегося массива
+    const populateVoiceList = () => {
+      const voices = window.speechSynthesis.getVoices();
+      if (voices.length > 0) {
+        setSpeakerVoices(voices);
+      }
+    }
+    // инициируем загрузку голосов
+    populateVoiceList();
+    // подпишемся на событие изменения списка доступных голосов
+    // когда браузер завершит их загрузку
+    window.speechSynthesis.onvoiceschanged = populateVoiceList;
+    // традиционно - отпишемся от события
+    return () => {
+      window.speechSynthesis.onvoiceschanged = null;
+    }
+  }, [setSpeakerVoices])
 
   React.useEffect(() => {
     if (location.endsWith("/slova/" || "/slova")) {
@@ -79,7 +103,7 @@ function App() {
           </Route>
         </Routes>
       </main>
-      
+
       <Popup />
 
     </div>

@@ -3,6 +3,7 @@
   flex-direction: column;
   width: 79vw;
   flex-grow: 1;
+  padding-bottom: 2vw;
 }
 
 .word__termin {
@@ -62,6 +63,10 @@
 }
 
 @media (max-width: 450px) {
+  .word {
+    padding-bottom: 5vw;
+  }
+
   .word__termin {
     font-size: 10vw;
   }

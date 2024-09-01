@@ -47,4 +47,17 @@ export const speechSynthesisAbilityState = atom({
 export const speakerButtonState = atom({
     key: "isSpeakerButtonVisible",
     default: false
-})
+});
+
+// введем переменную, отвечающую за текущий язык
+// на случай, если появятся другие языки для изучения
+export const currentLanguage = atom({
+    key: "currentLanguage",
+    default: "en"
+});
+
+// список голосов
+export const speakerVoicesList = atom({
+    key: "speakerVoicesList",
+    default: []
+});
