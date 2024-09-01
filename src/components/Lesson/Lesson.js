@@ -3,8 +3,12 @@ import "./Lesson.css";
 import Word from "../Word/Word";
 import navArronw from "../../images/navArrow.svg";
 import menuIcon from "../../images/menuIcon.svg";
-import { popupState, popupContentState } from "../../state/atoms";
 import { useRecoilState } from "recoil";
+import {
+  popupState,
+  popupContentState,
+} from "../../state/atoms";
+
 
 function Lesson({ currentLesson }) {
   const [currentWord, setCurrentWord] = React.useState(0);
@@ -38,11 +42,11 @@ function Lesson({ currentLesson }) {
                 {`${currentLesson.length} / ${currentWord + 1}`}
               </p>
 
-              <img 
-              className="lesson__options-icon app-link" 
-              src={menuIcon} 
-              alt="menu"
-              onClick={handleMenuIconClick} />
+              <img
+                className="lesson__options-icon app-link"
+                src={menuIcon}
+                alt="menu"
+                onClick={handleMenuIconClick} />
 
             </div>
             <Word word={currentLesson[currentWord]} />

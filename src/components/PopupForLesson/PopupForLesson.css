@@ -1,0 +1,27 @@
+.popup-for-lesson {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0;
+  margin: 2vw;
+}
+
+.popup-for-lesson__unit {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  transition: opacity 0.3s ease;
+}
+
+.popup-for-lesson__unit:hover {
+  opacity: 0.7;
+}
+
+.popup-for-lesson__unit-text {
+  font-size: 4vw;
+}
+
+.popup-for-lesson__unit-checkbox {
+  width: 5vw;
+}

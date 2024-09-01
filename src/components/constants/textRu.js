@@ -5,5 +5,7 @@ export const textRu = {
   lettersTitle: "Буквы английского языка",
   lettersShowButton: "Показать буквы",
   // Lesson
-  PopupLessonShowTranscription: "Показать транскрипцию",
+  popupLessonShowTranscription: "Показать транскрипцию",
+  //Word
+  noTranscriptionInWord: "Транскрипция не была добавлена",
 };

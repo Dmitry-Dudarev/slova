@@ -12,6 +12,13 @@
   border: 1px solid red;
 }
 
+.word__transcription {
+  text-align: center;
+  font-size: 6vw;
+  margin-bottom: 2vw;
+  border: 1px solid green;
+}
+
 .word__translate-section {
   display: flex;
   flex-direction: column;

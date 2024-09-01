@@ -15,12 +15,20 @@ export const letterButtonPushState = atom({
     default: false
 });
 
+// показ попапа
 export const popupState = atom({
     key: "isPopupHidden",
     default: true
 });
 
+// отвечает за содержимое попапа
 export const popupContentState = atom({
     key: "popupContent",
     default:""
-})
+});
+
+// видимость транскрипции
+export const transcriptionVisibilityState = atom({
+    key: "isTranscriptionVisible",
+    default: true
+});
