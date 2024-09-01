@@ -7,4 +7,6 @@ export const textRu = {
   noTranscriptionInWord: "Транскрипция не была добавлена",
   // Озвучка
   popupLessonShowSpeaker: "Показать кнопку озвучки",
+  speakerOptionsFilterError: "Нет голосов, удовлетворяющих выбранному языку",
+  speakerOptionsSelectLanguage: "Выберите голос озвучки",
 };

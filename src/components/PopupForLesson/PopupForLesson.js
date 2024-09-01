@@ -5,6 +5,7 @@ import checkboxChecked from "../../images/checkboxChecked.svg";
 import checkboxUnchecked from "../../images/checkboxUnchecked.svg";
 import { useRecoilState } from "recoil";
 import { speakerButtonState, transcriptionVisibilityState } from "../../state/atoms";
+import SpeakerOptions from "../SpeakerOptions/SpeakerOptions";
 
 function PopupForLesson(props) {
   const [isTranscriptionVisible, setIsTranscriptionVisible] = useRecoilState(transcriptionVisibilityState);
@@ -38,6 +39,11 @@ function PopupForLesson(props) {
           src={isSpeakerButtonVisible ? checkboxChecked : checkboxUnchecked}
           alt={isSpeakerButtonVisible ? "checked" : "unchecked"} />
       </li>
+      {isSpeakerButtonVisible &&
+        <li className="popup-for-lesson__unit_options">
+          <SpeakerOptions />
+        </li>
+      }
     </ul>
   );
 };

@@ -61,3 +61,9 @@ export const speakerVoicesList = atom({
     key: "speakerVoicesList",
     default: []
 });
+
+// выбранный голос
+export const selectedVoiceByUser = atom({
+    key: "selectedVoice",
+    default: []
+});

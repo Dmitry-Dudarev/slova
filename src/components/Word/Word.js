@@ -2,7 +2,7 @@ import React from "react";
 import "./Word.css";
 import { textRu } from "../constants/textRu";
 import { useRecoilValue } from "recoil";
-import { speakerButtonState, transcriptionVisibilityState } from "../../state/atoms";
+import { selectedVoiceByUser, speakerButtonState, transcriptionVisibilityState } from "../../state/atoms";
 import speakerIcon from "../../images/speakerIcon.svg";
 
 
@@ -13,6 +13,7 @@ function Word({ word }) {
   const [isTranslateVisible, setIsTranslateVisible] = React.useState(false);
   const isTranscriptionVisible = useRecoilValue(transcriptionVisibilityState);
   const isSpeakerButtonVisible = useRecoilValue(speakerButtonState);
+  const selectedVoice = useRecoilValue(selectedVoiceByUser);
 
   // не у всех слов есть транскрипция
   function returnTranscription(word) {
@@ -27,7 +28,7 @@ function Word({ word }) {
   // Озвучивание
   const speachSynth = window.speechSynthesis;
   let utterance = new SpeechSynthesisUtterance(termin);
-  // const voices = window.speechSynthesis.getVoices();
+  utterance.voice = selectedVoice;
 
   const sayTermin = () => {
     speachSynth.speak(utterance)

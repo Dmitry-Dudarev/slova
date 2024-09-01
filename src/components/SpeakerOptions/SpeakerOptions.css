@@ -1,0 +1,33 @@
+.speaker-options {
+  width: 90%;
+  background-color: rgb(62, 62, 62);
+  border-radius: 2vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3vw;
+}
+
+.speaker-options__title {
+  font-size: 4vw;
+  padding: 5vw;
+  color: rgb(82, 220, 82);
+}
+
+.speaker-options__unit {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3vw 0;
+  border-radius: 2vw;
+}
+
+.speaker-options__voice {
+  font-size: 4vw;
+}
+
+.speaker-options__select-icon {
+  width: 5vw;
+}

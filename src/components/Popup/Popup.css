@@ -2,16 +2,22 @@
   z-index: 2;
   display: flex;
   width: 90vw;
-  min-height: 90vh;
+  height: 90vh;
   border: 1px solid red;
   background-color: #000;
-  opacity: 0.9;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding-top: 10vw;
   box-sizing: border-box;
+  overflow: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.popup::-webkit-scrollbar {
+  display: none;
 }
 
 .popup_hidden {
