@@ -20,8 +20,6 @@ function SpeakerOptions(props) {
     setSelectedVoice(handleSelectedVoice);
   }
 
-  console.log(selectedVoice)
-
   return (
     <div className="speaker-options">
       <p className="speaker-options__title app-text">
@@ -39,7 +37,7 @@ function SpeakerOptions(props) {
             </p>
             <img
               className="speaker-options__select-icon"
-              src={selectedVoice.name === voice.name ? checkboxChecked : checkboxUnchecked}
+              src={selectedVoice?.name === voice.name ? checkboxChecked : checkboxUnchecked}
               alt={voice.name} />
           </div>
         )
