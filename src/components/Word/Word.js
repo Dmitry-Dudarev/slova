@@ -28,9 +28,11 @@ function Word({ word }) {
   // Озвучивание
   const speachSynth = window.speechSynthesis;
   let utterance = new SpeechSynthesisUtterance(termin);
-  utterance.voice = selectedVoice;
 
   const sayTermin = () => {
+    if(selectedVoice) {
+      utterance.voice = selectedVoice;
+    }
     speachSynth.speak(utterance)
   };
   
