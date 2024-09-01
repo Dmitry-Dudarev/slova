@@ -22,6 +22,8 @@ export const popupState = atom({
 });
 
 // отвечает за содержимое попапа
+// значение будет зависеть от того, 
+// из какого компонента открывают попап
 export const popupContentState = atom({
     key: "popupContent",
     default:""
@@ -35,8 +37,14 @@ export const transcriptionVisibilityState = atom({
 
 // ОЗВУЧКА
 
-// браузер способер синтезировать речь нашим методом?
+// браузер способер синтезировать речь с помощью speechSynthesis?
 export const speechSynthesisAbilityState = atom({
     key: "isSpeechSynthAvailabeInBrowser",
     default: false
 });
+
+// видимость кнопки озвучки
+export const speakerButtonState = atom({
+    key: "isSpeakerButtonVisible",
+    default: false
+})

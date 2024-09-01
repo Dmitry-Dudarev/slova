@@ -2,7 +2,8 @@ import React from "react";
 import "./Word.css";
 import { textRu } from "../constants/textRu";
 import { useRecoilValue } from "recoil";
-import { transcriptionVisibilityState } from "../../state/atoms";
+import { speakerButtonState, transcriptionVisibilityState } from "../../state/atoms";
+import speakerIcon from "../../images/speakerIcon.svg";
 
 
 function Word({ word }) {
@@ -11,6 +12,7 @@ function Word({ word }) {
   const transcription = returnTranscription(word);
   const [isTranslateVisible, setIsTranslateVisible] = React.useState(false);
   const isTranscriptionVisible = useRecoilValue(transcriptionVisibilityState);
+  const isSpeakerButtonVisible = useRecoilValue(speakerButtonState);
 
   // не у всех слов есть транскрипция
   function returnTranscription(word) {
@@ -46,6 +48,11 @@ function Word({ word }) {
       <div className="word__translate-section" onClick={handleClick}>
         <p className={`word__translate app-text ${isTranslateVisible && "word__translate_visible"}`}>{translate}</p>
       </div>
+      {isSpeakerButtonVisible &&
+        <div className="word__speaker-button-container">
+          <img className="word__speaker-button" src={speakerIcon} alt="speak" />
+        </div>
+      }
     </div>
   );
 };

@@ -37,6 +37,20 @@
   visibility: visible;
 }
 
+.word__speaker-button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  width: 70vw;
+  border: 1px solid #dbdbdb;
+  border-radius: 2vw;
+}
+
+.word__speaker-button {
+  width: 5vw;
+}
+
 @media (max-width: 1200px) {
   .word__termin {
     font-size: 8vw;
@@ -54,5 +68,9 @@
 
   .word__translate {
     font-size: 8vw;
+  }
+
+  .word__speaker-button {
+    width: 20vw;
   }
 }
